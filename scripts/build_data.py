@@ -7,8 +7,6 @@ import requests
 
 API_KEY = os.getenv("MARKET_API_KEY", "").strip()
 BASE_URL = "https://finnhub.io/api/v1"
-
-# Starter tickers. Keep this small at first.
 TICKERS = ["AAPL", "MSFT", "NVDA", "TSLA", "AMZN", "META"]
 
 POSITIVE_WORDS = [
@@ -28,18 +26,19 @@ NEGATIVE_WORDS = [
 ]
 
 
-def require_api_key() -> None:
+def require_api_key():
     if not API_KEY:
         raise RuntimeError("Missing MARKET_API_KEY environment variable.")
 
 
-def get_json(url: str, params: dict) -> dict | list:
+def get_json(url, params):
     response = requests.get(url, params=params, timeout=30)
+    print(f"GET {response.url} -> {response.status_code}")
     response.raise_for_status()
     return response.json()
 
 
-def score_headline(headline: str) -> int:
+def score_headline(headline):
     text = headline.lower()
     score = 0
 
@@ -54,7 +53,7 @@ def score_headline(headline: str) -> int:
     return score
 
 
-def label_from_score(score: int) -> str:
+def label_from_score(score):
     if score >= 3:
         return "Bullish"
     if score <= -3:
@@ -62,7 +61,7 @@ def label_from_score(score: int) -> str:
     return "Mixed"
 
 
-def confidence_from_score(score: int, headline_count: int) -> str:
+def confidence_from_score(score, headline_count):
     abs_score = abs(score)
 
     if headline_count == 0:
@@ -74,7 +73,7 @@ def confidence_from_score(score: int, headline_count: int) -> str:
     return "Low"
 
 
-def build_reason(score: int, headline_count: int, price_change_percent: float | None) -> str:
+def build_reason(score, headline_count, price_change_percent):
     direction = "mixed"
     if score > 0:
         direction = "more positive"
@@ -82,29 +81,35 @@ def build_reason(score: int, headline_count: int, price_change_percent: float | 
         direction = "more negative"
 
     if price_change_percent is None:
-        return (
-            f"Based on {headline_count} recent headlines with {direction} language."
-        )
+        return f"Based on {headline_count} recent headlines with {direction} language."
 
-    price_text = f"{price_change_percent:+.2f}% today"
     return (
         f"Based on {headline_count} recent headlines with {direction} language "
-        f"and a stock move of {price_text}."
+        f"and a stock move of {price_change_percent:+.2f}% today."
     )
 
 
-def get_quote(ticker: str) -> dict:
-    return get_json(
+def get_quote(ticker):
+    data = get_json(
         f"{BASE_URL}/quote",
         {"symbol": ticker, "token": API_KEY}
     )
 
+    if not isinstance(data, dict):
+        raise RuntimeError(f"{ticker}: quote response was not an object")
 
-def get_company_news(ticker: str) -> list:
+    current_price = data.get("c")
+    if current_price in (None, 0):
+        raise RuntimeError(f"{ticker}: invalid quote data returned: {data}")
+
+    return data
+
+
+def get_company_news(ticker):
     today = datetime.now(timezone.utc).date()
     week_ago = today - timedelta(days=7)
 
-    news = get_json(
+    data = get_json(
         f"{BASE_URL}/company-news",
         {
             "symbol": ticker,
@@ -114,21 +119,20 @@ def get_company_news(ticker: str) -> list:
         }
     )
 
-    if not isinstance(news, list):
+    if not isinstance(data, list):
+        print(f"{ticker}: news response was not a list: {data}")
         return []
 
     filtered = []
     seen = set()
 
-    for item in news:
+    for item in data:
         headline = (item.get("headline") or "").strip()
         summary = (item.get("summary") or "").strip()
         url = (item.get("url") or "").strip()
         source = (item.get("source") or "").strip()
 
-        if not headline:
-            continue
-        if headline in seen:
+        if not headline or headline in seen:
             continue
 
         seen.add(headline)
@@ -145,7 +149,8 @@ def get_company_news(ticker: str) -> list:
     return filtered
 
 
-def build_stock_record(ticker: str) -> dict:
+def build_stock_record(ticker):
+    print(f"Building data for {ticker}...")
     quote = get_quote(ticker)
     news_items = get_company_news(ticker)
 
@@ -159,9 +164,6 @@ def build_stock_record(ticker: str) -> dict:
 
     headline_scores = [score_headline(item["headline"]) for item in news_items]
     total_score = sum(headline_scores)
-    sentiment = label_from_score(total_score)
-    confidence = confidence_from_score(total_score, len(news_items))
-    reason = build_reason(total_score, len(news_items), percent_change)
 
     enriched_news = []
     for item, headline_score in zip(news_items, headline_scores):
@@ -170,7 +172,7 @@ def build_stock_record(ticker: str) -> dict:
         entry["signal"] = "Bullish" if headline_score > 0 else "Bearish" if headline_score < 0 else "Neutral"
         enriched_news.append(entry)
 
-    return {
+    record = {
         "ticker": ticker,
         "price": current_price,
         "change": change,
@@ -179,16 +181,19 @@ def build_stock_record(ticker: str) -> dict:
         "low": low,
         "open": open_price,
         "previous_close": prev_close,
-        "sentiment": sentiment,
+        "sentiment": label_from_score(total_score),
         "sentiment_score": total_score,
-        "confidence": confidence,
-        "reason": reason,
+        "confidence": confidence_from_score(total_score, len(enriched_news)),
+        "reason": build_reason(total_score, len(enriched_news), percent_change),
         "news_count": len(enriched_news),
         "news": enriched_news
     }
 
+    print(f"{ticker}: success with {len(enriched_news)} headlines")
+    return record
 
-def main() -> None:
+
+def main():
     require_api_key()
 
     stocks = []
@@ -198,6 +203,7 @@ def main() -> None:
         try:
             stocks.append(build_stock_record(ticker))
         except Exception as exc:
+            print(f"{ticker}: ERROR -> {exc}")
             errors.append({"ticker": ticker, "error": str(exc)})
 
     payload = {
@@ -209,6 +215,8 @@ def main() -> None:
     os.makedirs("data", exist_ok=True)
     with open("data/market-data.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2)
+
+    print(f"Wrote data/market-data.json with {len(stocks)} stocks and {len(errors)} errors")
 
 
 if __name__ == "__main__":

@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-03-20T17:25:28.195409+00:00",
+  "updated_at": "2026-03-20T19:51:45.414094+00:00",
   "stocks": [
     {
       "ticker": "AAPL",
-      "price": 248.4,
-      "change": -0.56,
-      "percent_change": -0.2249,
-      "high": 249.06,
+      "price": 247.56,
+      "change": -1.4,
+      "percent_change": -0.5623,
+      "high": 249.1999,
       "low": 246.61,
       "open": 248.71249999999998,
       "previous_close": 248.96,
       "sentiment": "Bullish",
       "sentiment_score": 4,
       "confidence": "Moderate",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.22% today.",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.56% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Curious about the most active S&P500 stocks in today's session?",
+          "summary": "Curious about the most active S&P500 stocks in today's session? Get insights into the stocks that are leading the way in terms of trading volume and market attention.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=96687ae88728eb154291c4590460714591c495a0dc9778483543e87393f4be2c",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Google Quietly Closes Gap In AI App Race",
+          "summary": "Gemini heads to Mac as competition intensifies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=65cd2792284aa9647925e62329796d9738a5a5f6ee32251bc06d55696edfa266",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Apple Wins Initial Ruling in Watch Patent Dispute",
+          "summary": "Decision eases risk of another U.S. import ban on Apple Watch models",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f61d44b5e88c54f75f90a354d10f828dcd0e3de78527bb69945cdfc7003cdc4",
+          "score": 1,
+          "signal": "Bullish"
+        },
         {
           "headline": "The Only 3 Growth ETFs I Would Buy and Hold Through Any Market",
           "summary": "Growth investing has had a choppy start to 2026. The major growth benchmarks are down in the low single digits year-to-date, and some of the biggest names in tech have pulled back meaningfully from their late-2025 highs. For investors with a multi-year horizon, that kind of consolidation is worth understanding in the context of each ... The Only 3 Growth ETFs I Would Buy and Hold Through Any Market",
@@ -55,48 +79,48 @@
           "url": "https://finnhub.io/api/news?id=f57a768803e9e0ef21b905d9764729c8ea8dad5777ae0c1962d6e2a500972aae",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "Microsoft Stock Makes No Sense, Play The Spending Versus Revenue Gap",
-          "summary": "Microsoft Corporation delivered a strong Q2 FY26 beat, with revenue of $81.3B and non-GAAP EPS of $4.14, yet shares fell ~19%. Click for this MSFT stock update.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7e6fb3dc1b6a60e2dbb2229037acbbd9465ef8c379dacd198667e6e92f1b49ef",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Nomura Core Equity Fund: Q4 2025 Buys, Sells, And Standouts",
-          "summary": "Nomura Core Equity Fund underperformed the S&P 500 in Q4 2025 due to stock selection. Read the full analysis for more details.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=112a6d58f6d563d09834a3c05f740cc0d266eb7ffe6afd85036d5f5c460bbc03",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Forget Yield Chasing Right Now and Buy These Growth ETFs Instead",
-          "summary": "Chasing yield feels safe. A high-dividend ETF paying monthly, a covered-call fund with a flashy distribution rate. But investors who have parked capital in income-first vehicles over the past decade have quietly watched the compounding machine of the Nasdaq-100 leave them behind. Invesco QQQ Trust (NYSEARCA:QQQ) makes the case that for investors with time on ... Forget Yield Chasing Right Now and Buy These Growth ETFs Instead",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c67ea24bc56d248bbda7c9cb55cd8ebfd300c8bb9c68750fdae58e8c951a3ee5",
-          "score": 1,
-          "signal": "Bullish"
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "price": 383.54,
-      "change": -5.48,
-      "percent_change": -1.4087,
+      "price": 380.9,
+      "change": -8.12,
+      "percent_change": -2.0873,
       "high": 388.11,
-      "low": 382.26,
+      "low": 380.12,
       "open": 388.11,
       "previous_close": 389.02,
       "sentiment": "Mixed",
-      "sentiment_score": 2,
+      "sentiment_score": -1,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of -1.41% today.",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of -2.09% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Arm Holdings eyes full-chiplet CPUs, but analysts warn near-term headwinds remain",
+          "summary": "Arm Holdings PLC (NASDAQ:ARM) is expected to unveil its first in-house standalone merchant CPU at its upcoming \u201cArm Everywhere\u201d event in San Francisco, a major shift from the company\u2019s traditional IP-licensing and royalty-based business model, according to Bank of America analysts. Bank of...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d7e56b8483a5a1a2741a28958b5b6847ce56bd685170fb4576f163fe26a8c1f7",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Transform Microsoft Stock Weakness Into A $1,700 Payoff With A Butterfly Trade",
+          "summary": "Microsoft stock continues to trade below a declining 50\u2011day moving average and is showing very weak relative strength. Let's look at a setup similar to a bearish butterfly on Adobe from this past week.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=28de292a01c17eb94f9d502e5e45c51601ed15db2fc1b4e6a65ea42bbeb5d16a",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Microsoft vs. Adobe: Which Software Giant Has Better Upside Potential?",
+          "summary": "MSFT's AI-fueled Azure surge and $625B backlog boost its edge over ADBE as both push generative AI, but valuation and growth diverge sharply.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=00b6cef3685868b6cc90ee3901bddab4dd1274b0baaebb14ba70047d52c0bcd8",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "How Microsoft\u2019s (MSFT) OpenAI Partnership Is Bringing in a New Wave of Customers",
           "summary": "Ironvine Capital Partners, an investment management company, released its Q4 2025 investor letter. A copy of the letter can be downloaded here. Ironvine Capital Partners emphasized in its latest investor letter that long-term equity returns are ultimately driven by underlying earnings growth, noting that businesses held across its portfolios increased earnings between 12% and 16% [\u2026]",
@@ -136,129 +160,145 @@
           "url": "https://finnhub.io/api/news?id=569e7dbb70364df2ba4685345c5b22730363f1c80588d02494165dcf8f2f5400",
           "score": -2,
           "signal": "Bearish"
-        },
-        {
-          "headline": "Trump releases AI policy to pre-empt state rules",
-          "summary": "WASHINGTON, March 20 (Reuters) - The White House released an artificial intelligence policy on Friday that aims to pre-empt state rules, ensure protections for children and shield communities from",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce7df6fad533ca618badc7c16ac4e1c1221d5c68e699c3b77662744ba418ead6",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Fidelity\u2019s Active Large Cap Growth ETF Continues to Quietly Outpace Passive Rivals from Vanguard and iShares",
-          "summary": "Most large cap growth ETFs hand you a market-cap-weighted slice of the same mega-cap names and call it a day. Fidelity Enhanced Large Cap Growth ETF (NYSEARCA:FELG) takes a different approach: it runs a quantitative investment process that balances both risk and return, favoring companies with improving fundamentals and reasonable valuations, with the explicit goal ... Fidelity\u2019s Active Large Cap Growth ETF Continues to Quietly Outpace Passive Rivals from Vanguard and iShares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d450ef3ee76c1fd3f14b00be4b7ec961a19779888c829b5a2ae5a11c138c71b8",
-          "score": 1,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Accenture And Microsoft Deepen AI Security Ties As Enterprise Demand Shifts",
-          "summary": "Accenture (NYSE:ACN) has launched new AI driven cybersecurity capabilities in partnership with Microsoft. The company is introducing advanced agentic AI features for cybersecurity operations to help clients respond to cyber threats. Accenture also unveiled a forward deployed engineering practice designed to accelerate enterprise AI projects. For investors tracking NYSE:ACN, this announcement comes with the shares at $203.55 and a value score of 6. Recent performance has been mixed, with the...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82faee2693196e8ebf7f7ffb24665ab3568e5408f174587becba8308a70a58ee",
-          "score": 1,
-          "signal": "Bullish"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "price": 175.41,
-      "change": -3.15,
-      "percent_change": -1.7641,
+      "price": 172.97,
+      "change": -5.59,
+      "percent_change": -3.1306,
       "high": 178.37,
-      "low": 175,
+      "low": 171.72,
       "open": 178.37,
       "previous_close": 178.56,
       "sentiment": "Mixed",
-      "sentiment_score": 2,
+      "sentiment_score": 1,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of -1.76% today.",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of -3.13% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Nebius Is a High\u2011Risk Swing\u2014But Could the Payoff Justify the Volatility?",
-          "summary": "Shares of Nebius Group (NASDAQ:NBIS) have been wildly volatile since the start of October, and while the technicals paint a horrifying picture, especially if you see a double-top pattern potentially in the works, I\u2019d argue that the AI up-and-comers breakout moment may still be buying into the recent wave of weakness. Either way, it\u2019s been ... Nebius Is a High\u2011Risk Swing\u2014But Could the Payoff Justify the Volatility?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=102aa22bc77ebb9bfca5a77902f3ae93c59e4b7a3c1256b0d19e1a5e361961a3",
-          "score": -1,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "Why Six Flags Stock Popped This Week",
-          "summary": "One of Six Flags' largest shareholders believes the company should consider selling itself.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b245f1392d5bcb9c37510ae379e480b5a9245e668989947eab190be755e40b5b",
+          "headline": "Curious about the most active S&P500 stocks in today's session?",
+          "summary": "Curious about the most active S&P500 stocks in today's session? Get insights into the stocks that are leading the way in terms of trading volume and market attention.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=96687ae88728eb154291c4590460714591c495a0dc9778483543e87393f4be2c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Elizabeth Warren Says Trump Approving Nvidia's Chip Deal Will Drive Up Prices Of Smartphones And Laptops: China Wins, Rest Of Us Lose",
-          "summary": "On Wednesday, Sen. Elizabeth Warren (D-Mass.) criticized the Donald Trump selling its \"advanced\" chips to China. Warren Flags Price Risks, AI Competition Concerns Her statement came after Nvidia CEO Jensen Huang said that the chipmaker is restarting shipments of advanced processors to China. \"Trump just signed off on NVIDIA's plan to divert advanced chips to China,\" Warren wrote on X. \"That'll drive prices of laptops and smartphones even higher \u2014 and help China overtake us in AI. Big Tech and Ch",
+          "headline": "Which stocks are most active on Friday?",
+          "summary": "Curious about the most active stocks on Friday? Find out which stocks are dominating the market action!",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=176ccd179fb790052b8db5f4f06557d78366aaac5efd8ad62c491802781c764a",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Nvidia's $20B Groq Deal Draws US Antitrust Questions",
+          "summary": "Senators seek details on licensing structure, citing concerns over competition and Nvidia's AI chip dominance.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d9d59a5f774a88da50e4c18a6412d06071594f6f3f72a6aabd819320d729a351",
+          "url": "https://finnhub.io/api/news?id=212d4b401f71ed474825554a9b76621753f5edd2b2a8f30b9754a26c4f22e3e3",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Vertiv Is Quietly Powering Every AI Data Center in America, and the Stock Could Double",
+          "summary": "Vertiv is a critical supplier of power and liquid cooling solutions for artificial intelligence (AI) data centers.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2874ad1555955d5bb23fcdf383bf75500e7b86637703945ee182f6eba619a5b5",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Why Shares of Hycroft Mining Stock Sank 18% This Week",
+          "summary": "Gold and silver prices are already beginning to fall from recent highs.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a402a28d2c421656150bc04e175e4f8d81d09dc11bc3201eda9c002c1aa743cf",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Treasury yields surge, Super Micro stock plunges on chip accusations",
+          "summary": "Yahoo Finance's John Hyland tracks Thursday's top moving stocks and biggest market stories in this Market Minute. US stocks (^DJI, ^GSPC, ^IXIC) are falling for a third straight session as investors stayed in risk-off mode amid ongoing geopolitical tensions and uncertainty around the global energy outlook. In the bond market (^TYX, ^TNX, ^FVX), short-term yields rose as traders reassessed rate expectations, shifting from anticipated cuts to potential hikes. Super Micro Computer (SMCI) shares plunged after US authorities charged a co-founder with illegally diverting Nvidia-powered (NVDA) servers to China, though the company was not named in the case.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0f2c17aa72b8802e1d4821521851b4f00de34341cbd438cdbe8738ad7bd042e8",
           "score": 1,
           "signal": "Bullish"
         },
         {
-          "headline": "The Nasdaq Sinks As Super Micro AI Chip Smuggling to China Takes Center Stage | SMCI IXIC",
-          "summary": "The Nasdaq composite fell about 1% by mid-morning on Friday, March 20, 2026, dragged lower after federal prosecutors charged Super Micro Computer (NASDAQ:SMCI) co-founder with conspiring to smuggle billions of dollars in AI chips to China. The Invesco QQQ Trust (NASDAQ:QQQ), which tracks the Nasdaq-100, slid about 1% in sympathy, extending a losing streak that ... The Nasdaq Sinks As Super Micro AI Chip Smuggling to China Takes Center Stage | SMCI IXIC",
+          "headline": "Why Super Miro Computer Stock Is Plummeting Today",
+          "summary": "Supermicro shareholders just got some potentially disastrous news.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c8c2c649b0387678a88c31a53b1aa1ce58731262f2aa1fbed4c9624e3e9d584",
+          "url": "https://finnhub.io/api/news?id=042dc138cbc98b1ddcdd443ce95f16b8d68f1368a01b0cb05efdaf663a30c9f6",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "The VIX Rips 10% Higher As Oil Punches Through $100 A Barrel and Panic Enters The Arena",
-          "summary": "Brent crude surged past $108 per barrel on Friday following fresh attacks on Persian Gulf energy infrastructure, sending the CBOE Volatility Index sharply higher and fear through every major U.S. equity index. The VIX, which had been moderating earlier in the week, is now sitting in territory that signals genuine investor anxiety rather than routine ... The VIX Rips 10% Higher As Oil Punches Through $100 A Barrel and Panic Enters The Arena",
+          "headline": "Why Shares of Super Micro Computer Stock Collapsed This Week",
+          "summary": "The company is in the middle of an export scandal between the United States and China.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fce337336a844908477e9ae21179e1a08353e8eba55cd176721f9ced6c5599e6",
+          "url": "https://finnhub.io/api/news?id=1248b67e1db25409a40b1486bca377b7f5e271935d223e20e9b17f8de80616af",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "Ecolab Buying CoolIT Systems in $4.75 Billion Deal as Data Center Liquid Cooling Demand Surges",
-          "summary": "Ecolab (ECL) agreed to acquire CoolIT Systems from KKR (KKR) in a $4.75 billion deal as technology c",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=45e23d8711422b2d4357b422db700eab9061901a9f09e6ada725ccd4d80e6ea1",
-          "score": 3,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "The S&P Falls Close to 1% As Oil Blasts Past $100 A Barrel",
-          "summary": "The S&P 500 fell to 6,557.94, down 0.73% as of mid-morning Friday, with all three major indexes on pace for a fourth consecutive losing week as surging oil prices and Middle East conflict weighed on sentiment. Brent crude is trading at $108.6 a barrel after spiking as high as $119 earlier in the week, with ... The S&P Falls Close to 1% As Oil Blasts Past $100 A Barrel",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a8383c51c18130cbf54d75cbeadb7c570e97f2851c06f640503723ae7f51a215",
-          "score": -2,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "Top Midday Stories: Super Micro Places Co-Founder on Leave After Chip-Smuggling Charge; FedEx Posts Strong Earnings, Guidance",
-          "summary": "All three major US stock indexes were down in late-morning trading Friday and appear headed for anot",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=074d7901cb8a85f22898166c46038264b3d0316b348c7d8c6047bbea3c8af2a6",
-          "score": 1,
-          "signal": "Bullish"
         }
       ]
     },
     {
       "ticker": "TSLA",
-      "price": 373.62,
-      "change": -6.68,
-      "percent_change": -1.7565,
+      "price": 365.55,
+      "change": -14.75,
+      "percent_change": -3.8785,
       "high": 380.925,
-      "low": 369.9,
+      "low": 364.4601,
       "open": 380.925,
       "previous_close": 380.3,
-      "sentiment": "Bearish",
-      "sentiment_score": -3,
-      "confidence": "Moderate",
-      "reason": "Based on 8 recent headlines with more negative language and a stock move of -1.76% today.",
+      "sentiment": "Mixed",
+      "sentiment_score": -1,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of -3.88% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Curious about the most active S&P500 stocks in today's session?",
+          "summary": "Curious about the most active S&P500 stocks in today's session? Get insights into the stocks that are leading the way in terms of trading volume and market attention.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=96687ae88728eb154291c4590460714591c495a0dc9778483543e87393f4be2c",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Rivian and Nio Fall 7%: The EV Dream Is Getting Harder to Sell to Investors",
+          "summary": "Rivian Automotive (NASDAQ:RIVN) stock is down 7% in Friday trading, sliding to the $15 area despite announcing a major robotaxi partnership with Uber Technologies (NYSE:UBER). Meanwhile, Nio (NYSE:NIO) stock is sliding 7% to $5.50, falling more than six times harder than the Consumer Cyclical sector, which is off only 1.04% today. Both moves tell a ... Rivian and Nio Fall 7%: The EV Dream Is Getting Harder to Sell to Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d042170fb2da5fd4534d594b419e82da8f472974fb89564d392099a1291d0e62",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Rivian (RIVN) to start R2 Deliveries with $58,000 Launch Edition this Spring",
+          "summary": "Rivian Automotive, Inc. (NASDAQ:RIVN) is one of the 10 Best Auto Manufacturer Stocks to Buy According to Analysts. On March 12, 2026, Reuters reported that Rivian Automotive, Inc. (NASDAQ:RIVN) will begin R2 SUV deliveries this spring, with a $57,990 dual-motor Performance variant delivering 656 horsepower and approximately 330 miles of range. The corporation also anticipates [\u2026]",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=106b504278ab262f4dd0f71f99cf2322b4c81444ac06d99080549fbd2b1c355e",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Tesla expects Netherlands approval for FSD soon, paving way for EU-wide rollout",
+          "summary": "The electric vehicle maker confirmed it has completed the final vehicle testing phase with RDW and submitted all documentation required for UN R-171 approval plus Article 39 exemptions. The Dutch authority is now reviewing the comprehensive package of test results and documentation internally.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ddf224290e799c568549035dbc3cf2bb27da5498fc1ea687351ad1113e96f765",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Tesla FSD Poised To Win European Approval. But TSLA Stock Is Close To A Round Trip.",
+          "summary": "Tesla said Dutch regulators will likely approve Full Self-Driving (FSD) by April 10. But the EV giant's stock is close to round-tripping a late 2025 run.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8bc4f1954c09dc26356a39ee50c21517ea346f74846a84053b512d98dd3822d8",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "As Tesla Exits Into AI, Can China Become An Auto Export Capital?",
           "summary": "Makers of electric vehicles face a messy global market. After years of support from governments and excitement from consumers, automakers find themselves suddenly on their own. In the U.S., this has meant a retraction of effectively all federal subsidies, as well as regulatory hostility toward supply chains that are not entirely domestic. European automakers have been slammed by harsh tariffs...",
@@ -282,125 +322,85 @@
           "url": "https://finnhub.io/api/news?id=5238bf90f719236a6562f475cb13613a8988597ea18aea7fde7ea51cd384f909",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "XPeng Drops 5%: Is This Tesla Rival\u2019s Autonomous Driving Bet Enough to Justify the Risk?",
-          "summary": "XPeng (NYSE:XPEV) stock is down 5% in early trading on Friday, sliding toward $18 after closing at $19.15 the day prior. The move comes on the same morning the company reported its Q4 2025 earnings, and the reaction tells a familiar story: the numbers looked great, but what comes next has investors nervous. The drop ... XPeng Drops 5%: Is This Tesla Rival\u2019s Autonomous Driving Bet Enough to Justify the Risk?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a2e791f9581f4b70299e89538d5baccb36be25882da37ae34fcd782faba4494",
-          "score": -3,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "Tesla Talking To Chinese Suppliers For Elon Musk's Solar Project: Report",
-          "summary": "Tesla's solar project aims to produce 100 gigawatts of solar cells. Tesla stock extended weekly losses, at six-month lows.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a58c619bd0ec4203f5fd76dc5b820e0d15dd062fe06ba26b29dcf4915512ad93",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "The Uber Technologies (UBER) Implosion: Why a 70% Valuation Haircut Is Closer Than You Think",
-          "summary": "Uber Technologies (UBER) is a $156 billion company today. Yesterday, Uber announced a massive, multi-year strategic partnership with Rivian to deploy up to 50,000 fully autonomous robotaxis. Uber is committing to invest up to $1.25 billion into Rivian through 2031, starting with an initial $300 million injection. The remaining capital is tied to Rivian hitting [\u2026]",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0d86a71f4d42fc18a020b92a5d7389d1f83fb91057db41e74cd18f06d636e33a",
-          "score": -1,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "What $4 Gasoline Means for GM, Ford, and Tesla",
-          "summary": "On highways, it got 40 miles per gallon.  The bare-bones S trim came with a touch screen, remote keyless entry, and pedestrian detection, with automatic braking.  Buyers have long been ditching sedans for sport-utility vehicles, with their higher seating and choice of all-wheel drive, while manufacturers are moving away from low-margin vehicles to focus on posh models for buyers who can afford them.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eaf06eba039211133eedfec14d1f5ae7171ccc8c6184d1a1564f57d1ea21c477",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "The Only 3 Growth ETFs I Would Buy and Hold Through Any Market",
-          "summary": "Growth investing has had a choppy start to 2026. The major growth benchmarks are down in the low single digits year-to-date, and some of the biggest names in tech have pulled back meaningfully from their late-2025 highs. For investors with a multi-year horizon, that kind of consolidation is worth understanding in the context of each ... The Only 3 Growth ETFs I Would Buy and Hold Through Any Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bcd641fb1e7f601ae87c906f40d7f4c18466c4cef48bceba2f1bf335ce04f128",
-          "score": 1,
-          "signal": "Bullish"
         }
       ]
     },
     {
       "ticker": "AMZN",
-      "price": 206.61,
-      "change": -2.15,
-      "percent_change": -1.0299,
+      "price": 205.31,
+      "change": -3.45,
+      "percent_change": -1.6526,
       "high": 207.98000000000002,
-      "low": 205.15,
+      "low": 204.316,
       "open": 207.98000000000002,
       "previous_close": 208.76,
       "sentiment": "Mixed",
-      "sentiment_score": 1,
+      "sentiment_score": 0,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of -1.03% today.",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of -1.65% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "The AI IPO I\u2019m Most Excited About (And No, It\u2019s Not OpenAI, Anthropic or xAI)",
-          "summary": "The IPO drought could end with some of the historic AI IPO whales that make a big enough splash such that the S&P 500 experiences a big change. Undoubtedly, the cap-weighted index could look vastly different in three years from now after the slew of IPOs (many of which could sport valuations at or north ... The AI IPO I\u2019m Most Excited About (And No, It\u2019s Not OpenAI, Anthropic or xAI)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00d8f17eff65c27cb0791e8f4eb16b04bc8f6fd4ee9e4a74815b253f176d2afa",
+          "headline": "Curious about the most active S&P500 stocks in today's session?",
+          "summary": "Curious about the most active S&P500 stocks in today's session? Get insights into the stocks that are leading the way in terms of trading volume and market attention.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=96687ae88728eb154291c4590460714591c495a0dc9778483543e87393f4be2c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Amazon Stock Is Still Slumping. Here's What Wall Street Is Saying About AI Growth.",
-          "summary": "Amazon stock fell Friday as broader concerns about the economy and Amazon's AI spending overshadow analysts' bullishness.",
+          "headline": "Amazon plans new smartphone more than a decade after Fire Phone flop",
+          "summary": "STORY: Amazon is planning a smartphone comeback more than a decade after one of the company's most high-profile flops.\u00a0The Fire Phone was unveiled in 2014 and was overseen directly by founder Jeff Bezos. It was scrapped just over a year later.\u00a0The latest effort, known internally as \u201cTransformer,\u201d is being developed within its devices and services unit, according to four people familiar with the matter.Amazon's effort to develop a new smartphone has not been previously reported, and Reuters could not determine details like the anticipated price, the revenue Amazon hopes to generate, or the financial commitment that's been made to the project.\u00a0The phone is seen as a potential mobile personalization device that can sync with home voice assistant Alexa and connect to Amazon's services \u2013 or make ordering from partners like Grubhub easier than ever, according to the sources.They added that a key focus of the Transformer project has been integrating AI.The initiative is the newest chapter in a years-long effort to bring to market Bezos\u2019 long-held vision of a ubiquitous voice-driven computing assistant, similar to the voice-controlled computer in the TV series \u201cStar Trek.\u201dBezos had envisioned a smartphone that had shopping at its core and could take on Apple by offering shipping convenience and discounts through the Prime membership.Along the way, Amazon could gain a wealth of new data about users.The timeline for Amazon's Transformer project is unclear, and the sources cautioned it could be scrapped if the strategy shifts or due to financial concerns.An Amazon spokesperson declined to comment when contacted by Reuters.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a63d752eab0b41bb3931402f169d5f835dabb1759f20f7fe79dd29a6867e7947",
+          "url": "https://finnhub.io/api/news?id=2b9a800c69d893364ca3ed828268cc29ef3ec6bd38c9abfaa48398b6a66bbda9",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Here\u2019s Why Amazon.com (AMZN) Continues to Strengthen Its E-Commerce and Cloud Dominance",
-          "summary": "Ironvine Capital Partners, an investment management company, released its Q4 2025 investor letter. A copy of the letter can be downloaded here. Ironvine Capital Partners emphasized in its latest investor letter that long-term equity returns are ultimately driven by underlying earnings growth, noting that businesses held across its portfolios increased earnings between 12% and 16% [\u2026]",
+          "headline": "Agriculture Stock Up 53% Draws $12 Million Bet. Here's What Long-Term Investors Should Know",
+          "summary": "This agribusiness firm delivers grain, renewables, and plant nutrient solutions to commercial and industrial clients worldwide.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b7046de0ade468a34d53075f798a23f70af88f52b6b1112ff95923868df1f9b",
+          "url": "https://finnhub.io/api/news?id=126691c0f3d2001aab1c6c4c88df555bb3e7ab4ddda2827e5774eaf4bf8340f4",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Nvidia confirms 1 million GPU sale to AWS through 2027",
-          "summary": "Ian Buck, Nvidia\u2019s vice president of hyperscale and high-performance computing, told Reuters the GPU deliveries would begin this year and extend through 2027.",
+          "headline": "Nvidia Locks In Massive AWS AI Supply Deal",
+          "summary": "Over 1 million chips to power cloud expansion",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=335eedf1b2c80e0dd0db4a05d719027260da289b8c50b81c1c222d5d9647325e",
+          "url": "https://finnhub.io/api/news?id=0766a257c74e2038a4446ad05a92dcb4bf3b231b9549563cf1eded269cf0ca5e",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "The Only 3 Growth ETFs I Would Buy and Hold Through Any Market",
-          "summary": "Growth investing has had a choppy start to 2026. The major growth benchmarks are down in the low single digits year-to-date, and some of the biggest names in tech have pulled back meaningfully from their late-2025 highs. For investors with a multi-year horizon, that kind of consolidation is worth understanding in the context of each ... The Only 3 Growth ETFs I Would Buy and Hold Through Any Market",
+          "headline": "Retail giant Walmart issues economic warning",
+          "summary": "Walmart tops all retailers in the United States when it comes to sales, according to data from Capital One. The retail giant's $675.6 billion in global sales was almost twice as much as second-place Amazon, which came in at $394.1 billion in 2024 sales data. Walmart\u2019s international-only (i.e., ...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bcd641fb1e7f601ae87c906f40d7f4c18466c4cef48bceba2f1bf335ce04f128",
+          "url": "https://finnhub.io/api/news?id=08b51650201c94f8e75d94a23f14c06c442fb70cff318747ced4de19965dd8b8",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Home Improvement Stock Down 40% Gets $14 Million Trim as Growth Slowed Last Quarter",
+          "summary": "Floor & Decor supplies hard surface flooring and accessories nationwide, serving pros and consumers via a warehouse-format retail model.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b2e469246ebf8df05c900fc3e08b6ec030214835b498e4a13f0d24742ccf69c",
           "score": 1,
           "signal": "Bullish"
         },
         {
-          "headline": "Is Uber's Mega Deal With Rivian a Game-Changer in the Robotaxi Space?",
-          "summary": "UBER's $1B-plus Rivian deal to deploy 10,000 robotaxis could reshape autonomous ride-hailing as it scales partnerships and global rollout plans.",
+          "headline": "Jeff Bezos\u2019 Blue Origin enters the space data center game",
+          "summary": "\"Project Sunrise\" would include more than 50,000 satellites performing high-energy compute on orbit.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9ece4db5381892078d6eb8155154a292d9cc7850436c3a787e245cc4d8777e80",
+          "url": "https://finnhub.io/api/news?id=2f9bb42e06dd010f317666c02f0fb4da1b561505d1b86f57b036855b8ddd4511",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Trump releases AI policy to pre-empt state rules",
-          "summary": "WASHINGTON, March 20 (Reuters) - The White House released an artificial intelligence policy on Friday that aims to pre-empt state rules, ensure protections for children and shield communities from",
+          "headline": "3 Artificial Intelligence (AI) Stocks Caught in the Iran War Crossfire, and What Smart Investors Should Do in 2026",
+          "summary": "Amazon, Nvidia, and TSMC will weather these near-term challenges.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce7df6fad533ca618badc7c16ac4e1c1221d5c68e699c3b77662744ba418ead6",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave",
-          "summary": "Product selection in Instant Checkout remain limited six months after the feature debuted, and it didn't always show up to date item information.",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=a15d81f22ba253ed4f8b155c4454adb8ccaaeddcb9d4a819ff046b21294ffff6",
+          "url": "https://finnhub.io/api/news?id=9911d6309ccd173b9f88afd845093e5f1c75c103cebd8d94b4ab3f7a7b9200f4",
           "score": 0,
           "signal": "Neutral"
         }
@@ -408,19 +408,59 @@
     },
     {
       "ticker": "META",
-      "price": 594.29,
-      "change": -12.41,
-      "percent_change": -2.0455,
+      "price": 590.52,
+      "change": -16.18,
+      "percent_change": -2.6669,
       "high": 605.015,
-      "low": 591.7286,
+      "low": 587.25,
       "open": 605.015,
       "previous_close": 606.7,
       "sentiment": "Mixed",
-      "sentiment_score": -2,
+      "sentiment_score": 0,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more negative language and a stock move of -2.05% today.",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of -2.67% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Billionaire twins who sued Mark Zuckerberg face class-action suit",
+          "summary": "The world knows Mark Zuckerberg for building Facebook and turning it into one of the world's biggest technology companies, but it hadn't been a smooth ride. In 2004, ConnectU founders Divya Narendra, Cameron Winklevoss, and Tyler Winklevoss sued Facebook for allegedly copying their original ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd6a5a4a3eabd87a39b49bfacedde0590f26e1db68dfb0a18d541b629410871a",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Home Improvement Stock Down 40% Gets $14 Million Trim as Growth Slowed Last Quarter",
+          "summary": "Floor & Decor supplies hard surface flooring and accessories nationwide, serving pros and consumers via a warehouse-format retail model.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b2e469246ebf8df05c900fc3e08b6ec030214835b498e4a13f0d24742ccf69c",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Arm Holdings eyes full-chiplet CPUs, but analysts warn near-term headwinds remain",
+          "summary": "Arm Holdings PLC (NASDAQ:ARM) is expected to unveil its first in-house standalone merchant CPU at its upcoming \u201cArm Everywhere\u201d event in San Francisco, a major shift from the company\u2019s traditional IP-licensing and royalty-based business model, according to Bank of America analysts. Bank of...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d7e56b8483a5a1a2741a28958b5b6847ce56bd685170fb4576f163fe26a8c1f7",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "$2 Trillion War Over The Fate Of AI",
+          "summary": "The headlines won\u2019t stop. The most recent is that Amazon\u2019s (NASDAQ: AMZN) Jeff Bezos plans to raise $100 billion for a new AI Manufacturing Fund to buy manufacturing facilities and update their efficiency with AI. Alibaba and Tencent lost $66 billion in market capitalization in one day due to failed AI plans. OpenAI will pivot ... $2 Trillion War Over The Fate Of AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=26a42505588257d7146fc6045322b289b40f922f0fb59b36e3150745e4d35737",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Meta Reverses Plan to Drop Horizon Worlds on VR",
+          "summary": "Company shifts focus to mobile while keeping legacy VR users supported",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=28904f61fb4a9579b23dc315d3106e3789bef310bb58b5f16697c3096feb5a61",
+          "score": -1,
+          "signal": "Bearish"
+        },
         {
           "headline": "Nebius Is a High\u2011Risk Swing\u2014But Could the Payoff Justify the Volatility?",
           "summary": "Shares of Nebius Group (NASDAQ:NBIS) have been wildly volatile since the start of October, and while the technicals paint a horrifying picture, especially if you see a double-top pattern potentially in the works, I\u2019d argue that the AI up-and-comers breakout moment may still be buying into the recent wave of weakness. Either way, it\u2019s been ... Nebius Is a High\u2011Risk Swing\u2014But Could the Payoff Justify the Volatility?",
@@ -430,58 +470,18 @@
           "signal": "Bearish"
         },
         {
+          "headline": "META Taps AI to Boost Safety Features: Ad Revenues to Grow?",
+          "summary": "Meta Platforms rolls out AI support assistant to boost safety, engagement and ad growth, leveraging vast user data amid rising competition in digital ads.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=df4bb88de24db136f3412578a8bf9462292e225324800a596a8c74eb1face1d4",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
           "headline": "NVIDIA Is Unstoppable after a $68.1b Quarter, and A Moat That Won\u2019t Stop Growing,",
           "summary": "NVIDIA (NASDAQ:NVDA) is generating revenue at a pace that most companies never reach in a lifetime, and the fundamental machinery driving that growth is accelerating, not plateauing. With Q4 FY2026 revenue of $68.13 billion, up 73.2% year-over-year, this is not a company riding a wave. It is the wave. Pillar One: The Earnings Catalyst That ... NVIDIA Is Unstoppable after a $68.1b Quarter, and A Moat That Won\u2019t Stop Growing,",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=596244e39a1ce797e425c114acd916622a0cd957a852848208a21016c353b74a",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Meta Joins OCI Group As AI Links And Valuation Draw Investor Focus",
-          "summary": "Meta Platforms joined AMD, Broadcom, Microsoft, NVIDIA and OpenAI to form the Optical Compute Interconnect (OCI) MSA, an industry group focused on open optical links for AI infrastructure. The OCI MSA aims to create an open, multi vendor specification for high performance, power efficient optical interconnects used in large scale AI clusters. This move positions Meta as an active participant in setting technical standards that could influence how future AI data centers are built and...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=94ce0530adc55f94c06d2809ab4cfa8185cbd9e83b498be7ad75e955657da6a8",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "OpenAI\u2019s 2026 Scorecard: A String of Lawsuits, Losses, and Broken Promises",
-          "summary": "OpenAI entered 2026 confronting a pattern of broken commitments that had turned some of its closest allies into adversaries and cost the company $11.5 billion in 2025 last quarter. Amid the challenges it faces in 2026, co-founder Elon Musk is heading to trial on fraud charges, and Microsoft (MSFT), OpenAI\u2019s largest shareholder, is reportedly considering legal action over an alleged breach of contract. Additionally, six months of consumer backlash over model retirements has exposed the artificial",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=569e7dbb70364df2ba4685345c5b22730363f1c80588d02494165dcf8f2f5400",
-          "score": -2,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "Trump releases AI policy to pre-empt state rules",
-          "summary": "WASHINGTON, March 20 (Reuters) - The White House released an artificial intelligence policy on Friday that aims to pre-empt state rules, ensure protections for children and shield communities from",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce7df6fad533ca618badc7c16ac4e1c1221d5c68e699c3b77662744ba418ead6",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Meta Platforms, Inc. (META) Is a Trending Stock: Facts to Know Before Betting on It",
-          "summary": "Meta Platforms (META) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e42200e9623d73056eb32f7179cb9b8a784f2b92ca42d17be1264a4d695a7e25",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "The Now Agency Expands Leadership Team with the Addition of Kevin King, Michael Wurum, Lexi Mooney, and Erika Zoffler",
-          "summary": "The Now Agency, a premier social media marketing agency, top influencer marketing agency, and a leading enterprise influencer marketing agency, today announced the addition of Kevin King, Michael Wurum, Lexi Mooney, and Erika Zoffler to its leadership team.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39ea88d3a0bfcddf9f867aaa59f833bb48d086ff89324cfdd1766bdbf91c6e18",
-          "score": 1,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Steward Partners exec: Nvidia earnings staggering, but nervous investors hold stock back",
-          "summary": "A Steward Partners executive made a blunt observation this week that cuts to the heart of what\u2019s frustrating growth investors right now: \u201cNvidia is unbelievable. If you looked at their last earnings report it was staggering and I think in a different environment, that stock would have really taken off but in this climate, investors ... Steward Partners exec: Nvidia earnings staggering, but nervous investors hold stock back",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f9d41996333c338f5a194eb114db16b3c45ad572752ba5a28a59bf53d73a3353",
           "score": 0,
           "signal": "Neutral"
         }

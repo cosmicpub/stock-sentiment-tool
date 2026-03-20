@@ -1,4 +1,492 @@
 {
-  "updated_at": "",
-  "stocks": []
+  "updated_at": "2026-03-20T06:13:40.457461+00:00",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "price": 248.96,
+      "change": -0.98,
+      "percent_change": -0.3921,
+      "high": 251.83,
+      "low": 247.3,
+      "open": 249.4,
+      "previous_close": 249.94,
+      "sentiment": "Mixed",
+      "sentiment_score": -2,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of -0.39% today.",
+      "news_count": 8,
+      "news": [
+        {
+          "headline": "Prediction: This Neocloud Stock Will Outperform the \"Magnificent Seven\" in 2026",
+          "summary": "Neoclouds build their own data centers and subsequently rent access to GPU clusters to their customers.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=69c7a6041342b84aea1808fe845f29adc50f8232cf18f13b08bee77a827cb9ed",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Stocks Finish Lower as Iran War Spurs Inflation Concerns",
+          "summary": "The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.27%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.44%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.29%. March E-mini S&P futures (ESH26 ) fell -0.24%, and March E-mini Nasdaq futures...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06a18696a4d3e00ca8a0c55695d8fca1de76c466354959d50e7d0a9df9f4c785",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Family Manage LLC Initiates 15.58 Million Position in TCW Flexible Income ETF, According to Recent SEC Filing",
+          "summary": "The TCW Flexible Income ETF gives investors access to higher-yielding areas of the bond market through active positioning across credit and global sectors. Its appeal often comes from the potential to generate more income than traditional core bond funds, with results closely tied to how effectively the portfolio is positioned as market conditions evolve.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f105690fd9c8d18824160fa0e6b241b5d744418e6433667aea6f523fae61a33c",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Calydon Capital Dumps $9 Million of ZoomInfo Amid Stock's 92% Decline Since 2021",
+          "summary": "ZoomInfo Technologies offers cloud-based data and workflow tools for sales, marketing, and recruiting teams across diverse industries.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d9dbaa1391f237cf7e710719d36d616c334cd9f6c70cd079a4e13dbba50d5a27",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "These Tech Stocks Are Still a Buy for Many People Even as Iran War Pullback Intensifies",
+          "summary": "Retail investors are cherry picking which companies to buy, as they spend less money overall, according to a new J.P. Morgan report.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7acf74d3076f3c951298f09aaa6f49973711984737593b7624257e46573f4ea6",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Apple China Sales Jump 23% Despite Market Slump",
+          "summary": "Growth driven by discounts and pricing advantage amid rising chip costs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1800257ddfc41a24885c7a3a398db3a2f2b8e5d15214cbfc00456ab4ec2e9225",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Norway Fund Flags 49% Equity Risk as Oil, Tech Threats Build",
+          "summary": "Tangen outlines inflation and fragmentation scenarios while warning tech correction could erase over half of equity value.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8bf8712639cbbb504ab262b6bd1bf0f7cd875c0b6e6b4be47eb2418967629bcc",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Elon Musk Has One Word for This Apple Problem: 'Ridiculous'",
+          "summary": "Billionaire Elon Musk has long clashed with tech giant Apple Inc, most recently over its iOS app store practices. Now, Musk may be intensifying that battle with more public criticism of the company. Musk Calls Out iOS App Store Apple will celebrate its 50th anniversary next month, but its app store is relatively new, having launched in 2008 alongside the iPhone 3G. Today, it\u2019s home to millions of apps created by Apple and third-party companies. Over the years, however, Apple's App Store has been",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b63d7fd08f2e8cbb7b817e771e0a59ee52668f7858f0441fd9efc2804290bee4",
+          "score": 0,
+          "signal": "Neutral"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "price": 389.02,
+      "change": -2.77,
+      "percent_change": -0.707,
+      "high": 392.49,
+      "low": 387.06,
+      "open": 390.1,
+      "previous_close": 391.79,
+      "sentiment": "Mixed",
+      "sentiment_score": 0,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of -0.71% today.",
+      "news_count": 8,
+      "news": [
+        {
+          "headline": "How many employees does Salesforce have after 2026 layoffs?",
+          "summary": "Salesforce (CRM) is an enterprise software company and one of the world\u2019s top Customer Relationship Management (CRM) systems. The company offers a variety of services, from helping businesses centralize and organize their sales pipelines to managing customer service operations and marketing ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=44f4501626e60931aa207debaab5dce1f9c63db02298a3f76af7b797a8ef8911",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Ph fintech GCash launches country's first AI financial coach embedded in e-wallet to strengthen financial literacy",
+          "summary": "Reinforcing its role in advancing financial literacy and inclusion nationwide, finance super app GCash introduces the Philippines' first artificial intelligence\u2013powered financial coach to be embedded in an e-wallet.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2ab86b1d8c1ab43e9bcc5f6058ea716d67a1e9f99a135fba326e718ad3e853a4",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Nadella's Flip-Flop",
+          "summary": "There are perhaps few things in the current AI revolution that keeps my opinions grounded than watching Microsoft\u00e2\u0080\u0099s evolving position in the post-ChatGPT world.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8e738b7f74d616b7f780884a6b7c7c96e822cf626d3219d4fcb4032558fd2d5e",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Prediction: This Neocloud Stock Will Outperform the \"Magnificent Seven\" in 2026",
+          "summary": "Neoclouds build their own data centers and subsequently rent access to GPU clusters to their customers.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=69c7a6041342b84aea1808fe845f29adc50f8232cf18f13b08bee77a827cb9ed",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Stocks Finish Lower as Iran War Spurs Inflation Concerns",
+          "summary": "The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.27%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.44%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.29%. March E-mini S&P futures (ESH26 ) fell -0.24%, and March E-mini Nasdaq futures...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06a18696a4d3e00ca8a0c55695d8fca1de76c466354959d50e7d0a9df9f4c785",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Microsoft Stock Has Been Absolutely Slammed This Year. Is It Finally Time to Buy?",
+          "summary": "Microsoft's latest results were solid, but its soaring infrastructure costs are hard to ignore.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=080cf1103a0f343e493432dbe466bc52aff009a7ee9b4f178cc53547e4715048",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "How The Microsoft (MSFT) Investment Story Is Shifting With AI Optimism And Caution",
+          "summary": "Microsoft\u2019s fair value price target has been nudged from US$595.99 to US$594.62, a small reset that keeps the broader long term story largely intact. Analysts linking this move to AI related capital spending, growth assumptions, and recalibrated expectations describe a more balanced mix of enthusiasm and caution, with some trimming targets while maintaining constructive views. As you read on, you will see how these shifts fit into the evolving Microsoft narrative and what to watch as new...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d0c2343dcef7823ad119413364ac5c6957ce2bec80824cba4c13504699a87c6b",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Adobe Taps NVIDIA for AI: Can a Rich Partner Base Aid ADBE Stock?",
+          "summary": "Adobe partners with NVIDIA to supercharge Firefly and AI workflows and targets stronger enterprise growth despite intense competition from tech giants.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7754d80af7c93b8217d7a567676133fad5cfe5e85a6928732e1aa391854a6f0",
+          "score": 0,
+          "signal": "Neutral"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "price": 178.56,
+      "change": -1.84,
+      "percent_change": -1.02,
+      "high": 179.98,
+      "low": 175.785,
+      "open": 178.01,
+      "previous_close": 180.4,
+      "sentiment": "Mixed",
+      "sentiment_score": 2,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of -1.02% today.",
+      "news_count": 8,
+      "news": [
+        {
+          "headline": "Super Micro Co-Founder Charged in China AI Tech Case",
+          "summary": "US prosecutors charged Yih-Shyan \u201cWally\u201d Liaw in a scheme to send high-performance computer servers assembled in the US with sophisticated AI capabilities to China in violation of US export controls.  Liaw and others at the company allegedly sold the AI tech through a Southeast Asia company knowing it would be sent on to China.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=aecbf7252b439dea0a366aaa365bd8bf1fe248e61fbf390efb2373cf3b62d0cc",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Could Investing $10,000 in VONG Make You a Millionaire?",
+          "summary": "This growth stock ETF has a strong track record of outperforming the S&P 500 -- but can it grow fast enough to make you a millionaire?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=185aac54ad7012f120ac07bb5a93cdcae9484a27f757ffb1afd1b753de75221c",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Nvidia Deepens Grip on Cloud AI With Major AWS Chip Deal",
+          "summary": "The deal would help scale capacity as AWS builds its own chips, revealing deeper reliance on Nvidia\u2019s stack as usage keeps growing.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2b4f85467304f5ceb0fb159dab2f6cef17efbf80712df4468ced4d1df8fe9222",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "BMO Capital Lowers IBM Target but Highlights Stable Business Mix",
+          "summary": "International Business Machines Corporation (NYSE:IBM) is included among the 15 Dividend Stocks to Buy for Steady Income. On March 19, BMO Capital lowered its price recommendation on International Business Machines Corporation (NYSE:IBM) to $290 from $350. It reiterated a Market Perform rating on the shares. The firm said it does not see enough upside to [\u2026]",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e3d8f91c49edab4fd262ffa6b51695c779d516c8c98416e65d2d4875da49982",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Micron Has Soared in 2026 as Its Profit Skyrockets: Is It Too Late to Buy?",
+          "summary": "The memory chipmaker's latest quarterly results were spectacular, but its heavy investments in future capacity add a layer of risk for investors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1f11627938d6e816e47cc92941a2d3b353eb3d1714399944abcac2d56fe4125f",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "This Nuclear Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream",
+          "summary": "Nuclear energy is experiencing a global renaissance, but it's a long-term investment, which makes it perfect for a dividend play like NextEra Energy.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0399ea97326dd7f7e27f92046149c52300089d4576398ca6d719225cbb23de8e",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Why Poet Technologies Stock Was Sliding This Week",
+          "summary": "Lately, tech stock investors have been favoring companies with strong revenue streams.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=057bcc88ab624be4ce7838e6b51ad6ceb6154083136bdd851277ef116daf2717",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Uber Rivian Robotaxi Deal Reshapes Growth Story And Valuation Gap",
+          "summary": "Uber Technologies (NYSE:UBER) announces a multi year partnership with Rivian worth up to $1.25b. Deal covers deployment of up to 50,000 fully autonomous Rivian R2 robotaxis across 25 global cities. Partnership runs through 2031, with vehicles committed for exclusive use on Uber's platform. Agreement sits alongside Uber's existing work with NVIDIA, Motional, and Wayve on autonomous mobility. Uber enters this Rivian deal with its shares at $75.34 and a mixed return profile, including a 141.6%...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7cbe53a6551aa385fb84c45423a5aedc7ace537723b73285fd817ff83d213fc8",
+          "score": 1,
+          "signal": "Bullish"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "price": 380.3,
+      "change": -12.48,
+      "percent_change": -3.1774,
+      "high": 387.27,
+      "low": 378.73,
+      "open": 387.27,
+      "previous_close": 392.78,
+      "sentiment": "Mixed",
+      "sentiment_score": 1,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of -3.18% today.",
+      "news_count": 8,
+      "news": [
+        {
+          "headline": "Tesla AI6 Chip Push With Samsung Meets Rising Autonomy Safety Scrutiny",
+          "summary": "Tesla is developing a next generation AI6 chip for its autonomous driving and robotics platforms, targeting rollout around 2027 to 2028. The AI6 chip is set to be manufactured in partnership with Samsung at a leading edge semiconductor facility. U.S. regulators have escalated their probe into potential safety defects in Tesla's Full Self Driving system after multiple crash incidents. Tesla, NasdaqGS:TSLA, is pushing deeper into artificial intelligence with the planned AI6 chip while trading...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=872c376b877f6ce0e6029872da2b8990259160c8f80e9caeac467da90f6de6bd",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Exclusive-Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say",
+          "summary": "Tesla is looking to buy equipment worth $2.9 billion for manufacturing solar panels and cells from Chinese suppliers including Suzhou Maxwell Technologies, two people familiar with the matter said, as CEO Elon Musk aims to add 100 gigawatts of solar capacity in the United States.  Musk said in January that solar power could meet \u200call of the electricity needs of the United States - including the ever-increasing demand from a growing number of data centres.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4e2178c060f9aa7cc0de389b81bc6f3241b900b728c36bb903f8a80520da1cee",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Dow Jones Futures Rise; Stocks Slash Losses, Oil Prices Fall Amid Trump Iran War Comments",
+          "summary": "Stocks came off 2026 lows and oil prices reversed lower amid Iran war comments from President Trump and Israeli PM Netanyahu. Tesla stock broke key levels.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=21aa2eefc602804040d988a6593978b3559fa9290ba31a1bb06f0970254ce526",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "This Transportation Stock May Outperform the S&P 500 in 2026",
+          "summary": "Tesla has had a worse 2026 than the S&P 500, but its decline is more likely a bump in the road than a crash.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=76883556d67008f5fa1aba5c2e5670eafa94a76305b48f4f75221e8a502c2abf",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Tesla Finally Has Its First Semi-Truck and It\u2019s Already a Hit With Truckers",
+          "summary": "Innovations including a centered driving position, fast charging and a 500-mile range are winning over drivers.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f9beeea8ab6035ddebc6558b5ed32bddcbb298de011d2ca0dbcb0f3161ca4142",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Prediction: This Neocloud Stock Will Outperform the \"Magnificent Seven\" in 2026",
+          "summary": "Neoclouds build their own data centers and subsequently rent access to GPU clusters to their customers.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=69c7a6041342b84aea1808fe845f29adc50f8232cf18f13b08bee77a827cb9ed",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Podcast: Stocks Try to Recover But Close Lower",
+          "summary": "US stocks finished lower today after trimming earlier losses: The Dow closed down 0.4%, while the S&P 500 and the Nasdaq both lost 0.3%. Plus: Tesla shares fall after U.S. regulars expand a probe into the company\u2019s automated driving-assistance system.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6fe1644764152f5d4309b8a4fcf04d57d62f8b864abdc27efe065f3441ca4739",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Stock Market Today, March 19: Rivian Jumps After Partnering With Uber on $1.25 Billion Robotaxi Investment Plan",
+          "summary": "Rivian\u2019s place in Uber\u2019s long\u2011term robotaxi rollout puts scale, autonomy, and future margins in sharp focus, today, March 19, 2026.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9152ca62af837a44def915448022d19134764bb2a6531afa55895c17d41e980",
+          "score": 0,
+          "signal": "Neutral"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "price": 208.76,
+      "change": -1.11,
+      "percent_change": -0.5289,
+      "high": 209.12,
+      "low": 206.05,
+      "open": 207.06,
+      "previous_close": 209.87,
+      "sentiment": "Mixed",
+      "sentiment_score": 1,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.53% today.",
+      "news_count": 8,
+      "news": [
+        {
+          "headline": "LetPot Achieves Amazon Best Seller Status Across Multiple Markets in 2025 Holiday Season",
+          "summary": "Smart indoor garden brand-LetPot achieves #1 rankings in Europe, UK, Australia, and Canada Amazon, secures top-three position in competitive U.S. market LetPot Indoor Garden LetPot Best Seller Lineup HONG KONG, March 20, 2026 (GLOBE NEWSWIRE) -- LetPot, a leading innovator in smart indoor gardening solutions, today announced exceptional performance during the 2025 holiday shopping season, securing Amazon Best Seller status in the category. The company achieved #1 rankings in Amazon's European, U",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1306a856bc29802c499f668ae7ac157c996bd8486fbeb0c0ca8c83e7632c8902",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "AI Startup Yotta Seeks $4 Billion Valuation Ahead of Planned IPO",
+          "summary": "Yotta has positioned itself as a domestic alternative to Western technology giants, as Prime Minister Narendra Modi advocates for his country to become an AI power that can compete with the US and China.  Amazon.com Inc. and Alphabet Inc. have said they will each pour more than $100 billion into capital expenditures this year, including AI infrastructure in India.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cb540dea8bad806af65df77a16497353c0792c6649c36c381d3a3f4291ff087f",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Prediction: This Neocloud Stock Will Outperform the \"Magnificent Seven\" in 2026",
+          "summary": "Neoclouds build their own data centers and subsequently rent access to GPU clusters to their customers.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=69c7a6041342b84aea1808fe845f29adc50f8232cf18f13b08bee77a827cb9ed",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+          "summary": "Amazon and Jeff Bezos had previously invested in the startup.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=392687b006e2d21f2c2dc60543ea70756e8fda4c6edbf59d66dfb8c979f158a7",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Gender Equality Remains ESG\u2019s Obvious Yet Elusive Goal",
+          "summary": "A new World Benchmarking Alliance report suggests that many public-facing policies remain largely untethered to operational reality.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cb35a28a1eda1a9fd7626febaa15bc0351ca4ad4a0cc58c1c4f7ff3c4c6f21f1",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Nvidia to sell 1 million chips to Amazon by end of 2027 in cloud deal",
+          "summary": "Nvidia will sell 1 million of its graphics processing unit chips, along with a host of \u200cthe AI giant's other offerings, to Amazon.com's cloud computing unit by 2027, \u200ca Nvidia executive told Reuters on Thursday.  Nvidia and Amazon Web Services said this week that AWS had \u200breached a deal to buy its 1 million GPUs but had not disclosed the precise timing of the deal.  Ian Buck, vice president of hyperscale and high-performance computing at Nvidia, told Reuters on Thursday that the sales would start this year and \u200cextend through 2027.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=45e4b98a5619476aa2ec4fb4e4905a26968516a73d54ca05564b22a58ca297ca",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Jeff Bezos Readies $100B Fund to Automate Manufacturing Companies: WSJ",
+          "summary": "Bezos is wooing Middle Eastern royalty and Asian financial giants to invest in his automated empire.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=43b3c9b4d59cc57912c1d79ba564f1f7645e362f35c41c2695d799ccb48ad423",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "A $600 Billion Reason to Buy Amazon Stock Now",
+          "summary": "Amazon CEO Andy Jassy says AWS could hit $600 billion in annual revenue. Here's why that bold AI-driven prediction makes Amazon stock worth buying now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=08b6f54cc1de68ad04995494d28c4fb351864cff5aca563194c864540d903f1d",
+          "score": 0,
+          "signal": "Neutral"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "price": 606.7,
+      "change": -8.98,
+      "percent_change": -1.4585,
+      "high": 613,
+      "low": 602.26,
+      "open": 612.15,
+      "previous_close": 615.68,
+      "sentiment": "Bearish",
+      "sentiment_score": -3,
+      "confidence": "Moderate",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of -1.46% today.",
+      "news_count": 8,
+      "news": [
+        {
+          "headline": "Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat",
+          "summary": "Alibaba\u2019s US shares fell their most since October, following Tencent\u2019s worst drubbing in almost a year on Thursday.  Investors that had piled into the sector\u2019s biggest names over the past week \u2014 betting the advent of OpenClaw-style AI agents would galvanize the industry \u2014 reversed course after disappointing results, with no clear path to monetization in sight.  While those outlays remain a fraction of the $650 billion that US hyperscalers like Meta Platforms Inc. and Amazon.com Inc. are spending this year alone, the rising budgets coincide with a Chinese consumer downturn that\u2019s compressing margins.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a7cbfa63fbb930b4eacfc82473c01b4dbf8ea667ea547ed3e41033cd7ceb424",
+          "score": -2,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Nebius Bond Raise And Mega AI Deals Reframe Valuation And Risk Profile",
+          "summary": "Nebius Group (NasdaqGS:NBIS) closed an upsized US$4b convertible bond offering, increased from US$3.75b, to fund AI data center expansion. The raise follows a US$27b, five year AI infrastructure agreement with Meta Platforms focused on large scale compute capacity. Nebius deepened its relationship with NVIDIA and launched an Enterprise Readiness Initiative to support AI native solutions for startups and enterprises. The company also announced a global cybersecurity alliance with CrowdStrike,...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d52041eca4de07a5aef0f2fb7e104287ef787771282b94ef632e2ed4fdde1f71",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Review & Preview: Fog of War",
+          "summary": "Oil surged to nearly $120 a barrel on Thursday, weighing on stocks. Plus, lessons from the metaverse.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=95d6266d9b402f85a3d4a28b2aa6570d9c976a2cd2483cf3c7e5788d7a0244b5",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Prediction: This Neocloud Stock Will Outperform the \"Magnificent Seven\" in 2026",
+          "summary": "Neoclouds build their own data centers and subsequently rent access to GPU clusters to their customers.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=69c7a6041342b84aea1808fe845f29adc50f8232cf18f13b08bee77a827cb9ed",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "How The AI Accelerator Narrative Is Reframing The Advanced Micro Devices (AMD) Investment Story",
+          "summary": "The modelled fair value estimate for Advanced Micro Devices has been revised from US$283.57 to US$289.61, a modest adjustment that reflects updated assumptions in the latest research. This change comes as analysts reassess AMD after expanded GPU agreements with Meta and OpenAI and new partnerships across data center, AI, and edge workloads. As you read on, you will see how to interpret these shifting assumptions and follow the evolving narrative around AMD. Stay updated as the Fair Value for...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6dd14eefb5a558844ad3e435986a07e3dff80eb5a5df7a6eebaec15c58972021",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Stocks Finish Lower as Iran War Spurs Inflation Concerns",
+          "summary": "The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.27%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.44%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.29%. March E-mini S&P futures (ESH26 ) fell -0.24%, and March E-mini Nasdaq futures...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06a18696a4d3e00ca8a0c55695d8fca1de76c466354959d50e7d0a9df9f4c785",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Anthony Scaramucci Backs Michael Saylor's Preferred Stock Bet: 'This Is His iPhone Moment...Has Set The Clock On Global Adoption'",
+          "summary": "Anthony Scaramucci, the founder and managing partner of SkyBridge Capital, labeled Strategy Inc.\u2018s preferred stock issuance an \u201ciPhone moment\u201d that would trigger widespread Bitcoin adoption. Setting The \u2018Clock On Global Adoption\u2019 In an X post, Scaramucci said that Strategy\u2019s high-yield...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=947cada53deb60ad1552ae32a765d251228e68e2d39e3f1cda72635673f69cdc",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "213-year-old bank cuts Gemini stock target 60% ahead of earnings",
+          "summary": "Early this week, Citigroup (NYSE: C) lowered its 12-month price targets for both Bitcoin (BTC) and Ethereum (ETH) due to the delay in the legislative process regarding crypto assets in the United States. Next, the 213-year-old Wall Street banking giant lowered the price targets ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dde7abc40036a9de96cb83da1d9e81673f7c0bcf2a5b2ac6afbe7201068473a1",
+          "score": -2,
+          "signal": "Bearish"
+        }
+      ]
+    }
+  ],
+  "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T08:00:57.050216+00:00",
+  "updated_at": "2026-03-20T10:07:21.921752+00:00",
   "stocks": [
     {
       "ticker": "AAPL",
@@ -11,11 +11,27 @@
       "open": 249.4,
       "previous_close": 249.94,
       "sentiment": "Mixed",
-      "sentiment_score": -2,
+      "sentiment_score": -1,
       "confidence": "Low",
       "reason": "Based on 8 recent headlines with more negative language and a stock move of -0.39% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Tim Cook To Exit As Apple CEO Before 2027? Here's What Prediction Market Is Saying",
+          "summary": "Apple Inc.'s Tim Cook on Tuesday dismissed rumours about his retirement and reaffirmed that he will continue to lead the company. This comes amid rumours that Cook is planning on stepping down in 2026. Tim Cook Dismisses Retirement Talk Cook spoke against speculation about his retirement during a \"Good Morning America\" appearance. He added that he enjoys leading the Cupertino tech giant and cannot see himself stepping away. Cook took over from Steve Jobs in August 2011, making him the longest-se",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7b2bd9692b7f21f839b12777c02ba93d2a12f42040bffd6af70da46bf028765e",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Is Apple Stock Your Ticket to Becoming a Millionaire?",
+          "summary": "The dominant consumer brand's share price is up 10,590% in the past 20 years.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a8021fb0dfd88c885fe1bc2f47ecc8f8499a433675e4ea48e1eb1dc68b1c3fec",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Prediction: This Neocloud Stock Will Outperform the \"Magnificent Seven\" in 2026",
           "summary": "Neoclouds build their own data centers and subsequently rent access to GPU clusters to their customers.",
@@ -63,22 +79,6 @@
           "url": "https://finnhub.io/api/news?id=1800257ddfc41a24885c7a3a398db3a2f2b8e5d15214cbfc00456ab4ec2e9225",
           "score": -1,
           "signal": "Bearish"
-        },
-        {
-          "headline": "Norway Fund Flags 49% Equity Risk as Oil, Tech Threats Build",
-          "summary": "Tangen outlines inflation and fragmentation scenarios while warning tech correction could erase over half of equity value.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8bf8712639cbbb504ab262b6bd1bf0f7cd875c0b6e6b4be47eb2418967629bcc",
-          "score": -1,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "Elon Musk Has One Word for This Apple Problem: 'Ridiculous'",
-          "summary": "Billionaire Elon Musk has long clashed with tech giant Apple Inc, most recently over its iOS app store practices. Now, Musk may be intensifying that battle with more public criticism of the company. Musk Calls Out iOS App Store Apple will celebrate its 50th anniversary next month, but its app store is relatively new, having launched in 2008 alongside the iPhone 3G. Today, it\u2019s home to millions of apps created by Apple and third-party companies. Over the years, however, Apple's App Store has been",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b63d7fd08f2e8cbb7b817e771e0a59ee52668f7858f0441fd9efc2804290bee4",
-          "score": 0,
-          "signal": "Neutral"
         }
       ]
     },
@@ -97,6 +97,22 @@
       "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.71% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Market Chatter: Microsoft-Backed OpenAI Plans to Combine Desktop Applications",
+          "summary": "Microsoft-backed (MSFT) OpenAI is preparing to combine its ChatGPT interface, Codex program, and its",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=22be4a17b77e34f4069fc46419596e0f2640d53e49fb126064b0fb99b420f7b3",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "My Top 3 Megacap Stocks to Buy After Microsoft's Latest Pullback",
+          "summary": "These companies' size gives them an unfair advantage over would-be competitors. Here's your chance to plug into this advantage at a discount.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f96e5e90fb1b761fb29cbb15b08cf3d24f5d13eec8218fc337b92bbc4de49db",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Microsoft AI Security And Fabric Partnerships Tested Against Valuation Discount",
           "summary": "Accenture and Microsoft are expanding their cybersecurity partnership with new AI driven threat detection and response capabilities across Microsoft security platforms. Microsoft Fabric IQ is adding native Lumel enterprise planning to support finance and operations teams on Microsoft\u2019s data and AI stack. Deeper integration with UiPath connects Microsoft Defender and Sentinel to automated workflows that streamline threat detection and response for enterprise clients. For investors tracking...",
@@ -144,22 +160,6 @@
           "url": "https://finnhub.io/api/news?id=69c7a6041342b84aea1808fe845f29adc50f8232cf18f13b08bee77a827cb9ed",
           "score": 1,
           "signal": "Bullish"
-        },
-        {
-          "headline": "Stocks Finish Lower as Iran War Spurs Inflation Concerns",
-          "summary": "The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.27%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.44%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.29%. March E-mini S&P futures (ESH26 ) fell -0.24%, and March E-mini Nasdaq futures...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=06a18696a4d3e00ca8a0c55695d8fca1de76c466354959d50e7d0a9df9f4c785",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Microsoft Stock Has Been Absolutely Slammed This Year. Is It Finally Time to Buy?",
-          "summary": "Microsoft's latest results were solid, but its soaring infrastructure costs are hard to ignore.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=080cf1103a0f343e493432dbe466bc52aff009a7ee9b4f178cc53547e4715048",
-          "score": 0,
-          "signal": "Neutral"
         }
       ]
     },
@@ -173,72 +173,72 @@
       "open": 178.01,
       "previous_close": 180.4,
       "sentiment": "Mixed",
-      "sentiment_score": 0,
+      "sentiment_score": 1,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with mixed language and a stock move of -1.02% today.",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of -1.02% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Tesla's New Robotic Rival Has a Strangely Familiar Face",
-          "summary": "Tesla investors knew they'd be seeing some new competitors -- but many didn't expect this one.",
+          "headline": "This $58 Billion Merger Is Creating the Most Unstoppable Oil and Gas Stock in America",
+          "summary": "Devon's tie-up with Coterra isn't just getting bigger--it's reshaping the company's cash-flow potential at a time when crude prices have swung back in its favor. The deal thesis hinges on scale, cost savings, and a shareholder-return plan that could look very different once the merger closes.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8947849b4c86763f82713efc30aa93f213483e2350c36e46a0170123de3bf63",
+          "url": "https://finnhub.io/api/news?id=cea3fa9963ba7163f11f23525b8cd3dd9e6dcd8340a2b5f0d3644ea4c1225ca7",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Better Stock to Buy Right Now: Nike vs. Lululemon",
-          "summary": "These industry-leading companies desperately want to win back the enthusiasm of investors.",
+          "headline": "Nvidia CEO: $10 trillion company valuation absolutely possible",
+          "summary": "Nvidia (NASDAQ:NVDA) could become the first $10 trillion company, the CEO gave about as clean an answer as you\u2019ll hear from a Fortune 500 executive. \u201cAbsolutely. Absolutely possible. And that\u2019s our hope. And I think we\u2019re on our way there. The market will take care of itself. Our growth is accelerating. Our customer base is ... Nvidia CEO: $10 trillion company valuation absolutely possible",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b446020e6ead4107b10bd990ae0c56ae6b8461378baee0f0af6f0eeb93a84b62",
+          "url": "https://finnhub.io/api/news?id=75e16836602067e5eda709c6d41bb0872ec3206038d58d414f7d847ad6e1a5eb",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Prediction: This Will Be Amazon's Stock Price in 5 Years",
-          "summary": "The cloud and artificial intelligence specialist has a long runway for growth ahead.",
+          "headline": "Lennar Corp Saw Profits Fall in Its Latest Quarter. Is It Time To Buy the Dip on This Leading Homebuilder?",
+          "summary": "The long-term outlook for housing hasn't changed.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33dd4097aed9f78ec60bd1ffd4d9b4cf09552aa944eb65a49571899426a7e440",
+          "url": "https://finnhub.io/api/news?id=afe64e33415c80661a2592617046789dbd1235eb93227b2e76fc6ce8bd70f917",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Oil Prices Are Skyrocketing -- and 40 Years of History Point to a Huge Move in Stocks Over the Next 12 Months",
+          "summary": "Oil price shocks have been a surprising buy signal for investors since 1986.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7068a8679185001788f331eb2d429675d51052a3cb44d0ab8b8410443d2fd898",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "What if ASML Becomes the Next Trillion-Dollar Stock?",
-          "summary": "Nvidia and Broadcom just delivered great news for ASML investors.",
+          "headline": "Up 44% in 7 Days, Is This Cryptocurrency for AI a Buy With $500?",
+          "summary": "This project is one of many in its segment, but for now, it's a leader.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=441702c72bc09f0ad5071b562392ca0329987b5256a1b41ef80ffbfb8740cd76",
+          "url": "https://finnhub.io/api/news?id=a0d3430f2f0d84327d3ef16e94baea9052589205b310ecac4caf17b0f8245908",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Should You Buy Lockheed Martin Stock Right Now?",
-          "summary": "Lockheed Martin's got the world's most popular fighter jet -- and a stock price that's starting to look attractive.",
+          "headline": "Massive News: Oracle's $553 Billion Backlog Could Make It the Most Important AI Stock of 2026, But Is It Too Late to Buy?",
+          "summary": "Oracle stock popped following its latest quarterly report, driven by its better-than-expected results and improved guidance.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2c0d8cfc6606e6fdeaf4ba9d47982ca66b44c660627a2888a76da4c88bf355ca",
+          "url": "https://finnhub.io/api/news?id=85b459ec966409ba7fe35ee0bb8448afc6cc102d859e4366a1d568cffafa2c4b",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "1 Dividend ETF That Could Turn $500 Monthly Into a $725,000 Portfolio That Pays $21,750 Annually",
-          "summary": "Patience can pay off with this high-yield dividend ETF.",
+          "headline": "Coherent\u2019s OFC 2026 AI Optics And Nvidia Deal Spark Valuation Debate",
+          "summary": "Coherent (NYSE:COHR) presented new optical networking and AI datacenter products at OFC 2026, including advanced co-packaged optics. The company introduced optical components aimed at AI scale datacenter connectivity across Indium Phosphide, Silicon Photonics, and VCSEL platforms. Coherent announced a multiyear supply agreement and large investment partnership with Nvidia focused on AI infrastructure. For investors watching AI infrastructure, Coherent enters OFC 2026 with strong momentum...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c851dd989817a365b3455bada2f6dcc23ea34312c61feac5b8085bbe9848936",
+          "url": "https://finnhub.io/api/news?id=6521209d6aaefb8381c4ed0dacdd0b4a8f47c3d4d09b815dc029703578a8c006",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Super Micro Co-Founder Charged in China AI Tech Case",
-          "summary": "US prosecutors charged Yih-Shyan \u201cWally\u201d Liaw in a scheme to send high-performance computer servers assembled in the US with sophisticated AI capabilities to China in violation of US export controls.  Liaw and others at the company allegedly sold the AI tech through a Southeast Asia company knowing it would be sent on to China.",
+          "headline": "I Predicted the 50% Plunge in Robinhood Stock. Here's What I Think Will Happen Next",
+          "summary": "Robinhood's business is showing cracks, which is causing investors to rethink the company's sky-high valuation.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aecbf7252b439dea0a366aaa365bd8bf1fe248e61fbf390efb2373cf3b62d0cc",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Could Investing $10,000 in VONG Make You a Millionaire?",
-          "summary": "This growth stock ETF has a strong track record of outperforming the S&P 500 -- but can it grow fast enough to make you a millionaire?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=185aac54ad7012f120ac07bb5a93cdcae9484a27f757ffb1afd1b753de75221c",
+          "url": "https://finnhub.io/api/news?id=8b6953b46b021a10074b1d61e6be0388bdd5647cef45a6011680b8df507ae179",
           "score": 0,
           "signal": "Neutral"
         }
@@ -335,11 +335,35 @@
       "open": 207.06,
       "previous_close": 209.87,
       "sentiment": "Mixed",
-      "sentiment_score": 1,
+      "sentiment_score": -1,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.53% today.",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of -0.53% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Flipkart group CFO quits as Walmart\u2011owned firm gears up for India IPO",
+          "summary": "March 20 (Reuters) - Walmart-owned Indian e-commerce firm Flipkart said on Friday its group finance chief, Sriram Venkataraman, will step down, with the CFO of its marketplace unit taking over a",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ba4ab2b941c7e3632c1a4924a6ad8c75df6088ae7ace8e36b9ce1bd723510a1",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Amazon Pay expands vehicle insurance offerings in India",
+          "summary": "The coverage includes approximately 250 million two-wheeler users and 30 million car owners.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7d4ae9564830728ee7d02c3684fc92a42c9a5b2d24939b546f95429570306a15",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "What Are the Best AI Stocks to Buy While Big Tech Is Spending $690 Billion on Infrastructure?",
+          "summary": "The AI spending trend may continue for several years.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=916c885c8a6fe00f58d7e3a590adbbcb2e65bf4024cfa72aa2b14c3f63f2d22d",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Prediction: This Will Be Amazon's Stock Price in 5 Years",
           "summary": "The cloud and artificial intelligence specialist has a long runway for growth ahead.",
@@ -347,6 +371,14 @@
           "url": "https://finnhub.io/api/news?id=33dd4097aed9f78ec60bd1ffd4d9b4cf09552aa944eb65a49571899426a7e440",
           "score": 0,
           "signal": "Neutral"
+        },
+        {
+          "headline": "Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat",
+          "summary": "Alibaba\u2019s US shares fell their most since October, following Tencent\u2019s worst drubbing in almost a year on Thursday.  Investors that had piled into the sector\u2019s biggest names over the past week \u2014 betting the advent of OpenClaw-style AI agents would galvanize the industry \u2014 reversed course after disappointing results, with no clear path to monetization in sight.  While those outlays remain a fraction of the $650 billion that US hyperscalers like Meta Platforms Inc. and Amazon.com Inc. are spending this year alone, the rising budgets coincide with a Chinese consumer downturn that\u2019s compressing margins.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a7cbfa63fbb930b4eacfc82473c01b4dbf8ea667ea547ed3e41033cd7ceb424",
+          "score": -2,
+          "signal": "Bearish"
         },
         {
           "headline": "What if ASML Becomes the Next Trillion-Dollar Stock?",
@@ -371,38 +403,6 @@
           "url": "https://finnhub.io/api/news?id=cb540dea8bad806af65df77a16497353c0792c6649c36c381d3a3f4291ff087f",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "Prediction: This Neocloud Stock Will Outperform the \"Magnificent Seven\" in 2026",
-          "summary": "Neoclouds build their own data centers and subsequently rent access to GPU clusters to their customers.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69c7a6041342b84aea1808fe845f29adc50f8232cf18f13b08bee77a827cb9ed",
-          "score": 1,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
-          "summary": "Amazon and Jeff Bezos had previously invested in the startup.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=392687b006e2d21f2c2dc60543ea70756e8fda4c6edbf59d66dfb8c979f158a7",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Gender Equality Remains ESG\u2019s Obvious Yet Elusive Goal",
-          "summary": "A new World Benchmarking Alliance report suggests that many public-facing policies remain largely untethered to operational reality.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb35a28a1eda1a9fd7626febaa15bc0351ca4ad4a0cc58c1c4f7ff3c4c6f21f1",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Nvidia to sell 1 million chips to Amazon by end of 2027 in cloud deal",
-          "summary": "Nvidia will sell 1 million of its graphics processing unit chips, along with a host of \u200cthe AI giant's other offerings, to Amazon.com's cloud computing unit by 2027, \u200ca Nvidia executive told Reuters on Thursday.  Nvidia and Amazon Web Services said this week that AWS had \u200breached a deal to buy its 1 million GPUs but had not disclosed the precise timing of the deal.  Ian Buck, vice president of hyperscale and high-performance computing at Nvidia, told Reuters on Thursday that the sales would start this year and \u200cextend through 2027.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=45e4b98a5619476aa2ec4fb4e4905a26968516a73d54ca05564b22a58ca297ca",
-          "score": 0,
-          "signal": "Neutral"
         }
       ]
     },
@@ -415,12 +415,20 @@
       "low": 602.26,
       "open": 612.15,
       "previous_close": 615.68,
-      "sentiment": "Bearish",
-      "sentiment_score": -3,
-      "confidence": "Moderate",
+      "sentiment": "Mixed",
+      "sentiment_score": -1,
+      "confidence": "Low",
       "reason": "Based on 8 recent headlines with more negative language and a stock move of -1.46% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "What Are the Best AI Stocks to Buy While Big Tech Is Spending $690 Billion on Infrastructure?",
+          "summary": "The AI spending trend may continue for several years.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=916c885c8a6fe00f58d7e3a590adbbcb2e65bf4024cfa72aa2b14c3f63f2d22d",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat",
           "summary": "Alibaba\u2019s US shares fell their most since October, following Tencent\u2019s worst drubbing in almost a year on Thursday.  Investors that had piled into the sector\u2019s biggest names over the past week \u2014 betting the advent of OpenClaw-style AI agents would galvanize the industry \u2014 reversed course after disappointing results, with no clear path to monetization in sight.  While those outlays remain a fraction of the $650 billion that US hyperscalers like Meta Platforms Inc. and Amazon.com Inc. are spending this year alone, the rising budgets coincide with a Chinese consumer downturn that\u2019s compressing margins.",
@@ -476,14 +484,6 @@
           "url": "https://finnhub.io/api/news?id=947cada53deb60ad1552ae32a765d251228e68e2d39e3f1cda72635673f69cdc",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "213-year-old bank cuts Gemini stock target 60% ahead of earnings",
-          "summary": "Early this week, Citigroup (NYSE: C) lowered its 12-month price targets for both Bitcoin (BTC) and Ethereum (ETH) due to the delay in the legislative process regarding crypto assets in the United States. Next, the 213-year-old Wall Street banking giant lowered the price targets ...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dde7abc40036a9de96cb83da1d9e81673f7c0bcf2a5b2ac6afbe7201068473a1",
-          "score": -2,
-          "signal": "Bearish"
         }
       ]
     }

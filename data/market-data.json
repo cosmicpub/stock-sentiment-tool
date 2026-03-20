@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T06:17:42.840764+00:00",
+  "updated_at": "2026-03-20T08:00:57.050216+00:00",
   "stocks": [
     {
       "ticker": "AAPL",
@@ -91,12 +91,28 @@
       "low": 387.06,
       "open": 390.1,
       "previous_close": 391.79,
-      "sentiment": "Mixed",
-      "sentiment_score": 0,
-      "confidence": "Low",
-      "reason": "Based on 8 recent headlines with mixed language and a stock move of -0.71% today.",
+      "sentiment": "Bullish",
+      "sentiment_score": 4,
+      "confidence": "Moderate",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.71% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Microsoft AI Security And Fabric Partnerships Tested Against Valuation Discount",
+          "summary": "Accenture and Microsoft are expanding their cybersecurity partnership with new AI driven threat detection and response capabilities across Microsoft security platforms. Microsoft Fabric IQ is adding native Lumel enterprise planning to support finance and operations teams on Microsoft\u2019s data and AI stack. Deeper integration with UiPath connects Microsoft Defender and Sentinel to automated workflows that streamline threat detection and response for enterprise clients. For investors tracking...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0b2fbf1cdf9c9cc9f1d56defb1e84073280efe1c51cdb0e871147e5d711dd7d2",
+          "score": 4,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "What if ASML Becomes the Next Trillion-Dollar Stock?",
+          "summary": "Nvidia and Broadcom just delivered great news for ASML investors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=441702c72bc09f0ad5071b562392ca0329987b5256a1b41ef80ffbfb8740cd76",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "How many employees does Salesforce have after 2026 layoffs?",
           "summary": "Salesforce (CRM) is an enterprise software company and one of the world\u2019s top Customer Relationship Management (CRM) systems. The company offers a variety of services, from helping businesses centralize and organize their sales pipelines to managing customer service operations and marketing ...",
@@ -144,22 +160,6 @@
           "url": "https://finnhub.io/api/news?id=080cf1103a0f343e493432dbe466bc52aff009a7ee9b4f178cc53547e4715048",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "How The Microsoft (MSFT) Investment Story Is Shifting With AI Optimism And Caution",
-          "summary": "Microsoft\u2019s fair value price target has been nudged from US$595.99 to US$594.62, a small reset that keeps the broader long term story largely intact. Analysts linking this move to AI related capital spending, growth assumptions, and recalibrated expectations describe a more balanced mix of enthusiasm and caution, with some trimming targets while maintaining constructive views. As you read on, you will see how these shifts fit into the evolving Microsoft narrative and what to watch as new...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d0c2343dcef7823ad119413364ac5c6957ce2bec80824cba4c13504699a87c6b",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Adobe Taps NVIDIA for AI: Can a Rich Partner Base Aid ADBE Stock?",
-          "summary": "Adobe partners with NVIDIA to supercharge Firefly and AI workflows and targets stronger enterprise growth despite intense competition from tech giants.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7754d80af7c93b8217d7a567676133fad5cfe5e85a6928732e1aa391854a6f0",
-          "score": 0,
-          "signal": "Neutral"
         }
       ]
     },
@@ -173,11 +173,59 @@
       "open": 178.01,
       "previous_close": 180.4,
       "sentiment": "Mixed",
-      "sentiment_score": 2,
+      "sentiment_score": 0,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of -1.02% today.",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of -1.02% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Tesla's New Robotic Rival Has a Strangely Familiar Face",
+          "summary": "Tesla investors knew they'd be seeing some new competitors -- but many didn't expect this one.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8947849b4c86763f82713efc30aa93f213483e2350c36e46a0170123de3bf63",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Better Stock to Buy Right Now: Nike vs. Lululemon",
+          "summary": "These industry-leading companies desperately want to win back the enthusiasm of investors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b446020e6ead4107b10bd990ae0c56ae6b8461378baee0f0af6f0eeb93a84b62",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Prediction: This Will Be Amazon's Stock Price in 5 Years",
+          "summary": "The cloud and artificial intelligence specialist has a long runway for growth ahead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=33dd4097aed9f78ec60bd1ffd4d9b4cf09552aa944eb65a49571899426a7e440",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "What if ASML Becomes the Next Trillion-Dollar Stock?",
+          "summary": "Nvidia and Broadcom just delivered great news for ASML investors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=441702c72bc09f0ad5071b562392ca0329987b5256a1b41ef80ffbfb8740cd76",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Should You Buy Lockheed Martin Stock Right Now?",
+          "summary": "Lockheed Martin's got the world's most popular fighter jet -- and a stock price that's starting to look attractive.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2c0d8cfc6606e6fdeaf4ba9d47982ca66b44c660627a2888a76da4c88bf355ca",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "1 Dividend ETF That Could Turn $500 Monthly Into a $725,000 Portfolio That Pays $21,750 Annually",
+          "summary": "Patience can pay off with this high-yield dividend ETF.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0c851dd989817a365b3455bada2f6dcc23ea34312c61feac5b8085bbe9848936",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Super Micro Co-Founder Charged in China AI Tech Case",
           "summary": "US prosecutors charged Yih-Shyan \u201cWally\u201d Liaw in a scheme to send high-performance computer servers assembled in the US with sophisticated AI capabilities to China in violation of US export controls.  Liaw and others at the company allegedly sold the AI tech through a Southeast Asia company knowing it would be sent on to China.",
@@ -193,54 +241,6 @@
           "url": "https://finnhub.io/api/news?id=185aac54ad7012f120ac07bb5a93cdcae9484a27f757ffb1afd1b753de75221c",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "Nvidia Deepens Grip on Cloud AI With Major AWS Chip Deal",
-          "summary": "The deal would help scale capacity as AWS builds its own chips, revealing deeper reliance on Nvidia\u2019s stack as usage keeps growing.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2b4f85467304f5ceb0fb159dab2f6cef17efbf80712df4468ced4d1df8fe9222",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "BMO Capital Lowers IBM Target but Highlights Stable Business Mix",
-          "summary": "International Business Machines Corporation (NYSE:IBM) is included among the 15 Dividend Stocks to Buy for Steady Income. On March 19, BMO Capital lowered its price recommendation on International Business Machines Corporation (NYSE:IBM) to $290 from $350. It reiterated a Market Perform rating on the shares. The firm said it does not see enough upside to [\u2026]",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e3d8f91c49edab4fd262ffa6b51695c779d516c8c98416e65d2d4875da49982",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Micron Has Soared in 2026 as Its Profit Skyrockets: Is It Too Late to Buy?",
-          "summary": "The memory chipmaker's latest quarterly results were spectacular, but its heavy investments in future capacity add a layer of risk for investors.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1f11627938d6e816e47cc92941a2d3b353eb3d1714399944abcac2d56fe4125f",
-          "score": 1,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "This Nuclear Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream",
-          "summary": "Nuclear energy is experiencing a global renaissance, but it's a long-term investment, which makes it perfect for a dividend play like NextEra Energy.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0399ea97326dd7f7e27f92046149c52300089d4576398ca6d719225cbb23de8e",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Why Poet Technologies Stock Was Sliding This Week",
-          "summary": "Lately, tech stock investors have been favoring companies with strong revenue streams.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=057bcc88ab624be4ce7838e6b51ad6ceb6154083136bdd851277ef116daf2717",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Uber Rivian Robotaxi Deal Reshapes Growth Story And Valuation Gap",
-          "summary": "Uber Technologies (NYSE:UBER) announces a multi year partnership with Rivian worth up to $1.25b. Deal covers deployment of up to 50,000 fully autonomous Rivian R2 robotaxis across 25 global cities. Partnership runs through 2031, with vehicles committed for exclusive use on Uber's platform. Agreement sits alongside Uber's existing work with NVIDIA, Motional, and Wayve on autonomous mobility. Uber enters this Rivian deal with its shares at $75.34 and a mixed return profile, including a 141.6%...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7cbe53a6551aa385fb84c45423a5aedc7ace537723b73285fd817ff83d213fc8",
-          "score": 1,
-          "signal": "Bullish"
         }
       ]
     },
@@ -260,10 +260,26 @@
       "news_count": 8,
       "news": [
         {
+          "headline": "Tesla's New Robotic Rival Has a Strangely Familiar Face",
+          "summary": "Tesla investors knew they'd be seeing some new competitors -- but many didn't expect this one.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8947849b4c86763f82713efc30aa93f213483e2350c36e46a0170123de3bf63",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
           "headline": "Tesla AI6 Chip Push With Samsung Meets Rising Autonomy Safety Scrutiny",
           "summary": "Tesla is developing a next generation AI6 chip for its autonomous driving and robotics platforms, targeting rollout around 2027 to 2028. The AI6 chip is set to be manufactured in partnership with Samsung at a leading edge semiconductor facility. U.S. regulators have escalated their probe into potential safety defects in Tesla's Full Self Driving system after multiple crash incidents. Tesla, NasdaqGS:TSLA, is pushing deeper into artificial intelligence with the planned AI6 chip while trading...",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=872c376b877f6ce0e6029872da2b8990259160c8f80e9caeac467da90f6de6bd",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "What to Know About Tesla\u2019s Terafab Project and the Company\u2019s AI Future",
+          "summary": "Tesla  is on the cusp of announcing a major semiconductor initiative, according to CEO Elon Musk, who said in a Mar. 14 post that a \u201cTerafab project launches in 7 days.\u201d  The Terafab project is expected to be Tesla\u2019s own chip fabrication facility, or \u201cfab,\u201d to help push forward its artificial-intelligence business goals.  What investors do know is that \u201cTerafab\u201d is about manufacturing the microchips Tesla needs to meet its \u201cphysical AI\u201d ambitions\u2014such as producing millions of robo-taxis and the humanoid robots it has named Optimus.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80dea7f53789e66846f864b75f292dab96f64598053bdbaaa8d19811307c7fee",
           "score": 0,
           "signal": "Neutral"
         },
@@ -306,22 +322,6 @@
           "url": "https://finnhub.io/api/news?id=69c7a6041342b84aea1808fe845f29adc50f8232cf18f13b08bee77a827cb9ed",
           "score": 1,
           "signal": "Bullish"
-        },
-        {
-          "headline": "Podcast: Stocks Try to Recover But Close Lower",
-          "summary": "US stocks finished lower today after trimming earlier losses: The Dow closed down 0.4%, while the S&P 500 and the Nasdaq both lost 0.3%. Plus: Tesla shares fall after U.S. regulars expand a probe into the company\u2019s automated driving-assistance system.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6fe1644764152f5d4309b8a4fcf04d57d62f8b864abdc27efe065f3441ca4739",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Stock Market Today, March 19: Rivian Jumps After Partnering With Uber on $1.25 Billion Robotaxi Investment Plan",
-          "summary": "Rivian\u2019s place in Uber\u2019s long\u2011term robotaxi rollout puts scale, autonomy, and future margins in sharp focus, today, March 19, 2026.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9152ca62af837a44def915448022d19134764bb2a6531afa55895c17d41e980",
-          "score": 0,
-          "signal": "Neutral"
         }
       ]
     },
@@ -340,6 +340,22 @@
       "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.53% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Prediction: This Will Be Amazon's Stock Price in 5 Years",
+          "summary": "The cloud and artificial intelligence specialist has a long runway for growth ahead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=33dd4097aed9f78ec60bd1ffd4d9b4cf09552aa944eb65a49571899426a7e440",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "What if ASML Becomes the Next Trillion-Dollar Stock?",
+          "summary": "Nvidia and Broadcom just delivered great news for ASML investors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=441702c72bc09f0ad5071b562392ca0329987b5256a1b41ef80ffbfb8740cd76",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "LetPot Achieves Amazon Best Seller Status Across Multiple Markets in 2025 Holiday Season",
           "summary": "Smart indoor garden brand-LetPot achieves #1 rankings in Europe, UK, Australia, and Canada Amazon, secures top-three position in competitive U.S. market LetPot Indoor Garden LetPot Best Seller Lineup HONG KONG, March 20, 2026 (GLOBE NEWSWIRE) -- LetPot, a leading innovator in smart indoor gardening solutions, today announced exceptional performance during the 2025 holiday shopping season, securing Amazon Best Seller status in the category. The company achieved #1 rankings in Amazon's European, U",
@@ -385,22 +401,6 @@
           "summary": "Nvidia will sell 1 million of its graphics processing unit chips, along with a host of \u200cthe AI giant's other offerings, to Amazon.com's cloud computing unit by 2027, \u200ca Nvidia executive told Reuters on Thursday.  Nvidia and Amazon Web Services said this week that AWS had \u200breached a deal to buy its 1 million GPUs but had not disclosed the precise timing of the deal.  Ian Buck, vice president of hyperscale and high-performance computing at Nvidia, told Reuters on Thursday that the sales would start this year and \u200cextend through 2027.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=45e4b98a5619476aa2ec4fb4e4905a26968516a73d54ca05564b22a58ca297ca",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Jeff Bezos Readies $100B Fund to Automate Manufacturing Companies: WSJ",
-          "summary": "Bezos is wooing Middle Eastern royalty and Asian financial giants to invest in his automated empire.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=43b3c9b4d59cc57912c1d79ba564f1f7645e362f35c41c2695d799ccb48ad423",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "A $600 Billion Reason to Buy Amazon Stock Now",
-          "summary": "Amazon CEO Andy Jassy says AWS could hit $600 billion in annual revenue. Here's why that bold AI-driven prediction makes Amazon stock worth buying now.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08b6f54cc1de68ad04995494d28c4fb351864cff5aca563194c864540d903f1d",
           "score": 0,
           "signal": "Neutral"
         }

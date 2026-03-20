@@ -5,7 +5,7 @@ const newsList = document.getElementById("newsList");
 let marketData = null;
 
 async function loadMarketData() {
-  const response = await fetch("./data/market-data.json?ts=" + Date.now());
+  const response = await fetch("data/market-data.json?ts=" + Date.now(), { cache: "no-store" });
   if (!response.ok) {
     throw new Error("Could not load market data.");
   }

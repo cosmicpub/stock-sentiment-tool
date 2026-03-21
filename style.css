@@ -1,2 +1,61 @@
+.driver-pill,
+.tag-pill,
+.headline-impact,
+.headline-signal {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  margin: 4px 6px 0 0;
+  background: #eef2ff;
+}
 
-does this work
+.drivers-wrap {
+  margin-top: 14px;
+}
+
+.drivers-list {
+  margin-top: 8px;
+}
+
+.headline-item {
+  margin-bottom: 16px;
+  padding: 14px;
+  background: #fff;
+  border-radius: 10px;
+  list-style: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+}
+
+.headline-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+}
+
+.headline-meta {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.headline-title a {
+  color: #111;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.headline-title a:hover {
+  text-decoration: underline;
+}
+
+.headline-tags {
+  margin-top: 10px;
+}
+
+#newsList {
+  padding-left: 0;
+}

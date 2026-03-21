@@ -20,6 +20,30 @@ function sentimentClass(label) {
   return "mixed";
 }
 
+function niceLabel(text) {
+  if (!text) return "";
+  return text
+    .replace(/_/g, " ")
+    .replace(/\b\w/g, char => char.toUpperCase());
+}
+
+function renderTopDrivers(drivers) {
+  if (!drivers || drivers.length === 0) {
+    return "<p><strong>Top Drivers:</strong> Not available</p>";
+  }
+
+  const items = drivers.map(driver => {
+    return `<span class="driver-pill">${niceLabel(driver)}</span>`;
+  }).join(" ");
+
+  return `
+    <div class="drivers-wrap">
+      <strong>Top Drivers:</strong>
+      <div class="drivers-list">${items}</div>
+    </div>
+  `;
+}
+
 async function runAnalysis() {
   const ticker = tickerInput.value.trim().toUpperCase();
 
@@ -33,10 +57,7 @@ async function runAnalysis() {
   newsList.innerHTML = "";
 
   try {
-    const response = await fetch(`${WORKER_URL}?ticker=${encodeURIComponent(ticker)}`, {
-      method: "GET"
-    });
-
+    const response = await fetch(`${WORKER_URL}?ticker=${encodeURIComponent(ticker)}`);
     const data = await response.json();
 
     if (!response.ok || data.error) {
@@ -52,22 +73,45 @@ async function runAnalysis() {
       <div class="result ${className}">
         ${data.sentiment} (Score: ${data.sentiment_score})
       </div>
+      <p><strong>Company:</strong> ${data.company_name || data.ticker}</p>
+      <p><strong>Industry:</strong> ${data.industry || "N/A"}</p>
       <p><strong>Price:</strong> ${formatMoney(data.price)}</p>
       <p><strong>Daily Change:</strong> ${formatMoney(data.change)} (${formatPercent(data.percent_change)})</p>
+      <p><strong>Confidence:</strong> ${data.confidence || "N/A"}</p>
+      ${renderTopDrivers(data.top_drivers)}
     `;
 
     if (!data.news || data.news.length === 0) {
-      newsList.innerHTML = "<li>No recent headlines found.</li>";
+      newsList.innerHTML = "<li>No relevant recent headlines found.</li>";
       return;
     }
 
     newsList.innerHTML = data.news.map(item => {
-      const source = item.source ? `<strong>${item.source}</strong>: ` : "";
-      const signal = item.signal ? ` <em>(${item.signal})</em>` : "";
-      const linkOpen = item.url ? `<a href="${item.url}" target="_blank" rel="noopener noreferrer">` : "";
-      const linkClose = item.url ? `</a>` : "";
+      const source = item.source ? `<strong>${item.source}</strong>` : "Source";
+      const signalClass = sentimentClass(item.signal);
+      const signal = item.signal ? `<span class="headline-signal ${signalClass}">${item.signal}</span>` : "";
+      const impactType = item.impact_type ? `<span class="headline-impact">${niceLabel(item.impact_type)}</span>` : "";
+      const driverTags = item.driver_tags && item.driver_tags.length
+        ? `<div class="headline-tags">${item.driver_tags.map(tag => `<span class="tag-pill">${niceLabel(tag)}</span>`).join(" ")}</div>`
+        : "";
 
-      return `<li>${source}${linkOpen}${item.headline}${linkClose}${signal}</li>`;
+      const linkedHeadline = item.url
+        ? `<a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.headline}</a>`
+        : item.headline;
+
+      return `
+        <li class="headline-item">
+          <div class="headline-top">
+            ${source}
+            <div class="headline-meta">
+              ${impactType}
+              ${signal}
+            </div>
+          </div>
+          <div class="headline-title">${linkedHeadline}</div>
+          ${driverTags}
+        </li>
+      `;
     }).join("");
   } catch (error) {
     console.error(error);

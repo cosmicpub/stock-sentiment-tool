@@ -74,9 +74,7 @@ function renderResultCard(data) {
 
       <div class="metric-card">
         <div class="metric-label">Daily Change</div>
-        <div class="metric-value">
-          ${formatMoney(data.change)} (${formatPercent(data.percent_change)})
-        </div>
+        <div class="metric-value">${formatMoney(data.change)} (${formatPercent(data.percent_change)})</div>
       </div>
 
       <div class="metric-card">
@@ -99,6 +97,7 @@ function renderHeadlines(news) {
     const signalClass = sentimentClass(item.signal);
     const source = item.source || "Source";
     const impactType = item.impact_type ? niceLabel(item.impact_type) : "";
+
     const driverTags = item.driver_tags && item.driver_tags.length
       ? `
         <div class="headline-tags">

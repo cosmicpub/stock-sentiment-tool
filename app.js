@@ -27,6 +27,78 @@ function niceLabel(text) {
   return text.replace(/_/g, " ").replace(/\b\w/g, char => char.toUpperCase());
 }
 
+function getScoreMeaning(score) {
+  if (typeof score !== "number" || Number.isNaN(score)) {
+    return {
+      band: "Unknown",
+      explanation: "The tool could not determine a usable sentiment score."
+    };
+  }
+
+  if (score >= 6) {
+    return {
+      band: "Strong Bullish Pressure",
+      explanation: "Recent relevant headlines are leaning clearly positive for this stock."
+    };
+  }
+
+  if (score >= 3) {
+    return {
+      band: "Moderate Bullish Pressure",
+      explanation: "Recent news is mostly positive, but not overwhelmingly so."
+    };
+  }
+
+  if (score >= 1) {
+    return {
+      band: "Slight Bullish Lean",
+      explanation: "News flow is mildly positive, but the signal is not especially strong."
+    };
+  }
+
+  if (score === 0) {
+    return {
+      band: "Balanced / Mixed",
+      explanation: "The recent news flow is mixed or neutral overall."
+    };
+  }
+
+  if (score <= -6) {
+    return {
+      band: "Strong Bearish Pressure",
+      explanation: "Recent relevant headlines are leaning clearly negative for this stock."
+    };
+  }
+
+  if (score <= -3) {
+    return {
+      band: "Moderate Bearish Pressure",
+      explanation: "Recent news is mostly negative, but not overwhelmingly so."
+    };
+  }
+
+  return {
+    band: "Slight Bearish Lean",
+    explanation: "News flow is mildly negative, but the signal is not especially strong."
+  };
+}
+
+function getConfidenceMeaning(confidence) {
+  if (!confidence) {
+    return "Confidence is not available for this search.";
+  }
+
+  if (confidence === "High") {
+    return "High confidence means the tool found several relevant headlines pointing in a similar direction.";
+  }
+
+  if (confidence === "Moderate") {
+    return "Moderate confidence means there is a usable signal, but some headlines may be mixed or less decisive.";
+  }
+
+  return "Low confidence means the signal is weaker, mixed, or based on less convincing headline evidence.";
+}
+
 function renderTopDrivers(drivers) {
   if (!drivers || drivers.length === 0) {
     return `
@@ -43,6 +115,49 @@ function renderTopDrivers(drivers) {
       <div class="drivers-list">
         ${drivers.map(driver => `<span class="driver-pill">${niceLabel(driver)}</span>`).join("")}
       </div>
+    </div>
+  `;
+}
+
+function renderScoreGuide(score, confidence) {
+  const scoreMeaning = getScoreMeaning(score);
+  const confidenceMeaning = getConfidenceMeaning(confidence);
+
+  return `
+    <div class="score-guide">
+      <h3>How to Read This Result</h3>
+
+      <div class="score-guide-grid">
+        <div class="score-guide-card">
+          <div class="score-guide-label">Score Meaning</div>
+          <div class="score-guide-value">${scoreMeaning.band}</div>
+          <p>${scoreMeaning.explanation}</p>
+        </div>
+
+        <div class="score-guide-card">
+          <div class="score-guide-label">Confidence Meaning</div>
+          <div class="score-guide-value">${confidence || "N/A"}</div>
+          <p>${confidenceMeaning}</p>
+        </div>
+      </div>
+
+      <div class="score-scale">
+        <div><strong>Score Scale:</strong></div>
+        <div class="scale-line">
+          <span>-6 or lower = Strong Bearish</span>
+          <span>-3 to -5 = Moderate Bearish</span>
+          <span>-1 to -2 = Slight Bearish</span>
+          <span>0 = Mixed</span>
+          <span>1 to 2 = Slight Bullish</span>
+          <span>3 to 5 = Moderate Bullish</span>
+          <span>6 or higher = Strong Bullish</span>
+        </div>
+      </div>
+
+      <p class="score-note">
+        This score reflects <strong>news sentiment pressure</strong>, not a guaranteed price prediction.
+        It helps summarize whether recent relevant headlines are leaning positive, negative, or mixed.
+      </p>
     </div>
   `;
 }
@@ -84,6 +199,7 @@ function renderResultCard(data) {
     </div>
 
     ${renderTopDrivers(data.top_drivers)}
+    ${renderScoreGuide(data.sentiment_score, data.confidence)}
   `;
 }
 

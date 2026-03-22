@@ -1,61 +1,367 @@
+:root{
+  --bg:#f4f7fb;
+  --card:#ffffff;
+  --text:#111827;
+  --muted:#6b7280;
+  --border:#e5e7eb;
+  --brand:#2563eb;
+  --brand-dark:#1d4ed8;
+  --shadow:0 10px 30px rgba(15, 23, 42, 0.08);
+  --green-bg:#ecfdf5;
+  --green-text:#166534;
+  --red-bg:#fef2f2;
+  --red-text:#991b1b;
+  --gray-bg:#f3f4f6;
+  --gray-text:#374151;
+  --pill-bg:#eef2ff;
+}
+
+*{
+  box-sizing:border-box;
+}
+
+html, body{
+  margin:0;
+  padding:0;
+  font-family:Arial, Helvetica, sans-serif;
+  background:var(--bg);
+  color:var(--text);
+}
+
+body{
+  min-height:100vh;
+}
+
+.hero{
+  background:linear-gradient(135deg, #1d4ed8 0%, #3b82f6 55%, #60a5fa 100%);
+  color:#fff;
+  padding:56px 20px 44px;
+}
+
+.hero-inner{
+  max-width:1000px;
+  margin:0 auto;
+}
+
+.eyebrow{
+  margin:0 0 10px;
+  font-size:13px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  opacity:.9;
+}
+
+.hero h1{
+  margin:0 0 12px;
+  font-size:40px;
+  line-height:1.1;
+}
+
+.hero-text{
+  margin:0;
+  max-width:720px;
+  font-size:17px;
+  line-height:1.6;
+  opacity:.96;
+}
+
+.container{
+  max-width:1000px;
+  margin:-18px auto 40px;
+  padding:0 20px;
+}
+
+.search-card,
+.results-card,
+.news-section,
+.disclaimer{
+  background:var(--card);
+  border:1px solid var(--border);
+  border-radius:18px;
+  box-shadow:var(--shadow);
+}
+
+.search-card{
+  padding:22px;
+  margin-bottom:20px;
+}
+
+.search-top h2,
+.section-head h2{
+  margin:0 0 6px;
+  font-size:24px;
+}
+
+.muted{
+  margin:0;
+  color:var(--muted);
+  line-height:1.5;
+}
+
+.search-row{
+  display:flex;
+  gap:12px;
+  margin-top:18px;
+  flex-wrap:wrap;
+}
+
+.search-row input{
+  flex:1;
+  min-width:240px;
+  padding:15px 16px;
+  font-size:16px;
+  border:1px solid var(--border);
+  border-radius:14px;
+  outline:none;
+  background:#fff;
+}
+
+.search-row input:focus{
+  border-color:#93c5fd;
+  box-shadow:0 0 0 4px rgba(37, 99, 235, 0.12);
+}
+
+.search-row button{
+  padding:15px 18px;
+  border:none;
+  border-radius:14px;
+  background:var(--brand);
+  color:#fff;
+  font-size:16px;
+  font-weight:700;
+  cursor:pointer;
+  min-width:130px;
+}
+
+.search-row button:hover{
+  background:var(--brand-dark);
+}
+
+.search-row button:disabled{
+  opacity:.65;
+  cursor:not-allowed;
+}
+
+.status-msg{
+  min-height:22px;
+  margin-top:14px;
+  color:var(--muted);
+  font-size:14px;
+}
+
+.results-card{
+  padding:24px;
+  margin-bottom:20px;
+}
+
+.empty-state{
+  text-align:center;
+  padding:18px 8px;
+}
+
+.empty-state h3{
+  margin:0 0 8px;
+  font-size:22px;
+}
+
+.empty-state p{
+  margin:0;
+  color:var(--muted);
+  line-height:1.6;
+}
+
+.results-card h2{
+  margin:0 0 10px;
+  font-size:32px;
+}
+
+.result{
+  display:inline-block;
+  padding:10px 14px;
+  border-radius:999px;
+  font-weight:700;
+  margin-bottom:18px;
+}
+
+.bullish{
+  background:var(--green-bg);
+  color:var(--green-text);
+}
+
+.bearish{
+  background:var(--red-bg);
+  color:var(--red-text);
+}
+
+.mixed{
+  background:var(--gray-bg);
+  color:var(--gray-text);
+}
+
+.metrics-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));
+  gap:14px;
+  margin:18px 0;
+}
+
+.metric-card{
+  background:#f8fafc;
+  border:1px solid var(--border);
+  border-radius:14px;
+  padding:14px;
+}
+
+.metric-label{
+  color:var(--muted);
+  font-size:13px;
+  margin-bottom:8px;
+}
+
+.metric-value{
+  font-size:18px;
+  font-weight:700;
+}
+
+.drivers-wrap{
+  margin-top:12px;
+}
+
+.drivers-title{
+  display:block;
+  margin-bottom:10px;
+  font-weight:700;
+}
+
+.drivers-list,
+.headline-tags{
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+}
+
 .driver-pill,
 .tag-pill,
 .headline-impact,
-.headline-signal {
-  display: inline-block;
-  padding: 4px 10px;
-  border-radius: 999px;
-  font-size: 12px;
-  margin: 4px 6px 0 0;
-  background: #eef2ff;
+.headline-signal{
+  display:inline-flex;
+  align-items:center;
+  padding:6px 10px;
+  border-radius:999px;
+  font-size:12px;
+  line-height:1;
+  border:1px solid transparent;
 }
 
-.drivers-wrap {
-  margin-top: 14px;
+.driver-pill,
+.tag-pill,
+.headline-impact{
+  background:var(--pill-bg);
+  color:#3730a3;
 }
 
-.drivers-list {
-  margin-top: 8px;
+.headline-signal.bullish{
+  background:var(--green-bg);
+  color:var(--green-text);
 }
 
-.headline-item {
-  margin-bottom: 16px;
-  padding: 14px;
-  background: #fff;
-  border-radius: 10px;
-  list-style: none;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+.headline-signal.bearish{
+  background:var(--red-bg);
+  color:var(--red-text);
 }
 
-.headline-top {
-  display: flex;
-  justify-content: space-between;
-  gap: 10px;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  margin-bottom: 8px;
+.headline-signal.mixed{
+  background:var(--gray-bg);
+  color:var(--gray-text);
 }
 
-.headline-meta {
-  display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
+.news-section{
+  padding:22px;
 }
 
-.headline-title a {
-  color: #111;
-  text-decoration: none;
-  font-weight: 600;
+.section-head{
+  margin-bottom:16px;
 }
 
-.headline-title a:hover {
-  text-decoration: underline;
+.news-list{
+  list-style:none;
+  padding:0;
+  margin:0;
 }
 
-.headline-tags {
-  margin-top: 10px;
+.headline-item{
+  padding:16px;
+  border:1px solid var(--border);
+  border-radius:16px;
+  background:#fff;
+  margin-bottom:14px;
 }
 
-#newsList {
-  padding-left: 0;
+.headline-top{
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  align-items:flex-start;
+  flex-wrap:wrap;
+  margin-bottom:10px;
+}
+
+.headline-source{
+  font-size:13px;
+  color:var(--muted);
+  font-weight:700;
+}
+
+.headline-meta{
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+}
+
+.headline-title{
+  line-height:1.5;
+}
+
+.headline-title a{
+  color:var(--text);
+  text-decoration:none;
+  font-weight:700;
+}
+
+.headline-title a:hover{
+  text-decoration:underline;
+}
+
+.disclaimer{
+  margin-top:20px;
+  padding:18px 20px;
+}
+
+.disclaimer p{
+  margin:0;
+  color:var(--muted);
+  font-size:14px;
+  line-height:1.6;
+}
+
+@media (max-width: 640px){
+  .hero{
+    padding:44px 16px 36px;
+  }
+
+  .hero h1{
+    font-size:32px;
+  }
+
+  .container{
+    padding:0 16px;
+  }
+
+  .results-card h2{
+    font-size:28px;
+  }
+
+  .search-row button{
+    width:100%;
+  }
 }

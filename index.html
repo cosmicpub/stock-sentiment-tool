@@ -1,188 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Stock Sentiment Tool</title>
-  <meta name="description" content="Analyze stock sentiment based on recent news headlines and market signals.">
-
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background: #f4f6fb;
-      color: #111;
-    }
-
-    header {
-      background: #4f46e5;
-      color: #fff;
-      padding: 30px 20px;
-      text-align: center;
-    }
-
-    h1 {
-      margin: 0;
-      font-size: 32px;
-    }
-
-    .container {
-      max-width: 800px;
-      margin: 30px auto;
-      padding: 20px;
-    }
-
-    .card {
-      background: #fff;
-      padding: 20px;
-      border-radius: 12px;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.05);
-      margin-bottom: 20px;
-    }
-
-    input {
-      padding: 12px;
-      width: 60%;
-      font-size: 16px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-    }
-
-    button {
-      padding: 12px 18px;
-      margin-left: 10px;
-      background: #4f46e5;
-      color: #fff;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-      font-size: 16px;
-    }
-
-    button:hover {
-      opacity: 0.9;
-    }
-
-    .result {
-      font-size: 20px;
-      margin-top: 10px;
-    }
-
-    .bullish { color: green; }
-    .bearish { color: red; }
-    .mixed { color: #555; }
-
-    ul {
-      padding-left: 18px;
-    }
-
-    li {
-      margin-bottom: 8px;
-    }
-
-    .disclaimer {
-      font-size: 12px;
-      color: #666;
-      margin-top: 20px;
-    }
-  </style>
+  <meta
+    name="description"
+    content="Analyze stock sentiment using market news, company signals, and relevant drivers."
+  />
+  <link rel="stylesheet" href="style.css" />
 </head>
-
 <body>
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Market Insight Tool</p>
+      <h1>Stock Sentiment Tool</h1>
+      <p class="hero-text">
+        Search any ticker to see a news-based sentiment signal, confidence level,
+        and the main drivers influencing the stock.
+      </p>
+    </div>
+  </header>
 
-<header>
-  <h1>Stock Sentiment Tool</h1>
-  <p>Analyze how recent news may impact a stock</p>
-</header>
-
-<div class="container">
-
-  <div class="card">
-    <input id="tickerInput" type="text" placeholder="Enter ticker (e.g. AAPL)">
-    <button onclick="runAnalysis()">Analyze</button>
-
-    <div id="results"></div>
-  </div>
-
-  <div class="card">
-    <h3>Recent Headlines</h3>
-    <ul id="newsList"></ul>
-  </div>
-
-  <div class="disclaimer">
-    This tool is for informational purposes only and does not constitute financial advice.
-  </div>
-
-</div>
-
-<script>
-  const positiveWords = [
-    "beat", "beats", "growth", "strong", "surge",
-    "record", "profit", "upgrade", "expands",
-    "partnership", "raised"
-  ];
-
-  const negativeWords = [
-    "miss", "lawsuit", "downgrade", "cuts",
-    "decline", "weak", "investigation",
-    "layoffs", "drop", "warning"
-  ];
-
-  function runAnalysis() {
-    const ticker = document.getElementById("tickerInput").value.trim().toUpperCase();
-    const results = document.getElementById("results");
-    const newsList = document.getElementById("newsList");
-
-    if (!ticker) {
-      results.innerHTML = "<p>Please enter a ticker.</p>";
-      newsList.innerHTML = "";
-      return;
-    }
-
-    // MOCK DATA (we replace this later with real API)
-    const headlines = [
-      `${ticker} beats earnings expectations in strong quarter`,
-      `${ticker} expands partnership with major tech company`,
-      `${ticker} faces lawsuit over product issues`
-    ];
-
-    let score = 0;
-
-    headlines.forEach(headline => {
-      const text = headline.toLowerCase();
-
-      positiveWords.forEach(word => {
-        if (text.includes(word)) score++;
-      });
-
-      negativeWords.forEach(word => {
-        if (text.includes(word)) score--;
-      });
-    });
-
-    let label = "Mixed";
-    let className = "mixed";
-
-    if (score > 2) {
-      label = "Bullish";
-      className = "bullish";
-    } else if (score < -2) {
-      label = "Bearish";
-      className = "bearish";
-    }
-
-    results.innerHTML = `
-      <h2>${ticker}</h2>
-      <div class="result ${className}">
-        ${label} (Score: ${score})
+  <main class="container">
+    <section class="search-card">
+      <div class="search-top">
+        <div>
+          <h2>Analyze a Stock</h2>
+          <p class="muted">
+            Try tickers like AAPL, TSLA, NVDA, MSFT, AMZN, META, AMD, or GOOGL.
+          </p>
+        </div>
       </div>
-      <p>Based on recent headlines and keyword analysis.</p>
-    `;
 
-    newsList.innerHTML = headlines.map(h => `<li>${h}</li>`).join("");
-  }
-</script>
-<script src="app.js"></script>
+      <div class="search-row">
+        <input
+          id="tickerInput"
+          type="text"
+          placeholder="Enter ticker (example: AAPL)"
+          autocomplete="off"
+          maxlength="10"
+        />
+        <button id="analyzeBtn" type="button">Analyze</button>
+      </div>
+
+      <div id="statusMsg" class="status-msg"></div>
+    </section>
+
+    <section id="results" class="results-card">
+      <div class="empty-state">
+        <h3>Ready when you are</h3>
+        <p>Enter a ticker symbol above to load live sentiment, drivers, and relevant headlines.</p>
+      </div>
+    </section>
+
+    <section class="news-section">
+      <div class="section-head">
+        <h2>Relevant Headlines</h2>
+        <p class="muted">The strongest matching stories for the ticker you searched.</p>
+      </div>
+      <ul id="newsList" class="news-list"></ul>
+    </section>
+
+    <section class="disclaimer">
+      <p>
+        This tool is for informational and educational purposes only and does not
+        constitute financial advice.
+      </p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
 </body>
 </html>

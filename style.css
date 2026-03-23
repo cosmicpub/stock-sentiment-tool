@@ -651,3 +651,148 @@ body{
     font-size:20px;
   }
 }
+.score-panel{
+  display:grid;
+  grid-template-columns:1.4fr .9fr;
+  gap:18px;
+  margin:8px 0 22px;
+}
+
+.score-panel-left,
+.score-scale-card{
+  background:#f8fafc;
+  border:1px solid var(--line);
+  border-radius:18px;
+  padding:18px;
+}
+
+.score-topline{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-bottom:16px;
+}
+
+.score-badge{
+  display:inline-flex;
+  align-items:center;
+  padding:8px 12px;
+  border-radius:999px;
+  font-weight:700;
+}
+
+.score-band-label{
+  font-size:16px;
+  font-weight:700;
+  color:#0f172a;
+}
+
+.score-main-row{
+  display:grid;
+  grid-template-columns:220px 1fr;
+  gap:16px;
+}
+
+.score-number-card,
+.score-explainer-card{
+  background:#fff;
+  border:1px solid var(--line);
+  border-radius:16px;
+  padding:16px;
+}
+
+.score-number-label,
+.score-explainer-title,
+.score-scale-title,
+.section-mini-title{
+  font-size:13px;
+  color:var(--muted);
+  text-transform:uppercase;
+  letter-spacing:.05em;
+  margin-bottom:8px;
+  font-weight:700;
+}
+
+.score-number{
+  font-size:58px;
+  font-weight:800;
+  line-height:1;
+  color:#0f172a;
+}
+
+.score-explainer-card p,
+.score-note,
+.confidence-copy{
+  margin:0;
+  color:var(--muted);
+  line-height:1.6;
+}
+
+.confidence-inline{
+  margin:10px 0 6px;
+  color:#0f172a;
+}
+
+.sentiment-meter{
+  position:relative;
+  height:18px;
+  margin:14px 0 12px;
+}
+
+.meter-track{
+  position:absolute;
+  inset:0;
+  border-radius:999px;
+  background:linear-gradient(
+    90deg,
+    #dc2626 0%,
+    #f87171 22%,
+    #e5e7eb 50%,
+    #86efac 78%,
+    #16a34a 100%
+  );
+}
+
+.meter-pointer{
+  position:absolute;
+  top:50%;
+  transform:translate(-50%, -50%);
+  width:18px;
+  height:18px;
+  border-radius:999px;
+  background:#0f172a;
+  border:3px solid #fff;
+  box-shadow:0 4px 10px rgba(0,0,0,.18);
+}
+
+.meter-label-row,
+.meter-band-row{
+  display:flex;
+  justify-content:space-between;
+  gap:8px;
+  font-size:12px;
+  color:var(--muted);
+}
+
+.meter-band-row{
+  margin-top:8px;
+}
+
+.score-note{
+  margin-top:14px;
+}
+
+@media (max-width: 900px){
+  .score-panel{
+    grid-template-columns:1fr;
+  }
+
+  .score-main-row{
+    grid-template-columns:1fr;
+  }
+
+  .score-number{
+    font-size:48px;
+  }
+}

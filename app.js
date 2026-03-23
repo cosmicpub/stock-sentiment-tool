@@ -38,63 +38,59 @@ function getScoreMeaning(score) {
   if (score >= 6) {
     return {
       band: "Strong Bullish Pressure",
-      explanation: "Recent relevant headlines are leaning clearly positive for this stock."
+      explanation: "Recent relevant headlines are leaning clearly positive."
     };
   }
 
   if (score >= 3) {
     return {
       band: "Moderate Bullish Pressure",
-      explanation: "Recent news is mostly positive, but not overwhelmingly so."
+      explanation: "Recent relevant headlines are mostly positive."
     };
   }
 
   if (score >= 1) {
     return {
       band: "Slight Bullish Lean",
-      explanation: "News flow is mildly positive, but the signal is not especially strong."
+      explanation: "News flow is mildly positive but not strong."
     };
   }
 
   if (score === 0) {
     return {
-      band: "Balanced / Mixed",
-      explanation: "The recent news flow is mixed or neutral overall."
+      band: "Mixed / Balanced",
+      explanation: "Recent headlines are mixed or neutral overall."
     };
   }
 
   if (score <= -6) {
     return {
       band: "Strong Bearish Pressure",
-      explanation: "Recent relevant headlines are leaning clearly negative for this stock."
+      explanation: "Recent relevant headlines are leaning clearly negative."
     };
   }
 
   if (score <= -3) {
     return {
       band: "Moderate Bearish Pressure",
-      explanation: "Recent news is mostly negative, but not overwhelmingly so."
+      explanation: "Recent relevant headlines are mostly negative."
     };
   }
 
   return {
     band: "Slight Bearish Lean",
-    explanation: "News flow is mildly negative, but the signal is not especially strong."
+    explanation: "News flow is mildly negative but not strong."
   };
 }
 
 function getConfidenceMeaning(confidence) {
-  if (!confidence) return "Confidence is not available for this search.";
-  if (confidence === "High") {
-    return "High confidence means several relevant headlines are pointing in a similar direction.";
-  }
-  if (confidence === "Moderate") {
-    return "Moderate confidence means there is a usable signal, but the headlines are less decisive.";
-  }
-  return "Low confidence means the signal is weaker, mixed, or based on less convincing headline evidence.";
+  if (!confidence) return "Confidence is not available.";
+  if (confidence === "High") return "Several relevant headlines are pointing in a similar direction.";
+  if (confidence === "Moderate") return "There is a usable signal, but the headlines are less decisive.";
+  return "The signal is weaker, mixed, or based on less convincing headline evidence.";
 }
 
-function getScorePosition(score) {
+function getMeterPosition(score) {
   if (typeof score !== "number" || Number.isNaN(score)) return 50;
   const min = -6;
   const max = 6;
@@ -102,17 +98,11 @@ function getScorePosition(score) {
   return ((clamped - min) / (max - min)) * 100;
 }
 
-function getMeterClass(score) {
-  if (score >= 3) return "meter-bullish";
-  if (score <= -3) return "meter-bearish";
-  return "meter-mixed";
-}
-
 function renderTopDrivers(drivers) {
   if (!drivers || drivers.length === 0) {
     return `
       <div class="drivers-wrap">
-        <span class="drivers-title">Top Drivers</span>
+        <div class="section-mini-title">Top Drivers</div>
         <p class="muted">Not available</p>
       </div>
     `;
@@ -120,7 +110,7 @@ function renderTopDrivers(drivers) {
 
   return `
     <div class="drivers-wrap">
-      <span class="drivers-title">Top Drivers</span>
+      <div class="section-mini-title">Top Drivers</div>
       <div class="drivers-list">
         ${drivers.map(driver => `<span class="driver-pill">${niceLabel(driver)}</span>`).join("")}
       </div>
@@ -128,56 +118,62 @@ function renderTopDrivers(drivers) {
   `;
 }
 
-function renderScoreHero(score, sentiment, confidence) {
+function renderScoreBlock(score, sentiment, confidence) {
   const scoreMeaning = getScoreMeaning(score);
-  const scorePos = getScorePosition(score);
-  const meterClass = getMeterClass(score);
-  const sentimentCls = sentimentClass(sentiment);
+  const scorePos = getMeterPosition(score);
+  const badgeClass = sentimentClass(sentiment);
 
   return `
-    <div class="score-hero">
-      <div class="score-hero-left">
-        <div class="score-badge ${sentimentCls}">${sentiment}</div>
-        <div class="score-number-wrap">
-          <div class="score-number-label">Sentiment Score</div>
-          <div class="score-number ${meterClass}">${score}</div>
+    <div class="score-panel">
+      <div class="score-panel-left">
+        <div class="score-topline">
+          <span class="score-badge ${badgeClass}">${sentiment}</span>
+          <span class="score-band-label">${scoreMeaning.band}</span>
         </div>
-        <div class="score-band">${scoreMeaning.band}</div>
-        <p class="score-band-text">${scoreMeaning.explanation}</p>
-      </div>
 
-      <div class="score-hero-right">
-        <div class="confidence-card">
-          <div class="confidence-label">Confidence</div>
-          <div class="confidence-value">${confidence || "N/A"}</div>
-          <p class="confidence-text">${getConfidenceMeaning(confidence)}</p>
+        <div class="score-main-row">
+          <div class="score-number-card">
+            <div class="score-number-label">Sentiment Score</div>
+            <div class="score-number">${score}</div>
+          </div>
+
+          <div class="score-explainer-card">
+            <div class="score-explainer-title">What this means</div>
+            <p>${scoreMeaning.explanation}</p>
+            <div class="confidence-inline">
+              <strong>Confidence:</strong> ${confidence || "N/A"}
+            </div>
+            <p class="confidence-copy">${getConfidenceMeaning(confidence)}</p>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div class="meter-card">
-      <div class="meter-scale-head">
-        <span>Strong Bearish</span>
-        <span>Mixed</span>
-        <span>Strong Bullish</span>
+      <div class="score-scale-card">
+        <div class="score-scale-title">Score Scale</div>
+
+        <div class="sentiment-meter">
+          <div class="meter-track"></div>
+          <div class="meter-pointer" style="left:${scorePos}%"></div>
+        </div>
+
+        <div class="meter-label-row">
+          <span>-6</span>
+          <span>-3</span>
+          <span>0</span>
+          <span>3</span>
+          <span>6</span>
+        </div>
+
+        <div class="meter-band-row">
+          <span>Bearish</span>
+          <span>Mixed</span>
+          <span>Bullish</span>
+        </div>
+
+        <p class="score-note">
+          This score reflects <strong>news sentiment pressure</strong>, not a guaranteed price prediction.
+        </p>
       </div>
-
-      <div class="sentiment-meter">
-        <div class="meter-track"></div>
-        <div class="meter-pointer" style="left: ${scorePos}%"></div>
-      </div>
-
-      <div class="meter-scale-foot">
-        <span>-6</span>
-        <span>-3</span>
-        <span>0</span>
-        <span>3</span>
-        <span>6</span>
-      </div>
-
-      <p class="meter-note">
-        This score reflects <strong>news sentiment pressure</strong>, not a guaranteed price prediction.
-      </p>
     </div>
   `;
 }
@@ -186,7 +182,7 @@ function renderResultCard(data) {
   results.innerHTML = `
     <h2>${data.ticker}</h2>
 
-    ${renderScoreHero(data.sentiment_score, data.sentiment, data.confidence)}
+    ${renderScoreBlock(data.sentiment_score, data.sentiment, data.confidence)}
 
     <div class="metrics-grid">
       <div class="metric-card">

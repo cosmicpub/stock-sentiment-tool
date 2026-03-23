@@ -84,19 +84,28 @@ function getScoreMeaning(score) {
 }
 
 function getConfidenceMeaning(confidence) {
-  if (!confidence) {
-    return "Confidence is not available for this search.";
-  }
-
+  if (!confidence) return "Confidence is not available for this search.";
   if (confidence === "High") {
-    return "High confidence means the tool found several relevant headlines pointing in a similar direction.";
+    return "High confidence means several relevant headlines are pointing in a similar direction.";
   }
-
   if (confidence === "Moderate") {
-    return "Moderate confidence means there is a usable signal, but some headlines may be mixed or less decisive.";
+    return "Moderate confidence means there is a usable signal, but the headlines are less decisive.";
   }
-
   return "Low confidence means the signal is weaker, mixed, or based on less convincing headline evidence.";
+}
+
+function getScorePosition(score) {
+  if (typeof score !== "number" || Number.isNaN(score)) return 50;
+  const min = -6;
+  const max = 6;
+  const clamped = Math.max(min, Math.min(max, score));
+  return ((clamped - min) / (max - min)) * 100;
+}
+
+function getMeterClass(score) {
+  if (score >= 3) return "meter-bullish";
+  if (score <= -3) return "meter-bearish";
+  return "meter-mixed";
 }
 
 function renderTopDrivers(drivers) {
@@ -119,57 +128,65 @@ function renderTopDrivers(drivers) {
   `;
 }
 
-function renderScoreGuide(score, confidence) {
+function renderScoreHero(score, sentiment, confidence) {
   const scoreMeaning = getScoreMeaning(score);
-  const confidenceMeaning = getConfidenceMeaning(confidence);
+  const scorePos = getScorePosition(score);
+  const meterClass = getMeterClass(score);
+  const sentimentCls = sentimentClass(sentiment);
 
   return `
-    <div class="score-guide">
-      <h3>How to Read This Result</h3>
-
-      <div class="score-guide-grid">
-        <div class="score-guide-card">
-          <div class="score-guide-label">Score Meaning</div>
-          <div class="score-guide-value">${scoreMeaning.band}</div>
-          <p>${scoreMeaning.explanation}</p>
+    <div class="score-hero">
+      <div class="score-hero-left">
+        <div class="score-badge ${sentimentCls}">${sentiment}</div>
+        <div class="score-number-wrap">
+          <div class="score-number-label">Sentiment Score</div>
+          <div class="score-number ${meterClass}">${score}</div>
         </div>
-
-        <div class="score-guide-card">
-          <div class="score-guide-label">Confidence Meaning</div>
-          <div class="score-guide-value">${confidence || "N/A"}</div>
-          <p>${confidenceMeaning}</p>
-        </div>
+        <div class="score-band">${scoreMeaning.band}</div>
+        <p class="score-band-text">${scoreMeaning.explanation}</p>
       </div>
 
-      <div class="score-scale">
-        <div><strong>Score Scale:</strong></div>
-        <div class="scale-line">
-          <span>-6 or lower = Strong Bearish</span>
-          <span>-3 to -5 = Moderate Bearish</span>
-          <span>-1 to -2 = Slight Bearish</span>
-          <span>0 = Mixed</span>
-          <span>1 to 2 = Slight Bullish</span>
-          <span>3 to 5 = Moderate Bullish</span>
-          <span>6 or higher = Strong Bullish</span>
+      <div class="score-hero-right">
+        <div class="confidence-card">
+          <div class="confidence-label">Confidence</div>
+          <div class="confidence-value">${confidence || "N/A"}</div>
+          <p class="confidence-text">${getConfidenceMeaning(confidence)}</p>
         </div>
       </div>
+    </div>
 
-      <p class="score-note">
+    <div class="meter-card">
+      <div class="meter-scale-head">
+        <span>Strong Bearish</span>
+        <span>Mixed</span>
+        <span>Strong Bullish</span>
+      </div>
+
+      <div class="sentiment-meter">
+        <div class="meter-track"></div>
+        <div class="meter-pointer" style="left: ${scorePos}%"></div>
+      </div>
+
+      <div class="meter-scale-foot">
+        <span>-6</span>
+        <span>-3</span>
+        <span>0</span>
+        <span>3</span>
+        <span>6</span>
+      </div>
+
+      <p class="meter-note">
         This score reflects <strong>news sentiment pressure</strong>, not a guaranteed price prediction.
-        It helps summarize whether recent relevant headlines are leaning positive, negative, or mixed.
       </p>
     </div>
   `;
 }
 
 function renderResultCard(data) {
-  const className = sentimentClass(data.sentiment);
-
   results.innerHTML = `
     <h2>${data.ticker}</h2>
-    <div class="result ${className}">
-      ${data.sentiment} (Score: ${data.sentiment_score})
-    </div>
+
+    ${renderScoreHero(data.sentiment_score, data.sentiment, data.confidence)}
 
     <div class="metrics-grid">
       <div class="metric-card">
@@ -191,15 +208,9 @@ function renderResultCard(data) {
         <div class="metric-label">Daily Change</div>
         <div class="metric-value">${formatMoney(data.change)} (${formatPercent(data.percent_change)})</div>
       </div>
-
-      <div class="metric-card">
-        <div class="metric-label">Confidence</div>
-        <div class="metric-value">${data.confidence || "N/A"}</div>
-      </div>
     </div>
 
     ${renderTopDrivers(data.top_drivers)}
-    ${renderScoreGuide(data.sentiment_score, data.confidence)}
   `;
 }
 

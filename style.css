@@ -490,3 +490,164 @@ body{
   color:#3730a3;
   font-size:12px;
 }
+
+.score-hero{
+  display:grid;
+  grid-template-columns:1.35fr .85fr;
+  gap:18px;
+  margin:6px 0 20px;
+  align-items:stretch;
+}
+
+.score-hero-left,
+.confidence-card,
+.meter-card{
+  background:#f8fafc;
+  border:1px solid var(--line);
+  border-radius:18px;
+  padding:18px;
+}
+
+.score-badge{
+  display:inline-flex;
+  align-items:center;
+  padding:8px 12px;
+  border-radius:999px;
+  font-weight:700;
+  margin-bottom:14px;
+}
+
+.score-number-wrap{
+  display:flex;
+  align-items:flex-end;
+  gap:14px;
+  flex-wrap:wrap;
+}
+
+.score-number-label{
+  font-size:13px;
+  color:var(--muted);
+  text-transform:uppercase;
+  letter-spacing:.05em;
+}
+
+.score-number{
+  font-size:56px;
+  line-height:1;
+  font-weight:800;
+  margin-top:4px;
+}
+
+.meter-bullish{
+  color:#15803d;
+}
+
+.meter-bearish{
+  color:#b91c1c;
+}
+
+.meter-mixed{
+  color:#374151;
+}
+
+.score-band{
+  margin-top:12px;
+  font-size:22px;
+  font-weight:800;
+  color:#0f172a;
+}
+
+.score-band-text{
+  margin:8px 0 0;
+  color:var(--muted);
+  line-height:1.6;
+}
+
+.confidence-label{
+  font-size:13px;
+  color:var(--muted);
+  text-transform:uppercase;
+  letter-spacing:.05em;
+  margin-bottom:10px;
+}
+
+.confidence-value{
+  font-size:30px;
+  font-weight:800;
+  color:#0f172a;
+  margin-bottom:10px;
+}
+
+.confidence-text{
+  margin:0;
+  color:var(--muted);
+  line-height:1.6;
+}
+
+.meter-card{
+  margin:0 0 20px;
+}
+
+.meter-scale-head,
+.meter-scale-foot{
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  color:var(--muted);
+  font-size:12px;
+}
+
+.meter-scale-head{
+  margin-bottom:10px;
+}
+
+.sentiment-meter{
+  position:relative;
+  height:28px;
+  margin:6px 0 8px;
+}
+
+.meter-track{
+  position:absolute;
+  inset:8px 0 8px 0;
+  border-radius:999px;
+  background:linear-gradient(
+    90deg,
+    #dc2626 0%,
+    #f87171 18%,
+    #e5e7eb 50%,
+    #86efac 82%,
+    #16a34a 100%
+  );
+}
+
+.meter-pointer{
+  position:absolute;
+  top:0;
+  transform:translateX(-50%);
+  width:16px;
+  height:28px;
+  border-radius:999px;
+  background:#0f172a;
+  box-shadow:0 4px 12px rgba(15,23,42,.2);
+}
+
+.meter-note{
+  margin:12px 0 0;
+  color:var(--muted);
+  line-height:1.6;
+}
+
+@media (max-width: 900px){
+  .score-hero{
+    grid-template-columns:1fr;
+  }
+
+  .score-number{
+    font-size:48px;
+  }
+
+  .score-band{
+    font-size:20px;
+  }
+}

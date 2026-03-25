@@ -26,10 +26,7 @@ html, body{
   margin:0;
   padding:0;
   font-family:Arial, Helvetica, sans-serif;
-  background:
-    radial-gradient(circle at top left, rgba(59,130,246,.18), transparent 30%),
-    radial-gradient(circle at top right, rgba(139,92,246,.16), transparent 28%),
-    linear-gradient(180deg, #09111f 0%, #0b1220 100%);
+  background:#f4f6fb;
   color:var(--text);
 }
 

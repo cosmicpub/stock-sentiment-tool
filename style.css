@@ -906,3 +906,13 @@ body{
   color:#334155;
   line-height:1.7;
 }
+
+.content-page{
+  padding-top:10px;
+}
+
+.content-page .content-card{
+  max-width:940px;
+  margin-left:auto;
+  margin-right:auto;
+}

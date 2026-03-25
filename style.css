@@ -871,3 +871,22 @@ body{
 .footer-links a:hover{
   color:#0f172a;
 }
+
+.content-card{
+  background:#ffffff;
+  border:1px solid #e2e8f0;
+  border-radius:18px;
+  padding:22px;
+  margin-bottom:18px;
+  box-shadow:0 10px 25px rgba(0,0,0,.06);
+}
+
+.content-card h2{
+  margin-top:0;
+  color:#0f172a;
+}
+
+.content-card p{
+  color:#334155;
+  line-height:1.7;
+}

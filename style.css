@@ -51,6 +51,18 @@ body{
   color:#fff;
 }
 
+.hero-small{
+  padding:50px 20px 30px;
+}
+
+.hero-small h1{
+  font-size:36px;
+}
+
+.hero-small .hero-text{
+  font-size:16px;
+}
+
 .eyebrow{
   margin:0 0 12px;
   display:inline-block;

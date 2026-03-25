@@ -26,12 +26,12 @@ html, body{
   margin:0;
   padding:0;
   font-family:Arial, Helvetica, sans-serif;
-  background:#f4f6fb;
   color:var(--text);
 }
 
 body{
   min-height:100vh;
+  background:#f4f6fb;
 }
 
 .hero{

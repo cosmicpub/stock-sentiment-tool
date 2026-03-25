@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const target = document.getElementById("site-header");
   if (!target) return;
 
-  fetch("components/header.html")
+  fetch("/stock-sentiment-tool/components/header.html")
     .then(res => res.text())
     .then(html => {
       target.innerHTML = html;

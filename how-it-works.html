@@ -1,1 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>How Ticker Checker Works</title>
+  <meta
+    name="description"
+    content="Learn how Ticker Checker analyzes stock-related headlines, filters relevant news, and produces a sentiment score with confidence and driver tags."
+  />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="site-header"></div>
 
+  <header class="hero hero-small">
+    <div class="hero-inner">
+      <p class="eyebrow">About the Tool</p>
+      <h1>How Ticker Checker Works</h1>
+      <p class="hero-text">
+        Ticker Checker scans recent market news, filters out weak or unrelated stories,
+        and builds a simple sentiment view for a stock based on the strongest matching headlines.
+      </p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="content-card">
+      <h2>What Ticker Checker Does</h2>
+      <p>
+        Ticker Checker is a news-based stock sentiment tool. When you enter a ticker symbol,
+        the tool looks at recent company news and broader market news, then tries to identify
+        which headlines are actually relevant to that company.
+      </p>
+      <p>
+        Instead of simply counting positive and negative words across every article it can find,
+        the tool works to narrow the list down to stories that appear meaningfully connected to
+        the stock being searched. That includes direct company mentions, product-related stories,
+        executive mentions, regulatory developments, industry headlines, and certain macro topics
+        that may affect the business.
+      </p>
+    </section>
+
+    <section class="content-card">
+      <h2>How the Sentiment Score Is Built</h2>
+      <p>
+        Once relevant headlines are identified, Ticker Checker applies a scoring process to estimate
+        whether the recent news flow is leaning bullish, bearish, or mixed. Each headline is reviewed
+        for sentiment-bearing language, relevance strength, and the kind of impact it may have.
+      </p>
+      <p>
+        Headlines that are more directly tied to the company typically carry more weight than weak
+        editorial content or generic market chatter. For example, a product launch, earnings-related
+        update, regulatory action, or major executive story usually matters more than a broad opinion
+        piece or a hype-driven article with little real company-specific information.
+      </p>
+      <p>
+        The final score is not meant to predict exact price movement. It is designed to summarize
+        the direction of recent news pressure around the stock.
+      </p>
+    </section>
+
+    <section class="content-card">
+      <h2>What Confidence Means</h2>
+      <p>
+        Confidence is a quick way of showing how convincing the overall headline signal appears to be.
+        A higher confidence level usually means the tool found multiple relevant stories pointing in a
+        similar direction. A lower confidence level usually means the news is mixed, weak, thin, or
+        less directly connected to the company.
+      </p>
+      <p>
+        In other words, confidence is not saying the stock will definitely rise or fall. It is only
+        describing how strong and consistent the news-based signal appears to be based on the current
+        set of filtered headlines.
+      </p>
+    </section>
+
+    <section class="content-card">
+      <h2>Why Some Headlines Are Included and Others Are Not</h2>
+      <p>
+        Not every headline that contains a ticker symbol is actually useful. Some articles are mostly
+        hype, generic stock chatter, broad market recaps, or low-value commentary. Ticker Checker tries
+        to reduce that noise by ranking stories for relevance and filtering out weaker matches when possible.
+      </p>
+      <p>
+        The tool may also identify whether a story looks more like a direct company event, a regulatory
+        development, a supply chain issue, a competitor signal, or a broader macro market story. That is
+        part of what helps organize the output into something more readable.
+      </p>
+    </section>
+
+    <section class="content-card">
+      <h2>Main Drivers and Impact Types</h2>
+      <p>
+        In addition to the score, Ticker Checker highlights main drivers behind the current signal.
+        These can include areas such as product launches, earnings, regulation, consumer demand,
+        competition, supply chain factors, macro rate concerns, or company-specific developments.
+      </p>
+      <p>
+        This is useful because it helps explain why the tool is leaning bullish, bearish, or mixed.
+        Instead of just seeing a number, you can also see the themes showing up across the strongest
+        recent headlines.
+      </p>
+    </section>
+
+    <section class="content-card">
+      <h2>Important Limitations</h2>
+      <p>
+        Ticker Checker is an informational tool, not an investing recommendation engine. News sentiment
+        is only one piece of the picture. A stock can move against positive headlines, rise during weak
+        news flow, or respond to factors the tool does not fully capture.
+      </p>
+      <p>
+        Investors should always consider broader research, financial statements, valuation, earnings,
+        macro conditions, risk tolerance, and time horizon. This tool is best used as a quick signal
+        layer, not as a final decision-maker.
+      </p>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="js/include-header.js"></script>
+  <script src="js/include-footer.js"></script>
+</body>
+</html>

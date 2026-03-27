@@ -22,6 +22,15 @@ function sentimentClass(label) {
   return "mixed";
 }
 
+function scoreToneClass(score) {
+  if (typeof score !== "number" || Number.isNaN(score)) return "score-tone-neutral";
+  if (score >= 4) return "score-tone-strong-bull";
+  if (score >= 1) return "score-tone-bull";
+  if (score <= -4) return "score-tone-strong-bear";
+  if (score <= -1) return "score-tone-bear";
+  return "score-tone-neutral";
+}
+
 function niceLabel(text) {
   if (!text) return "";
   return text.replace(/_/g, " ").replace(/\b\w/g, char => char.toUpperCase());
@@ -122,24 +131,27 @@ function renderScoreBlock(score, sentiment, confidence) {
   const scoreMeaning = getScoreMeaning(score);
   const scorePos = getMeterPosition(score);
   const badgeClass = sentimentClass(sentiment);
+  const toneClass = scoreToneClass(score);
 
   return `
-    <div class="score-panel">
+    <div class="score-panel premium-score-panel">
       <div class="score-panel-left">
         <div class="score-topline">
           <span class="score-badge ${badgeClass}">${sentiment}</span>
           <span class="score-band-label">${scoreMeaning.band}</span>
         </div>
 
-        <div class="score-main-row">
-          <div class="score-number-card">
+        <div class="score-main-row premium-score-main-row">
+          <div class="score-number-card ${toneClass}">
             <div class="score-number-label">Sentiment Score</div>
             <div class="score-number">${score}</div>
+            <div class="score-number-mini">News pressure reading</div>
           </div>
 
           <div class="score-explainer-card">
             <div class="score-explainer-title">What this means</div>
             <p>${scoreMeaning.explanation}</p>
+
             <div class="confidence-inline">
               <strong>Confidence:</strong> ${confidence || "N/A"}
             </div>
@@ -151,8 +163,9 @@ function renderScoreBlock(score, sentiment, confidence) {
       <div class="score-scale-card">
         <div class="score-scale-title">Score Scale</div>
 
-        <div class="sentiment-meter">
+        <div class="sentiment-meter premium-meter">
           <div class="meter-track"></div>
+          <div class="meter-glow ${toneClass}" style="left:${scorePos}%"></div>
           <div class="meter-pointer" style="left:${scorePos}%"></div>
         </div>
 
@@ -170,6 +183,12 @@ function renderScoreBlock(score, sentiment, confidence) {
           <span>Bullish</span>
         </div>
 
+        <div class="meter-legend">
+          <span class="legend-bear">Negative headline pressure</span>
+          <span class="legend-neutral">Balanced / mixed</span>
+          <span class="legend-bull">Positive headline pressure</span>
+        </div>
+
         <p class="score-note">
           This score reflects <strong>news sentiment pressure</strong>, not a guaranteed price prediction.
         </p>
@@ -179,56 +198,63 @@ function renderScoreBlock(score, sentiment, confidence) {
 }
 
 function renderResultCard(data) {
-  const scoreClass =
-    data.sentiment === "Bullish"
-      ? "score-positive"
-      : data.sentiment === "Bearish"
-      ? "score-negative"
-      : "score-neutral";
+  const toneClass = scoreToneClass(data.sentiment_score);
 
   results.innerHTML = `
-    <div class="result-header">
-      <div>
-        <h2 class="ticker-title">${data.ticker}</h2>
-        <div class="company-sub">${data.company_name || data.ticker}</div>
-      </div>
+    <div class="result-shell">
+      <div class="result-header">
+        <div class="result-header-left">
+          <h2 class="ticker-title">${data.ticker}</h2>
+          <div class="company-sub">${data.company_name || data.ticker}</div>
+        </div>
 
-      <div class="sentiment-pill ${sentimentClass(data.sentiment)}">
-        ${data.sentiment}
-      </div>
-    </div>
-
-    <div class="score-hero-v2 ${scoreClass}">
-      <div class="score-big">
-        ${data.sentiment_score}
-      </div>
-      <div class="score-label">
-        Sentiment Score
-      </div>
-    </div>
-
-    ${renderScoreBlock(data.sentiment_score, data.sentiment, data.confidence)}
-
-    <div class="metrics-grid">
-      <div class="metric-card">
-        <div class="metric-label">Industry</div>
-        <div class="metric-value">${data.industry || "N/A"}</div>
-      </div>
-
-      <div class="metric-card">
-        <div class="metric-label">Price</div>
-        <div class="metric-value">${formatMoney(data.price)}</div>
-      </div>
-
-      <div class="metric-card">
-        <div class="metric-label">Daily Change</div>
-        <div class="metric-value">
-          ${formatMoney(data.change)} (${formatPercent(data.percent_change)})
+        <div class="result-header-right">
+          <div class="sentiment-pill ${sentimentClass(data.sentiment)}">
+            ${data.sentiment}
+          </div>
         </div>
       </div>
-    </div>
 
-    ${renderTopDrivers(data.top_drivers)}
+      <div class="hero-score-strip ${toneClass}">
+        <div class="hero-score-strip-left">
+          <div class="hero-score-kicker">Live Sentiment Reading</div>
+          <div class="hero-score-value">${data.sentiment_score}</div>
+          <div class="hero-score-caption">${getScoreMeaning(data.sentiment_score).band}</div>
+        </div>
+
+        <div class="hero-score-strip-right">
+          <div class="hero-confidence-label">Confidence</div>
+          <div class="hero-confidence-value">${data.confidence || "N/A"}</div>
+          <div class="hero-confidence-copy">${getConfidenceMeaning(data.confidence)}</div>
+        </div>
+      </div>
+
+      ${renderScoreBlock(data.sentiment_score, data.sentiment, data.confidence)}
+
+      <div class="metrics-grid premium-metrics-grid">
+        <div class="metric-card">
+          <div class="metric-label">Company</div>
+          <div class="metric-value">${data.company_name || data.ticker}</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-label">Industry</div>
+          <div class="metric-value">${data.industry || "N/A"}</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-label">Price</div>
+          <div class="metric-value">${formatMoney(data.price)}</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-label">Daily Change</div>
+          <div class="metric-value">${formatMoney(data.change)} (${formatPercent(data.percent_change)})</div>
+        </div>
+      </div>
+
+      ${renderTopDrivers(data.top_drivers)}
+    </div>
   `;
 }
 
@@ -242,6 +268,7 @@ function renderHeadlines(news) {
     const signalClass = sentimentClass(item.signal);
     const source = item.source || "Source";
     const impactType = item.impact_type ? niceLabel(item.impact_type) : "";
+    const scoreClass = scoreToneClass(item.score);
 
     const driverTags = item.driver_tags && item.driver_tags.length
       ? `
@@ -256,7 +283,7 @@ function renderHeadlines(news) {
       : item.headline;
 
     return `
-      <li class="headline-item">
+      <li class="headline-item premium-headline-item">
         <div class="headline-top">
           <div class="headline-source">${source}</div>
           <div class="headline-meta">
@@ -265,7 +292,13 @@ function renderHeadlines(news) {
           </div>
         </div>
 
-        <div class="headline-title">${headline}</div>
+        <div class="headline-main-row">
+          <div class="headline-title">${headline}</div>
+          <div class="headline-score-chip ${scoreClass}">
+            ${item.score > 0 ? "+" : ""}${item.score}
+          </div>
+        </div>
+
         ${driverTags}
       </li>
     `;

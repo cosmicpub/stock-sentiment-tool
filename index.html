@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Stock Sentiment Tool</title>
+  <title>Free Stock Sentiment Score Tool</title>
   <meta
     name="description"
-    content="Analyze stock sentiment using market news, company signals, and relevant drivers."
+    content="Get a free stock sentiment score using market news, company signals, and relevant drivers."
   />
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -17,40 +17,42 @@
 
   <header class="hero">
     <div class="hero-inner">
-      <p class="eyebrow">Market Insight Tool</p>
-      <h1>Stock Sentiment Tool</h1>
+      <p class="eyebrow">Free Market Insight Tool</p>
+      <h1>Free Stock Sentiment Score Tool</h1>
       <p class="hero-text">
-        Search any ticker to see a news-based sentiment signal, confidence level,
-        and the main drivers influencing the stock.
+        Enter any stock ticker to get a free news-based sentiment score, confidence level,
+        and the key drivers influencing the stock right now.
       </p>
+
+      <div class="hero-search-wrap">
+        <div class="search-card hero-search-card">
+          <div class="search-top">
+            <div>
+              <h2>Analyze a Stock</h2>
+              <p class="muted">
+                Try tickers like AAPL, TSLA, NVDA, MSFT, AMZN, META, AMD, or GOOGL.
+              </p>
+            </div>
+          </div>
+
+          <div class="search-row">
+            <input
+              id="tickerInput"
+              type="text"
+              placeholder="Enter ticker (example: AAPL)"
+              autocomplete="off"
+              maxlength="10"
+            />
+            <button id="analyzeBtn" type="button">Analyze Free</button>
+          </div>
+
+          <div id="statusMsg" class="status-msg"></div>
+        </div>
+      </div>
     </div>
   </header>
 
   <main class="container">
-    <section class="search-card">
-      <div class="search-top">
-        <div>
-          <h2>Analyze a Stock</h2>
-          <p class="muted">
-            Try tickers like AAPL, TSLA, NVDA, MSFT, AMZN, META, AMD, or GOOGL.
-          </p>
-        </div>
-      </div>
-
-      <div class="search-row">
-        <input
-          id="tickerInput"
-          type="text"
-          placeholder="Enter ticker (example: AAPL)"
-          autocomplete="off"
-          maxlength="10"
-        />
-        <button id="analyzeBtn" type="button">Analyze</button>
-      </div>
-
-      <div id="statusMsg" class="status-msg"></div>
-    </section>
-
     <section id="results" class="results-card">
       <div class="empty-state">
         <h3>Ready when you are</h3>

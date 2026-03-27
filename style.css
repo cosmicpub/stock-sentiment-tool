@@ -32,17 +32,16 @@ html, body{
 body{
   min-height:100vh;
   background:
-  radial-gradient(circle at top left, rgba(59,130,246,.18), transparent 30%),
-  radial-gradient(circle at top right, rgba(139,92,246,.16), transparent 28%),
-  linear-gradient(180deg, #09111f 0%, #0b1220 100%);
+    radial-gradient(circle at 10% 10%, rgba(79,140,255,.30), transparent 30%),
+    radial-gradient(circle at 90% 12%, rgba(124,92,255,.28), transparent 28%),
+    radial-gradient(circle at 50% 45%, rgba(59,130,246,.10), transparent 34%),
+    linear-gradient(180deg, #121b33 0%, #10182d 35%, #0f172a 68%, #111827 100%);
+  background-attachment:fixed;
 }
 
 .hero{
-  padding:70px 20px 50px;
-  background:
-    radial-gradient(circle at top left, rgba(59,130,246,.25), transparent 35%),
-    radial-gradient(circle at top right, rgba(139,92,246,.22), transparent 30%),
-    linear-gradient(180deg, #0a0f1a 0%, #0b1220 100%);
+  padding:82px 20px 54px;
+  background:transparent;
 }
 
 .hero-inner{
@@ -64,30 +63,35 @@ body{
 }
 
 .eyebrow{
-  margin:0 0 12px;
+  margin:0 0 14px;
   display:inline-block;
   padding:8px 12px;
   border-radius:999px;
-  background:rgba(255,255,255,.08);
-  border:1px solid rgba(255,255,255,.12);
+  background:rgba(255,255,255,.09);
+  border:1px solid rgba(255,255,255,.14);
   font-size:12px;
   letter-spacing:.08em;
   text-transform:uppercase;
 }
 
 .hero h1{
-  margin:0 0 14px;
-  font-size:48px;
-  line-height:1.05;
-  max-width:700px;
+  margin:0 0 16px;
+  font-size:56px;
+  line-height:1.02;
+  max-width:760px;
 }
 
 .hero-text{
   margin:0;
-  max-width:720px;
-  font-size:18px;
+  max-width:760px;
+  font-size:19px;
   line-height:1.7;
-  color:rgba(255,255,255,.84);
+  color:rgba(255,255,255,.88);
+}
+
+.hero-search-wrap{
+  margin-top:30px;
+  max-width:920px;
 }
 
 .container{
@@ -111,6 +115,14 @@ body{
   padding:26px;
   margin-top:-10px;
   margin-bottom:22px;
+}
+
+.hero-search-card{
+  margin-top:0;
+  margin-bottom:0;
+  background:rgba(255,255,255,.97);
+  border:1px solid rgba(255,255,255,.45);
+  box-shadow:0 22px 55px rgba(2, 8, 23, 0.28);
 }
 
 .search-top{
@@ -159,7 +171,7 @@ body{
 
 .search-row button{
   padding:18px 22px;
-  min-width:150px;
+  min-width:170px;
   border:none;
   border-radius:18px;
   background:linear-gradient(135deg, var(--brand) 0%, var(--brand-2) 100%);
@@ -403,11 +415,11 @@ body{
 
 @media (max-width: 720px){
   .hero{
-    padding:56px 16px 42px;
+    padding:58px 16px 40px;
   }
 
   .hero h1{
-    font-size:36px;
+    font-size:38px;
   }
 
   .hero-text{
@@ -433,6 +445,7 @@ body{
     border-radius:20px;
   }
 }
+
 .score-guide{
   margin-top:22px;
   padding:18px;

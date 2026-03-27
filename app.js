@@ -179,17 +179,37 @@ function renderScoreBlock(score, sentiment, confidence) {
 }
 
 function renderResultCard(data) {
+  const scoreClass =
+    data.sentiment === "Bullish"
+      ? "score-positive"
+      : data.sentiment === "Bearish"
+      ? "score-negative"
+      : "score-neutral";
+
   results.innerHTML = `
-    <h2>${data.ticker}</h2>
+    <div class="result-header">
+      <div>
+        <h2 class="ticker-title">${data.ticker}</h2>
+        <div class="company-sub">${data.company_name || data.ticker}</div>
+      </div>
+
+      <div class="sentiment-pill ${sentimentClass(data.sentiment)}">
+        ${data.sentiment}
+      </div>
+    </div>
+
+    <div class="score-hero-v2 ${scoreClass}">
+      <div class="score-big">
+        ${data.sentiment_score}
+      </div>
+      <div class="score-label">
+        Sentiment Score
+      </div>
+    </div>
 
     ${renderScoreBlock(data.sentiment_score, data.sentiment, data.confidence)}
 
     <div class="metrics-grid">
-      <div class="metric-card">
-        <div class="metric-label">Company</div>
-        <div class="metric-value">${data.company_name || data.ticker}</div>
-      </div>
-
       <div class="metric-card">
         <div class="metric-label">Industry</div>
         <div class="metric-value">${data.industry || "N/A"}</div>
@@ -202,7 +222,9 @@ function renderResultCard(data) {
 
       <div class="metric-card">
         <div class="metric-label">Daily Change</div>
-        <div class="metric-value">${formatMoney(data.change)} (${formatPercent(data.percent_change)})</div>
+        <div class="metric-value">
+          ${formatMoney(data.change)} (${formatPercent(data.percent_change)})
+        </div>
       </div>
     </div>
 

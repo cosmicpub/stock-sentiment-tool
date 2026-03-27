@@ -1,3 +1,71 @@
+/* RESULT HEADER */
+.result-header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:18px;
+  flex-wrap:wrap;
+  gap:12px;
+}
+
+.ticker-title{
+  margin:0;
+  font-size:34px;
+}
+
+.company-sub{
+  font-size:14px;
+  color:var(--muted);
+}
+
+/* SENTIMENT PILL */
+.sentiment-pill{
+  padding:10px 16px;
+  border-radius:999px;
+  font-weight:700;
+  font-size:14px;
+}
+
+/* BIG SCORE HERO */
+.score-hero-v2{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  padding:28px;
+  border-radius:20px;
+  margin:20px 0;
+  background:#f8fafc;
+  border:1px solid var(--line);
+}
+
+/* SCORE NUMBER */
+.score-big{
+  font-size:72px;
+  font-weight:900;
+  line-height:1;
+}
+
+/* SCORE LABEL */
+.score-label{
+  font-size:14px;
+  color:var(--muted);
+  margin-top:6px;
+}
+
+/* COLOR STATES */
+.score-positive{
+  background:linear-gradient(180deg, #ecfdf5 0%, #d1fae5 100%);
+}
+
+.score-negative{
+  background:linear-gradient(180deg, #fef2f2 0%, #fee2e2 100%);
+}
+
+.score-neutral{
+  background:linear-gradient(180deg, #f8fafc 0%, #e5e7eb 100%);
+}
+
 :root{
   --bg:#0b1220;
   --bg-soft:#111a2b;

@@ -1,13 +1,11 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const target = document.getElementById("site-footer");
-  if (!target) return;
-
-  fetch("/components/footer.html")
-    .then(res => res.text())
-    .then(html => {
-      target.innerHTML = html;
-    })
-    .catch(err => {
-      console.error("Footer load failed:", err);
-    });
-});
+fetch('/components/footer.html')
+  .then(response => {
+    if (!response.ok) throw new Error('Failed to load footer');
+    return response.text();
+  })
+  .then(data => {
+    document.getElementById('site-footer').innerHTML = data;
+  })
+  .catch(error => {
+    console.error('Footer load error:', error);
+  });

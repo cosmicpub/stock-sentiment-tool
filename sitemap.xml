@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- MAIN PAGES -->
+  <url>
+    <loc>https://stocksentimentscore.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://stocksentimentscore.com/how-it-works.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://stocksentimentscore.com/faq.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://stocksentimentscore.com/about.html</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://stocksentimentscore.com/contact.html</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- BLOG HUB -->
+  <url>
+    <loc>https://stocksentimentscore.com/blog/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- BLOG POSTS -->
+  <url>
+    <loc>https://stocksentimentscore.com/blog/aapl-sentiment.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://stocksentimentscore.com/blog/tsla-sentiment.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://stocksentimentscore.com/blog/nvda-sentiment.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

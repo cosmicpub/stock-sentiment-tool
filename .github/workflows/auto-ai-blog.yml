@@ -38,6 +38,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/market-data.json data/blog-manifest.json blog/*.html
-          git diff --cached --quiet || git commit -m "chore: refresh data and auto-generate AI blog posts"
+          git add blog/*.html data/*.json
+          git diff --cached --quiet || git commit -m "chore: refresh market data and generate AI blog posts"
           git push

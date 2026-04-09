@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-04-09T04:07:09.046601+00:00",
+  "updated_at": "2026-04-09T04:10:46.928370+00:00",
   "source_data_updated_at": "2026-03-20T23:02:45.608848+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
     {
       "ticker": "AAPL",
       "href": "/blog/aapl-sentiment.html",
-      "title": "AAPL Sentiment Today: Mixed (+1)",
-      "excerpt": "AAPL currently reads Mixed at +1 based on recent headline pressure.",
+      "title": "Apple (AAPL) Stock Sentiment Mixed Amid Latest Market Developments",
+      "excerpt": "Apple Inc. (AAPL) shows a mixed market sentiment with low confidence, reflecting a slight price dip to $247.99. Recent news highlights Apple TV\u2019s partnership in Formula 1 and ongoing investor interest, while the broader market buzz includes big moves from Berkshire Hathaway and tech innovations.",
       "sentiment": "Mixed",
       "score": 1
+    },
+    {
+      "ticker": "MSFT",
+      "href": "/blog/msft-sentiment.html",
+      "title": "MSFT Stock Sentiment Mixed Amid Price Drop and Low Confidence",
+      "excerpt": "Microsoft Corporation (MSFT) experiences mixed market sentiment as its stock price drops 1.84%. Despite low confidence, bullish news around AI developments and index additions point to potential opportunities.",
+      "sentiment": "Mixed",
+      "score": 1
+    },
+    {
+      "ticker": "NVDA",
+      "href": "/blog/nvda-sentiment.html",
+      "title": "NVDA Stock Sentiment Mixed Amid Market Volatility and AI Sector News",
+      "excerpt": "NVIDIA's (NVDA) stock sentiment remains mixed as it faces a modest decline to $172.70, influenced by broader market volatility and varied news in the AI and tech sectors.",
+      "sentiment": "Mixed",
+      "score": 1
+    },
+    {
+      "ticker": "TSLA",
+      "href": "/blog/tsla-sentiment.html",
+      "title": "Tesla (TSLA) Stock Sentiment Mixed Amid $4.3B Battery Deal and Market Volatility",
+      "excerpt": "Tesla shares dropped 3.24% to $367.96, reflecting mixed investor sentiment. Despite a significant $4.3 billion battery supply agreement with LG Energy Solution, Tesla faces market headwinds and regulatory scrutiny.",
+      "sentiment": "Mixed",
+      "score": -1
+    },
+    {
+      "ticker": "AMZN",
+      "href": "/blog/amzn-sentiment.html",
+      "title": "Amazon (AMZN) Stock Sentiment Mixed Amid New Phone Development and Market Downturn",
+      "excerpt": "Amazon's stock exhibits mixed sentiment and a 1.62% decline to $205.37, driven by renewed smartphone efforts and broader tech market pressures.",
+      "sentiment": "Mixed",
+      "score": 1
+    },
+    {
+      "ticker": "META",
+      "href": "/blog/meta-sentiment.html",
+      "title": "Meta Stock Sentiment Mixed with Low Confidence Amid Market Volatility",
+      "excerpt": "Meta Platforms\u2019 stock is experiencing mixed sentiment with low confidence, trading down 2.15% at $593.66. Recent developments in AI and tech sectors contribute to investor caution amid broader market shifts.",
+      "sentiment": "Mixed",
+      "score": 2
     }
   ]
 }

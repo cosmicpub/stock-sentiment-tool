@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-04-09T04:07:09.046601+00:00",
+  "source_data_updated_at": "2026-03-20T23:02:45.608848+00:00",
+  "model": "gpt-4.1-mini",
+  "posts": [
+    {
+      "ticker": "AAPL",
+      "href": "/blog/aapl-sentiment.html",
+      "title": "AAPL Sentiment Today: Mixed (+1)",
+      "excerpt": "AAPL currently reads Mixed at +1 based on recent headline pressure.",
+      "sentiment": "Mixed",
+      "score": 1
+    }
+  ]
+}

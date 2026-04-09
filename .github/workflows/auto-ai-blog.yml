@@ -24,7 +24,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
-        run: python scripts/generate_ai_blog.py --mock --limit 1
+        run: python scripts/generate_ai_blog.py
 
       - name: Commit and push if changed
         run: |

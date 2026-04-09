@@ -20,6 +20,14 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Refresh market data from Finnhub
+        env:
+          MARKET_API_KEY: ${{ secrets.MARKET_API_KEY }}
+        run: python scripts/build_data.py
+
       - name: Generate AI blog pages
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -30,6 +38,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add blog/*.html data/blog-manifest.json
-          git diff --cached --quiet || git commit -m "chore: auto-generate AI blog posts"
+          git add data/market-data.json data/blog-manifest.json blog/*.html
+          git diff --cached --quiet || git commit -m "chore: refresh data and auto-generate AI blog posts"
           git push

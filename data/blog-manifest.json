@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-04-09T14:19:47.637264+00:00",
+  "generated_at": "2026-04-10T13:55:06.315066+00:00",
   "posts": [
+    {
+      "ticker": "AAPL",
+      "date": "2026-04-10",
+      "href": "/blog/aapl-sentiment-2026-04-10.html",
+      "title": "Apple Stock Sentiment: Bullish Outlook Amid Market Nuances and Technological Advances",
+      "excerpt": "Apple's stock price stands at $260.32 with a marginal decline, supported by a moderate bullish sentiment score of 5. Key influences include Taiwan Semiconductor's robust AI chip sales, Apple's new streaming collaboration with Amazon Prime Video, and steady growth in global smartphone shipments despite market pressure.",
+      "sentiment": "Bullish",
+      "score": 5
+    },
+    {
+      "ticker": "MSFT",
+      "date": "2026-04-10",
+      "href": "/blog/msft-sentiment-2026-04-10.html",
+      "title": "Microsoft Stock Sentiment Analysis: April 2026 Update",
+      "excerpt": "Microsoft's stock shows a slight decrease amid mixed sentiment and low confidence. Recent industry reports highlight growth opportunities in enterprise ICT globally, while challenges in AI infrastructure emerge as a key consideration.",
+      "sentiment": "Mixed",
+      "score": -2
+    },
+    {
+      "ticker": "NVDA",
+      "date": "2026-04-10",
+      "href": "/blog/nvda-sentiment-2026-04-10.html",
+      "title": "Nvidia (NVDA) Stock Sentiment and Market Overview on April 10, 2026",
+      "excerpt": "Nvidia (NVDA) shares rose by 1.96% reaching $187.51 amid a moderate bullish market sentiment. Recent news highlights semiconductor sales performance, developments in AI infrastructure investment, and macroeconomic factors influencing the sector.",
+      "sentiment": "Bullish",
+      "score": 3
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2026-04-10",
+      "href": "/blog/tsla-sentiment-2026-04-10.html",
+      "title": "Tesla (TSLA) Stock Sentiment Analysis: April 2026 Update",
+      "excerpt": "Tesla's stock continues to show mixed sentiment with a modest price increase in April 2026. Recent news reflects a variety of developments from Elon Musk\u2019s ventures to general sector trends, against a backdrop of cautious market confidence.",
+      "sentiment": "Mixed",
+      "score": 1
+    },
+    {
+      "ticker": "AMZN",
+      "date": "2026-04-10",
+      "href": "/blog/amzn-sentiment-2026-04-10.html",
+      "title": "Amazon Stock Sentiment April 2026: Moderate Bullish Outlook Amid Strategic Moves",
+      "excerpt": "Amazon stock trades at $237.89, showing a 1.81% gain with a moderately confident bullish sentiment. Recent developments include strategic partnerships and advancements in AI chip capabilities, positioning Amazon favorably in a competitive tech landscape.",
+      "sentiment": "Bullish",
+      "score": 3
+    },
+    {
+      "ticker": "META",
+      "date": "2026-04-10",
+      "href": "/blog/meta-sentiment-2026-04-10.html",
+      "title": "META Stock Sentiment Overview: Mixed Signals Amid AI and Legal Challenges",
+      "excerpt": "META stock exhibits mixed sentiment with low confidence, influenced by increased AI spending, significant partnerships, and ongoing legal issues. Recent news highlights both bullish and bearish elements shaping META's near-term trajectory.",
+      "sentiment": "Mixed",
+      "score": 2
+    },
     {
       "ticker": "AAPL",
       "date": "2026-04-09",
@@ -56,6 +110,6 @@
       "score": 2
     }
   ],
-  "market_data_updated_at": "2026-04-09T14:19:47.554993+00:00",
+  "market_data_updated_at": "2026-04-10T13:55:06.234168+00:00",
   "model": "gpt-4.1-mini"
 }

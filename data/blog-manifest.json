@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-04-10T13:55:06.315066+00:00",
+  "generated_at": "2026-04-11T21:45:16.676399+00:00",
   "posts": [
+    {
+      "ticker": "WAR",
+      "title": "WAR Stock Shows Bearish Sentiment Amid US-Iran War Uncertainties",
+      "excerpt": "WAR stock is trading at $26.10 with a high-confidence bearish sentiment rating of -2. Market reactions mirror geopolitical tensions and ongoing US-Iran war talks affecting fuel prices and oil supply.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "href": "/blog/war-news-impact-2026-04-11.html",
+      "published_date": "2026-04-11",
+      "generated_at": "2026-04-11T21:45:16.676399+00:00"
+    },
     {
       "ticker": "AAPL",
       "date": "2026-04-10",
@@ -8,7 +18,8 @@
       "title": "Apple Stock Sentiment: Bullish Outlook Amid Market Nuances and Technological Advances",
       "excerpt": "Apple's stock price stands at $260.32 with a marginal decline, supported by a moderate bullish sentiment score of 5. Key influences include Taiwan Semiconductor's robust AI chip sales, Apple's new streaming collaboration with Amazon Prime Video, and steady growth in global smartphone shipments despite market pressure.",
       "sentiment": "Bullish",
-      "score": 5
+      "score": 5,
+      "published_date": "2026-04-10"
     },
     {
       "ticker": "MSFT",
@@ -17,7 +28,8 @@
       "title": "Microsoft Stock Sentiment Analysis: April 2026 Update",
       "excerpt": "Microsoft's stock shows a slight decrease amid mixed sentiment and low confidence. Recent industry reports highlight growth opportunities in enterprise ICT globally, while challenges in AI infrastructure emerge as a key consideration.",
       "sentiment": "Mixed",
-      "score": -2
+      "score": -2,
+      "published_date": "2026-04-10"
     },
     {
       "ticker": "NVDA",
@@ -26,7 +38,8 @@
       "title": "Nvidia (NVDA) Stock Sentiment and Market Overview on April 10, 2026",
       "excerpt": "Nvidia (NVDA) shares rose by 1.96% reaching $187.51 amid a moderate bullish market sentiment. Recent news highlights semiconductor sales performance, developments in AI infrastructure investment, and macroeconomic factors influencing the sector.",
       "sentiment": "Bullish",
-      "score": 3
+      "score": 3,
+      "published_date": "2026-04-10"
     },
     {
       "ticker": "TSLA",
@@ -35,7 +48,8 @@
       "title": "Tesla (TSLA) Stock Sentiment Analysis: April 2026 Update",
       "excerpt": "Tesla's stock continues to show mixed sentiment with a modest price increase in April 2026. Recent news reflects a variety of developments from Elon Musk\u2019s ventures to general sector trends, against a backdrop of cautious market confidence.",
       "sentiment": "Mixed",
-      "score": 1
+      "score": 1,
+      "published_date": "2026-04-10"
     },
     {
       "ticker": "AMZN",
@@ -44,7 +58,8 @@
       "title": "Amazon Stock Sentiment April 2026: Moderate Bullish Outlook Amid Strategic Moves",
       "excerpt": "Amazon stock trades at $237.89, showing a 1.81% gain with a moderately confident bullish sentiment. Recent developments include strategic partnerships and advancements in AI chip capabilities, positioning Amazon favorably in a competitive tech landscape.",
       "sentiment": "Bullish",
-      "score": 3
+      "score": 3,
+      "published_date": "2026-04-10"
     },
     {
       "ticker": "META",
@@ -53,7 +68,8 @@
       "title": "META Stock Sentiment Overview: Mixed Signals Amid AI and Legal Challenges",
       "excerpt": "META stock exhibits mixed sentiment with low confidence, influenced by increased AI spending, significant partnerships, and ongoing legal issues. Recent news highlights both bullish and bearish elements shaping META's near-term trajectory.",
       "sentiment": "Mixed",
-      "score": 2
+      "score": 2,
+      "published_date": "2026-04-10"
     },
     {
       "ticker": "AAPL",
@@ -62,7 +78,8 @@
       "title": "Apple (AAPL) Stock Sentiment Remains Bullish Amid Strong Mac Demand and Foldable iPhone Developments",
       "excerpt": "Apple's stock price rose 2.13% to $258.90, supported by high demand for Macs and ongoing development of its foldable iPhone. Despite some engineering challenges reported, investor sentiment remains bullish with high confidence.",
       "sentiment": "Bullish",
-      "score": 7
+      "score": 7,
+      "published_date": "2026-04-09"
     },
     {
       "ticker": "MSFT",
@@ -71,7 +88,8 @@
       "title": "Microsoft (MSFT) Stock Sentiment and Market Update: Moderate Bullish Outlook",
       "excerpt": "Microsoft (MSFT) stock demonstrated a moderate bullish sentiment on April 9, 2026, with a price gain of 0.55%. Investors anticipate the upcoming Q3 earnings release, while industry developments influence market positioning.",
       "sentiment": "Bullish",
-      "score": 3
+      "score": 3,
+      "published_date": "2026-04-09"
     },
     {
       "ticker": "NVDA",
@@ -80,7 +98,8 @@
       "title": "Nvidia (NVDA) Stock Sentiment Analysis: Mixed Signals Amid AI Growth and Market Uncertainty",
       "excerpt": "Nvidia's stock shows a mixed sentiment with a modest price increase fueled by positive AI partnerships and market developments. This article analyzes recent news, sentiment drivers, and what investors should consider.",
       "sentiment": "Mixed",
-      "score": 2
+      "score": 2,
+      "published_date": "2026-04-09"
     },
     {
       "ticker": "TSLA",
@@ -89,7 +108,8 @@
       "title": "Tesla (TSLA) Stock Sentiment Update: Mixed Signals Amid Delivery Miss and AI Initiatives",
       "excerpt": "Tesla\u2019s stock shows a mixed sentiment scenario as Tesla reports delivery shortfalls and a shrinking energy segment, while simultaneously advancing in AI chip initiatives with partners like Intel. Understand the current market view and recent developments impacting Tesla\u2019s stock.",
       "sentiment": "Mixed",
-      "score": 1
+      "score": 1,
+      "published_date": "2026-04-09"
     },
     {
       "ticker": "AMZN",
@@ -98,7 +118,8 @@
       "title": "Amazon (AMZN) Stock Outlook: Bullish Sentiment Gains Momentum Amid Strategic Investments",
       "excerpt": "Amazon\u2019s stock price increased by 3.5% to $221.25, reflecting a moderate bullish sentiment supported by ongoing AI investments and strong AWS business momentum. Despite some investor concerns around capital expenditures, the overall outlook remains positive with potential upside.",
       "sentiment": "Bullish",
-      "score": 3
+      "score": 3,
+      "published_date": "2026-04-09"
     },
     {
       "ticker": "META",
@@ -107,9 +128,11 @@
       "title": "Meta Stock Surges 6.5% Amid Mixed Sentiment and AI Developments",
       "excerpt": "Meta's stock climbed 6.5% to $612.42 on April 9, 2026, reflecting investor enthusiasm over new AI initiatives and partnerships despite mixed overall sentiment and low confidence levels.",
       "sentiment": "Mixed",
-      "score": 2
+      "score": 2,
+      "published_date": "2026-04-09"
     }
   ],
   "market_data_updated_at": "2026-04-10T13:55:06.234168+00:00",
-  "model": "gpt-4.1-mini"
+  "model": "gpt-4.1-mini",
+  "market_data_as_of": "2026-04-11T21:45:16.676399+00:00"
 }

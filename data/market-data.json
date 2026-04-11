@@ -1,82 +1,82 @@
 {
-  "updated_at": "2026-04-10T13:55:06.234168+00:00",
+  "updated_at": "2026-04-11T21:45:16.600607+00:00",
   "stocks": [
     {
       "ticker": "AAPL",
-      "price": 260.32,
-      "change": -0.17,
-      "percent_change": -0.0653,
-      "high": 260.64,
-      "low": 259.07,
-      "open": 259.99,
+      "price": 260.48,
+      "change": -0.01,
+      "percent_change": -0.0038,
+      "high": 262.19,
+      "low": 259.023123,
+      "open": 259.98,
       "previous_close": 260.49,
-      "sentiment": "Bullish",
-      "sentiment_score": 5,
-      "confidence": "Moderate",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.07% today.",
+      "sentiment": "Mixed",
+      "sentiment_score": 0,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of -0.00% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "TSMC Tops Q1 Sales Target On Strong AI Chip Demand",
-          "summary": "Taiwan Semiconductor Manufacturing beat analyst estimates for sales in March and the full first quarter. TSM stock rose on the news.",
+          "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
+          "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80284b6914acfbb1e4480b1a44047148221fe1b3078e51429f3fd7d95e5be97a",
-          "score": 2,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Apple TV Lands On Amazon Prime Video In US Streaming Tie-Up",
-          "summary": "Apple and Amazon are deepening their partnership by bringing Apple TV to Prime Video as a paid add-on, expanding distribution.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3cf96e324e03cfa465286599236ff7c47195086ae316e998288647caa2464329",
+          "url": "https://finnhub.io/api/news?id=50b88ff077b77989fb8e9fc25ae087549eaa130b48827a7c497218cf6f1dbc88",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Apple leads global smartphone shipments in first quarter, Counterpoint says",
-          "summary": "iPhone-maker Apple \u200cled \u200csmartphone shipments in \u200bthe first quarter, growing 5% \u200cyear-on-year, \u2060even as overall \u2060global shipments \u200bremained \u200bunder pressure \u200bdue \u200cto a shortage of memory components and \u200cweak \u200bconsumer \u200bsentiment, \u200bCounterpoint \u200cResearch said on \u200bFriday. (Reporting \u200bby Ananya Palyekar \u200bin \u200cBengaluru; Editing \u200bby Sahal \u200bMuhammed)",
+          "headline": "Japan Bets $16 Billion to Propel Rapidus in Global AI Chip Race",
+          "summary": "(Bloomberg) -- Japan approved \u00a5631.5 billion ($4 billion) in additional subsidies to quicken Rapidus Corp.\u2019s entry into the high-stakes AI chipmaking arena, ramping up support for a project widely regarded as a long shot.The capital is intended to bankroll Rapidus\u2019 work for IT firm Fujitsu Ltd., one of the initial clients that Tokyo hopes will get the signature endeavor off the ground. The new money raises the fees and investments that the government is injecting into the startup to \u00a52.6 trillio",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d21fec06b4d91b03fd94480e631cb0a3e796284c729c97e7accbb2c1a4cd38ee",
+          "url": "https://finnhub.io/api/news?id=933352638ba0a53cc4a4e341c217e99d55c64eca77277bde1a0b9bdfe578e3ec",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "TSMC revenue surges 35% on AI chip demand",
-          "summary": "STORY: :: TSMCThe world's largest contract chipmaker, TSMC, saw first-quarter revenue surge 35% thanks to the AI boom.\u00a0Revenue from January-March hit $35.7 billion, beating market forecasts on surging interest in artificial intelligence applications.Friday's results are in line with TSMC's January guidance of up to to $35.8 billion on its last earnings call.The tech titan will report full first-quarter earnings on April 16, including an updated current quarter and full year outlook.The company has been a major beneficiary of advances in AI.That boom has more than offset a tapering-off in pandemic-led demand for chips used in consumer electronics like tablets.TSMC's customers include Nvidia and Apple.:: TSMCIts shares closed up more than 2% on Friday.",
+          "headline": "VTSAX vs VOO ETF: Which Vanguard Fund Should You Buy in 2026?",
+          "summary": "For investors seeking low-cost U.S. stock market exposure, two Vanguard funds dominate the conversation: the Vanguard Total Stock Market Index Fund Admiral Shares (VTSAX) and the Vanguard S&P 500 ETF (VOO). At first glance, choosing between a mutual fund and an ETF can feel confusing. Both give you broad exposure to the U.S. market, but they work differently when it comes to how you buy, trade, and manage them. Here, we compare both to help investors decide which option may be the better fit for",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc043d1b20a7b263ce14e568d471fa18152e10ec4d4c2ae1efd87fe23595280e",
-          "score": 3,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "The 'Mag 7' Just Became The 'Lag 7': Analyst",
-          "summary": "Craig Johnson sees a &#34;bullish market with a lowercase b.&#34; Learn why Piper Sandler predicts a modest 5% upside and a rotation out of big tech.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ae5fe21d928c32ffb9271c718d6f02a1b6c4e4bfab2e502f670091b0413d1406",
+          "url": "https://finnhub.io/api/news?id=b969c9986f7ff1c8b1b9d29eb9a98f1a43abdbc133330886056250f4cf35ddfa",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "GPIQ: Goldman Sachs Built The Income ETF I Wish Existed 5 Years Ago",
-          "summary": "Goldman Sachs Nasdaq-100 Premium Income ETF (GPIQ) uses a dynamic covered call strategy to target 10.42% yield, tax-advantaged income, and returns\u00e2\u0080\u0094read now.",
+          "headline": "After A Chaotic Q1, I'm Buying XLK And XLC As The Market Exhales",
+          "summary": "XLK outlook: why tech remains a buy despite Q1 volatility.",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7a988f19ad0ec845aed45b7c11a6b388a59e10b84011a3bd04c3eb7daf6ec9b0",
+          "url": "https://finnhub.io/api/news?id=b39b8822363385d3c03c96b9d75bdeeb39e8eae0ec0592813a2ad5b22317cd0e",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Malaysia Enterprise ICT Intelligence Report 2025 Featuring Microsoft, Telekom Malaysia, Alibaba, Apple, and Accenture",
-          "summary": "The Malaysian enterprise ICT market is poised for growth, driven by digital investments, government initiatives, and infrastructure upgrades. Key opportunities lie in IoT, particularly in manufacturing, retail, energy, and transport sectors, as they adopt Industry 4.0 technologies for digitalization and efficiency improvements.Dublin, April 10, 2026 (GLOBE NEWSWIRE) -- The \"Malaysia - Enterprise ICT Country Intelligence Report\" report has been added to ResearchAndMarkets.com's offering. The repo",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7ab2e4ab8ef73b8d6c1ab457b6bb831ee7155b21ded43d5c91b6ee245d0c78d",
+          "headline": "Potential $5,000 Monthly Income: 12 Investments To Buy And Hold For The Next 10 Years",
+          "summary": "Diversified hands-off retirement portfolio: 12 funds (ETFs/CEFs/mutual) targeting 6% yield + 6% dividend growth. Read the full list of picks here.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9396a9f8c8bf0312e7f3191e7f7aa96c2b18a3dfc0ecfb79d7f2748a1cf5c104",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Apple Fell Behind on Marketing to Gen-Z. The Neo Changed Everything.",
-          "summary": "Apple has been posting a variety of new TikTok videos. They could be just what\u2019s needed to lift the Neo.",
+          "headline": "Anthropic, OpenAI And Big Tech's 'Number One Goal' Is To Kill OpenClaw, Says Venture Capitalist Jason Calacanis",
+          "summary": "Jason Calacanis says competitors are racing to overtake OpenClaw, highlighting growing rivalry in the AI agent space.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=d00b1cb28dd535fa148245b3403759e49e712364de935d3b9c11214b75f5ad24",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Apple Hires Uber\u2019s Asia-Pacific Government Relations Chief",
+          "summary": "(Bloomberg) -- Apple Inc. has hired Uber Technologies Inc.\u2019s head of public policy and government relations for Asia-Pacific as it looks to revamp its supply chains in the region.Mike Orgill took up his new role with the iPhone maker this week, according to people familiar with the matter. Neither Orgill, Apple nor Uber immediately responded to requests for comment.Asia is a key region for the Cupertino, California-based company, which has been diversifying supply chains away from China and has",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2890c6f23e305284f2a7e548f38916f35c16b7786628dfe421b166680f0ccb97",
+          "url": "https://finnhub.io/api/news?id=f6b3a0713e99f64b50abe8990028d69ec3679935eafd19852428e88cfd0055ff",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Apple, Levi\u2019s, and 5 More Stocks Get Analyst Attention",
+          "summary": "RESEARCH REPORTS These reports, excerpted and edited by Barron\u2019s, were issued recently by investment and research firms. The reports are a sampling of analysts\u2019 thinking; they should not be considered the views or recommendations of Barron\u2019s.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6ad6272f40efa15c9304b2919c083d71b2409ad616ab3eb840e4ec4912fcd7d2",
           "score": 0,
           "signal": "Neutral"
         }
@@ -84,161 +84,161 @@
     },
     {
       "ticker": "MSFT",
-      "price": 372.8,
-      "change": -0.27,
-      "percent_change": -0.0724,
+      "price": 370.87,
+      "change": -2.2,
+      "percent_change": -0.5897,
       "high": 375.64,
-      "low": 371.1,
-      "open": 373.755,
+      "low": 370.03,
+      "open": 372.98,
       "previous_close": 373.07,
       "sentiment": "Mixed",
       "sentiment_score": -2,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more negative language and a stock move of -0.07% today.",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of -0.59% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Why Microsoft and Google could be the best Mag 7 stock picks",
-          "summary": "In the video above, Yacktman Asset Management president Molly Pieroni shares and defends her top two \"Magnificent Seven\" (MAGS) stock picks with Yahoo Finance.",
+          "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
+          "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47724d7d2050eb4d4321daea5788c6004ef3122fe3c274ffd3750a03412273a6",
+          "url": "https://finnhub.io/api/news?id=50b88ff077b77989fb8e9fc25ae087549eaa130b48827a7c497218cf6f1dbc88",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "While Amazon, Microsoft, Google Struggle With AI On Land \u2014 China Looks To The Sea",
-          "summary": "The AI race is running into an unexpected wall\u2014and it's not chips or capital. It's water, power, and local resistance. As Amazon.com, Inc., Microsoft Corporation, and Alphabet Inc. push to expand data center capacity, investors are starting to question whether the physical footprint of AI is becoming the real constraint. AI Growth Meets Real-World Limits According to a Reuters report, multiple hyperscalers have already scrapped or delayed billion-dollar data center projects in the U.S. amid comm",
+          "headline": "Microsoft's 'Copilot Code Red': CEO Nadella Deploys Emergency Overhaul To Crush AI Rivals",
+          "summary": "Microsoft Corp stock could regain momentum as improving AI execution, cloud growth and financial balance address investor concerns, according to BNP Paribas analyst Stefan Slowinski. Copilot Push Aims To Restore Confidence Slowinski said investor frustration stems from limited traction in Microsoft's Copilot offering despite its leadership in SaaS through 365 Commercial Cloud. He noted that CEO Satya Nadella is driving a \"Copilot code red\" effort to improve performance and the user experience, w",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f08aa2aed420d6c0cdf62608dc954a8e167c924da08d00843d9fe2b37f77c2c",
+          "url": "https://finnhub.io/api/news?id=ae4f26b5f12a7dc918b12fc41ba5d699d5cfcd7e2638d6fd8426d2fcd3e88043",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Anthropic Mythos Triggers Bessent, Powell's Meeting With Wall Street Banks to Assess Risks Posed by AI Model",
-          "summary": "Amazon.com (AMZN)-backed Anthropic's Mythos reportedly prompted Treasury Secretary Scott Bessent and",
+          "headline": "Goldman Sachs drops a bombshell on software stocks",
+          "summary": "Software stocks just recorded the worst relative performance against the S&P 500 in the sector\u2019s entire recorded history. The iShares Expanded Tech-Software Sector ETF (IGV) cratered more than 24% in Q1 2026, its steepest quarterly plunge since Q4 2008. Salesforce, Adobe, Oracle, and even ...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f80b13734f11bec537b0a01e29761b9744c3aa0dec0fb534ca01182d2179e22f",
+          "url": "https://finnhub.io/api/news?id=ab526e6f91bf4fb8eea41fd480989c7bdc8c56bf31af826366f1975141a8c763",
           "score": -2,
           "signal": "Bearish"
         },
         {
-          "headline": "The 'Mag 7' Just Became The 'Lag 7': Analyst",
-          "summary": "Craig Johnson sees a &#34;bullish market with a lowercase b.&#34; Learn why Piper Sandler predicts a modest 5% upside and a rotation out of big tech.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ae5fe21d928c32ffb9271c718d6f02a1b6c4e4bfab2e502f670091b0413d1406",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "United States Enterprise ICT Intelligence Report 2025 Featuring Vodafone, Accenture, Microsoft, Siemens, and Capita - Opportunity Forecasts to 2029",
-          "summary": "Key market opportunities in US enterprise ICT include growing IoT adoption fueled by advanced technologies, increased ICT budgets driven by digitization, and BFSI sector expansion. The report highlights revenue prospects by solution areas, business size, and economic trends guiding strategic IT investments.Dublin, April 10, 2026 (GLOBE NEWSWIRE) -- The \"US - Enterprise ICT Country Intelligence Report\" report has been added to ResearchAndMarkets.com's offering.The report reveals an executive-leve",
+          "headline": "Not All the Signals Are Bearish Under President Donald Trump \u2014 Here\u2019s What Bulls Are Watching",
+          "summary": "The S&P 500 returned 12.8% from Election Day 2024 through April 10, 2026, according to FactSet market data. Higher oil prices and tariff headlines created volatility, yet corporate results held firm and policy moves delivered support. Amid concerns about war, oil prices, inflation, and the economy, bulls are zeroing in on three clear positives: earnings ... Not All the Signals Are Bearish Under President Donald Trump \u2014 Here\u2019s What Bulls Are Watching",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1349ff34eff945ffd02ba0c78e3320461345481666e62d3afe868bb5c8d90886",
-          "score": 0,
-          "signal": "Neutral"
+          "url": "https://finnhub.io/api/news?id=56606bd6933f84cc535be91314030affaada17d59306ce4c3fbbca72a5e3c35d",
+          "score": -1,
+          "signal": "Bearish"
         },
         {
-          "headline": "Australia Enterprise ICT Intelligence Report 2025 Featuring Microsoft, Accenture, IBM, TPG Telecom, and Oracle - Opportunity Forecasts to 2029",
-          "summary": "Australia's ICT market is set for growth driven by digital transformation, focusing on AI, cloud, IoT, and cybersecurity. Cloud computing emerges as a key opportunity, supported by favorable government initiatives. BFSI remains the largest revenue contributor, driving continued investment in ICT solutions.Dublin, April 10, 2026 (GLOBE NEWSWIRE) -- The \"Australia - Enterprise ICT Country Intelligence Report\" report has been added to ResearchAndMarkets.com's offering.The Australia Enterprise ICT C",
+          "headline": "Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
+          "summary": "The S&P 500 is mixed after March inflation came in just below forecasts and uncertainty over a peaceful resolution to the Iran war. Tech stocks, though, were once again doing the heavy lifting. Right in the middle is Nvidia (NASDAQ:NVDA), which just logged its eighth consecutive session of gains through Friday\u2019s close, with the stock ... Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3e8b8cd7383a35e25716f03ee37c391eab18d0412f6e98195cf51e14c8bebf3",
+          "url": "https://finnhub.io/api/news?id=8dc7c0495ab750335a9700c8ce7d6d69c1bfc96c5683e23358cf5dc6f37a3d0c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Malaysia Enterprise ICT Intelligence Report 2025 Featuring Microsoft, Telekom Malaysia, Alibaba, Apple, and Accenture",
-          "summary": "The Malaysian enterprise ICT market is poised for growth, driven by digital investments, government initiatives, and infrastructure upgrades. Key opportunities lie in IoT, particularly in manufacturing, retail, energy, and transport sectors, as they adopt Industry 4.0 technologies for digitalization and efficiency improvements.Dublin, April 10, 2026 (GLOBE NEWSWIRE) -- The \"Malaysia - Enterprise ICT Country Intelligence Report\" report has been added to ResearchAndMarkets.com's offering. The repo",
+          "headline": "VTSAX vs VOO ETF: Which Vanguard Fund Should You Buy in 2026?",
+          "summary": "For investors seeking low-cost U.S. stock market exposure, two Vanguard funds dominate the conversation: the Vanguard Total Stock Market Index Fund Admiral Shares (VTSAX) and the Vanguard S&P 500 ETF (VOO). At first glance, choosing between a mutual fund and an ETF can feel confusing. Both give you broad exposure to the U.S. market, but they work differently when it comes to how you buy, trade, and manage them. Here, we compare both to help investors decide which option may be the better fit for",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7ab2e4ab8ef73b8d6c1ab457b6bb831ee7155b21ded43d5c91b6ee245d0c78d",
+          "url": "https://finnhub.io/api/news?id=b969c9986f7ff1c8b1b9d29eb9a98f1a43abdbc133330886056250f4cf35ddfa",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Marching Through Iran - A First Quarter 2026 Review",
-          "summary": "The month of March followed the old aphorism nicely from a weather and climate perspective.",
+          "headline": "GDV returned 42% in a year by betting on dividend anchors like JPMorgan and Amex",
+          "summary": "Gabelli Dividend & Income Trust (NYSE:GDV) trades around $28 and has returned 42% over the past year, a number that tells you something important before you even look at the income. This closed-end fund launched in November 2003 with $2.9 billion in total net assets and seeks high total return with an emphasis on dividends ... GDV returned 42% in a year by betting on dividend anchors like JPMorgan and Amex",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=74271f3cee53f83207aa32b06a4cf17938b8300193a564e21c11eac1549b134c",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "The Software Narrative Is Leaking Badly Again Thanks To Anthropic Mythos",
+          "summary": "Anthropic\u00e2\u0080\u0099s Mythos AI sparks a SaaS stock selloff and new cybersecurity risks (CRWD, PANW).",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=942f9c8107037b11a59ff4428473f7a18bde3b8bc98efd5983e22c0e04b335c3",
-          "score": 0,
-          "signal": "Neutral"
+          "url": "https://finnhub.io/api/news?id=5583adae7bf42ead7ed16fe3e4d6bb85eaba9b06fe55e02815e334ea06f87a34",
+          "score": 1,
+          "signal": "Bullish"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "price": 187.51,
-      "change": 3.6,
-      "percent_change": 1.9575,
-      "high": 187.69,
-      "low": 183.685,
-      "open": 183.685,
+      "price": 188.63,
+      "change": 4.72,
+      "percent_change": 2.5665,
+      "high": 190,
+      "low": 184.3,
+      "open": 184.31,
       "previous_close": 183.91,
-      "sentiment": "Bullish",
-      "sentiment_score": 3,
-      "confidence": "Moderate",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of +1.96% today.",
+      "sentiment": "Mixed",
+      "sentiment_score": 0,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of +2.57% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "New to Investing? Here's Why Amazon Stock Is a Great First Buy.",
-          "summary": "New to investing and unsure where to start? This beginner-friendly breakdown explains why Amazon stock could be one of the simplest and smartest first buys for your portfolio.",
+          "headline": "Dow Jones Futures Eye Direct U.S.-Iran Talks; Google, Amazon, Nvidia In Buy Areas",
+          "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20f4a0536a34728f8005cdeed83fee6509888288a41eb8a0d0538dff50b490f5",
+          "url": "https://finnhub.io/api/news?id=c69e0d6ed7648d0cbadb4013d0ae5e20a1b65818660e9338b1997e88255a1c36",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Dow Jones Futures: Trump, Iran Issue Threats; Nvidia Chipmaker Beats Views, CPI Inflation Due",
-          "summary": "Dow Jones futures: Trump issued demands while Iran may boycott peace talks. Nvidia chipmaker Taiwan Semi's sales beat. CPI Inflation data looms.",
+          "headline": "I've Changed My Mind on Palantir Stock. The Great Repricing Makes It a Buy.",
+          "summary": "Palantir is winning by turning AI demos into real workflows fast.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=05b815b845f7de07137549cf0e3212e8d5148ac8b3fc6efb1638f81d66d97d86",
-          "score": 2,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "This Week In AI Chips - Powering AI The New ETF Revolutionizing Infrastructure Investment",
-          "summary": "Wedbush Fund Advisers has launched the Dan IVES Wedbush AI Power & Infrastructure ETF (IVEP) to target companies crucial to the expanding AI infrastructure landscape. As AI technology adoption accelerates, the demand for energy and infrastructure has emerged as a significant factor, with AI workloads imposing higher energy requirements than traditional computing. IVEP aims to provide investors with access to the companies facilitating this expansion across key segments like power generation...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b717dc5b2bc99eb477637d17e32718d7a3d1637f7b63d71cd0c3a1037079f02a",
+          "url": "https://finnhub.io/api/news?id=33da90daf9e1ecb003927b135566ab3d8dca58b951ba3c23736f76d79d2019f2",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "What Is One of the Best Growth Stocks to Buy With $500 Today?",
-          "summary": "SoundHound AI doesn't have to wait for the future to make money.",
+          "headline": "Prediction: A Cheaper EV Could Be a Game Changer for Tesla's Business",
+          "summary": "The company hasn't said its last word.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56c7193265a41d042389d3a54d5552918189d95792ab455eec7d5200fd3af9e9",
-          "score": 1,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Beamr Launches VISTA for Subjective Quality Testing at Scale",
-          "summary": "VISTA platform validated NVIDIA RTX Video Super Resolution's higher quality over standard upscaling through real-viewer testing with statistical confidence. The results to be demonstrated at NAB Show 2026 Herzliya, Israel, April 10, 2026 (GLOBE NEWSWIRE) -- Beamr Imaging Ltd. (NASDAQ: BMR), a leader in video optimization technology and solutions, today announced the launch of VISTA, a managed platform for subjective video quality testing at scale. Beamr will present a demonstration applying VIST",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d1022997ee5174ebbc50161270b58de148798b03c7488cb6d2eafc0b9a0874a",
+          "url": "https://finnhub.io/api/news?id=d014790c3d9fcf0d1b6a510d6434011712c40497c6df9094fa3a657c73136ce6",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Is It Too Late to Buy Palantir Stock?",
-          "summary": "Palantir stock is up more than 550% over the last five years. Can it still be a winner?",
+          "headline": "3 Dividend Stocks That Are Obvious Buys in Today's Uncertain Market",
+          "summary": "When markets get shaky, the stocks you trust most tend to be the ones built to last. Here are three strong dividend buys as money gets tight.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8170500a2e4c24d00408aa1fb53d45d91372ea360f2a1cb42c6d55daeb44f37b",
+          "url": "https://finnhub.io/api/news?id=f172ba316e654a0d73ff843ba2a6a1c152e937f4bbc97abc32559ac91fe2ed6c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "1 Reason to Buy and Hold Costco Stock for the Next 10 Years",
-          "summary": "When you're making money even before people visit your store, you're winning.",
+          "headline": "Is Nvidia the Best Buy in the Entire Stock Market?",
+          "summary": "Nvidia's disappointing performance is a fantastic buying opportunity.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0ac3c059cafc23e36e89532f13fd59fac1d48f35fe040466a8a1b25581629f2",
+          "url": "https://finnhub.io/api/news?id=fd2964000720c3d7df786393acde21f048db282c3c47773785dee65f58b9105f",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "2 Recession Resistant Dividend Stocks to Buy Now While They're Still Cheap",
-          "summary": "Healthcare never sleeps.",
+          "headline": "Is Beyond Meat Beyond Repair?",
+          "summary": "Beyond Meat has an uphill battle, to put it lightly.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bdc27578224f0fcbcebcbcea028c4c84377093d00c8e99d4aeaf76fe41407c51",
+          "url": "https://finnhub.io/api/news?id=854fca635c260350cdf88ba5a1c1f1d97edbb352ee05fb66d887c83c8aa16e82",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Nvidia Extends AI Data Center Reach With Vera Rubin And Micron Deal",
+          "summary": "Nvidia, ticker NasdaqGS:NVDA, has introduced the Vera Rubin AI infrastructure platform, positioned as a new generation system with performance and cost-per-compute improvements compared with Blackwell. The company has extended its collaboration with Micron around next generation HBM4 memory, aimed at supporting advanced AI workloads and future product plans. Nvidia is backing firms such as SiFive and Firmus Technologies involved in RISC V CPUs and AI data centers, and is participating in...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4e9c0f79c91d7b23a63a76d5863f3dfe59be4f488067dfe9b27aab1332f78dd3",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Foreigners Own Nearly $30 Trillion in U.S. Stocks and Bonds. Here Is Why That Number Should Be on Every Investor's Radar",
+          "summary": "Foreign investor sentiment is a barometer you shouldn't overlook.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b9b531056d80268cbc9848d5942db4dce270c60b2466455a2581d73bb1b73fb7",
           "score": 0,
           "signal": "Neutral"
         }
@@ -246,161 +246,161 @@
     },
     {
       "ticker": "TSLA",
-      "price": 346.67,
-      "change": 1.05,
-      "percent_change": 0.3038,
+      "price": 348.95,
+      "change": 3.33,
+      "percent_change": 0.9635,
       "high": 350.36,
-      "low": 344.69,
-      "open": 346.0375,
+      "low": 342.74,
+      "open": 346.285,
       "previous_close": 345.62,
       "sentiment": "Mixed",
-      "sentiment_score": 1,
+      "sentiment_score": 0,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of +0.30% today.",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of +0.96% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Goldman Sachs Offers Share-Backed Loans Behind the Scenes to Shepherd SpaceX IPO \u2013 Source",
-          "summary": "By IPO Edge IPO Edge Editor-in-Chief John Jannarone joined Schwab Network\u2019s Nicole Petallides on April 9 to discuss how the upcoming mega-IPOs such as SpaceX have required changes to manage the impact [\u2026]",
+          "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
+          "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf34411bdb8b61ee0fb94ca30f89b1683aba02b5d37deee1f1e5b423cb120254",
+          "url": "https://finnhub.io/api/news?id=50b88ff077b77989fb8e9fc25ae087549eaa130b48827a7c497218cf6f1dbc88",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Elon Musk Takes Swipe At Gavin Newsom, Says Boring Could Build LA-SF Tunnel At Less Than 5% Cost",
-          "summary": "Tesla Inc. CEO Elon Musk has touted that his tunneling startup, The Boring Company, can build a tunnel from Los Angeles to San Francisco that can exceed high-speed rail. Technological Marvel On Wednesday, Musk took to the social media platform X to express his criticism of Governor Gavin Newsom\u2018s (D-CA) High Speed Rail project from Los Angeles to San Francisco. \u201cThe @BoringCompany could build a Hyperloop tunnel from downtown SF to downtown LA for <5% of this [$120 billion] cost,\u201d Musk said, quot",
+          "headline": "Prediction: A Cheaper EV Could Be a Game Changer for Tesla's Business",
+          "summary": "The company hasn't said its last word.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a1456eadd4b62ead89a71e30839c8e4cf2445fc782c9a89a19d8dfbbba558efc",
+          "url": "https://finnhub.io/api/news?id=d014790c3d9fcf0d1b6a510d6434011712c40497c6df9094fa3a657c73136ce6",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Why Microsoft and Google could be the best Mag 7 stock picks",
-          "summary": "In the video above, Yacktman Asset Management president Molly Pieroni shares and defends her top two \"Magnificent Seven\" (MAGS) stock picks with Yahoo Finance.",
+          "headline": "Anthony Scaramucci Says He Owns SpaceX Stock And Won't Miss Out On The IPO Despite Elon Musk's 'Cult Of Personality' Premium",
+          "summary": "Anthony Scaramucci said Thursday he plans to invest in SpaceX's upcoming initial public offering even while acknowledging that Elon Musk's personal following inflates the company's valuation beyond what traditional measures would justify. Scaramucci Sees Premium But Still Buys In a post on X, the SkyBridge Capital founder said he already owns SpaceX through a private round and argued that the \"cult of personality\" around Musk can push valuations \"off the charts,\" much as Tesla Inc.\u2019s stock \"defi",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47724d7d2050eb4d4321daea5788c6004ef3122fe3c274ffd3750a03412273a6",
+          "url": "https://finnhub.io/api/news?id=f7a72e01eebb1aa28577c36723cebf3e303afc7ad5d0aa66d5179709f317824e",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Is It Too Late to Buy Tesla Stock?",
+          "summary": "After a monster trailing-10-year return of nearly 2,000%, investors are wondering if they missed the boat.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ec1430c154c1129bc8ac0ad833f325f8f5fe7559d19fa2116f9176e98738fd7b",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Electric Vehicles Today - Lotus Tech Pioneers Innovative Growth With Strategic Advances",
-          "summary": "Recent developments in the electric vehicle (EV) sector highlight the increasingly competitive landscape and technological advancements. Lotus Technology Inc. reported significant achievements in 2025, including improved gross margins and a notable reduction in operating losses, attributed to cost optimization and the debut of their first plug-in hybrid electric vehicle (PHEV), the For Me, also known as Eletre X in Europe. This expansion of their product range caters to evolving consumer...",
+          "headline": "JPMorgan Chase's Continued Success Will Hinge On How Quickly It Can Integrate Blockchain, AI, CEO Jamie Dimon Says",
+          "summary": "JPMorgan Chase (NYSE:JPM) has to smartly integrate blockchain technology and AI if it is to remain relevant, CEO Jamie Dimon says. \"A whole new set of competitors is emerging based on blockchain, which includes stablecoins, smart contracts and other forms...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba02753d88a8b1bda695d5f9f431d51f5f8ac7be7bc126e192f973a3a178517f",
+          "url": "https://finnhub.io/api/news?id=8d6ec5962ab3b181eef06ea6a99adac130a3af82936aab22c104f92cc471448f",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Japan Bets $16 Billion to Propel Rapidus in Global AI Chip Race",
+          "summary": "(Bloomberg) -- Japan approved \u00a5631.5 billion ($4 billion) in additional subsidies to quicken Rapidus Corp.\u2019s entry into the high-stakes AI chipmaking arena, ramping up support for a project widely regarded as a long shot.The capital is intended to bankroll Rapidus\u2019 work for IT firm Fujitsu Ltd., one of the initial clients that Tokyo hopes will get the signature endeavor off the ground. The new money raises the fees and investments that the government is injecting into the startup to \u00a52.6 trillio",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=933352638ba0a53cc4a4e341c217e99d55c64eca77277bde1a0b9bdfe578e3ec",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Amazon, Meta, Levi Strauss And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+          "summary": "Retail investors talked up five hot stocks this week (April 6 to April 10) on X and Reddit&#39;s r/WallStreetBets: AMZN, META, LEVI, PLTR, TSLA.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=dd61fc3940203c9d827c8da7a00b355b6bdf1c87fa0c7c770d8afa5eb7d47deb",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Tesla: From Bye-Bye To Buy-Buy (Rating Upgrade)",
+          "summary": "Tesla's aggressive CapEx ramp, focus on affordable EVs, and Optimus robot scale-up signal a shift to an autonomy growth era. See why TSLA stock is upgraded to buy.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=865d4b473678a8e97d45fa512e63119f8ba32411d13371e82a75b706d0c2ba9b",
           "score": 1,
           "signal": "Bullish"
-        },
-        {
-          "headline": "Musk's xAI Sues Colorado Over New AI Law",
-          "summary": "Tesla (TSLA) Chief Executive Elon Musk's xAI has filed a lawsuit against the State of Colorado regar",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7716c407801121b44ea4ba401e47133b288141b1bb81a06ec608d7eec6e44e9e",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Tesla Stock Is on Track for an 8-Week Losing Streak. It Lost This Key Support.",
-          "summary": "Options trading that has supported  Tesla  stock in the past has waned in 2026.  GLJ Research analyst Gordon Johnson recently took a deep dive into options trading for Tesla stock.  For starters, a lot of options on Tesla stock get traded.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a31683a23262888dce00c9f700c0962f7be59ff2ea9af616cffab45244d89abf",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Jay Leno took the Tesla Semi for a spin. Its 1-million-mile battery could spell trouble for diesel",
-          "summary": "Electric trucks are gaining ground as diesel costs rise \u2014 but high prices, limited charging and infrastructure gaps mean the transition is far from complete.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eea22a3189198dffb7bdd982c8cf71d8a6edb4e873be31edfbc34d655f42f4a6",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "The SpaceX IPO Will Be an Epic Disappointment, Based on What History Tells Us",
-          "summary": "The largest initial public offerings (IPOs) in history have left a lot to be desired following their debuts.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5d6ecc734425573e0eb0215615c8b79cdefd37e858b2de4882ebd30158cc76d",
-          "score": 0,
-          "signal": "Neutral"
         }
       ]
     },
     {
       "ticker": "AMZN",
-      "price": 237.89,
-      "change": 4.24,
-      "percent_change": 1.8147,
-      "high": 238.84,
-      "low": 234.52749999999997,
-      "open": 234.52749999999997,
+      "price": 238.38,
+      "change": 4.73,
+      "percent_change": 2.0244,
+      "high": 240.43,
+      "low": 235.21,
+      "open": 235.295,
       "previous_close": 233.65,
-      "sentiment": "Bullish",
-      "sentiment_score": 3,
-      "confidence": "Moderate",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of +1.81% today.",
+      "sentiment": "Mixed",
+      "sentiment_score": 0,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of +2.02% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "New to Investing? Here's Why Amazon Stock Is a Great First Buy.",
-          "summary": "New to investing and unsure where to start? This beginner-friendly breakdown explains why Amazon stock could be one of the simplest and smartest first buys for your portfolio.",
+          "headline": "Dow Jones Futures Eye Direct U.S.-Iran Talks; Google, Amazon, Nvidia In Buy Areas",
+          "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20f4a0536a34728f8005cdeed83fee6509888288a41eb8a0d0538dff50b490f5",
+          "url": "https://finnhub.io/api/news?id=c69e0d6ed7648d0cbadb4013d0ae5e20a1b65818660e9338b1997e88255a1c36",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Dow Jones Futures: Trump, Iran Issue Threats; Nvidia Chipmaker Beats Views, CPI Inflation Due",
-          "summary": "Dow Jones futures: Trump issued demands while Iran may boycott peace talks. Nvidia chipmaker Taiwan Semi's sales beat. CPI Inflation data looms.",
+          "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
+          "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=05b815b845f7de07137549cf0e3212e8d5148ac8b3fc6efb1638f81d66d97d86",
-          "score": 2,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Cineplex Reports Strong March Box Office Results",
-          "summary": "TORONTO, April 10, 2026 (GLOBE NEWSWIRE) -- (TSX: CGX) \u2013 Cineplex, Canada\u2019s leading entertainment and media company, reported box office revenues of $52.4 million for March 2026. Period2025 Box Office (i)2026 Box Office (i)2026 as a Percentage of 2025January$37,454$42,593114%February$34,932$32,37293%March$29,525$52,428178%Q1$101,911$127,393125%(i) Amounts are in thousands of dollars. Propelled by the remarkable ascent of Project Hail Mary, March delivered a standout box office performance with C",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5933222ff5b9d10e5b31c2a296b62f33ce0c7f781379f1cd6d23e23b5b2bada",
-          "score": 1,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Jeff Bezos could fund 'insulin in America' plus Texas school lunches with a wealth tax \u2014 and keep $215B, says Warren",
-          "summary": "Here\u2019s how the math works behind Warren\u2019s proposal \u2014 and what it could support.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e8ed7d2e222dd07d8341629520896aa3a757fc67f76e61075d29d2d5b3df3cb",
+          "url": "https://finnhub.io/api/news?id=50b88ff077b77989fb8e9fc25ae087549eaa130b48827a7c497218cf6f1dbc88",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Chips are still where the AI trade's rubber meets the road",
-          "summary": "Semiconductors get a massive upgrade, but contemplating the risks to chipmakers suggests how the AI hype train might stall or even disintegrate.",
+          "headline": "Dow Jones Futures: Direct U.S.-Iran Talks Begin; Google, Amazon, Nvidia In Buy Areas",
+          "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bcdda63c5cc66ddecab403017e20be7cc1dfba030b37c06c27d4ffa9f796a857",
+          "url": "https://finnhub.io/api/news?id=0207dba5f957c8bd41860c1ffa8c51034ecf9c355943b483d7b4bc7797c17323",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Apple TV Lands On Amazon Prime Video In US Streaming Tie-Up",
-          "summary": "Apple and Amazon are deepening their partnership by bringing Apple TV to Prime Video as a paid add-on, expanding distribution.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3cf96e324e03cfa465286599236ff7c47195086ae316e998288647caa2464329",
+          "headline": "Jim Cramer Says for Buy Now, Pay Later Play He\u2019d \u201cRather Own a Pure Play Like Affirm\u201d",
+          "summary": "Affirm Holdings, Inc. (NASDAQ:AFRM) is among the stocks Jim Cramer reviewed while discussing the Iran ceasefire that triggered a relief rally. Cramer mentioned the stock during the episode and said: \u2026 If you want to play that theme, you know what, here we go again, I\u2019d rather own Affirm, which I explicitly highlight in How [\u2026]",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c0c9d8b4c2a9a9885e8242d15ea0094dee9c53549ca4a80540aa2e3c74ea8152",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "While Amazon, Microsoft, Google Struggle With AI On Land \u2014 China Looks To The Sea",
-          "summary": "The AI race is running into an unexpected wall\u2014and it's not chips or capital. It's water, power, and local resistance. As Amazon.com, Inc., Microsoft Corporation, and Alphabet Inc. push to expand data center capacity, investors are starting to question whether the physical footprint of AI is becoming the real constraint. AI Growth Meets Real-World Limits According to a Reuters report, multiple hyperscalers have already scrapped or delayed billion-dollar data center projects in the U.S. amid comm",
+          "headline": "Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
+          "summary": "The S&P 500 is mixed after March inflation came in just below forecasts and uncertainty over a peaceful resolution to the Iran war. Tech stocks, though, were once again doing the heavy lifting. Right in the middle is Nvidia (NASDAQ:NVDA), which just logged its eighth consecutive session of gains through Friday\u2019s close, with the stock ... Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f08aa2aed420d6c0cdf62608dc954a8e167c924da08d00843d9fe2b37f77c2c",
+          "url": "https://finnhub.io/api/news?id=8dc7c0495ab750335a9700c8ce7d6d69c1bfc96c5683e23358cf5dc6f37a3d0c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Amazon CEO Andy Jassy takes a shot at Nvidia, says its own chips are a better bang for your buck",
-          "summary": "Amazon's custom AI chips business has doubled to a $20 billion annual run rate \u2014 and Jassy believes this is reminiscent of the playbook that dethroned Intel.",
+          "headline": "Amazon vs. Walmart: The Retail War Just Picked a Winner",
+          "summary": "Amazon (NASDAQ:AMZN) and Walmart (NYSE:WMT) reported earnings revealing two companies of nearly identical scale but radically different profit architectures. Amazon closed fiscal 2025 with annual revenue of $716.92 billion, while Walmart finished fiscal 2026 with $713.16 billion. The revenue gap is negligible, but the strategy gap is enormous. AWS Carries Amazon. Omnichannel Carries Walmart. Amazon\u2019s ... Amazon vs. Walmart: The Retail War Just Picked a Winner",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fcca719b9b589cb7f6916b2104c83d516fea22b8fc2425b421b8c0931b4f5a6f",
+          "url": "https://finnhub.io/api/news?id=2df735525aa34b9834d09a05e106738cc46c637129a8a9037b9cbd72a8022581",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Dow Jones Futures: U.S.-Iran Peace Talks Begin; Google, Amazon, Nvidia In Buy Areas",
+          "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c17c990df3f7b5459d0bd93fb41bc0c99ec34c8b12e7e2cbb68d445bff21ec42",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Rigetti\u2019s 108 Qubit Launch Tests Quantum Ambitions And Valuation Gap",
+          "summary": "Rigetti Computing has released its 108 qubit modular quantum system, Cepheus-1-108Q, for general availability. The system is now accessible through Rigetti's own cloud platform and Amazon Braket. The launch highlights technical advances in scalability and fidelity and marks a new phase in Rigetti's commercial rollout of higher qubit systems. Rigetti Computing, NasdaqCM:RGTI, now has its Cepheus-1-108Q system available to customers and partners at a time when its share price stands at...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0b5d2a1a43464d528e5135f1a15210d44dfc0a9b065c8950e7a1380ebc7f6624",
           "score": 0,
           "signal": "Neutral"
         }
@@ -408,82 +408,82 @@
     },
     {
       "ticker": "META",
-      "price": 631.57,
-      "change": 3.18,
-      "percent_change": 0.5061,
+      "price": 629.86,
+      "change": 1.47,
+      "percent_change": 0.2339,
       "high": 638.58,
-      "low": 630.4021,
-      "open": 632.52,
+      "low": 624.33,
+      "open": 634.47,
       "previous_close": 628.39,
       "sentiment": "Mixed",
-      "sentiment_score": 2,
+      "sentiment_score": 0,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of +0.51% today.",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of +0.23% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Big Tech puts financial heft behind next-gen nuclear power as AI demand surges",
-          "summary": "By Kavya Balaraman April 9 (Reuters) - Big Tech is reshaping the funding landscape for new nuclear technologies as it seeks to bolster electricity supply for power-hungry AI data centers, inking deals",
+          "headline": "After Reaching a Deal With Anthropic, Is CoreWeave Proving to Be the Ultimate Artificial Intelligence (AI) Stock to Own?",
+          "summary": "CoreWeave's growth has been explosive due to the ongoing demand for leading artificial intelligence (AI) chips.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6175f9b64b4537a917da4431637a7e8a79ff8a63ae4ad38b7a99eba1421ffda3",
-          "score": 3,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Zacks Investment Ideas feature highlights: Meta Platforms, Nvidia, Broadcom, Intel, Comfort Systems USA, TAN and Bloom Energy",
-          "summary": "Meta Platforms ramps AI spending to $135B as Nvidia, Intel and energy plays ride the next wave of AI demand and infrastructure growth.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=439ab9b2d3515ba8b4fd07e35e5465473ef759fb3d6139c4d2b336cefc84e388",
+          "url": "https://finnhub.io/api/news?id=348c7a8256c0455c68f88e2648ef565e1c497ef2da0b93c01949dbbb9a011be3",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Meta's Big AI Moment Overshadows Its 'Big Tobacco' Moment",
-          "summary": "The release of Meta's new Muse Spark model this week helped the stock recover from a selloff after a pair of legal setbacks. But the risk of a domino effect persists given the thousands of other pending cases against the company.",
+          "headline": "Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
+          "summary": "The S&P 500 is mixed after March inflation came in just below forecasts and uncertainty over a peaceful resolution to the Iran war. Tech stocks, though, were once again doing the heavy lifting. Right in the middle is Nvidia (NASDAQ:NVDA), which just logged its eighth consecutive session of gains through Friday\u2019s close, with the stock ... Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ee60f3f3ce5dec25feb755cdaa81eb71fa9b243428b72ed5451508835a303f8a",
+          "url": "https://finnhub.io/api/news?id=8dc7c0495ab750335a9700c8ce7d6d69c1bfc96c5683e23358cf5dc6f37a3d0c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Meta Banks on AI to Clear the Smoke of Social-Media Lawsuits",
-          "summary": "While the tech giant has the means to fight in court, ongoing legal battles could temper a long-term recovery in its shares.",
+          "headline": "Meta Stock Needs to Show How Much Cash It Can Squeeze Out of Its New AI Tools before Q1; Barclays Reiterates Buy Forecast",
+          "summary": "The social media giant is preparing for what could be its biggest transformation yet. On Friday, Barclays (BCS) analyst Ross Sandler, rated 5-star on TipRanks, reiterated his Buy rating on Meta Platforms (META), setting a price target of $800. With the stock currently trading near $628, this new target suggests a 27.31% upside. The move comes as Wall Street prepares for Meta\u2019s first-quarter earnings report later this month, where the focus will be entirely on how much cash the company is squeezi",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c284db33becbc309e1e5b6a35610e6fb3e721e2dc0be6f989026297ff8824e99",
-          "score": -2,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "Lumentum: You Could Be Very Late To The Party",
-          "summary": "Lumentum (LITE) is up 1,400% on AI optical networking demand, but valuation looks stretched\u00e2\u0080\u0094see key catalysts, TAM outlook, and why to wait for a pullback.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0c8504dc55c5586fedfd9477c5d186db514db418481929630b446f411ee12fab",
+          "url": "https://finnhub.io/api/news?id=236146412b7a2044a2ec5ac6c83746f515360aa8036bfe68364f7d3341927e59",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "CoreWeave: The Neocloud King Validated By Meta's Billions",
-          "summary": "CoreWeave recently secured a massive $6.8 billion contract expansion with Meta Platforms. Click here to see why CRWV stock is a Buy.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5d93f92669f8e2fbbb4874f55d458d2d789075e4469f3d1b94996d32bb91e632",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "The 'Mag 7' Just Became The 'Lag 7': Analyst",
-          "summary": "Craig Johnson sees a &#34;bullish market with a lowercase b.&#34; Learn why Piper Sandler predicts a modest 5% upside and a rotation out of big tech.",
+          "headline": "Amazon, Meta, Levi Strauss And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+          "summary": "Retail investors talked up five hot stocks this week (April 6 to April 10) on X and Reddit&#39;s r/WallStreetBets: AMZN, META, LEVI, PLTR, TSLA.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ae5fe21d928c32ffb9271c718d6f02a1b6c4e4bfab2e502f670091b0413d1406",
+          "url": "https://finnhub.io/api/news?id=dd61fc3940203c9d827c8da7a00b355b6bdf1c87fa0c7c770d8afa5eb7d47deb",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Meta partners with CoreWeave in $21bn AI cloud expansion",
-          "summary": "CoreWeave to deliver dedicated AI infrastructure for Meta, highlighting increasing demand for large-scale computing resources.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58190c423279eb55f3965d4857aa9a03c6836e65b8c57ad02dbc16bbdd5af092",
-          "score": 1,
-          "signal": "Bullish"
+          "headline": "After A Chaotic Q1, I'm Buying XLK And XLC As The Market Exhales",
+          "summary": "XLK outlook: why tech remains a buy despite Q1 volatility.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b39b8822363385d3c03c96b9d75bdeeb39e8eae0ec0592813a2ad5b22317cd0e",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Potential $5,000 Monthly Income: 12 Investments To Buy And Hold For The Next 10 Years",
+          "summary": "Diversified hands-off retirement portfolio: 12 funds (ETFs/CEFs/mutual) targeting 6% yield + 6% dividend growth. Read the full list of picks here.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9396a9f8c8bf0312e7f3191e7f7aa96c2b18a3dfc0ecfb79d7f2748a1cf5c104",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "IBM Pays $17 Million To Settle DEI Allegations In DOJ's First False Claims Act Win",
+          "summary": "IBM agrees to pay $17 million to settle federal allegations related to DEI hiring practices, marking the first resolution under the DOJ&#39;s Civil Rights Fraud Initiative.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a3647b87e8094e1e70c40ad1590edaf6b4a20433ded3095974296ccd80a66d1f",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Nvidia CEO Jensen Huang Says 'Move To California' Even As Billionaires Look To Flee State's Proposed Wealth Tax",
+          "summary": "Nvidia CEO Jensen Huang urges people to move to California despite high taxes, amid debate over a proposed billionaire tax and wealthy residents leaving the state.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=580cc482bc6de40b02a5f2d09561c9206ca173a477ab83f5fe04ecd44c28a751",
+          "score": 0,
+          "signal": "Neutral"
         }
       ]
     }

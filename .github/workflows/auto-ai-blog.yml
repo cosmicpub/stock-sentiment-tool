@@ -30,8 +30,10 @@ jobs:
 
       - name: Generate AI blog pages
         env:
+          FINNHUB_API_KEY: ${{ secrets.MARKET_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
+          MAX_POSTS: "1"   # change to "6" after test passes
         run: python scripts/generate_ai_blog.py
 
       - name: Commit and push if changed

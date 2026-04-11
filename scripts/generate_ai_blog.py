@@ -2,11 +2,12 @@ import json
 import os
 import re
 from collections import Counter
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from html import escape
 from pathlib import Path
 import urllib.request
 import urllib.error
+import urllib.parse
 
 ROOT = Path(__file__).resolve().parent.parent
 BLOG_DIR = ROOT / "blog"
@@ -16,7 +17,11 @@ MANIFEST_PATH = ROOT / "data" / "blog-manifest.json"
 FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY", "").strip()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
-MAX_POSTS = "1"
+
+try:
+    MAX_POSTS = int(os.getenv("MAX_POSTS", "6"))
+except ValueError:
+    MAX_POSTS = 6
 
 OPENAI_API_URL = "https://api.openai.com/v1/responses"
 FINNHUB_BASE = "https://finnhub.io/api/v1"
@@ -47,18 +52,12 @@ def iso(dt: datetime) -> str:
 
 
 def date_label(dt_or_iso) -> str:
-    if isinstance(dt_or_iso, str):
-        dt = datetime.fromisoformat(dt_or_iso.replace("Z", "+00:00"))
-    else:
-        dt = dt_or_iso
+    dt = datetime.fromisoformat(dt_or_iso.replace("Z", "+00:00")) if isinstance(dt_or_iso, str) else dt_or_iso
     return dt.strftime("%B %d, %Y")
 
 
 def ymd(dt_or_iso) -> str:
-    if isinstance(dt_or_iso, str):
-        dt = datetime.fromisoformat(dt_or_iso.replace("Z", "+00:00"))
-    else:
-        dt = dt_or_iso
+    dt = datetime.fromisoformat(dt_or_iso.replace("Z", "+00:00")) if isinstance(dt_or_iso, str) else dt_or_iso
     return dt.strftime("%Y-%m-%d")
 
 
@@ -69,14 +68,21 @@ def http_get_json(url: str):
 
 
 def finnhub_get(path: str, params: dict):
-    qs = "&".join(f"{k}={urllib.parse.quote(str(v))}" for k, v in params.items())
-    url = f"{FINNHUB_BASE}/{path}?{qs}&token={FINNHUB_API_KEY}"
+    encoded = urllib.parse.urlencode(params)
+    url = f"{FINNHUB_BASE}/{path}?{encoded}&token={FINNHUB_API_KEY}"
     return http_get_json(url)
 
 
 def load_manifest():
     if MANIFEST_PATH.exists():
-        return json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+        data = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+        posts = data.get("posts", [])
+        # Backfill legacy entries
+        for p in posts:
+            if "published_date" not in p:
+                p["published_date"] = p.get("date", "Unknown")
+        data["posts"] = posts
+        return data
     return {"generated_at": None, "posts": []}
 
 
@@ -87,38 +93,34 @@ def save_manifest(manifest):
 
 def extract_ticker_candidates(news_items):
     counter = Counter()
-
     for item in news_items:
         text = f"{item.get('headline', '')} {item.get('summary', '')}"
         matches = re.findall(r"\b[A-Z]{1,5}\b", text.upper())
         for m in matches:
-            if m in STOPWORDS:
-                continue
-            if len(m) <= 1:
+            if m in STOPWORDS or len(m) <= 1:
                 continue
             counter[m] += 1
-
     return counter
 
 
 def validate_ticker(symbol: str):
-    # quote endpoint quickly validates tradable symbol
     try:
         q = finnhub_get("quote", {"symbol": symbol})
         price = q.get("c")
-        if isinstance(price, (int, float)) and price > 0:
-            p = finnhub_get("stock/profile2", {"symbol": symbol})
-            return {
-                "ticker": symbol,
-                "company_name": p.get("name") or symbol,
-                "industry": p.get("finnhubIndustry") or "N/A",
-                "price": q.get("c"),
-                "change": q.get("d"),
-                "percent_change": q.get("dp"),
-            }
+        if not (isinstance(price, (int, float)) and price > 0):
+            return None
+
+        p = finnhub_get("stock/profile2", {"symbol": symbol})
+        return {
+            "ticker": symbol,
+            "company_name": p.get("name") or symbol,
+            "industry": p.get("finnhubIndustry") or "N/A",
+            "price": q.get("c"),
+            "change": q.get("d"),
+            "percent_change": q.get("dp"),
+        }
     except Exception:
         return None
-    return None
 
 
 def score_news_for_ticker(symbol: str, company_name: str, news_items):
@@ -128,10 +130,11 @@ def score_news_for_ticker(symbol: str, company_name: str, news_items):
     score = 0
 
     for item in news_items:
-        h = (item.get("headline") or "")
-        s = (item.get("summary") or "")
+        h = item.get("headline") or ""
+        s = item.get("summary") or ""
         text = f"{h} {s}".lower()
-        if sym in text or (comp and comp.lower() in text):
+
+        if sym in text or (comp and comp in text):
             mentions.append(item)
             words = set(re.findall(r"[a-z]+", text))
             score += len(words.intersection(POSITIVE_WORDS))
@@ -180,10 +183,9 @@ def generate_ai_article(stock_payload, generated_at, market_data_as_of):
                 "role": "system",
                 "content": (
                     "Write a high-quality SEO stock sentiment post using ONLY provided data. "
-                    "Return strict JSON with keys: title, meta_description, excerpt, body_html, faq. "
-                    "body_html must use only <h2>, <p>, <ul>, <li>. "
-                    "faq must be array of 3 objects with q and a. "
-                    "No investment advice."
+                    "Return strict JSON keys: title, meta_description, excerpt, body_html, faq. "
+                    "body_html may use only <h2>, <p>, <ul>, <li>. "
+                    "faq must have 3 objects with q and a. No investment advice."
                 ),
             },
             {"role": "user", "content": json.dumps(prompt, ensure_ascii=False)},
@@ -200,6 +202,7 @@ def generate_ai_article(stock_payload, generated_at, market_data_as_of):
         },
         method="POST",
     )
+
     with urllib.request.urlopen(req, timeout=120) as resp:
         data = json.loads(resp.read().decode("utf-8"))
 
@@ -207,7 +210,6 @@ def generate_ai_article(stock_payload, generated_at, market_data_as_of):
     if out:
         return json.loads(out)
 
-    # fallback extraction
     for item in data.get("output", []):
         for c in item.get("content", []):
             if c.get("type") == "output_text" and c.get("text"):
@@ -324,11 +326,11 @@ def render_index(posts, generated_at):
         cards.append(
             f"""
             <article class="blog-report-card">
-              <div class="blog-report-tag">{escape(p['sentiment'])} ({int(p['score']):+d})</div>
-              <h3><a href="{escape(p['href'])}">{escape(p['title'])}</a></h3>
-              <p>{escape(p['excerpt'])}</p>
-              <p><small>Published: {escape(p['published_date'])}</small></p>
-              <a class="blog-report-link" href="{escape(p['href'])}">Read report →</a>
+              <div class="blog-report-tag">{escape(p.get('sentiment', 'Neutral'))} ({int(p.get('score', 0)):+d})</div>
+              <h3><a href="{escape(p.get('href', '#'))}">{escape(p.get('title', 'Untitled'))}</a></h3>
+              <p>{escape(p.get('excerpt', ''))}</p>
+              <p><small>Published: {escape(str(p.get('published_date', 'Unknown')))}</small></p>
+              <a class="blog-report-link" href="{escape(p.get('href', '#'))}">Read report →</a>
             </article>
             """
         )
@@ -372,21 +374,18 @@ def main():
         raise RuntimeError("Missing OPENAI_API_KEY")
 
     generated_at = iso(now_utc())
-    market_data_as_of = generated_at  # this run uses live fetch, so as-of is run time
+    market_data_as_of = generated_at
     day = ymd(generated_at)
 
     manifest = load_manifest()
     posts = manifest.get("posts", [])
 
-    # 1) pull broad market news
     general_news = finnhub_get("news", {"category": "general"})
     if not isinstance(general_news, list):
         raise RuntimeError("Finnhub general news response invalid")
 
-    # 2) discover candidate tickers from headlines
     counts = extract_ticker_candidates(general_news)
 
-    # 3) validate + score candidates
     candidates = []
     for symbol, mention_count in counts.most_common(60):
         validated = validate_ticker(symbol)
@@ -398,14 +397,9 @@ def main():
             continue
 
         impact_score = mention_count * 2 + abs(ticker_news["sentiment_score"]) + len(ticker_news["mentions"])
-        candidate = {
-            **validated,
-            **ticker_news,
-            "impact_score": impact_score,
-        }
+        candidate = {**validated, **ticker_news, "impact_score": impact_score}
         candidates.append(candidate)
 
-    # pick top impacted
     candidates.sort(key=lambda x: x["impact_score"], reverse=True)
     selected = candidates[:MAX_POSTS]
 
@@ -413,8 +407,11 @@ def main():
 
     for stock in selected:
         ticker = stock["ticker"]
-        # avoid duplicate same-day post per ticker
-        already_today = any(p.get("ticker") == ticker and p.get("published_date") == day for p in posts)
+
+        already_today = any(
+            p.get("ticker") == ticker and p.get("published_date") == day
+            for p in posts
+        )
         if already_today:
             continue
 
@@ -435,7 +432,6 @@ def main():
             market_data_as_of=market_data_as_of,
         )
 
-        # dated archive slug + evergreen slug
         archive_slug = f"{ticker.lower()}-news-impact-{day}"
         evergreen_slug = f"{ticker.lower()}-sentiment"
 
@@ -456,7 +452,6 @@ def main():
             "generated_at": generated_at,
         })
 
-    # newest first
     posts = sorted(posts, key=lambda x: x.get("generated_at", ""), reverse=True)
     INDEX_PATH.write_text(render_index(posts, generated_at), encoding="utf-8")
 

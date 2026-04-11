@@ -16,7 +16,7 @@ MANIFEST_PATH = ROOT / "data" / "blog-manifest.json"
 FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY", "").strip()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
-MAX_POSTS = int(os.getenv("MAX_POSTS", "6"))
+MAX_POSTS = "1"
 
 OPENAI_API_URL = "https://api.openai.com/v1/responses"
 FINNHUB_BASE = "https://finnhub.io/api/v1"

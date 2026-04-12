@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T21:45:16.600607+00:00",
+  "updated_at": "2026-04-12T04:07:40.571009+00:00",
   "stocks": [
     {
       "ticker": "AAPL",
@@ -16,6 +16,14 @@
       "reason": "Based on 8 recent headlines with mixed language and a stock move of -0.00% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "2.5 Billion Reasons Apple Might Be the Best Artificial Intelligence (AI) Stock to Buy Today",
+          "summary": "Apple may not be falling behind in AI after all.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7fb4be571863f20935f91bbcfd89c52462361037d057c8f9e809563dce9cb5db",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
           "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
@@ -71,14 +79,6 @@
           "url": "https://finnhub.io/api/news?id=f6b3a0713e99f64b50abe8990028d69ec3679935eafd19852428e88cfd0055ff",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "Apple, Levi\u2019s, and 5 More Stocks Get Analyst Attention",
-          "summary": "RESEARCH REPORTS These reports, excerpted and edited by Barron\u2019s, were issued recently by investment and research firms. The reports are a sampling of analysts\u2019 thinking; they should not be considered the views or recommendations of Barron\u2019s.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6ad6272f40efa15c9304b2919c083d71b2409ad616ab3eb840e4ec4912fcd7d2",
-          "score": 0,
-          "signal": "Neutral"
         }
       ]
     },
@@ -91,12 +91,20 @@
       "low": 370.03,
       "open": 372.98,
       "previous_close": 373.07,
-      "sentiment": "Mixed",
-      "sentiment_score": -2,
-      "confidence": "Low",
+      "sentiment": "Bearish",
+      "sentiment_score": -3,
+      "confidence": "Moderate",
       "reason": "Based on 8 recent headlines with more negative language and a stock move of -0.59% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Alphabet vs. Oracle: Here's What the Debt Market Is Saying",
+          "summary": "You might be surprised by the nuanced difference between what the equity markets and debt markets think about artificial intelligence (AI) investment.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4639b5ee2e3f47ffb2b5be48f7209789032f7419569f8de33740a5abb9378ace",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
           "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
@@ -152,14 +160,6 @@
           "url": "https://finnhub.io/api/news?id=74271f3cee53f83207aa32b06a4cf17938b8300193a564e21c11eac1549b134c",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "The Software Narrative Is Leaking Badly Again Thanks To Anthropic Mythos",
-          "summary": "Anthropic\u00e2\u0080\u0099s Mythos AI sparks a SaaS stock selloff and new cybersecurity risks (CRWD, PANW).",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5583adae7bf42ead7ed16fe3e4d6bb85eaba9b06fe55e02815e334ea06f87a34",
-          "score": 1,
-          "signal": "Bullish"
         }
       ]
     },
@@ -179,66 +179,66 @@
       "news_count": 8,
       "news": [
         {
-          "headline": "Dow Jones Futures Eye Direct U.S.-Iran Talks; Google, Amazon, Nvidia In Buy Areas",
-          "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
+          "headline": "U.S.-Iran Talks End With No Deal; How Will Dow Jones Futures, Oil Prices React?",
+          "summary": "Futures loom after lengthy U.S.-Iran talks ended without an agreement. Vice President J.D. Vance said Tehran has \"chosen not to accept our terms.\"",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c69e0d6ed7648d0cbadb4013d0ae5e20a1b65818660e9338b1997e88255a1c36",
+          "url": "https://finnhub.io/api/news?id=49d556edb3ec7570a2e706341099812ed7a05594fecd727144592cbc60b562c4",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "I've Changed My Mind on Palantir Stock. The Great Repricing Makes It a Buy.",
-          "summary": "Palantir is winning by turning AI demos into real workflows fast.",
+          "headline": "Is It Too Late to Buy Nvidia and Broadcom? Here's What History Tells Us",
+          "summary": "The two stocks are rapidly growing and trading at historical discounts.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33da90daf9e1ecb003927b135566ab3d8dca58b951ba3c23736f76d79d2019f2",
+          "url": "https://finnhub.io/api/news?id=412ec6e657caf10a6324f35f47d482b4580c85e0271dfcfa1abb6e1631111e89",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Prediction: A Cheaper EV Could Be a Game Changer for Tesla's Business",
-          "summary": "The company hasn't said its last word.",
+          "headline": "2 AI Stocks I Don't Like (Including Palantir) and 1 I Love",
+          "summary": "Software and AI stocks have taken a beating recently. But that doesn't mean investors should rush in to buy just because shares are down.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d014790c3d9fcf0d1b6a510d6434011712c40497c6df9094fa3a657c73136ce6",
+          "url": "https://finnhub.io/api/news?id=8b76f132682f2f8dde8858879d36a3a0c0b72529ada8aea24f9836a6b50c31e7",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "3 Dividend Stocks That Are Obvious Buys in Today's Uncertain Market",
-          "summary": "When markets get shaky, the stocks you trust most tend to be the ones built to last. Here are three strong dividend buys as money gets tight.",
+          "headline": "Where Will XRP Be in 5 Years?",
+          "summary": "XRP's long-term growth prospects look fantastic. But how high can its price really go?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f172ba316e654a0d73ff843ba2a6a1c152e937f4bbc97abc32559ac91fe2ed6c",
+          "url": "https://finnhub.io/api/news?id=37704773b3a25ca78a9076ab6298576e538d401233972c6b89750e508bec67c7",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Is Nvidia the Best Buy in the Entire Stock Market?",
-          "summary": "Nvidia's disappointing performance is a fantastic buying opportunity.",
+          "headline": "Nebius Talks AI21 Deal As Full Stack AI Ambitions Meet Valuation",
+          "summary": "Nebius Group (NasdaqGS:NBIS) is reportedly in advanced talks to acquire Israeli AI startup AI21 Labs. The potential deal follows AI21 Labs' unsuccessful merger discussions with Nvidia. The move would extend Nebius beyond AI infrastructure into full stack AI and software. Nebius Group, trading at around $144.97, has seen very strong share price momentum, with the stock up 33.2% over the past week, 28.3% over the past month and 61.2% year to date. Over the past year, the share price has risen...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd2964000720c3d7df786393acde21f048db282c3c47773785dee65f58b9105f",
+          "url": "https://finnhub.io/api/news?id=10b2c07ca418313ffd21e47022cf7985c6ac93f7fe96d92ecad94bd478a8c298",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Is Beyond Meat Beyond Repair?",
-          "summary": "Beyond Meat has an uphill battle, to put it lightly.",
+          "headline": "3 Cryptocurrencies That AI Assistants Keep Recommending",
+          "summary": "Bitcoin and Ethereum came out on top, but the third recommendation might surprise you.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=854fca635c260350cdf88ba5a1c1f1d97edbb352ee05fb66d887c83c8aa16e82",
+          "url": "https://finnhub.io/api/news?id=5fcab78b643f5412dd6364015cf655b01a16a9b22c20d8b4ddd6e5aaf23d3042",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Nvidia Extends AI Data Center Reach With Vera Rubin And Micron Deal",
-          "summary": "Nvidia, ticker NasdaqGS:NVDA, has introduced the Vera Rubin AI infrastructure platform, positioned as a new generation system with performance and cost-per-compute improvements compared with Blackwell. The company has extended its collaboration with Micron around next generation HBM4 memory, aimed at supporting advanced AI workloads and future product plans. Nvidia is backing firms such as SiFive and Firmus Technologies involved in RISC V CPUs and AI data centers, and is participating in...",
+          "headline": "Why Levi Strauss Could Be a Perfect Fit for Your Portfolio",
+          "summary": "The denim company's direct-to-consumer focus is paying off.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e9c0f79c91d7b23a63a76d5863f3dfe59be4f488067dfe9b27aab1332f78dd3",
+          "url": "https://finnhub.io/api/news?id=7555d8cbbdb00f7812f07e4ccd313048e747b33438423d0c1552a84abc483e9f",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Foreigners Own Nearly $30 Trillion in U.S. Stocks and Bonds. Here Is Why That Number Should Be on Every Investor's Radar",
-          "summary": "Foreign investor sentiment is a barometer you shouldn't overlook.",
+          "headline": "EV Sales Are \"Cratering.\" Here's Why I'm Holding On to My Rivian Shares",
+          "summary": "The company may be in its best shape ever.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9b531056d80268cbc9848d5942db4dce270c60b2466455a2581d73bb1b73fb7",
+          "url": "https://finnhub.io/api/news?id=1b28effdc8bf8cba55f0ba1ddc706b984c4253362caf0d7957ae7c96f2775af0",
           "score": 0,
           "signal": "Neutral"
         }
@@ -254,11 +254,43 @@
       "open": 346.285,
       "previous_close": 345.62,
       "sentiment": "Mixed",
-      "sentiment_score": 0,
+      "sentiment_score": -1,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with mixed language and a stock move of +0.96% today.",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of +0.96% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "SpaceX Advances Texas Chip Plant, Eyes Production By End Of 2026: Report",
+          "summary": "SpaceX has reportedly initiated equipment installation at its advanced chip packaging facility in Bastrop, Texas. The company aims to begin production by the end of 2026, Reuters reported on Friday, citing sources. The aerospace giant is moving to bring semiconductor processes in-house. The facility will package radio frequency (RF) chips. These components are vital for Starlink, the company\u2019s satellite-based internet system. External providers currently handle this packaging, but SpaceX plans t",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d1ca8bdc7b808e9efbd7533a30cef9277e9bbfd1c69c670c13ec15abc67c5d81",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "The Secret to Out-Innovating the Competition: Inside the Tesla Playbook",
+          "summary": "Former Tesla President Jon McNeill discusses his new book, The Algorithm: The Hypergrowth Formula That Transformed Tesla, Lululemon, General Motors, and SpaceX.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d9d38828f907de6c87f63b087b3c2a646ae1a00ac3a2346fe5fd5e500fee114c",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Ross Gerber Thinks Tesla's Rumored Affordable Model Is Cybercab With A Steering: 'They'll Say Anything\u2026'",
+          "summary": "Investor Ross Gerber of Gerber Kawasaki thinks that Tesla\u2019s rumored affordable model would be a Cybercab fit with driver inputs. A Cybercab With A Steering Wheel In a post on X on Thursday, Gerber quoted a report by Reuters that shed light on a possible affordable vehicle being developed by the EV giant. \u201cA Tesla cybercab with a steering wheel\u2026 they'll say anything at this point\u2026\u201d Gerber said in the post, seemingly criticizing Tesla for its possible pivot. A Tesla cybercab with a steering wheel\u2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e64a3e26279d5900cd4748b0effd98eba569e90aadd774c771d4c0e3821cd47",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "The 30% Dip in Tesla Rippled Across EV Stocks. These 2 Stocks Are Worth Catching.",
+          "summary": "Tesla stock is down big since its December highs.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c4cc44b294f0f3f6c009e17344a4d90b5ad8bc289c08e68c8b97d374f8e59475",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
           "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
@@ -290,38 +322,6 @@
           "url": "https://finnhub.io/api/news?id=ec1430c154c1129bc8ac0ad833f325f8f5fe7559d19fa2116f9176e98738fd7b",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "JPMorgan Chase's Continued Success Will Hinge On How Quickly It Can Integrate Blockchain, AI, CEO Jamie Dimon Says",
-          "summary": "JPMorgan Chase (NYSE:JPM) has to smartly integrate blockchain technology and AI if it is to remain relevant, CEO Jamie Dimon says. \"A whole new set of competitors is emerging based on blockchain, which includes stablecoins, smart contracts and other forms...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8d6ec5962ab3b181eef06ea6a99adac130a3af82936aab22c104f92cc471448f",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Japan Bets $16 Billion to Propel Rapidus in Global AI Chip Race",
-          "summary": "(Bloomberg) -- Japan approved \u00a5631.5 billion ($4 billion) in additional subsidies to quicken Rapidus Corp.\u2019s entry into the high-stakes AI chipmaking arena, ramping up support for a project widely regarded as a long shot.The capital is intended to bankroll Rapidus\u2019 work for IT firm Fujitsu Ltd., one of the initial clients that Tokyo hopes will get the signature endeavor off the ground. The new money raises the fees and investments that the government is injecting into the startup to \u00a52.6 trillio",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=933352638ba0a53cc4a4e341c217e99d55c64eca77277bde1a0b9bdfe578e3ec",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Amazon, Meta, Levi Strauss And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-          "summary": "Retail investors talked up five hot stocks this week (April 6 to April 10) on X and Reddit&#39;s r/WallStreetBets: AMZN, META, LEVI, PLTR, TSLA.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dd61fc3940203c9d827c8da7a00b355b6bdf1c87fa0c7c770d8afa5eb7d47deb",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Tesla: From Bye-Bye To Buy-Buy (Rating Upgrade)",
-          "summary": "Tesla's aggressive CapEx ramp, focus on affordable EVs, and Optimus robot scale-up signal a shift to an autonomy growth era. See why TSLA stock is upgraded to buy.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=865d4b473678a8e97d45fa512e63119f8ba32411d13371e82a75b706d0c2ba9b",
-          "score": 1,
-          "signal": "Bullish"
         }
       ]
     },
@@ -341,6 +341,38 @@
       "news_count": 8,
       "news": [
         {
+          "headline": "Walmart-owned Flipkart, Amazon are squeezing India\u2019s quick commerce startups",
+          "summary": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6f7645b0c561ab17474a4473e90602e3e0a5833ce45e55a4a3dd480ad2806945",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Amazon Looks to Space",
+          "summary": "Amazon is reportedly looking to acquire Globalstar as it works on its own satellite internet ambitions. Plus, a look at housing trends and the best investing books.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a17ae69dc84e613eeae6764d0fd27dfd373e886e0bbaa6024dbde1b57d5a6f60",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Dow Jones Futures Eye U.S.-Iran Talks; Google, Amazon, Nvidia In Buy Areas",
+          "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff1f0209f14200f6ff2b5a1ce57fa47649765a9d4d9ab750265f6dcb42716e44",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Andy Jassy Just Announced Wonderful News for Amazon Stock Investors",
+          "summary": "It's a great time to be an Amazon shareholder.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f6bf375a930c41eaa18ce95f502a96397bff069e92ee3d45da0822b713c003dd",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
           "headline": "Dow Jones Futures Eye Direct U.S.-Iran Talks; Google, Amazon, Nvidia In Buy Areas",
           "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
           "source": "Yahoo",
@@ -357,50 +389,18 @@
           "signal": "Neutral"
         },
         {
+          "headline": "AI Juggernaut Rumbles on Even as Markets Whipsaw",
+          "summary": "(Bloomberg) -- The artificial intelligence credit juggernaut keeps pushing forward as the relentless demand for exposure to the industry trumps fears that the conflict in the Middle East is causing energy prices and inflation to rise. Despite the geopolitical headwinds, Wall Street was still able to successfully stitch together tens of billions of dollars in funding to underpin the AI boom in recent weeks. The tumult may even be making AI-linked high-grade debt more appealing this year as invest",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=203704c2aad6fbcfdb632323553b0d3f01703b9ba4dea28231ef9af89ace6725",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
           "headline": "Dow Jones Futures: Direct U.S.-Iran Talks Begin; Google, Amazon, Nvidia In Buy Areas",
           "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0207dba5f957c8bd41860c1ffa8c51034ecf9c355943b483d7b4bc7797c17323",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Jim Cramer Says for Buy Now, Pay Later Play He\u2019d \u201cRather Own a Pure Play Like Affirm\u201d",
-          "summary": "Affirm Holdings, Inc. (NASDAQ:AFRM) is among the stocks Jim Cramer reviewed while discussing the Iran ceasefire that triggered a relief rally. Cramer mentioned the stock during the episode and said: \u2026 If you want to play that theme, you know what, here we go again, I\u2019d rather own Affirm, which I explicitly highlight in How [\u2026]",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c0c9d8b4c2a9a9885e8242d15ea0094dee9c53549ca4a80540aa2e3c74ea8152",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
-          "summary": "The S&P 500 is mixed after March inflation came in just below forecasts and uncertainty over a peaceful resolution to the Iran war. Tech stocks, though, were once again doing the heavy lifting. Right in the middle is Nvidia (NASDAQ:NVDA), which just logged its eighth consecutive session of gains through Friday\u2019s close, with the stock ... Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8dc7c0495ab750335a9700c8ce7d6d69c1bfc96c5683e23358cf5dc6f37a3d0c",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Amazon vs. Walmart: The Retail War Just Picked a Winner",
-          "summary": "Amazon (NASDAQ:AMZN) and Walmart (NYSE:WMT) reported earnings revealing two companies of nearly identical scale but radically different profit architectures. Amazon closed fiscal 2025 with annual revenue of $716.92 billion, while Walmart finished fiscal 2026 with $713.16 billion. The revenue gap is negligible, but the strategy gap is enormous. AWS Carries Amazon. Omnichannel Carries Walmart. Amazon\u2019s ... Amazon vs. Walmart: The Retail War Just Picked a Winner",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2df735525aa34b9834d09a05e106738cc46c637129a8a9037b9cbd72a8022581",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Dow Jones Futures: U.S.-Iran Peace Talks Begin; Google, Amazon, Nvidia In Buy Areas",
-          "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c17c990df3f7b5459d0bd93fb41bc0c99ec34c8b12e7e2cbb68d445bff21ec42",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Rigetti\u2019s 108 Qubit Launch Tests Quantum Ambitions And Valuation Gap",
-          "summary": "Rigetti Computing has released its 108 qubit modular quantum system, Cepheus-1-108Q, for general availability. The system is now accessible through Rigetti's own cloud platform and Amazon Braket. The launch highlights technical advances in scalability and fidelity and marks a new phase in Rigetti's commercial rollout of higher qubit systems. Rigetti Computing, NasdaqCM:RGTI, now has its Cepheus-1-108Q system available to customers and partners at a time when its share price stands at...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b5d2a1a43464d528e5135f1a15210d44dfc0a9b065c8950e7a1380ebc7f6624",
           "score": 0,
           "signal": "Neutral"
         }
@@ -415,12 +415,52 @@
       "low": 624.33,
       "open": 634.47,
       "previous_close": 628.39,
-      "sentiment": "Mixed",
-      "sentiment_score": 0,
-      "confidence": "Low",
-      "reason": "Based on 8 recent headlines with mixed language and a stock move of +0.23% today.",
+      "sentiment": "Bullish",
+      "sentiment_score": 3,
+      "confidence": "Moderate",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of +0.23% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Will Meta Unity VR Deal Reshape Unity Software's (U) Role in Immersive and AI-Powered Tools?",
+          "summary": "In early April 2026, Meta and Unity announced an extended multi-year agreement under which Unity will continue supporting Meta\u2019s VR platform, pairing Meta\u2019s hardware and operating systems with Unity\u2019s content-creation tools to help developers build and scale applications across Meta\u2019s VR devices. This renewed collaboration reinforces Unity\u2019s role as a core engine for VR content, potentially increasing developer reliance on its tools as immersive experiences reach more users and use...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bf97028d8b21874dbdbfc7cdac17ad4b085ee5ecc3af4988b717184d313c79f6",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "CoreWeave (CRWV) Bags Billion-Dollar Deals, Climbs 24%",
+          "summary": "CoreWeave Inc. (NASDAQ:CRWV) is one of the 10 Stocks Powering Portfolios by Double Digits. CoreWeave soared by 24 percent week-on-week, after securing new billion-dollar deals from Meta Platforms Inc. and Anthropic for the delivery of computing capacity to support their artificial intelligence needs. On Thursday alone, Meta raised its contract with CoreWeave Inc. (NASDAQ:CRWV) to [\u2026]",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=aacb808f84e52dead710a77c80a68f9c1f9f140a521eec702564d45c833fdc68",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Oklo Meta Nuclear Campus Puts AI Power Demand At Center Stage",
+          "summary": "Oklo (NYSE:OKLO) has signed a deal with Meta to develop a 1.2 GW nuclear power campus dedicated to supporting AI data centers. The agreement centers on long term access to nuclear capacity, with Meta directly backing next generation reactors to secure power for its AI workloads. The project highlights the growing role of Big Tech in funding nuclear projects to meet rising electricity needs from AI infrastructure. Oklo is moving into the spotlight as a potential power supplier to one of the...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5d60e8fb31b91f17d894c69b874373a33e10938cd886e52fc6fbd2643e82dbf9",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "CoreWeave Expands Beyond Meta As Anthropic Deal Reshapes AI Growth Story",
+          "summary": "CoreWeave (NasdaqGS:CRWV) has signed a new multi year cloud infrastructure agreement with Anthropic, expanding beyond its existing hyperscale relationship with Meta. The Anthropic deal adds another major AI model provider to CoreWeave\u2019s customer base and diversifies revenue sources across leading AI companies. For investors looking at NasdaqGS:CRWV, the Anthropic agreement comes on top of an already active year that includes a larger commitment from Meta and fresh debt financing. The stock...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b1c6ae9a3bba74488e1200f6569caa3efd157444133f547338eeeaf2a0cbeea",
+          "score": 2,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "AI Juggernaut Rumbles on Even as Markets Whipsaw",
+          "summary": "(Bloomberg) -- The artificial intelligence credit juggernaut keeps pushing forward as the relentless demand for exposure to the industry trumps fears that the conflict in the Middle East is causing energy prices and inflation to rise. Despite the geopolitical headwinds, Wall Street was still able to successfully stitch together tens of billions of dollars in funding to underpin the AI boom in recent weeks. The tumult may even be making AI-linked high-grade debt more appealing this year as invest",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=203704c2aad6fbcfdb632323553b0d3f01703b9ba4dea28231ef9af89ace6725",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "After Reaching a Deal With Anthropic, Is CoreWeave Proving to Be the Ultimate Artificial Intelligence (AI) Stock to Own?",
           "summary": "CoreWeave's growth has been explosive due to the ongoing demand for leading artificial intelligence (AI) chips.",
@@ -442,46 +482,6 @@
           "summary": "The social media giant is preparing for what could be its biggest transformation yet. On Friday, Barclays (BCS) analyst Ross Sandler, rated 5-star on TipRanks, reiterated his Buy rating on Meta Platforms (META), setting a price target of $800. With the stock currently trading near $628, this new target suggests a 27.31% upside. The move comes as Wall Street prepares for Meta\u2019s first-quarter earnings report later this month, where the focus will be entirely on how much cash the company is squeezi",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=236146412b7a2044a2ec5ac6c83746f515360aa8036bfe68364f7d3341927e59",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Amazon, Meta, Levi Strauss And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-          "summary": "Retail investors talked up five hot stocks this week (April 6 to April 10) on X and Reddit&#39;s r/WallStreetBets: AMZN, META, LEVI, PLTR, TSLA.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dd61fc3940203c9d827c8da7a00b355b6bdf1c87fa0c7c770d8afa5eb7d47deb",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "After A Chaotic Q1, I'm Buying XLK And XLC As The Market Exhales",
-          "summary": "XLK outlook: why tech remains a buy despite Q1 volatility.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b39b8822363385d3c03c96b9d75bdeeb39e8eae0ec0592813a2ad5b22317cd0e",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Potential $5,000 Monthly Income: 12 Investments To Buy And Hold For The Next 10 Years",
-          "summary": "Diversified hands-off retirement portfolio: 12 funds (ETFs/CEFs/mutual) targeting 6% yield + 6% dividend growth. Read the full list of picks here.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9396a9f8c8bf0312e7f3191e7f7aa96c2b18a3dfc0ecfb79d7f2748a1cf5c104",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "IBM Pays $17 Million To Settle DEI Allegations In DOJ's First False Claims Act Win",
-          "summary": "IBM agrees to pay $17 million to settle federal allegations related to DEI hiring practices, marking the first resolution under the DOJ&#39;s Civil Rights Fraud Initiative.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=a3647b87e8094e1e70c40ad1590edaf6b4a20433ded3095974296ccd80a66d1f",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Nvidia CEO Jensen Huang Says 'Move To California' Even As Billionaires Look To Flee State's Proposed Wealth Tax",
-          "summary": "Nvidia CEO Jensen Huang urges people to move to California despite high taxes, amid debate over a proposed billionaire tax and wealthy residents leaving the state.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=580cc482bc6de40b02a5f2d09561c9206ca173a477ab83f5fe04ecd44c28a751",
           "score": 0,
           "signal": "Neutral"
         }

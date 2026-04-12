@@ -449,7 +449,31 @@ def render_index(posts, generated_at):
 </body>
 </html>
 """
+def pick_best_image(mentions):
+    if not mentions:
+        return ""
 
+    BAD_PATTERNS = [
+        "reuters",          # generic Reuters brand images
+        "logo",
+        "placeholder",
+        "default",
+        "no-image"
+    ]
+
+    for item in mentions:
+        img = (item.get("image") or "").strip()
+        if not img:
+            continue
+
+        lower = img.lower()
+        if any(p in lower for p in BAD_PATTERNS):
+            continue
+
+        return img
+
+    # fallback: if all are generic, return empty so UI shows no thumbnail
+    return ""
 
 def main():
     if not FINNHUB_API_KEY:

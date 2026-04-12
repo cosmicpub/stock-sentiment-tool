@@ -30,16 +30,19 @@ STOPWORDS = {
     "A", "AN", "THE", "AND", "OR", "FOR", "WITH", "FROM", "BY", "ON", "IN",
     "TO", "OF", "US", "USA", "ETF", "ETFS", "CEO", "CFO", "AI", "IPO", "SEC",
     "GDP", "CPI", "FED", "FOMC", "SP", "S&P", "DJIA", "NYSE", "NASDAQ", "RALLY",
-    "MARKET", "STOCK", "STOCKS", "SHARES", "NEWS", "TODAY", "WEEK", "MONTH"
+    "MARKET", "STOCK", "STOCKS", "SHARES", "NEWS", "TODAY", "WEEK", "MONTH",
+    "WAR", "OIL", "GAS", "IRAN", "CHINA", "RUSSIA"
 }
 
-POSITIVE_WORDS = {
-    "beat", "beats", "surge", "surges", "strong", "growth", "record", "profit",
-    "profits", "upgrade", "upgrades", "wins", "win", "bullish", "rebound", "gains"
+TRUSTED_SOURCES = {
+    "Reuters", "Bloomberg", "CNBC", "MarketWatch", "WSJ", "Barrons", "Associated Press", "AP"
 }
-NEGATIVE_WORDS = {
-    "miss", "misses", "drop", "drops", "fall", "falls", "slump", "warning",
-    "warnings", "downgrade", "downgrades", "lawsuit", "probe", "bearish", "risk", "risks"
+
+INVESTOR_SIGNAL_WORDS = {
+    "earnings", "guidance", "revenue", "profit", "margin", "valuation", "downgrade",
+    "upgrade", "lawsuit", "investigation", "acquisition", "merger", "forecast",
+    "estimate", "demand", "supply", "tariff", "regulation", "buyback", "dividend",
+    "capex", "outlook", "quarter", "q1", "q2", "q3", "q4"
 }
 
 
@@ -98,17 +101,50 @@ def load_manifest():
 def save_manifest(manifest):
     MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
     MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+def is_valid_candidate_symbol(sym: str) -> bool:
+    if not sym:
+        return False
+    if sym in STOPWORDS:
+        return False
+    if len(sym) < 2 or len(sym) > 5:
+        return False
+    if not sym.isalpha():
+        return False
+    return True
 
+
+def investor_relevance_score(item: dict) -> int:
+    headline = (item.get("headline") or "").lower()
+    summary = (item.get("summary") or "").lower()
+    text = f"{headline} {summary}"
+
+    score = 0
+    for w in INVESTOR_SIGNAL_WORDS:
+        if w in text:
+            score += 1
+
+    source = (item.get("source") or "").strip()
+    if source in TRUSTED_SOURCES:
+        score += 2
+
+    return score
 
 def extract_ticker_candidates(news_items):
     counter = Counter()
+
     for item in news_items:
+        # skip low-value headlines for investors
+        if investor_relevance_score(item) < 2:
+            continue
+
         text = f"{item.get('headline', '')} {item.get('summary', '')}"
         matches = re.findall(r"\b[A-Z]{1,5}\b", text.upper())
+
         for m in matches:
-            if m in STOPWORDS or len(m) <= 1:
+            if not is_valid_candidate_symbol(m):
                 continue
             counter[m] += 1
+
     return counter
 
 
@@ -190,10 +226,16 @@ def generate_ai_article(stock_payload, generated_at, market_data_as_of):
             {
                 "role": "system",
                 "content": (
-                    "Write a high-quality SEO stock sentiment post using ONLY provided data. "
+                    "You are writing for retail investors who want to know what matters now. "
+                    "Use ONLY provided data and headlines. No invented facts. No hype. No financial advice. "
                     "Return strict JSON keys: title, meta_description, excerpt, body_html, faq. "
-                    "body_html may use only <h2>, <p>, <ul>, <li>. "
-                    "faq must be 3 objects with q and a. No investment advice."
+                    "body_html must use only <h2>, <p>, <ul>, <li>. "
+                    "Article must include sections covering: "
+                    "1) What happened, "
+                    "2) Why this matters for investors, "
+                    "3) Bull vs bear interpretation, "
+                    "4) What to watch next (earnings, macro, regulation, demand, etc). "
+                    "faq must include 3 practical investor Q&A items."
                 ),
             },
             {"role": "user", "content": json.dumps(prompt, ensure_ascii=False)},
@@ -420,13 +462,16 @@ def main():
     counts = extract_ticker_candidates(general_news)
 
     candidates = []
-    for symbol, mention_count in counts.most_common(80):
+    for symbol, mention_count in counts.most_common(120):
         validated = validate_ticker(symbol)
         if not validated:
             continue
 
         ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
         if not ticker_news["mentions"]:
+            continue
+        # require stronger signal so posts are actually worth reading
+        if len(ticker_news["mentions"]) < 2:
             continue
 
         impact_score = mention_count * 2 + abs(ticker_news["sentiment_score"]) + len(ticker_news["mentions"])

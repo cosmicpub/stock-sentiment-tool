@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T13:39:54.830974+00:00",
+  "updated_at": "2026-04-12T14:45:20.747497+00:00",
   "stocks": [
     {
       "ticker": "AAPL",
@@ -10,12 +10,36 @@
       "low": 259.023123,
       "open": 259.99,
       "previous_close": 260.49,
-      "sentiment": "Bullish",
-      "sentiment_score": 3,
-      "confidence": "Moderate",
+      "sentiment": "Mixed",
+      "sentiment_score": 1,
+      "confidence": "Low",
       "reason": "Based on 8 recent headlines with more positive language and a stock move of +0.00% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Is a Foldable iPhone a Reason to Buy Apple's Stock?",
+          "summary": "Apple is set to enter the foldable smartphone market.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=329afec48653878f7086496d816dcb985911366bdcb10548d6568212eb429a94",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Apple is closing down first of its U.S. stores",
+          "summary": "Apple has not had many public labor fights, but its latest just got a lot harder to ignore. The company confirmed on April 9 that it will permanently close its store at Towson Town Center in Maryland in June. The store will not be replaced. The Towson location was the first Apple retail store in ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80468eb97672a2806c2d19d1edb4a994d59c2b217280e42cc88431fd86057e28",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "EGYM to merge with Playlist: CEO talks new $7.5 billion evaluation",
+          "summary": "EGYM co-founder and CEO Philipp Roesch-Schlanderer sits down with Jared Blikre to explain the smart fitness equipment company's merger with Playlist \u2014 the parent company of workout subscription service ClassPass \u2014 and discuss the new company's current valuation of $7.5 billion.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e2d5b9e4af8305c50b243f22f3e43d0e8c0c4c47c2cd200fd3d88cdfedb7513",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Why a $70,000 Dividend Income Goal Requires Millions, and Which ETF Gets You There Fastest",
           "summary": "Replacing a $70,000 salary with dividend income alone requires a specific portfolio size, and the required portfolio size is larger than most people expect. At a 3.39% yield from SCHD, the portfolio required to generate $70,000 per year before taxes runs into the millions, and the exact figure shifts depending on which fund you choose. ... Why a $70,000 Dividend Income Goal Requires Millions, and Which ETF Gets You There Fastest",
@@ -23,6 +47,22 @@
           "url": "https://finnhub.io/api/news?id=a4a1b37fe5ae441d4b912a6cebf266c25083427acc6a0b5928fdd30e7268626b",
           "score": 0,
           "signal": "Neutral"
+        },
+        {
+          "headline": "Will the Iran Truce Hold? Where to Invest\u2014Whether It Fizzles or Settles In",
+          "summary": "A mini-recovery may not last if U.S. negotiations with Iran break down altogether. How to play it safe or go on offense if peace really breaks out.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f303413416b29068f0c871a5846f90742c16170607bcd3f2d3a3c1981772f7de",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Consumer Tech News (April 6-April 10): Tesla China Sales Drop, CoreWeave Grabs AI Deal With Meta and Anthropic & More",
+          "summary": "CoreWeave expands AI cloud leadership with new Anthropic and Meta agreements while simultaneously advancing multi-billion-dollar debt offerings to fund infrastructure growth.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=079bf6f1c5b97d4e0e60772925302824d28da460add94e5a052fc4881d26d4e4",
+          "score": -1,
+          "signal": "Bearish"
         },
         {
           "headline": "TSMC\u2019s Record Q1 AI Revenue Puts Capex And Growth In Focus",
@@ -33,50 +73,10 @@
           "signal": "Bullish"
         },
         {
-          "headline": "2.5 Billion Reasons Apple Might Be the Best Artificial Intelligence (AI) Stock to Buy Today",
-          "summary": "Apple may not be falling behind in AI after all.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fb4be571863f20935f91bbcfd89c52462361037d057c8f9e809563dce9cb5db",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
-          "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50b88ff077b77989fb8e9fc25ae087549eaa130b48827a7c497218cf6f1dbc88",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Japan Bets $16 Billion to Propel Rapidus in Global AI Chip Race",
-          "summary": "(Bloomberg) -- Japan approved \u00a5631.5 billion ($4 billion) in additional subsidies to quicken Rapidus Corp.\u2019s entry into the high-stakes AI chipmaking arena, ramping up support for a project widely regarded as a long shot.The capital is intended to bankroll Rapidus\u2019 work for IT firm Fujitsu Ltd., one of the initial clients that Tokyo hopes will get the signature endeavor off the ground. The new money raises the fees and investments that the government is injecting into the startup to \u00a52.6 trillio",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=933352638ba0a53cc4a4e341c217e99d55c64eca77277bde1a0b9bdfe578e3ec",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "VTSAX vs VOO ETF: Which Vanguard Fund Should You Buy in 2026?",
-          "summary": "For investors seeking low-cost U.S. stock market exposure, two Vanguard funds dominate the conversation: the Vanguard Total Stock Market Index Fund Admiral Shares (VTSAX) and the Vanguard S&P 500 ETF (VOO). At first glance, choosing between a mutual fund and an ETF can feel confusing. Both give you broad exposure to the U.S. market, but they work differently when it comes to how you buy, trade, and manage them. Here, we compare both to help investors decide which option may be the better fit for",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b969c9986f7ff1c8b1b9d29eb9a98f1a43abdbc133330886056250f4cf35ddfa",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "MarketBeat Week in Review \u2013 04/06 - 04/10",
-          "summary": "Stocks staged a strong recovery after the U.S. and Iran agreed to a ceasefire; now attention turns to earnings season, which could be a catalyst for stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=27fe0b9df87ee05387d57cecd96c2ef88b880097019743c27ffea34b8fbc62f2",
-          "score": 1,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "After A Chaotic Q1, I'm Buying XLK And XLC As The Market Exhales",
-          "summary": "XLK outlook: why tech remains a buy despite Q1 volatility.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b39b8822363385d3c03c96b9d75bdeeb39e8eae0ec0592813a2ad5b22317cd0e",
+          "headline": "Apple TV On Amazon Prime, Store Closures, Foldable iPhone And More: This Week In Appleverse",
+          "summary": "Apple had a busy weekend, highlighted by its Apple TV expansion to Amazon Prime Video, strong smartphone market share.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a930a4caeb19875467ede7c97c824dcc30543243899b2febd2e84e887466229c",
           "score": 0,
           "signal": "Neutral"
         }
@@ -91,17 +91,49 @@
       "low": 370.03,
       "open": 372.99,
       "previous_close": 373.07,
-      "sentiment": "Bearish",
-      "sentiment_score": -3,
-      "confidence": "Moderate",
+      "sentiment": "Mixed",
+      "sentiment_score": -1,
+      "confidence": "Low",
       "reason": "Based on 8 recent headlines with more negative language and a stock move of -0.58% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Wall Street strategists say it's time to 'jump in' with tech stocks amid Iran ceasefire",
+          "summary": "While geopolitical tensions keep the market on edge, some experts see a rare opening in hammered tech names.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=53412a11b25922a57d02cd419a9a5c15578053137793a3558c902a0bb70c58d1",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Microsoft Faces OpenAI Probe And Carbon Pause Testing AI Valuation Story",
+          "summary": "Florida\u2019s Attorney General has opened an investigation into OpenAI over potential national security risks and alleged links to criminal activity, raising questions for key investor Microsoft (NasdaqGS:MSFT). Microsoft, a major backer and commercial partner of OpenAI, has integrated OpenAI models across its productivity, cloud, and consumer products. Separately, Microsoft has told carbon removal credit developers that it is pausing what has been described as the world\u2019s largest program for...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20a51ef13fc5903b5d0f199c7d4537f913435c01332e8e6dd7ed7c1e9e2b91c6",
+          "score": -1,
+          "signal": "Bearish"
+        },
         {
           "headline": "Why a $70,000 Dividend Income Goal Requires Millions, and Which ETF Gets You There Fastest",
           "summary": "Replacing a $70,000 salary with dividend income alone requires a specific portfolio size, and the required portfolio size is larger than most people expect. At a 3.39% yield from SCHD, the portfolio required to generate $70,000 per year before taxes runs into the millions, and the exact figure shifts depending on which fund you choose. ... Why a $70,000 Dividend Income Goal Requires Millions, and Which ETF Gets You There Fastest",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a4a1b37fe5ae441d4b912a6cebf266c25083427acc6a0b5928fdd30e7268626b",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Will the Iran Truce Hold? Where to Invest\u2014Whether It Fizzles or Settles In",
+          "summary": "A mini-recovery may not last if U.S. negotiations with Iran break down altogether. How to play it safe or go on offense if peace really breaks out.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f303413416b29068f0c871a5846f90742c16170607bcd3f2d3a3c1981772f7de",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "These cofounders quit corporate jobs, took on $100K in credit card debt, and slept in a Denny\u2019s\u2014now their $1.2B company is backed by Serena Williams",
+          "summary": "Wemimo Abbey and Samir Goel, the cofounders of fintech company Esusu, quit their corporate jobs and exhausted their savings on the road to unicorn status.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b8477817ef89c78df3dd2757911ea8df3340bc5ee6235d45f98c4b46e943cafb",
           "score": 0,
           "signal": "Neutral"
         },
@@ -122,44 +154,12 @@
           "signal": "Neutral"
         },
         {
-          "headline": "Alphabet vs. Oracle: Here's What the Debt Market Is Saying",
-          "summary": "You might be surprised by the nuanced difference between what the equity markets and debt markets think about artificial intelligence (AI) investment.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4639b5ee2e3f47ffb2b5be48f7209789032f7419569f8de33740a5abb9378ace",
+          "headline": "Anthropic Launches Claude for Word, Challenges Microsoft's Enterprise Dominance As MSFT Stock Slides 22% This Year",
+          "summary": "Anthropic launched Claude for Word, a Microsoft Office add-in in beta, expanding its AI assistant across Word, Excel, and PowerPoint.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e11f289f1a70174a62d5fab7777e0c1046453096f27c2ef3b3ec8bfcc12d5efa",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
-          "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50b88ff077b77989fb8e9fc25ae087549eaa130b48827a7c497218cf6f1dbc88",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Microsoft's 'Copilot Code Red': CEO Nadella Deploys Emergency Overhaul To Crush AI Rivals",
-          "summary": "Microsoft Corp stock could regain momentum as improving AI execution, cloud growth and financial balance address investor concerns, according to BNP Paribas analyst Stefan Slowinski. Copilot Push Aims To Restore Confidence Slowinski said investor frustration stems from limited traction in Microsoft's Copilot offering despite its leadership in SaaS through 365 Commercial Cloud. He noted that CEO Satya Nadella is driving a \"Copilot code red\" effort to improve performance and the user experience, w",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae4f26b5f12a7dc918b12fc41ba5d699d5cfcd7e2638d6fd8426d2fcd3e88043",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Goldman Sachs drops a bombshell on software stocks",
-          "summary": "Software stocks just recorded the worst relative performance against the S&P 500 in the sector\u2019s entire recorded history. The iShares Expanded Tech-Software Sector ETF (IGV) cratered more than 24% in Q1 2026, its steepest quarterly plunge since Q4 2008. Salesforce, Adobe, Oracle, and even ...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab526e6f91bf4fb8eea41fd480989c7bdc8c56bf31af826366f1975141a8c763",
-          "score": -2,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "Not All the Signals Are Bearish Under President Donald Trump \u2014 Here\u2019s What Bulls Are Watching",
-          "summary": "The S&P 500 returned 12.8% from Election Day 2024 through April 10, 2026, according to FactSet market data. Higher oil prices and tariff headlines created volatility, yet corporate results held firm and policy moves delivered support. Amid concerns about war, oil prices, inflation, and the economy, bulls are zeroing in on three clear positives: earnings ... Not All the Signals Are Bearish Under President Donald Trump \u2014 Here\u2019s What Bulls Are Watching",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56606bd6933f84cc535be91314030affaada17d59306ce4c3fbbca72a5e3c35d",
-          "score": -1,
-          "signal": "Bearish"
         }
       ]
     },
@@ -179,66 +179,66 @@
       "news_count": 8,
       "news": [
         {
-          "headline": "S&P 500 Update This Week: 4 Signals to Watch After Delta's Earnings",
-          "summary": "Stop watching headlines and start watching volume guidance. That's where the real cracks will show.",
+          "headline": "12 Months From Now, Will You Wish You Bought TMC The Metals Company Today?",
+          "summary": "TMC is trading 50% below its recent high, yet the company's future look favorable. Will you regret not buying this deep-sea miner 12 months from now?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=75b849490359ea8a13456c5ed16c58fe7a67f54293e2f1d272b0af10f03f3d20",
+          "url": "https://finnhub.io/api/news?id=85efad3071a6749d4068b12b0c6640bd88cfbc4f25d5d80d592be799e5256862",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Why Dollar-Cost Averaging May Not Make Sense With IonQ Stock",
-          "summary": "Investing in the start-up quantum computing stock has become difficult in today's environment.",
+          "headline": "Is a Foldable iPhone a Reason to Buy Apple's Stock?",
+          "summary": "Apple is set to enter the foldable smartphone market.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed6d87ef5a1aec0273c1da90b346c8f4aa1dd25dd788ce31d0baf1bb54be8516",
+          "url": "https://finnhub.io/api/news?id=329afec48653878f7086496d816dcb985911366bdcb10548d6568212eb429a94",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "2 Artificial Intelligence (AI) Stocks to Buy Before They Soar 35% and 62%, According to 1 Wall Street Analyst",
-          "summary": "Artificial intelligence stocks have sold off this year, presenting what some believe is a buying opportunity.",
+          "headline": "Bitcoin Is Down 42% and Losing Steam. Here's What the Next 2 Years Could Realistically Look Like.",
+          "summary": "Bear markets are not a new phenomenon for the world's most valuable cryptocurrency.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8b7dd63bfa3c584e8f0f4cf745ccaed3f0391ea21aea396741e30006032a8137",
+          "url": "https://finnhub.io/api/news?id=65f887d29a6127a7baf7d493fbe099fb9b1500dead1575762147ea7699995117",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "SpaceX Could Be the Ultimate Meme Stock. Investors Should Avoid This Unprecedented IPO.",
-          "summary": "SpaceX is gearing up to be one of the most exciting initial public offerings ever.",
+          "headline": "11 Words From the March Fed Minutes That May Come Back to Haunt Wall Street",
+          "summary": "The Federal Open Market Committee (FOMC) meeting minutes just said the quiet part out loud.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab37475e995ba937387fc6f2eb9ebc04fd11b0bb1d9a145ec3d2e15c16231a9b",
+          "url": "https://finnhub.io/api/news?id=cd90933048ba222f4e65ed372b3225ec4510b4595be94c837a329e33a310edd9",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Why a $70,000 Dividend Income Goal Requires Millions, and Which ETF Gets You There Fastest",
-          "summary": "Replacing a $70,000 salary with dividend income alone requires a specific portfolio size, and the required portfolio size is larger than most people expect. At a 3.39% yield from SCHD, the portfolio required to generate $70,000 per year before taxes runs into the millions, and the exact figure shifts depending on which fund you choose. ... Why a $70,000 Dividend Income Goal Requires Millions, and Which ETF Gets You There Fastest",
+          "headline": "Among Wealthy Families, There's An Ongoing Question: Should Parents Support Adult Children Financially, And If They Do, Do They Get A Say?",
+          "summary": "Wealthy people are debating on Reddit whether parents should keep helping their adult kids with money, and what that help should actually look like. Some argue that cutting children off is necessary to build independence, while others see ongoing support...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a4a1b37fe5ae441d4b912a6cebf266c25083427acc6a0b5928fdd30e7268626b",
+          "url": "https://finnhub.io/api/news?id=d120006c7c776c5b37d56cec3a303d274c08f34f8dceb9adb7bb7dd13fb6a462",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Is Palantir a Millionaire-Maker Stock?",
-          "summary": "Business is still booming, but the stock is slowing.",
+          "headline": "Here's the Real Reason SpaceX Is Teaming Up With Intel on Terafab",
+          "summary": "An Intel blog post highlighted exciting technology SpaceX may need to use.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2c6d9264876186a3d8a43d97cb6fb81671168de8c108dce3cba4bb6eca59b5bb",
+          "url": "https://finnhub.io/api/news?id=8f559c9e11b1e0d6e35feb48a9e9372acd4577c22ba5a68e8792e3d1e3fa939b",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Where Will Bank of America Stock Be in 5 Years?",
-          "summary": "Despite its dominant industry position, the bank has underperformed the S&P 500 in the past five years.",
+          "headline": "Ignore Hormuz \u2013 3 Energy ETFs That Can Rally No Matter What Happens",
+          "summary": "You\u2019re only going to get hurt if you try to predict whiplashing oil prices and fragile ceasefires. Instead of doing that, you could buy into energy ETFs like the Invesco WilderHill Clean Energy ETF (NYSEARCA:PBW), First Trust North American Energy Infrastructure (NYSEARCA:EMLP), and the Themes Uranium & Nuclear ETF (BATS:URAN). These are energy ETFs that are ... Ignore Hormuz \u2013 3 Energy ETFs That Can Rally No Matter What Happens",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad33eeddf3946d670e03b4d16536556f3dcdee8ca6010d7c1b216322fa461864",
+          "url": "https://finnhub.io/api/news?id=04b679d0eda008dabf96f09137507da4b0fbb67d102de9aef8aee1112d42108f",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Have President Donald Trump's Actions in Iran Done Irreparable Damage to the Stock Market? One Data Point Tells the Tale.",
-          "summary": "The inflationary pressures of the Iran war may devastate a historically pricey stock market.",
+          "headline": "2 of the Most Owned Stocks on Robinhood Also Have at Least 50% Upside, According to Wall Street",
+          "summary": "Robinhood is a popular online brokerage for retail investors.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eda62f97bcdf77458860c42e9b3d8d859434a787bb2adce0819b04aa3c1c8004",
+          "url": "https://finnhub.io/api/news?id=20d7f8a3304aad13437efc4c839b10ead73183a7d396dee4f434492e25c0a86a",
           "score": 0,
           "signal": "Neutral"
         }
@@ -254,11 +254,27 @@
       "open": 346.295,
       "previous_close": 345.62,
       "sentiment": "Mixed",
-      "sentiment_score": 1,
+      "sentiment_score": 0,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of +0.97% today.",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of +0.97% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Among Wealthy Families, There's An Ongoing Question: Should Parents Support Adult Children Financially, And If They Do, Do They Get A Say?",
+          "summary": "Wealthy people are debating on Reddit whether parents should keep helping their adult kids with money, and what that help should actually look like. Some argue that cutting children off is necessary to build independence, while others see ongoing support...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d120006c7c776c5b37d56cec3a303d274c08f34f8dceb9adb7bb7dd13fb6a462",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Here's the Real Reason SpaceX Is Teaming Up With Intel on Terafab",
+          "summary": "An Intel blog post highlighted exciting technology SpaceX may need to use.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8f559c9e11b1e0d6e35feb48a9e9372acd4577c22ba5a68e8792e3d1e3fa939b",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Tesla Q1 Preview: It's About To Be Story Time On Wall Street",
           "summary": "Tesla Q1 2026 outlook: risk sentiment and autonomy narrative over fundamentals. Read more macro analysis here.",
@@ -276,6 +292,14 @@
           "signal": "Neutral"
         },
         {
+          "headline": "Consumer Tech News (April 6-April 10): Tesla China Sales Drop, CoreWeave Grabs AI Deal With Meta and Anthropic & More",
+          "summary": "CoreWeave expands AI cloud leadership with new Anthropic and Meta agreements while simultaneously advancing multi-billion-dollar debt offerings to fund infrastructure growth.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=079bf6f1c5b97d4e0e60772925302824d28da460add94e5a052fc4881d26d4e4",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
           "headline": "Tesla\u2019s Compact SUV Plan Tests Balance Between Volume Growth And Autonomy",
           "summary": "Tesla (NasdaqGS:TSLA) is reported to be reviving plans for a smaller, more affordable electric SUV aimed at the mass market. The model is expected to allow both driverless and human-driven options, with initial production reportedly considered for China and later other regions. This effort follows an earlier decision to prioritize autonomous projects over lower cost EVs. Supplier activity and industry sources suggest development is progressing, despite a formal denial from Tesla...",
           "source": "Yahoo",
@@ -284,42 +308,18 @@
           "signal": "Bullish"
         },
         {
+          "headline": "Gary Black Says Rumored Tesla 'Model Q' Under $30K Could Have 'Huge Upside' Opportunity, But Warns TSLA Lacks Marketing Muscle Needed",
+          "summary": "Gary Black suggested that Tesla&#39;s move could reflect challenges in its autonomous driving goals and growing EV competition.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=2b57f28c8e255f4c900f402a9b36a0237b8df66ba37ff1143d5c80b80c94d6d0",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
           "headline": "SpaceX Advances Texas Chip Plant, Eyes Production By End Of 2026: Report",
           "summary": "SpaceX has reportedly initiated equipment installation at its advanced chip packaging facility in Bastrop, Texas. The company aims to begin production by the end of 2026, Reuters reported on Friday, citing sources. The aerospace giant is moving to bring semiconductor processes in-house. The facility will package radio frequency (RF) chips. These components are vital for Starlink, the company\u2019s satellite-based internet system. External providers currently handle this packaging, but SpaceX plans t",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d1ca8bdc7b808e9efbd7533a30cef9277e9bbfd1c69c670c13ec15abc67c5d81",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "The Secret to Out-Innovating the Competition: Inside the Tesla Playbook",
-          "summary": "Former Tesla President Jon McNeill discusses his new book, The Algorithm: The Hypergrowth Formula That Transformed Tesla, Lululemon, General Motors, and SpaceX.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d9d38828f907de6c87f63b087b3c2a646ae1a00ac3a2346fe5fd5e500fee114c",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Ross Gerber Thinks Tesla's Rumored Affordable Model Is Cybercab With A Steering: 'They'll Say Anything\u2026'",
-          "summary": "Investor Ross Gerber of Gerber Kawasaki thinks that Tesla\u2019s rumored affordable model would be a Cybercab fit with driver inputs. A Cybercab With A Steering Wheel In a post on X on Thursday, Gerber quoted a report by Reuters that shed light on a possible affordable vehicle being developed by the EV giant. \u201cA Tesla cybercab with a steering wheel\u2026 they'll say anything at this point\u2026\u201d Gerber said in the post, seemingly criticizing Tesla for its possible pivot. A Tesla cybercab with a steering wheel\u2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e64a3e26279d5900cd4748b0effd98eba569e90aadd774c771d4c0e3821cd47",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "The 30% Dip in Tesla Rippled Across EV Stocks. These 2 Stocks Are Worth Catching.",
-          "summary": "Tesla stock is down big since its December highs.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c4cc44b294f0f3f6c009e17344a4d90b5ad8bc289c08e68c8b97d374f8e59475",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
-          "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50b88ff077b77989fb8e9fc25ae087549eaa130b48827a7c497218cf6f1dbc88",
           "score": 0,
           "signal": "Neutral"
         }
@@ -335,16 +335,40 @@
       "open": 235.30499999999998,
       "previous_close": 233.65,
       "sentiment": "Mixed",
-      "sentiment_score": 0,
+      "sentiment_score": -1,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with mixed language and a stock move of +2.03% today.",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of +2.03% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "A blue-collar worker says he makes $10,000 per month from Amazon in just 20 hours of work \u2014 how you can do it, too",
+          "summary": "The typical American side hustle brings in $1,275 a month. Michael Strahl says he makes more than seven times that amount on average thanks to the Amazon Influencer program.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c99aaa1e10263c2cbf8bbb2b366c672cd18d06f382a32bb622063b2adbfa4f9",
+          "score": 0,
+          "signal": "Neutral"
+        },
         {
           "headline": "Nvidia Built an AI Chip Empire. But It's This Other Creation That Makes the Stock a Screaming Buy Today.",
           "summary": "The future looks bright for this AI star.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1c5fc082c92d5f703821e847f0984128a2c76bc5ed9e829c500234f2fa345618",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Consumer Tech News (April 6-April 10): Tesla China Sales Drop, CoreWeave Grabs AI Deal With Meta and Anthropic & More",
+          "summary": "CoreWeave expands AI cloud leadership with new Anthropic and Meta agreements while simultaneously advancing multi-billion-dollar debt offerings to fund infrastructure growth.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=079bf6f1c5b97d4e0e60772925302824d28da460add94e5a052fc4881d26d4e4",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Apple TV On Amazon Prime, Store Closures, Foldable iPhone And More: This Week In Appleverse",
+          "summary": "Apple had a busy weekend, highlighted by its Apple TV expansion to Amazon Prime Video, strong smartphone market share.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a930a4caeb19875467ede7c97c824dcc30543243899b2febd2e84e887466229c",
           "score": 0,
           "signal": "Neutral"
         },
@@ -357,6 +381,14 @@
           "signal": "Neutral"
         },
         {
+          "headline": "Elon Musk's Starlink World's 'Least Understood' Tech Successes, Says Marc Andreessen Ahead Of SpaceX's $1.75 Trillion IPO",
+          "summary": "Marc Andreessen says Elon Musk&#39;s Starlink is a misunderstood tech success, beating failed satellite internet efforts and growing to millions of users globally.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=6eb8caeee0f8caa1b86d3690cec6b0c950dc1aabacff43cdb984840f6d9a8390",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
           "headline": "Walmart-owned Flipkart, Amazon are squeezing India\u2019s quick commerce startups",
           "summary": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
           "source": "Yahoo",
@@ -365,42 +397,10 @@
           "signal": "Neutral"
         },
         {
-          "headline": "Amazon Looks to Space",
-          "summary": "Amazon is reportedly looking to acquire Globalstar as it works on its own satellite internet ambitions. Plus, a look at housing trends and the best investing books.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a17ae69dc84e613eeae6764d0fd27dfd373e886e0bbaa6024dbde1b57d5a6f60",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Dow Jones Futures Eye U.S.-Iran Talks; Google, Amazon, Nvidia In Buy Areas",
-          "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff1f0209f14200f6ff2b5a1ce57fa47649765a9d4d9ab750265f6dcb42716e44",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Andy Jassy Just Announced Wonderful News for Amazon Stock Investors",
-          "summary": "It's a great time to be an Amazon shareholder.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6bf375a930c41eaa18ce95f502a96397bff069e92ee3d45da0822b713c003dd",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Dow Jones Futures Eye Direct U.S.-Iran Talks; Google, Amazon, Nvidia In Buy Areas",
-          "summary": "After big stock market gains, Iran talks and upcoming earnings are in focus. Google, Amazon and Nvidia are in buy areas.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c69e0d6ed7648d0cbadb4013d0ae5e20a1b65818660e9338b1997e88255a1c36",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Gary Black Says Tesla's 8-Week Slide Driven By 'Disappointing' Deliveries, Robotaxi Doubts: 'EVs Still Comprise 70%...'",
-          "summary": "Investor Gary Black, who is a managing partner at The Future Fund LLC, has outlined his take on why Tesla, Inc. has been declining for the past eight weeks. Disappointing Deliveries On Thursday, the investor shared why he thought TSLA stock was on the decline in a post on the social media platform X. He said the stock was declining after analysts cut earnings estimates following the automaker\u2019s \u201cdisappointing\u201d first-quarter 2026 delivery figures. \u201cTSLA P/E being re-rated down as investors questi",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50b88ff077b77989fb8e9fc25ae087549eaa130b48827a7c497218cf6f1dbc88",
+          "headline": "Anthropic Launches Claude for Word, Challenges Microsoft's Enterprise Dominance As MSFT Stock Slides 22% This Year",
+          "summary": "Anthropic launched Claude for Word, a Microsoft Office add-in in beta, expanding its AI assistant across Word, Excel, and PowerPoint.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e11f289f1a70174a62d5fab7777e0c1046453096f27c2ef3b3ec8bfcc12d5efa",
           "score": 0,
           "signal": "Neutral"
         }
@@ -421,6 +421,22 @@
       "reason": "Based on 8 recent headlines with more positive language and a stock move of +0.24% today.",
       "news_count": 8,
       "news": [
+        {
+          "headline": "Intel, Nebius, And Applied Optoelectronics Are Among the Top 10 Large-Cap Gainers Last Week (April 6-April 10): Are the Others in Your Portfolio?",
+          "summary": "AI-driven data center demand, deal momentum, and short squeezes fueled sharp weekly gains across tech and infrastructure stocks, led by Avis, Applied Optoelectronics, Nebius, and Intel.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=65d977f37486a2ca0fd8af71edbdc95c294d5d8bb4e895d56083fd0529dd08ed",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Consumer Tech News (April 6-April 10): Tesla China Sales Drop, CoreWeave Grabs AI Deal With Meta and Anthropic & More",
+          "summary": "CoreWeave expands AI cloud leadership with new Anthropic and Meta agreements while simultaneously advancing multi-billion-dollar debt offerings to fund infrastructure growth.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=079bf6f1c5b97d4e0e60772925302824d28da460add94e5a052fc4881d26d4e4",
+          "score": -1,
+          "signal": "Bearish"
+        },
         {
           "headline": "US-Iran Talks End With No Deal, Bitcoin Slumps in Potential Stock Market Preview",
           "summary": "U.S. and Iranian officials met in Islamabad. Also on Saturday, two Navy destroyers crossed into a key shipping channel to clear mines.",
@@ -466,22 +482,6 @@
           "summary": "(Bloomberg) -- The artificial intelligence credit juggernaut keeps pushing forward as the relentless demand for exposure to the industry trumps fears that the conflict in the Middle East is causing energy prices and inflation to rise. Despite the geopolitical headwinds, Wall Street was still able to successfully stitch together tens of billions of dollars in funding to underpin the AI boom in recent weeks. The tumult may even be making AI-linked high-grade debt more appealing this year as invest",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=203704c2aad6fbcfdb632323553b0d3f01703b9ba4dea28231ef9af89ace6725",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "After Reaching a Deal With Anthropic, Is CoreWeave Proving to Be the Ultimate Artificial Intelligence (AI) Stock to Own?",
-          "summary": "CoreWeave's growth has been explosive due to the ongoing demand for leading artificial intelligence (AI) chips.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=348c7a8256c0455c68f88e2648ef565e1c497ef2da0b93c01949dbbb9a011be3",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
-          "summary": "The S&P 500 is mixed after March inflation came in just below forecasts and uncertainty over a peaceful resolution to the Iran war. Tech stocks, though, were once again doing the heavy lifting. Right in the middle is Nvidia (NASDAQ:NVDA), which just logged its eighth consecutive session of gains through Friday\u2019s close, with the stock ... Nvidia Just Posted Its Longest Winning Streak Since 2023. Is This Time for Real?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8dc7c0495ab750335a9700c8ce7d6d69c1bfc96c5683e23358cf5dc6f37a3d0c",
           "score": 0,
           "signal": "Neutral"
         }

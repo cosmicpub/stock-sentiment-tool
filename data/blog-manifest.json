@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-04-12T13:39:54.921247+00:00",
+  "generated_at": "2026-04-12T14:45:20.817747+00:00",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc Shares Slip Amid Geopolitical Tensions Impacting Markets",
+      "excerpt": "Amer Sports Inc stock declined slightly amid a broader slide in Gulf and global stocks triggered by renewed doubts over a ceasefire in US-Iran negotiations. The geopolitical uncertainty is affecting sentiment in global markets including the textiles and apparel sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "href": "/blog/as-news-impact-2026-04-12.html",
+      "published_date": "2026-04-12",
+      "generated_at": "2026-04-12T14:45:20.817747+00:00",
+      "image_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
     {
       "ticker": "WAR",
       "title": "WAR Stock Sees Bearish Sentiment Amid Rising US-Iran Tensions and Market Uncertainty",
@@ -170,5 +181,5 @@
   ],
   "market_data_updated_at": "2026-04-10T13:55:06.234168+00:00",
   "model": "gpt-4.1-mini",
-  "market_data_as_of": "2026-04-12T13:39:54.921247+00:00"
+  "market_data_as_of": "2026-04-12T14:45:20.817747+00:00"
 }

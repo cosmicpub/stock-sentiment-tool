@@ -51,14 +51,20 @@ def iso(dt: datetime) -> str:
     return dt.isoformat()
 
 
+def to_dt(v):
+    if isinstance(v, datetime):
+        return v
+    if isinstance(v, str):
+        return datetime.fromisoformat(v.replace("Z", "+00:00"))
+    return now_utc()
+
+
 def date_label(dt_or_iso) -> str:
-    dt = datetime.fromisoformat(dt_or_iso.replace("Z", "+00:00")) if isinstance(dt_or_iso, str) else dt_or_iso
-    return dt.strftime("%B %d, %Y")
+    return to_dt(dt_or_iso).strftime("%B %d, %Y")
 
 
 def ymd(dt_or_iso) -> str:
-    dt = datetime.fromisoformat(dt_or_iso.replace("Z", "+00:00")) if isinstance(dt_or_iso, str) else dt_or_iso
-    return dt.strftime("%Y-%m-%d")
+    return to_dt(dt_or_iso).strftime("%Y-%m-%d")
 
 
 def http_get_json(url: str):
@@ -77,10 +83,13 @@ def load_manifest():
     if MANIFEST_PATH.exists():
         data = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
         posts = data.get("posts", [])
-        # Backfill legacy entries
         for p in posts:
             if "published_date" not in p:
                 p["published_date"] = p.get("date", "Unknown")
+            if "generated_at" not in p:
+                p["generated_at"] = data.get("generated_at") or iso(now_utc())
+            if "image_url" not in p:
+                p["image_url"] = ""
         data["posts"] = posts
         return data
     return {"generated_at": None, "posts": []}
@@ -109,7 +118,6 @@ def validate_ticker(symbol: str):
         price = q.get("c")
         if not (isinstance(price, (int, float)) and price > 0):
             return None
-
         p = finnhub_get("stock/profile2", {"symbol": symbol})
         return {
             "ticker": symbol,
@@ -185,7 +193,7 @@ def generate_ai_article(stock_payload, generated_at, market_data_as_of):
                     "Write a high-quality SEO stock sentiment post using ONLY provided data. "
                     "Return strict JSON keys: title, meta_description, excerpt, body_html, faq. "
                     "body_html may use only <h2>, <p>, <ul>, <li>. "
-                    "faq must have 3 objects with q and a. No investment advice."
+                    "faq must be 3 objects with q and a. No investment advice."
                 ),
             },
             {"role": "user", "content": json.dumps(prompt, ensure_ascii=False)},
@@ -236,11 +244,25 @@ def render_post_html(stock, ai, generated_at, market_data_as_of, slug):
     change_text = f"{change:+.2f}" if isinstance(change, (int, float)) else "N/A"
     pct_text = f"{pct:+.2f}%" if isinstance(pct, (int, float)) else "N/A"
 
-    title = escape(ai.get("title", f"{ticker} Stock Sentiment Report"))
+    title_raw = ai.get("title", f"{ticker} Stock Sentiment Report")
+    title = escape(title_raw)
     desc = escape(ai.get("meta_description", f"{ticker} sentiment analysis"))
     excerpt = escape(ai.get("excerpt", ""))
     body_html = ai.get("body_html", "<p>No body generated.</p>")
     faq = ai.get("faq", [])
+
+    # ---- Article image (from top mention) ----
+    image_url = ""
+    if stock.get("mentions"):
+        image_url = stock["mentions"][0].get("image") or ""
+
+    article_image_html = ""
+    if image_url:
+        article_image_html = (
+            f'<img src="{escape(image_url)}" '
+            f'alt="{ticker} related market news image" '
+            f'loading="lazy" class="article-hero-image" />'
+        )
 
     faq_html = ""
     faq_schema_items = []
@@ -259,12 +281,13 @@ def render_post_html(stock, ai, generated_at, market_data_as_of, slug):
     article_schema = {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": f"{ai.get('title', ticker)} ({generated_label})",
+        "headline": f"{title_raw} ({generated_label})",
         "description": ai.get("meta_description", ""),
         "datePublished": generated_at,
         "dateModified": generated_at,
         "author": {"@type": "Organization", "name": "Stock Sentiment Score"},
         "mainEntityOfPage": f"https://www.stocksentimentscore.com/blog/{slug}.html",
+        "image": image_url or None,
     }
 
     faq_schema = {
@@ -296,6 +319,7 @@ def render_post_html(stock, ai, generated_at, market_data_as_of, slug):
 
   <main class="container content-page blog-article-page">
     <article class="content-card blog-article-card">
+      {article_image_html}
       <div class="blog-article-meta">
         <span class="blog-article-pill">{ticker}</span>
         <span class="blog-article-pill">{company}</span>
@@ -323,9 +347,18 @@ def render_index(posts, generated_at):
     generated_label = date_label(generated_at)
     cards = []
     for p in posts[:80]:
+        image_html = ""
+        if p.get("image_url"):
+            image_html = (
+                f'<img src="{escape(p["image_url"])}" '
+                f'alt="{escape(p.get("title", "Market news image"))}" '
+                f'loading="lazy" class="news-thumb" />'
+            )
+
         cards.append(
             f"""
             <article class="blog-report-card">
+              {image_html}
               <div class="blog-report-tag">{escape(p.get('sentiment', 'Neutral'))} ({int(p.get('score', 0)):+d})</div>
               <h3><a href="{escape(p.get('href', '#'))}">{escape(p.get('title', 'Untitled'))}</a></h3>
               <p>{escape(p.get('excerpt', ''))}</p>
@@ -387,13 +420,13 @@ def main():
     counts = extract_ticker_candidates(general_news)
 
     candidates = []
-    for symbol, mention_count in counts.most_common(60):
+    for symbol, mention_count in counts.most_common(80):
         validated = validate_ticker(symbol)
         if not validated:
             continue
 
         ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
-        if len(ticker_news["mentions"]) == 0:
+        if not ticker_news["mentions"]:
             continue
 
         impact_score = mention_count * 2 + abs(ticker_news["sentiment_score"]) + len(ticker_news["mentions"])
@@ -441,6 +474,10 @@ def main():
         (BLOG_DIR / f"{archive_slug}.html").write_text(archive_html, encoding="utf-8")
         (BLOG_DIR / f"{evergreen_slug}.html").write_text(evergreen_html, encoding="utf-8")
 
+        image_url = ""
+        if stock.get("mentions"):
+            image_url = stock["mentions"][0].get("image") or ""
+
         posts.append({
             "ticker": ticker,
             "title": ai.get("title", f"{ticker} News Impact Sentiment"),
@@ -450,6 +487,7 @@ def main():
             "href": f"/blog/{archive_slug}.html",
             "published_date": day,
             "generated_at": generated_at,
+            "image_url": image_url,
         })
 
     posts = sorted(posts, key=lambda x: x.get("generated_at", ""), reverse=True)

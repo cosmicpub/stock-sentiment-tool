@@ -33,6 +33,15 @@ STOPWORDS = {
     "MARKET", "STOCK", "STOCKS", "SHARES", "NEWS", "TODAY", "WEEK", "MONTH",
     "WAR", "OIL", "GAS", "IRAN", "CHINA", "RUSSIA"
 }
+POSITIVE_WORDS = {
+    "beat", "beats", "surge", "surges", "strong", "growth", "record", "profit",
+    "profits", "upgrade", "upgrades", "wins", "win", "bullish", "rebound", "gains"
+}
+
+NEGATIVE_WORDS = {
+    "miss", "misses", "drop", "drops", "fall", "falls", "slump", "warning",
+    "warnings", "downgrade", "downgrades", "lawsuit", "probe", "bearish", "risk", "risks"
+}
 
 TRUSTED_SOURCES = {
     "Reuters", "Bloomberg", "CNBC", "MarketWatch", "WSJ", "Barrons", "Associated Press", "AP"

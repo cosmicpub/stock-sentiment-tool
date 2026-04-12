@@ -303,9 +303,7 @@ def render_post_html(stock, ai, generated_at, market_data_as_of, slug):
     faq = ai.get("faq", [])
 
     # ---- Article image (from top mention) ----
-    image_url = ""
-    if stock.get("mentions"):
-        image_url = stock["mentions"][0].get("image") or ""
+    image_url = pick_best_image(stock.get("mentions", []))
 
     article_image_html = ""
     if image_url:

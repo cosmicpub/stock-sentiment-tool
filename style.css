@@ -1734,3 +1734,160 @@ body{
   margin-bottom: 16px;
   display: block;
 }
+
+/* =========================
+   AI Blog Feed UI Overhaul
+   ========================= */
+
+/* Section spacing / card shell */
+.home-news-card,
+.blog-featured-card,
+.blog-latest-card {
+  padding: 20px 20px 18px;
+  border-radius: 20px;
+}
+
+/* Grid: tighter, responsive, cleaner */
+.blog-report-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  align-items: start;
+}
+
+/* Card: compact and consistent */
+.blog-report-card {
+  background: #f8faff;
+  border: 1px solid #dfe6ff;
+  border-radius: 18px;
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(16, 24, 40, 0.04);
+}
+
+.blog-report-card:hover {
+  border-color: #c9d6ff;
+  transform: translateY(-1px);
+  transition: 0.2s ease;
+}
+
+/* Thumb image: smaller and controlled */
+.news-thumb {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  background: #eef2ff;
+}
+
+/* Sentiment badge */
+.blog-report-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  width: fit-content;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  background: #e9eeff;
+  color: #3f50d8;
+  border: 1px solid #c7d2ff;
+  margin-bottom: 10px;
+}
+
+/* Title: smaller + line clamp */
+.blog-report-card h3 {
+  margin: 0 0 8px;
+  line-height: 1.2;
+  font-size: 1.9rem;
+}
+
+.blog-report-card h3 a {
+  color: #0f1a37;
+  text-decoration: none;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.blog-report-card h3 a:hover {
+  text-decoration: underline;
+}
+
+/* Excerpt: clamp so cards stay even */
+.blog-report-card p {
+  margin: 0 0 10px;
+  color: #3f4f6b;
+  line-height: 1.45;
+  font-size: 0.98rem;
+}
+
+.blog-report-card p:not(.blog-report-tag):not(:has(small)) {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Date */
+.blog-report-card small {
+  color: #6a778f;
+  font-size: 0.84rem;
+}
+
+/* CTA pinned near bottom */
+.blog-report-link {
+  margin-top: auto;
+  color: #2f61e3;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.blog-report-link:hover {
+  text-decoration: underline;
+}
+
+/* Article hero image cleanup */
+.article-hero-image {
+  width: 100%;
+  max-height: 320px;
+  object-fit: cover;
+  border-radius: 14px;
+  margin: 0 0 14px;
+  background: #eef2ff;
+  display: block;
+}
+
+/* Home section title spacing */
+#homeLatestNews {
+  margin-top: 10px;
+}
+
+/* Mobile tuning */
+@media (max-width: 700px) {
+  .blog-report-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .news-thumb {
+    height: 160px;
+  }
+
+  .blog-report-card h3 {
+    font-size: 1.5rem;
+  }
+
+  .home-news-card,
+  .blog-featured-card,
+  .blog-latest-card {
+    padding: 16px;
+  }
+}

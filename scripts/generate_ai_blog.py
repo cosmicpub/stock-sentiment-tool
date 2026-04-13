@@ -472,7 +472,57 @@ def pick_best_image(mentions):
 
     # fallback: if all are generic, return empty so UI shows no thumbnail
     return ""
+def href_to_filename(href: str) -> str:
+    if not href:
+        return ""
+    # handles "/blog/foo.html" or "blog/foo.html"
+    return Path(href.split("?", 1)[0]).name
 
+
+def prune_generated_blog_files(posts: list[dict]) -> list[str]:
+    """
+    Remove old dated generated blog files while preserving:
+    - index.html
+    - getting-started.html
+    - any file currently referenced by manifest posts
+    """
+    BLOG_DIR.mkdir(exist_ok=True)
+
+    keep_files = {"index.html", "getting-started.html"}
+    for p in posts:
+        fn = href_to_filename(str(p.get("href", "")))
+        if fn:
+            keep_files.add(fn)
+
+    # Matches:
+    # - aapl-sentiment-2026-04-10.html
+    # - as-news-impact-2026-04-12.html
+    dated_generated = re.compile(
+        r"^[a-z0-9-]+-(?:sentiment|news-impact)-\d{4}-\d{2}-\d{2}\.html$",
+        re.IGNORECASE,
+    )
+
+    deleted = []
+    for html_path in BLOG_DIR.glob("*.html"):
+        name = html_path.name
+        if name in keep_files:
+            continue
+        if dated_generated.match(name):
+            html_path.unlink(missing_ok=True)
+            deleted.append(name)
+
+    return deleted
+
+
+def filter_posts_to_existing_files(posts: list[dict]) -> list[dict]:
+    existing = {p.name for p in BLOG_DIR.glob("*.html")}
+    out = []
+    for p in posts:
+        fn = href_to_filename(str(p.get("href", "")))
+        if fn and fn in existing:
+            out.append(p)
+    return out
+    
 def main():
     if not FINNHUB_API_KEY:
         raise RuntimeError("Missing FINNHUB_API_KEY")
@@ -583,7 +633,12 @@ if same_day_posts:
             "image_url": image_url,
         })
 
-    posts = sorted(posts, key=lambda x: x.get("generated_at", ""), reverse=True)
+        posts = sorted(posts, key=lambda x: x.get("generated_at", ""), reverse=True)
+
+    # Prune old dated generated files and then drop stale manifest entries.
+    deleted = prune_generated_blog_files(posts)
+    posts = filter_posts_to_existing_files(posts)
+
     INDEX_PATH.write_text(render_index(posts, generated_at), encoding="utf-8")
 
     manifest["generated_at"] = generated_at
@@ -592,6 +647,8 @@ if same_day_posts:
     manifest["posts"] = posts
     save_manifest(manifest)
 
+    if deleted:
+        print(f"Pruned {len(deleted)} old generated files.")
     print(f"Done. Selected {len(selected)} candidates from current news.")
 
 

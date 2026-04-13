@@ -541,7 +541,8 @@ def main():
             market_data_as_of=market_data_as_of,
         )
 
-        archive_slug = f"{ticker.lower()}-news-impact-{day}"
+        run_stamp = datetime.fromisoformat(generated_at.replace("Z", "+00:00")).strftime("%Y-%m-%d-%H%M")
+        archive_slug = f"{ticker.lower()}-news-impact-{run_stamp}"
         evergreen_slug = f"{ticker.lower()}-sentiment"
 
         archive_html = render_post_html(stock, ai, generated_at, market_data_as_of, archive_slug)

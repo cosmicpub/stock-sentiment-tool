@@ -517,12 +517,27 @@ def main():
     for stock in selected:
         ticker = stock["ticker"]
 
-        already_today = any(
-            p.get("ticker") == ticker and p.get("published_date") == day
-            for p in posts
-        )
-        if already_today:
-            continue
+        same_day_posts = [
+    p for p in posts
+    if p.get("ticker") == ticker and p.get("published_date") == day
+]
+
+if same_day_posts:
+    latest_same_day = sorted(
+        same_day_posts,
+        key=lambda x: x.get("generated_at", ""),
+        reverse=True
+    )[0]
+
+    prev_impact = float(latest_same_day.get("impact_score", 0))
+    curr_impact = float(stock.get("impact_score", 0))
+
+    # allow new post only if impact moved by >= 30%
+    baseline = max(abs(prev_impact), 1.0)
+    change_ratio = abs(curr_impact - prev_impact) / baseline
+
+    if change_ratio < 0.30:
+        continue
 
         ai = generate_ai_article(
             {
@@ -561,6 +576,7 @@ def main():
             "excerpt": ai.get("excerpt", ""),
             "sentiment": stock["sentiment"],
             "score": stock["sentiment_score"],
+            "impact_score": stock.get("impact_score", 0),
             "href": f"/blog/{archive_slug}.html",
             "published_date": day,
             "generated_at": generated_at,

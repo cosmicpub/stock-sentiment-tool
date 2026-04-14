@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-12T15:13:00.790239+00:00",
+  "generated_at": "2026-04-14T04:18:31.163694+00:00",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc: What Investors Should Know Amid Neutral Market Signals",
+      "excerpt": "Amer Sports Inc (AS) shares showed little movement, closing at $35.25 with a marginal gain. Recent global events, including US-Iran tensions and oil price shifts, affect market sentiment, leaving investors weighing bullish and bearish perspectives.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 119,
+      "href": "/blog/as-news-impact-2026-04-14.html",
+      "published_date": "2026-04-14",
+      "generated_at": "2026-04-14T04:18:31.163694+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108288735-1775663880953-gettyimages-2269814440-AA_08042026_2729623.jpeg?v=1775664012&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc Shares Slip Amid Geopolitical Tensions Impacting Markets",
@@ -181,5 +193,5 @@
   ],
   "market_data_updated_at": "2026-04-10T13:55:06.234168+00:00",
   "model": "gpt-4.1-mini",
-  "market_data_as_of": "2026-04-12T15:13:00.790239+00:00"
+  "market_data_as_of": "2026-04-14T04:18:31.163694+00:00"
 }

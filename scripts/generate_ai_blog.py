@@ -551,7 +551,6 @@ def main():
         ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
         if not ticker_news["mentions"]:
             continue
-        # require stronger signal so posts are actually worth reading
         if len(ticker_news["mentions"]) < 2:
             continue
 
@@ -568,26 +567,25 @@ def main():
         ticker = stock["ticker"]
 
         same_day_posts = [
-    p for p in posts
-    if p.get("ticker") == ticker and p.get("published_date") == day
-]
+            p for p in posts
+            if p.get("ticker") == ticker and p.get("published_date") == day
+        ]
 
-if same_day_posts:
-    latest_same_day = sorted(
-        same_day_posts,
-        key=lambda x: x.get("generated_at", ""),
-        reverse=True
-    )[0]
+        if same_day_posts:
+            latest_same_day = sorted(
+                same_day_posts,
+                key=lambda x: x.get("generated_at", ""),
+                reverse=True
+            )[0]
 
-    prev_impact = float(latest_same_day.get("impact_score", 0))
-    curr_impact = float(stock.get("impact_score", 0))
+            prev_impact = float(latest_same_day.get("impact_score", 0))
+            curr_impact = float(stock.get("impact_score", 0))
 
-    # allow new post only if impact moved by >= 30%
-    baseline = max(abs(prev_impact), 1.0)
-    change_ratio = abs(curr_impact - prev_impact) / baseline
+            baseline = max(abs(prev_impact), 1.0)
+            change_ratio = abs(curr_impact - prev_impact) / baseline
 
-    if change_ratio < 0.30:
-        continue
+            if change_ratio < 0.30:
+                continue
 
         ai = generate_ai_article(
             {
@@ -606,8 +604,7 @@ if same_day_posts:
             market_data_as_of=market_data_as_of,
         )
 
-        run_stamp = datetime.fromisoformat(generated_at.replace("Z", "+00:00")).strftime("%Y-%m-%d-%H%M")
-        archive_slug = f"{ticker.lower()}-news-impact-{run_stamp}"
+        archive_slug = f"{ticker.lower()}-news-impact-{day}"
         evergreen_slug = f"{ticker.lower()}-sentiment"
 
         archive_html = render_post_html(stock, ai, generated_at, market_data_as_of, archive_slug)
@@ -616,9 +613,7 @@ if same_day_posts:
         (BLOG_DIR / f"{archive_slug}.html").write_text(archive_html, encoding="utf-8")
         (BLOG_DIR / f"{evergreen_slug}.html").write_text(evergreen_html, encoding="utf-8")
 
-        image_url = ""
-        if stock.get("mentions"):
-            image_url = stock["mentions"][0].get("image") or ""
+        image_url = pick_best_image(stock.get("mentions", []))
 
         posts.append({
             "ticker": ticker,
@@ -633,12 +628,7 @@ if same_day_posts:
             "image_url": image_url,
         })
 
-        posts = sorted(posts, key=lambda x: x.get("generated_at", ""), reverse=True)
-
-    # Prune old dated generated files and then drop stale manifest entries.
-    deleted = prune_generated_blog_files(posts)
-    posts = filter_posts_to_existing_files(posts)
-
+    posts = sorted(posts, key=lambda x: x.get("generated_at", ""), reverse=True)
     INDEX_PATH.write_text(render_index(posts, generated_at), encoding="utf-8")
 
     manifest["generated_at"] = generated_at
@@ -647,8 +637,6 @@ if same_day_posts:
     manifest["posts"] = posts
     save_manifest(manifest)
 
-    if deleted:
-        print(f"Pruned {len(deleted)} old generated files.")
     print(f"Done. Selected {len(selected)} candidates from current news.")
 
 

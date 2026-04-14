@@ -637,6 +637,8 @@ def main():
     manifest["model"] = OPENAI_MODEL
     manifest["posts"] = posts
     save_manifest(manifest)
+    print(f"[ai-blog] posts_written={len(posts)}")
+    print("[ai-blog] generation_complete")
 
     print(f"Done. Selected {len(selected)} candidates from current news.")
 

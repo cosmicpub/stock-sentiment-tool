@@ -551,8 +551,8 @@ def main():
         ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
         if not ticker_news["mentions"]:
             continue
-        if len(ticker_news["mentions"]) < 2:
-            continue
+      if len(ticker_news["mentions"]) < 1:
+        continue
 
         impact_score = mention_count * 2 + abs(ticker_news["sentiment_score"]) + len(ticker_news["mentions"])
         candidate = {**validated, **ticker_news, "impact_score": impact_score}
@@ -560,6 +560,7 @@ def main():
 
     candidates.sort(key=lambda x: x["impact_score"], reverse=True)
     selected = candidates[:MAX_POSTS]
+    print(f"[ai-blog] candidates_found={len(candidates)} selected={len(selected)} max_posts={MAX_POSTS}")
 
     BLOG_DIR.mkdir(exist_ok=True)
 
@@ -584,7 +585,7 @@ def main():
             baseline = max(abs(prev_impact), 1.0)
             change_ratio = abs(curr_impact - prev_impact) / baseline
 
-            if change_ratio < 0.30:
+           if change_ratio < 0.0:
                 continue
 
         ai = generate_ai_article(

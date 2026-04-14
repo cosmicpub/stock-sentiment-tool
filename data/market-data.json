@@ -1,244 +1,244 @@
 {
-  "updated_at": "2026-04-14T04:48:14.142169+00:00",
+  "updated_at": "2026-04-14T14:17:41.662130+00:00",
   "stocks": [
     {
       "ticker": "AAPL",
-      "price": 259.2,
-      "change": -1.28,
-      "percent_change": -0.4914,
-      "high": 260.18,
-      "low": 256.66,
-      "open": 259.73,
-      "previous_close": 260.48,
+      "price": 260.2,
+      "change": 1,
+      "percent_change": 0.3858,
+      "high": 261.93,
+      "low": 259.1,
+      "open": 259.1925,
+      "previous_close": 259.2,
       "sentiment": "Mixed",
-      "sentiment_score": -2,
+      "sentiment_score": 1,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more negative language and a stock move of -0.49% today.",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of +0.39% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Community Trust Adds 122,541 Shares of CTBI",
-          "summary": "Community Trust Bancorp delivers regional banking and wealth management services across Kentucky, West Virginia, and Tennessee.",
+          "headline": "Amazon Agrees To Buy Globalstar In $11.6 Billion Deal Amid Musk Space Battle",
+          "summary": "Amazon agreed to buy Globalstar for $11.57 billion, in a move expanding its satellite business versus Elon Musk-controlled companies.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e75b904836b79de866453207d5dd90acbc6425c94cae17cf8b7766562c8c3f6e",
+          "url": "https://finnhub.io/api/news?id=17404504f2568580568ffc36f6b3b49d69ca0d3fa9b1d2333c956692a7acd889",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Omdia: China Smartphone Shipments Fell 1% in First Quarter of 2026 as Rising Costs Pushed Up Device Prices",
-          "summary": "LONDON, April 13, 2026--According to Omdia\u2019s latest research, Mainland China\u2019s smartphone market declined by 1% year on year in 1Q 2026, with shipments reaching 69.8 million units. In 1Q 2026, rising component costs, particularly for memory, prompted major vendors to increase product prices, further extending the market\u2019s downward trajectory. Huawei ranked first with shipments of 13.9 million units, capturing a 20% market share and maintaining strong momentum. Apple followed in second place with",
+          "headline": "Meet the Super Semiconductor Stock Crushing Nvidia, AMD, and Broadcom Right Now",
+          "summary": "This company is leveraging 175 years of experience to capture a key piece of the artificial intelligence (AI) market.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=84631db0c0168661a7508c370603f395ae0d2dbcbb8a992fb026d7bfbe5c1bd1",
+          "url": "https://finnhub.io/api/news?id=a31b427f58d0396f8570039c89b0870bf2a6b6b7b0b399368deb8cedfcb599df",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Music superstar loses retirement fund to fake app",
-          "summary": "American singer Garrett Dutton, or \"G. Love,\" who is best known as the frontman for the band G. Love & Special Sauce, disclosed on X on Apr. 11 that he lost his retirement fund in Bitcoin (BTC) after downloading a malicious app resembling the Ledger wallet app from Apple's App ...",
+          "headline": "Warning: \u201cExistential Risk\u201d as Mega IPOs Could Trigger $100 Billion Stock Selloff",
+          "summary": "If passive fund mechanics are your jam, and mega-cap concentration risk is the bread you eat it on, what Steve Sosnik laid out recently on The Compound and Friends is one of the more unsettling structural meals you\u2019ll ever eat. The episode \u201cStocks Took the Stairs Down and the Elevator Up,\u201d frames something most retail ... Warning: \u201cExistential Risk\u201d as Mega IPOs Could Trigger $100 Billion Stock Selloff",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac3df866344cfe87f8eb48a1eea81be64e27a20112ece5fd6ccfdc134fbd2f33",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Trump threatens to destroy any Iranian ships near US blockade at Strait of Hormuz",
-          "summary": "President Trump threatened to destroy Iranian ships that impede a US blockade on the Strait of Hormuz.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=41bddf710e1499aea651a45f7bad43d225c2fbfb807df672fa8d1c1c22affa0c",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "The Rumor Propelling Dell Stock Higher",
-          "summary": "An unsourced report from a technology news site claims Nvidia has been in talks to buy a large PC company.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9ec5faf4381a4d6a7cfef59495debc316e6d2474e96800b40a6258d30bc5279d",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Energy and International ETFs Offer the Diversification Your $1,000 Deserves in 2026",
-          "summary": "With the VIX sitting near 19 after a sharp pullback from a March spike above 31, and the Fed holding rates steady at 3.75% after cutting 75 basis points over the prior year, the equity market backdrop in April 2026 sits in ambiguous territory. That makes the question of where to put $1,000 more interesting ... Energy and International ETFs Offer the Diversification Your $1,000 Deserves in 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7481df2eeae82fff225e50a6c999cf4eec0b228fa3866ed7b9ad28b8d50e4416",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Amazon stock leads 9-day Mag 7 performance, Tesla falls behind",
-          "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a look at megacaps' recent stock performance, including Big Tech names like Amazon (AMZN), Broadcom (AVGO), and Tesla (TSLA).",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a81d7989d4b525024b5b708a97412dab9f7f00df239121105b6faa10ec164d2b",
+          "url": "https://finnhub.io/api/news?id=9a0a8aff7dbc8fae78a42b075bdccb65348b0ea3a9dcc56c24454ccd16c03957",
           "score": -2,
           "signal": "Bearish"
         },
         {
-          "headline": "4 ETFs That Mirror Warren Buffett\u2019s Buy-and-Hold Strategy in 2026",
-          "summary": "Warren Buffett built his fortune by buying businesses with durable competitive advantages at reasonable prices and holding them for decades. A handful of ETFs are built around the core mechanics of how Buffett actually invests, whether through Morningstar\u2019s moat framework, free cash flow screening, or direct exposure to Berkshire Hathaway\u2019s portfolio itself. A handful of ... 4 ETFs That Mirror Warren Buffett\u2019s Buy-and-Hold Strategy in 2026",
+          "headline": "Why AI Disruption Is a Short Seller\u2019s Best Friend \u2014 Muddy Waters Founder Sees Profits in Market Turmoil",
+          "summary": "Famed short seller Carson Block, founder of Muddy Waters Research, says artificial intelligence (AI) is creating a golden era for short sellers. In a recent interview with the Financial Times, Block argued that AI could trigger a market shake-up bigger than the 2008\u201309 global financial crisis, opening fresh opportunities for short sellers after years of limited profits. For context, short selling is a trading strategy where an investor bets that a stock\u2019s price will fall. If the stock price goes",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67a5d5d0510a2c608414428262d16e97fc92a9c39b02c04939a7ee9a99007342",
+          "url": "https://finnhub.io/api/news?id=27547103479545d17a32e817434684b7c6c2e4e02979ceca3ec5fb449aa1322e",
+          "score": 2,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Globalstar Agrees to Amazon Takeover. The Satellite Stock Jumps. The Impact on AST SpaceMobile and Iridium.",
+          "summary": "Globalstar  stock was jumping on Tuesday as  Amazon.com  is buying the satellite company.  Amazon said it will buy Globalstar for the equivalent of $90 a share.  Globalstar shares were up 9.1% at $79.50 in premarket trading.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecaa7ed1dbdd34b98609878423fa2682d192de11157126ffd0112d9bc692e172",
           "score": 0,
           "signal": "Neutral"
+        },
+        {
+          "headline": "ASML investors bet on 'picks and shovels' of AI revolution",
+          "summary": "Shares in the Netherlands-based company have risen more than 40% so far this year, lifted \u200cby the rapid construction of data centres and booming demand for cutting-edge chips from customers such as Nvidia, which rely on ASML's tools.  ASML supplies lithography machines to chipmakers \u200bincluding Taiwan's TSMC, which manufactures processors for Nvidia and Apple.  Analysts expect \u200ca strong quarter and see scope for ASML \u2060to raise its 2026 sales outlook, as memory-chip makers expand capacity to meet AI-driven demand.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0d7e1b83604dbcb0c2799be6c2840d665469344f329c7ea964080e84fc04d52d",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "RWS Global, A World Leader in Live Entertainment and Sports, Announces Executive Leadership Transition",
+          "summary": "RWS Global, a world leader in live experiences across entertainment and sports, today announced that Founder, Chairman & CEO Ryan Stana will transition to Executive Chairman. Current Chief Operating Officer Jake McCoy has been appointed Interim CEO. The transition was announced by Stana with the support of Bluestone Equity Partners, RWS Global's minority investor, as well as the company's Board of Directors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=163a329abe7913ffbf18d2571f10250d9523a05f96d225fa681ddd916c57b316",
+          "score": -1,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Globalstar Stock Surges. It\u2019s Nearing a Takeover by Amazon, Report Says.",
+          "summary": "Globalstar stock was leaping on Tuesday following a report that Amazon.com is nearing a deal for the satellite company.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1f52ea080e54b72b9600e10a99af25002b7b8a2791cb24fd834c76c6e02cec1e",
+          "score": 2,
+          "signal": "Bullish"
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "price": 384.37,
-      "change": 13.5,
-      "percent_change": 3.6401,
-      "high": 384.54,
-      "low": 371.02,
-      "open": 373.605,
-      "previous_close": 370.87,
+      "price": 390.93,
+      "change": 6.56,
+      "percent_change": 1.7067,
+      "high": 394.4699,
+      "low": 386.52,
+      "open": 387.5325,
+      "previous_close": 384.37,
       "sentiment": "Mixed",
-      "sentiment_score": 0,
+      "sentiment_score": -2,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with mixed language and a stock move of +3.64% today.",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of +1.71% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "A Claude Agent Bought These 2 Trillion-Dollar Artificial Intelligence (AI) Stocks Before the Ceasefire With Iran. Now They Are Both Rallying -- Is It Too Late to Buy?",
-          "summary": "A developer built an artificial intelligence (AI) investing agent in Anthropic's Claude model, which decided to buy the dip on two members of the trillion-dollar club.",
+          "headline": "Mizuho Trims Microsoft Price Target to $515: How Much Upside Is Left in This AI Titan?",
+          "summary": "Microsoft (NASDAQ:MSFT) stock got a reality check from Mizuho on Tuesday, as the firm slashed its price target on shares to $515 from $620 while maintaining an Outperform rating. The cut is part of a broader large-cap software target reset ahead of Q1 earnings season, not a fundamental change in the bull thesis. That distinction ... Mizuho Trims Microsoft Price Target to $515: How Much Upside Is Left in This AI Titan?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de8aa7a4ef81a69c89d86e5074172a90e0f05355ed2683ed748a6f0796fd1999",
+          "url": "https://finnhub.io/api/news?id=f0dd30c6a0edb09d9a778bbd7cd8cd1d5aa11ee835753356521e1aa07f836874",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Community Trust Adds 122,541 Shares of CTBI",
-          "summary": "Community Trust Bancorp delivers regional banking and wealth management services across Kentucky, West Virginia, and Tennessee.",
+          "headline": "Should You Buy, Sell or Hold Microsoft (MSFT) Stock at $386?",
+          "summary": "Microsoft (NASDAQ:MSFT) is a Hold at $386. The stock has shed roughly 19% year-to-date while posting earnings beats, creating tension between deteriorating price action and accelerating AI fundamentals. Microsoft operates across three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. Cloud and AI have become dominant growth engines, with Microsoft Cloud surpassing ... Should You Buy, Sell or Hold Microsoft (MSFT) Stock at $386?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e75b904836b79de866453207d5dd90acbc6425c94cae17cf8b7766562c8c3f6e",
+          "url": "https://finnhub.io/api/news?id=e48d18231f20fe28287017cccaad98924f4b541a61efa5bdb33ee708bdefe22e",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Microsoft (MSFT) Price Target Lowered by $103 Ahead of Q3 Report",
-          "summary": "Microsoft Corporation (NASDAQ:MSFT) is included among the 15 Best Blue Chip Stocks to Buy Now. Microsoft Corporation (NASDAQ:MSFT) is engaged in developing and marketing software, services, and hardware that deliver new opportunities, greater convenience, and enhanced value to people\u2019s lives. On April 10, BNP Paribas analyst Stefan Slowinski lowered the firm\u2019s price target on Microsoft [\u2026]",
+          "headline": "Is Wall Street beginning to look past Iran war risks?",
+          "summary": "As US stock futures (ES=F, NQ=F, YM=F) are rising in Tuesday's pre-market trading after all three of the market indexes closed higher yesterday, are investors beginning to look past the risks of the Iran war? President Trump ordered a naval blockade to bar access to Iranian ports on the Strait of Hormuz, which went into effect on Monday morning. Yahoo Finance Head of News Myles Udland and Kelly Intelligence founder Kevin Kelly discuss the outlook shifts from several corners of the market over the past couple of months.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbd69b6cdb4f80be2cbab552dd6540fd449c26cf658d55baf4a528416148beec",
-          "score": 0,
-          "signal": "Neutral"
+          "url": "https://finnhub.io/api/news?id=b9e9915ed1ca1cde6879891c256c63bbd0a6338486c4849ed188d33478a8ba7f",
+          "score": -2,
+          "signal": "Bearish"
         },
         {
-          "headline": "OpenAI investors question $852 billion valuation as strategy shifts, FT reports",
-          "summary": "OpenAI's $852 billion valuation is under scrutiny from its own backers as the group switches focus to the enterprise market and tackling competition from Anthropic, the Financial Times reported on...",
-          "source": "Finnhub",
-          "url": "https://finnhub.io/api/news?id=dc3668029e26ba8dc573b4f7a64a5f80d4eca81a8e3dcd3cb2f44c3758af1d70",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "OpenAI investors question $852 billion valuation as strategy shifts - FT",
-          "summary": "April 14 - OpenAI investors question $852 billion valuation as strategy shifts - FT Some OpenAI investors told the FT the changes could leave it vulnerable to Anthropic and a resurgent Google -...",
-          "source": "Finnhub",
-          "url": "https://finnhub.io/api/news?id=bb690f344e22d170c4aba988142aac18e6fa2a8d283d467db40a3c9074868d24",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Why Microsoft Stock Topped the Market Today",
-          "summary": "Both analysts and investors are getting more bullish about beaten-down tech sector companies.",
+          "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday Amid Hopes of Long-Term US-Iran Truce",
+          "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2% and the actively trad",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5276fee5f19fb26dd84f80909a64c6eab38e0ebe37f0999bc205a3ce02e435f",
+          "url": "https://finnhub.io/api/news?id=fe7ee66a08972cc65a79adbc7ac62f5142efa562ca6eeafd6ad4141cd6f49680",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Primepoint Closes $10M Seed Round to Advance Intelligence Platform that Reads and Understands Construction Drawings",
-          "summary": "The AI-Native Tool Built By Veterans from Meta, Microsoft, Google, and Webcor Has Garnered Funding From Investors Navitas Capital, Penny Jar Capital, NextView Ventures, GS Futures, Agla\u00e9 Ventures and Angel Investor Dr. Yann LeCunSAN MATEO, Calif., April 13, 2026 (GLOBE NEWSWIRE) -- Primepoint has closed a $10M seed round to advance its proprietary AI platform, co-founded by AI-veterans Lubomir Bourdev, PhD, and Hamid Palo, to understand construction drawings, reading linework, tags, and cross-do",
+          "headline": "Teradata Launches Analyst Agent on Microsoft Marketplace for AI-Assisted Business Decision-Making",
+          "summary": "Teradata (NYSE: TDC) today announced the availability of its enterprise-grade Analyst Agent on Microsoft Marketplace, bringing AI-assisted, conversational analytics directly into customers' existing Azure environments. Microsoft Marketplace is the unified online destination for customers to buy trusted cloud solutions, AI apps, and agents to meet their business needs. Teradata customers can now discover and deploy trusted solutions through Microsoft Marketplace, with smooth integration and strea",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=018ffe5fe761d1210dc60266dd7dc91fb6181c278388e1e64d0416bfbfeb5791",
+          "url": "https://finnhub.io/api/news?id=b56a6317b5afc2501571cac3a7ea0932641a527abbae4de3337f82f0960abaf3",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Nasdaq Extends Rally to 9th Day as Tech Stocks Jump",
-          "summary": "The Nasdaq Composite advanced for the ninth straight session on Monday as US equity markets benefite",
+          "headline": "Micron at $420: Buy, Sell or Hold?",
+          "summary": "Micron Technology (NASDAQ:MU) presents a compelling bull case at $420.52. Fundamentally, the argument for owning it has rarely been cleaner for a semiconductor name of this scale. With AI-driven memory demand accelerating and earnings growing at a pace that makes the current valuation look genuinely cheap, the stock deserves serious attention from investors who can ... Micron at $420: Buy, Sell or Hold?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5647d62a8ca05d72cf845717ae48f5840a36e10ce532fafdc05ae1aab544bb0a",
+          "url": "https://finnhub.io/api/news?id=97a49a2916bc5b95e15fc6e7d9bef137cf52a5b1d9b676b0be9d16dea20d93f0",
           "score": 0,
           "signal": "Neutral"
+        },
+        {
+          "headline": "Warning: \u201cExistential Risk\u201d as Mega IPOs Could Trigger $100 Billion Stock Selloff",
+          "summary": "If passive fund mechanics are your jam, and mega-cap concentration risk is the bread you eat it on, what Steve Sosnik laid out recently on The Compound and Friends is one of the more unsettling structural meals you\u2019ll ever eat. The episode \u201cStocks Took the Stairs Down and the Elevator Up,\u201d frames something most retail ... Warning: \u201cExistential Risk\u201d as Mega IPOs Could Trigger $100 Billion Stock Selloff",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9a0a8aff7dbc8fae78a42b075bdccb65348b0ea3a9dcc56c24454ccd16c03957",
+          "score": -2,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Why AI Disruption Is a Short Seller\u2019s Best Friend \u2014 Muddy Waters Founder Sees Profits in Market Turmoil",
+          "summary": "Famed short seller Carson Block, founder of Muddy Waters Research, says artificial intelligence (AI) is creating a golden era for short sellers. In a recent interview with the Financial Times, Block argued that AI could trigger a market shake-up bigger than the 2008\u201309 global financial crisis, opening fresh opportunities for short sellers after years of limited profits. For context, short selling is a trading strategy where an investor bets that a stock\u2019s price will fall. If the stock price goes",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=27547103479545d17a32e817434684b7c6c2e4e02979ceca3ec5fb449aa1322e",
+          "score": 2,
+          "signal": "Bullish"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "price": 189.31,
-      "change": 0.68,
-      "percent_change": 0.3605,
-      "high": 189.66,
-      "low": 185.74,
-      "open": 186.03,
-      "previous_close": 188.63,
+      "price": 192.52,
+      "change": 3.21,
+      "percent_change": 1.6956,
+      "high": 193.31,
+      "low": 190.24,
+      "open": 190.24,
+      "previous_close": 189.31,
       "sentiment": "Mixed",
       "sentiment_score": 2,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of +0.36% today.",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of +1.70% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "A Claude Agent Bought These 2 Trillion-Dollar Artificial Intelligence (AI) Stocks Before the Ceasefire With Iran. Now They Are Both Rallying -- Is It Too Late to Buy?",
-          "summary": "A developer built an artificial intelligence (AI) investing agent in Anthropic's Claude model, which decided to buy the dip on two members of the trillion-dollar club.",
+          "headline": "Netflix vs. Disney: One Is Winning the Streaming War. Other Is Not Even Close",
+          "summary": "Netflix (NASDAQ:NFLX) reported fourth quarter 2025 revenue of $12.05B, up 17.6% year-over-year, while Walt Disney (NYSE:DIS) posted first quarter FY2026 revenue of $25.98B, up 5.2%. Both compete in streaming, but their strategic momentum has rarely diverged more sharply. One accelerates; the other manages complexity. Subscribers Pull Away. Parks Carry the Weight. Netflix\u2019s quarter was clean. ... Netflix vs. Disney: One Is Winning the Streaming War. Other Is Not Even Close",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de8aa7a4ef81a69c89d86e5074172a90e0f05355ed2683ed748a6f0796fd1999",
+          "url": "https://finnhub.io/api/news?id=fe9adc958902682ad11a1e26d2d8d147a470d07c425ff2fe6907f4c17215f11b",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Community Trust Adds 122,541 Shares of CTBI",
-          "summary": "Community Trust Bancorp delivers regional banking and wealth management services across Kentucky, West Virginia, and Tennessee.",
+          "headline": "This Insurance Stock Has Quietly Crushed the S&P 500 Over 10 Years",
+          "summary": "Think insurance stocks can't beat the market? Think again.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e75b904836b79de866453207d5dd90acbc6425c94cae17cf8b7766562c8c3f6e",
+          "url": "https://finnhub.io/api/news?id=dff59775ee9dc9a358d0dd121db511b40de90ce9f9b027bf92068a61512bd499",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Why Oracle Stock Rebounded Today",
-          "summary": "AI is an opportunity more so than a threat.",
+          "headline": "Capital One Financial, Amazon, Nvidia And More On CNBC's 'Final Trades'",
+          "summary": "On CNBC's \u201cHalftime Report Final Trades,\u201d Bryn Talkington, managing partner of Requisite Capital Management, said Capital One Financial Corporation is a great company. Earnings would be a catalyst for the stock to go higher, Talkington says. Capital One Financial will release earnings results for the first quarter after the closing bell on Tuesday, April 21. Analysts expect the company to report quarterly earnings at $4.64 per share on revenue of $15.37 billion. Don't Miss: A single bad hire can",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e3e3a58e53fe6ab6b0f3360eda4cacffc427ecb05b256ff6950a884356f5e10",
-          "score": 1,
+          "url": "https://finnhub.io/api/news?id=7d2426fade69eedc34c22ba30f13d8c7be7b00da5e0abf98455d5c9ee32efef9",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Advanced Micro Devices (AMD) Stock at $250: Buy, Sell or Hold?",
+          "summary": "Advanced Micro Devices (NASDAQ:AMD) at $250 is a Buy. The stock has staged a remarkable recovery and sits at a price where the AI growth story is real, the earnings momentum is verifiable, and the forward setup justifies the multiple for investors with a 12-to-18-month horizon. AMD designs high-performance computing, graphics, and AI solutions across ... Advanced Micro Devices (AMD) Stock at $250: Buy, Sell or Hold?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8c74bf108844a009ea7e201c69089cc2ece35c0201feb02d8b746822b1a264f7",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Meet the Super Semiconductor Stock Crushing Nvidia, AMD, and Broadcom Right Now",
+          "summary": "This company is leveraging 175 years of experience to capture a key piece of the artificial intelligence (AI) market.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a31b427f58d0396f8570039c89b0870bf2a6b6b7b0b399368deb8cedfcb599df",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "My 3 Favorite Dividend Stocks to Own When the Market Gets Ugly",
+          "summary": "These stocks provide protection and passive income, rain or shine.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6a69b25df57999fa8f601e99f3d37735b1e2fe84fe9396b9ccb4b9c603e15a54",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "3 Beginner-Friendly Growth Stocks to Beat the Market by 2030",
+          "summary": "Three household names can help you earn above-average returns.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=21c75428cd0c22708a17945e75ed88c852e20e839a50a04a755dcb43c9bdbcf7",
+          "score": 2,
           "signal": "Bullish"
         },
         {
-          "headline": "Wall Street Is Calling a Bottom on the Iran War Cycle. Is It Time To Buy?",
-          "summary": "Stocks climbed further on Monday despite President Trump's announcement of a blockade.",
+          "headline": "Amazon Will Sell You Your Next Car",
+          "summary": "I went to Amazon (NASDAQ: AMZN) to shop for a new car. There were 153 pages of vehicles available near me. The system already knew where I lived. But it gave me a choice of dealers in the area. In other words, it showed my location and gave me options I looked at Hyundais. There ... Amazon Will Sell You Your Next Car",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e652b205879349dfe0ffa039689b297a74df482fa96c7502332e268adc8ef88a",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Why Pay the SpaceX Premium When You Can Invest in xAI and Anthropic for Just $35? Here's How.",
-          "summary": "SpaceX is eyeing an IPO expected for June, with reports suggesting Elon Musk wants a $2 trillion valuation for his empire.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6613be8123d7f936074415a33a522f76c4b164180fd42133f9ccf582c9d9e7d9",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Palantir's AIP Is Its Secret Growth Weapon. But Is the Stock a Buy?",
-          "summary": "AIP has caused Palantir's revenue to soar.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=18439eda81fd8a7d3c78533bd70d75563515bbbb45e495feee421dcc2116c99e",
-          "score": 1,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Breaking Down Jamie Dimon\u2019s Investing Letter",
-          "summary": "We break down some of the letter's big takeaways, plus dissect Bill Ackman\u2019s Universal Music Group bid and answer listener questions.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=41a0a22ecfd72385ecc314fc72a067c79b954574c40b569db718ff4fb90cd080",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Ray Dalio\u2019s Latest Value Buys Are Turning Heads\u2014Here\u2019s What Stood Out",
-          "summary": "Ray Dalio\u2019s a brilliant investor who\u2019s worth paying close attention to, not just because of his impressive wealth-compounding track record, but because the man knows the importance of balancing risk with reward. Undoubtedly, when it comes to building wealth, it\u2019s more than just about going for growth. The brilliant investors, like Dalio, know that the ... Ray Dalio\u2019s Latest Value Buys Are Turning Heads\u2014Here\u2019s What Stood Out",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=444612683f11ef13f9fe8db4e4e42e1e9e634e5944c4eede3fc406758a11d61f",
+          "url": "https://finnhub.io/api/news?id=c5212839af29c72898770907455ea91bfeef4df335f818c9c370f32f6dab485c",
           "score": 0,
           "signal": "Neutral"
         }
@@ -246,244 +246,244 @@
     },
     {
       "ticker": "TSLA",
-      "price": 352.42,
-      "change": 3.47,
-      "percent_change": 0.9944,
-      "high": 356.35,
-      "low": 348.57,
-      "open": 350.065,
-      "previous_close": 348.95,
-      "sentiment": "Bearish",
-      "sentiment_score": -4,
-      "confidence": "Moderate",
-      "reason": "Based on 8 recent headlines with more negative language and a stock move of +0.99% today.",
+      "price": 359.57,
+      "change": 7.15,
+      "percent_change": 2.0288,
+      "high": 361.3,
+      "low": 354.77,
+      "open": 357.45500000000004,
+      "previous_close": 352.42,
+      "sentiment": "Mixed",
+      "sentiment_score": 2,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of +2.03% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Intel\u2019s Tesla Chip Deal Is a Genuine Game Changer",
-          "summary": "Intel (NASDAQ:INTC) stock is currently in the midst of a historic win streak, and it\u2019s grabbing the attention of everyday investors, some of whom may have been a bit quick to dismiss the lagging chip play way back when it was hovering in its multi-year depths. After gaining for nine straight days, the shares now ... Intel\u2019s Tesla Chip Deal Is a Genuine Game Changer",
+          "headline": "Planet Labs, Rocket Lab, and AST SpaceMobile All Jumped After the SpaceX IPO Announcement",
+          "summary": "The market is very excited by the upcoming IPO of SpaceX, but don't let emotions get the better of you.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a288166218a1761c1c518a2a59ca44ed81f517a244a421aef46313debb7d7521",
+          "url": "https://finnhub.io/api/news?id=9d58828cd44046002d0e839592986d8bdbdb1bf56400d8607844c668373fc7ac",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "How Tesla Could Become the Most Valuable Company in the World",
-          "summary": "It's already worth more than $1 trillion, and if it can capitalize on some exciting growth opportunities, it could have plenty of upside.",
+          "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday Amid Hopes of Long-Term US-Iran Truce",
+          "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2% and the actively trad",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e4894e073d87071e6201497f5631af9a4e2b16d5f38e9dbabf9573d9235a319",
+          "url": "https://finnhub.io/api/news?id=fe7ee66a08972cc65a79adbc7ac62f5142efa562ca6eeafd6ad4141cd6f49680",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "How Amazon is expanding its car-sales business",
-          "summary": "Amazon (AMZN) is expanding its car-sales business to include Jeep, Chevrolet, and other automakers. Yahoo Finance Senior Autos Reporter Pras Subramanian breaks down the details.",
+          "headline": "Elon Musk\u2019s Tesla Exec: Shanghai Factory Is the Key to Unlocking Robot Mass Production",
+          "summary": "The head of Tesla China recently said Tesla (NASDAQ:TSLA)\u2019s Shanghai Gigafactory will play a central role in scaling robot mass production, and I think that statement deserves more attention than it\u2019s getting right now. The Shanghai facility has consistently outperformed expectations. When Tesla ramped the new Model Y in Shanghai, it hit full production in ... Elon Musk\u2019s Tesla Exec: Shanghai Factory Is the Key to Unlocking Robot Mass Production",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc877a5e38b9acb146f323bfe5e6f0699147d4677942a9b444e5f33c41ba9d9b",
+          "url": "https://finnhub.io/api/news?id=97749e03562a39920e7b7b391f6ad328196effd8d2110b228b097db71dc41fba",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Tesla's full self-driving gets Dutch stamp of approval. Now what?",
-          "summary": "Tesla's (TSLA) full self-driving (FSD) was approved in the Netherlands. Yahoo Finance Senior Autos Reporter Pras Subramanian explains what this approval means for the company.",
+          "headline": "S&P 500 Rebound, Optimism for US-Iran Deal Move US Equity Futures Higher Pre-Bell",
+          "summary": "US equity futures were edging higher pre-bell Tuesday following a rebound in the S&P 500 as traders",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ce32a6bcc5724900b7524a9cec6736d249261fc6374844c4eeb25e8542817fb",
-          "score": 0,
-          "signal": "Neutral"
+          "url": "https://finnhub.io/api/news?id=1206593fdc4aa5bdd6a89eaca822745735210471404f35177ab456384246b994",
+          "score": 1,
+          "signal": "Bullish"
         },
         {
-          "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-          "summary": "Consumer stocks were mixed late Monday afternoon, with the State Street Consumer Staples Select Sect",
+          "headline": "Tesla Robotaxi Push Raises Cash Flow Concerns",
+          "summary": "Autonomy progress continues, but rising spending pressures finances",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60fbcfce7fb94734055abe892c9f0c9eb4724dc4aa85a0f7641b8362c4cee08b",
-          "score": 0,
-          "signal": "Neutral"
+          "url": "https://finnhub.io/api/news?id=853b4bcb70770259c4cd9788285834a39f658c048c27b811af1078adc767804d",
+          "score": 2,
+          "signal": "Bullish"
         },
         {
-          "headline": "Amazon stock leads 9-day Mag 7 performance, Tesla falls behind",
-          "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a look at megacaps' recent stock performance, including Big Tech names like Amazon (AMZN), Broadcom (AVGO), and Tesla (TSLA).",
+          "headline": "Tesla, Elon Musk Win Fight To Move Lawsuits To Texas From Delaware",
+          "summary": "A judge ruled late Monday that Elon Musk and Tesla had grounds to move an ongoing shareholder lawsuits from Delaware to Texas.  Tesla stock rose slightly.  Lawyers for Musk and Tesla had argued that new shareholder-approved bylaws required litigation against the company be heard in Texas, since the company had reincorporated there in June 2024.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a81d7989d4b525024b5b708a97412dab9f7f00df239121105b6faa10ec164d2b",
+          "url": "https://finnhub.io/api/news?id=a851e816712e23a8fe26811a32b1f0de0aba70352f6916d1f8d15aaf24686041",
           "score": -2,
           "signal": "Bearish"
         },
         {
-          "headline": "Prolonged Iran War Could Drive Outlook Cuts at US Auto Companies in 2026 Second Half, RBC Says",
-          "summary": "US automotive companies could lower outlooks in the second half of this year in case of a prolonged",
+          "headline": "Tesla Takes EV Lead From BYD in Q1: Which Stock Is a Buy Now?",
+          "summary": "TSLA reclaims Q1 EV lead from BYDDY, but weak deliveries, margin pressure and rising AI bets raise doubts about its near-term investment appeal.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f95790032584788b72dd219fffc48f8da8f05f2d0180238f2f90f7403ed8413f",
-          "score": -2,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "Tesla Is Allegedly Working on a Cheaper EV (Finally). Does That Make TSLA Stock a Buy Here?",
-          "summary": "Despite reports of a smaller, cheaper SUV plus expanding energy and AI bets to help the long\u2011term story, TSLA stock still trades at over 200 times forward earnings.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9159240648665568cdb1be1dec2c1d20e0917591328b05d694243d5c9d3a7432",
+          "url": "https://finnhub.io/api/news?id=438541c7ff32c06e19d2fb8a457bce9693368a021ad7ea55e639402e3854bfa8",
           "score": 0,
           "signal": "Neutral"
+        },
+        {
+          "headline": "Intel Stock Jumps in Historic 9-Day Rally as AI Deals Ignite Momentum",
+          "summary": "Intel extends rare nine-day rally as AI partnerships and strategic moves drive investor optimism",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=438e09a7345a6cb08d813d4f491508e0189325feaabe766f4bc0650c9b8cda8d",
+          "score": 1,
+          "signal": "Bullish"
         }
       ]
     },
     {
       "ticker": "AMZN",
-      "price": 239.89,
-      "change": 1.51,
-      "percent_change": 0.6334,
-      "high": 240,
-      "low": 235.75,
-      "open": 237.45,
-      "previous_close": 238.38,
+      "price": 245.33,
+      "change": 5.44,
+      "percent_change": 2.2677,
+      "high": 247,
+      "low": 241.055,
+      "open": 241.055,
+      "previous_close": 239.89,
       "sentiment": "Mixed",
-      "sentiment_score": 0,
+      "sentiment_score": 2,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with mixed language and a stock move of +0.63% today.",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of +2.27% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Amazon nears deal to buy Globalstar, Bloomberg News reports",
-          "summary": "Amazon is in \u200cadvanced talks \u200cto acquire satellite \u200btelecom group Globalstar, a deal that would bolster \u200cthe \u2060tech major's push to build \u2060its own satellite operation, \u200bBloomberg \u200bNews \u200breported on \u200cMonday. A transaction could be announced as soon as Tuesday, the report \u200csaid, citing \u200bpeople \u200bfamiliar \u200bwith the \u200cmatter. Reuters could not \u200bimmediately \u200bconfirm the report.",
+          "headline": "JPMorgan earnings, Amazon buys SpaceX rival Globalstar: Top themes",
+          "summary": "Yahoo Finance's Myles Udland takes a look at the biggest themes and events that could shape the tone of Tuesday's trading session, including the S&P 500 (^GSPC) erasing all Iran war\u2013fueled losses; bank earnings from JPMorgan (JPM), Wells Fargo (WFC), and Citi (C); and SpaceX (SPAX.PVT) rival Globalstar (GSAT) being acquired by Amazon (AMZN).",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e790d7e45daa87af0709993aa3ef5167144a8260824afc1a5e19859ce1ed117d",
+          "url": "https://finnhub.io/api/news?id=ab67596b128bc404b24279e3ac47784a0b48c5de583e21f9f77bcb0c2e3cd0cb",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Community Trust Adds 122,541 Shares of CTBI",
-          "summary": "Community Trust Bancorp delivers regional banking and wealth management services across Kentucky, West Virginia, and Tennessee.",
+          "headline": "Capital One Financial, Amazon, Nvidia And More On CNBC's 'Final Trades'",
+          "summary": "On CNBC's \u201cHalftime Report Final Trades,\u201d Bryn Talkington, managing partner of Requisite Capital Management, said Capital One Financial Corporation is a great company. Earnings would be a catalyst for the stock to go higher, Talkington says. Capital One Financial will release earnings results for the first quarter after the closing bell on Tuesday, April 21. Analysts expect the company to report quarterly earnings at $4.64 per share on revenue of $15.37 billion. Don't Miss: A single bad hire can",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e75b904836b79de866453207d5dd90acbc6425c94cae17cf8b7766562c8c3f6e",
+          "url": "https://finnhub.io/api/news?id=7d2426fade69eedc34c22ba30f13d8c7be7b00da5e0abf98455d5c9ee32efef9",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Is Amazon.com (AMZN) One of the Best Blue Chip Stocks to Buy Now?",
-          "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is included among the 15 Best Blue Chip Stocks to Buy Now. Amazon.com, Inc. (NASDAQ:AMZN) provides a broad selection, value, and convenience across a range of customer experiences, including online shopping, cloud computing, streaming entertainment, consumer electronic devices, advertising, healthcare, AI services, and more. On April 9, Amazon.com, Inc. (NASDAQ:AMZN) announced plans [\u2026]",
+          "headline": "Amazon says to buy Globalstar to expand satellite network",
+          "summary": "Amazon said Tuesday that it had signed a deal to buy the US telecoms satellite group Globalstar to expand its own space-based internet network and compete with Elon Musk's Starlink.The tech and e-commerce giant founded by Jeff Bezos is building its Amazon Leo network offering satellite-based internet connectivity to people practically anywhere on the planet.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c1c8e393be66d3677194b9f2bab687afa75b79f665c1b69778d73fdcbc061db9",
+          "url": "https://finnhub.io/api/news?id=f131846f87862bda996329fa392fe699f743963990c20cba22d389c92e4039a4",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Amazon\u2019s Kuiper Wi Fi And India Quick Commerce Shape Valuation Story",
-          "summary": "Amazon.com (NasdaqGS:AMZN) is partnering with Delta Air Lines to roll out satellite based in flight Wi Fi using Project Kuiper, marking Kuiper\u2019s first major commercial deployment. At the same time, Amazon is expanding its presence in India\u2019s quick commerce space, adding more dark stores as competition and order volumes in the segment increase. For investors watching NasdaqGS:AMZN, these moves sit outside the familiar core of e commerce and cloud services. In flight connectivity and ultra...",
+          "headline": "Amazon Agrees To Buy Globalstar In $11.6 Billion Deal Amid Musk Space Battle",
+          "summary": "Amazon agreed to buy Globalstar for $11.57 billion, in a move expanding its satellite business versus Elon Musk-controlled companies.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dd04383f24e108ecf0e7c472d1ef06fbcb252c351acb182b0554871841688255",
+          "url": "https://finnhub.io/api/news?id=17404504f2568580568ffc36f6b3b49d69ca0d3fa9b1d2333c956692a7acd889",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "3 Big Reasons to Love Remitly (RELY)",
-          "summary": "Remitly\u2019s 13% return over the past six months has outpaced the S&P 500 by 10.4%, and its stock price has climbed to $16.78 per share. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+          "headline": "Amazon Will Sell You Your Next Car",
+          "summary": "I went to Amazon (NASDAQ: AMZN) to shop for a new car. There were 153 pages of vehicles available near me. The system already knew where I lived. But it gave me a choice of dealers in the area. In other words, it showed my location and gave me options I looked at Hyundais. There ... Amazon Will Sell You Your Next Car",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=946373f94750600005da636aeec884dd8f7f234b821088d7a0843c63d8d0bbdc",
+          "url": "https://finnhub.io/api/news?id=c5212839af29c72898770907455ea91bfeef4df335f818c9c370f32f6dab485c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Marc Randolph Remembers Jeff Bezos Laughing Like A Hyena And Says He Was Extremely 'Unpolished' \u2014 'It's Very Controlled Now'",
-          "summary": "Netflix co-founder Marc Randolph shares a vivid memory of Jeff Bezos' early energy and enthusiasm during the formative years of online video. Early Impressions Of Jeff Bezos In 1999 In a 2024 interview on The Diary of a CEO, Randolph recalled meeting Amazon.com, Inc. founder Bezos during the early days of Netflix. \"[He was] extremely unpolished\u2026 now I mean he\u2019s really buff and he\u2019s really thoughtful and someone has definitely worked on his laugh. It\u2019s now very controlled,\" Randolph said. \"Back t",
+          "headline": "Neato Raises $25 Million to Expand 2P eCommerce Platform Across Global Marketplaces",
+          "summary": "LAS VEGAS, April 14, 2026--Neato, a 2P eCommerce accelerator that partners with consumer brands as their exclusive online retailer, today announced it has raised $25 million in growth capital led by Advantage Capital, positioning the company to expand its online retail partnership model. The investment will support the launch of two new operations centers in Las Vegas and Chicago with integrated eCommerce prep capabilities, expansion of their AI agent stack and accelerate Neato\u2019s expansion beyon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87ae38668d48604b65e672cbb9feba8e6353b97ed36bdd963a5c25a885d09a03",
-          "score": 0,
-          "signal": "Neutral"
+          "url": "https://finnhub.io/api/news?id=c4b4dfde8d5eb97d94a06e7f58371c37493fd8bbdf6bcd6a11f8e604e98a14ef",
+          "score": 2,
+          "signal": "Bullish"
         },
         {
-          "headline": "Undercovered Dozen: Zscaler, Aeluma, Devon Energy And More",
-          "summary": "Discover 12 undercovered stocks and funds with catalysts, valuation gaps, and conviction ratings\u00e2\u0080\u0094plus AAOI, OXLC, DGRO highlights.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=eb662a4849ab6005a80167cd0187dae2d5de5ca31f6218784daf7a3ce4f02950",
-          "score": 0,
-          "signal": "Neutral"
+          "headline": "NeuReality Taps Former Amazon and Maersk Executive Rotem Hershko as Strategic Advisor to Accelerate Enterprise AI Adoption",
+          "summary": "TEL AVIV, Israel, April 14, 2026--NeuReality, a pioneer in purpose-built AI inference infrastructure, today announced that Rotem Hershko, former General Manager at Amazon Global and Chief Product Officer at Maersk, has joined the company as a strategic advisor. He will support enterprise strategy, product positioning, and go-to-market alignment for NR-NEXUS, NeuReality\u2019s inference operating system for production AI.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e4f1cd9c3d1bae9d6574718e6094ca3f8e1c25c4c7593d195fc4db1d7b1d0809",
+          "score": -1,
+          "signal": "Bearish"
         },
         {
-          "headline": "Amazon nears deal for Globalstar in push to rival Musk's Starlink - Bloomberg news",
-          "summary": "April 13 - Amazon nears deal for Globalstar in push to rival Musk's Starlink - Bloomberg news...",
-          "source": "Finnhub",
-          "url": "https://finnhub.io/api/news?id=7b5abef24ee3beb2038f563aece8e49d1474c360ab3cfd2f2da6375107b06741",
-          "score": 0,
-          "signal": "Neutral"
+          "headline": "U.S. Chess Champion Soars Above the S&P 500, Boosted by Intel (INTC) AI Demand",
+          "summary": "U.S. chess champion Hikaru Nakamura is soaring above the S&P 500 thanks mainly to the presence of Intel Corporation in his TipRanks investment portfolio. Overall, Hikaru\u2019s portfolio has a total return of 8.3% and is 4.7% above the S&P 500. It has an average annualized return of 1.6%, with 9 out of 18 transactions making a profit. The biggest contributor is Hikaru\u2019s investment in Intel (INTC). He bought 250 shares on September 26, 2025 at a purchase price of $35.92. Its current share price is $62",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b47b849d34fc604dc968448a5e36d77954206bc567b466675d8019d347d601d6",
+          "score": 1,
+          "signal": "Bullish"
         }
       ]
     },
     {
       "ticker": "META",
-      "price": 634.53,
-      "change": 4.67,
-      "percent_change": 0.7414,
-      "high": 635,
-      "low": 624.4,
-      "open": 629.5,
-      "previous_close": 629.86,
-      "sentiment": "Mixed",
-      "sentiment_score": -2,
-      "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more negative language and a stock move of +0.74% today.",
+      "price": 651.12,
+      "change": 16.59,
+      "percent_change": 2.6145,
+      "high": 652.4539,
+      "low": 639.3705,
+      "open": 640.37,
+      "previous_close": 634.53,
+      "sentiment": "Bullish",
+      "sentiment_score": 3,
+      "confidence": "Moderate",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of +2.61% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Meta Platforms (META) Price Target Reduced by $95 Amid Market Volatility",
-          "summary": "Meta Platforms, Inc. (NASDAQ:META) is included among the 15 Best Blue Chip Stocks to Buy Now. Meta Platforms, Inc. (NASDAQ:META) engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality (VR) headsets, and AI glasses. Its core business includes platforms like [\u2026]",
+          "headline": "Micron at $420: Buy, Sell or Hold?",
+          "summary": "Micron Technology (NASDAQ:MU) presents a compelling bull case at $420.52. Fundamentally, the argument for owning it has rarely been cleaner for a semiconductor name of this scale. With AI-driven memory demand accelerating and earnings growing at a pace that makes the current valuation look genuinely cheap, the stock deserves serious attention from investors who can ... Micron at $420: Buy, Sell or Hold?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5993ff2a31b753b3485a51a52af241d270af41d321101a46382d5b0ac13f82d",
+          "url": "https://finnhub.io/api/news?id=97a49a2916bc5b95e15fc6e7d9bef137cf52a5b1d9b676b0be9d16dea20d93f0",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Goldman Sachs resets Nebius stock price target for rest of 2026",
-          "summary": "Nebius just landed one of the largest AI infrastructure contracts in history. Goldman Sachs took notice and moved its numbers significantly. Goldman Sachs raised its price target on Nebius Group (NASDAQ: NBIS) by $45 to $205 per share. The move follows the company's $27 billion Meta AI contract. ...",
+          "headline": "Why AI Disruption Is a Short Seller\u2019s Best Friend \u2014 Muddy Waters Founder Sees Profits in Market Turmoil",
+          "summary": "Famed short seller Carson Block, founder of Muddy Waters Research, says artificial intelligence (AI) is creating a golden era for short sellers. In a recent interview with the Financial Times, Block argued that AI could trigger a market shake-up bigger than the 2008\u201309 global financial crisis, opening fresh opportunities for short sellers after years of limited profits. For context, short selling is a trading strategy where an investor bets that a stock\u2019s price will fall. If the stock price goes",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f942e87ddcc27f34970220cf55d11bbf1dfb45f90d4b587064e5c45ba4cdb53d",
+          "url": "https://finnhub.io/api/news?id=27547103479545d17a32e817434684b7c6c2e4e02979ceca3ec5fb449aa1322e",
+          "score": 2,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "CoreWeave's Story Just Got More Real",
+          "summary": "Meta and Anthropic deals change the outlook",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a10a321f15ff5b51d938c3e0df6fe818f50ee7834ef504272caf7a06f95a62a2",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Wedgewood Partners Q1 2026 Top-Performing Contributors And Detractors",
-          "summary": "Wedgewood Partners highlights growth from Taiwan Semiconductor and Microsoft while navigating AI market volatility. Read the full analysis for more details.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6bebb0a70e4c6c479ff690ea654abc0744671e0591132b721d7082d42111d1d9",
+          "headline": "Why Some Companies Say AI \u2018Tokenmaxxing\u2019 Is Key to Survival",
+          "summary": "Leaderboards that rank individual employees\u2019 AI token usage have garnered recent criticism. But some say they\u2019re vital for adapting to the AI age.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0849cb13804000508572dd6b952dfbb51efac024c0baa2c916f41668ea4c3722",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Ion Video confirms initial discussions with Meta Platforms and Alphabet",
-          "summary": "IonLtd: Confirms initial discussions with Meta Platforms and Alphabet Confirms that it has held initial meetings with senior executives of a number of other major global technology...",
+          "headline": "Wall Street Firms Assert Meta Platforms, Inc. (META) as a Top Growth Stock in Billionaire Philippe Laffont\u2019s portfolio",
+          "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the top growth stocks in billionaire Philippe Laffont\u2019s portfolio. On April 1, Bank of America touted Meta Platforms, Inc. (NASDAQ:META) as one of the top stock recommendations after the recent sell-off in the broader equity market. According to the research firm, Meta is one of the companies well-positioned [\u2026]",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c002adbcdb981300a4f1e10d97d07a5e38439c0e4ca7e5847e6f6314a5bce093",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "Bill Ackman Is Betting Big on AMZN, META, and FNMA. Should Investors Follow?",
+          "summary": "Billionaire investor Bill Ackman is known for building concentrated positions when he sees asymmetric upside, and several of Pershing Square\u2019s top holdings reveal where he has the highest conviction today. The hedge fund currently has major exposure to Amazon, Meta Platforms, and Fannie Mae, three very different investments tied together by Ackman\u2019s belief that the ... Bill Ackman Is Betting Big on AMZN, META, and FNMA. Should Investors Follow?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee9baa883ddf00959d6361f48c39565573a4583b7ec65ac088ab7755d987337e",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Shopify to Announce First-Quarter 2026 Financial Results May 5, 2026",
+          "summary": "Internet, Everywhere, April 14, 2026 (GLOBE NEWSWIRE) -- Shopify Inc. (NASDAQ, TSX: SHOP) plans to announce financial results for the quarter ended March 31, 2026 before markets open on Tuesday, May 5, 2026. Shopify\u2019s management team will host a conference call to discuss first-quarter results at 8:30 a.m. ET on Tuesday, May 5, 2026. The conference call will be available via webcast on the Investor Relations section of Shopify\u2019s website at https://www.shopify.com/investors/events. An archived re",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e921b50f276f7f5f98a6349855d8792be1989aed8428ff6686dbdd7d651da486",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Meta's Dina Powell McCormick: Meta Compute Unit Is Trying to Think Carefully About the Investment of Almost $600 Billion That Co Is Deploying Over the Next Few Years - Semafor Event",
+          "summary": "Meta's Dina Powell McCormick: Meta Compute Unit is trying to think carefully about the investment of almost $600 billion that co is deploying over the next few years - Semafor event...",
           "source": "Finnhub",
-          "url": "https://finnhub.io/api/news?id=47d98aaadf9a43dc2d58e7eb0e0d1b08c11b4da20088796d0b3d856d1b798add",
+          "url": "https://finnhub.io/api/news?id=35f708e5ead6e1c1d6f51afda6b252c27e3e93cab5017f19c3c8065afd17e206",
           "score": 0,
           "signal": "Neutral"
-        },
-        {
-          "headline": "Primepoint Closes $10M Seed Round to Advance Intelligence Platform that Reads and Understands Construction Drawings",
-          "summary": "The AI-Native Tool Built By Veterans from Meta, Microsoft, Google, and Webcor Has Garnered Funding From Investors Navitas Capital, Penny Jar Capital, NextView Ventures, GS Futures, Agla\u00e9 Ventures and Angel Investor Dr. Yann LeCunSAN MATEO, Calif., April 13, 2026 (GLOBE NEWSWIRE) -- Primepoint has closed a $10M seed round to advance its proprietary AI platform, co-founded by AI-veterans Lubomir Bourdev, PhD, and Hamid Palo, to understand construction drawings, reading linework, tags, and cross-do",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=018ffe5fe761d1210dc60266dd7dc91fb6181c278388e1e64d0416bfbfeb5791",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Meta to Announce First Quarter 2026 Results",
-          "summary": "Meta Platforms, Inc. (NASDAQ: META) announced today that the company's first quarter 2026 financial results will be released after market close on Wednesday, April 29th, 2026.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5183b6fc57f67829844f8d9cbfe81d0e903c100a63d6017cbfc56827da235ce1",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "A $21 Billion Reason to Buy CoreWeave Stock Now",
-          "summary": "CoreWeave recently expanded its AI infrastructure agreement with Meta Platforms, valued at approximately $21 billion.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a6cafe11e52f1c2b2d9ca037f59dbd02dc628d0f2cf4e0134e48cc5a7e0d3d1",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Amazon stock leads 9-day Mag 7 performance, Tesla falls behind",
-          "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a look at megacaps' recent stock performance, including Big Tech names like Amazon (AMZN), Broadcom (AVGO), and Tesla (TSLA).",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a81d7989d4b525024b5b708a97412dab9f7f00df239121105b6faa10ec164d2b",
-          "score": -2,
-          "signal": "Bearish"
         }
       ]
     }

@@ -1,82 +1,82 @@
 {
-  "updated_at": "2026-04-15T14:09:26.203772+00:00",
+  "updated_at": "2026-04-15T22:43:05.770919+00:00",
   "stocks": [
     {
       "ticker": "AAPL",
-      "price": 259.44,
-      "change": 0.61,
-      "percent_change": 0.2357,
-      "high": 260.3,
+      "price": 266.43,
+      "change": 7.6,
+      "percent_change": 2.9363,
+      "high": 266.56,
       "low": 257.81,
-      "open": 258.46000000000004,
+      "open": 258.16,
       "previous_close": 258.83,
-      "sentiment": "Bullish",
-      "sentiment_score": 4,
-      "confidence": "Moderate",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of +0.24% today.",
+      "sentiment": "Mixed",
+      "sentiment_score": 1,
+      "confidence": "Low",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of +2.94% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Apple (AAPL) Stock at $260: Buy, Sell or Hold?",
-          "summary": "Apple (NASDAQ:AAPL) is a Hold at around $260 per share. The stock sits in a frustrating middle ground: fundamentals are excellent, but valuation leaves limited margin for error and near-term headwinds are real. Apple designs and sells consumer electronics, software and digital services across a global installed base of more than 2.5 billion active devices. ... Apple (AAPL) Stock at $260: Buy, Sell or Hold?",
+          "headline": "The 1 Tech Stock I'd Put in Every Retirement Account Right Now",
+          "summary": "I'd put it in a growth-oriented portfolio, too.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=560b84e75e0eab6047e92578a246b91d51a01c5b64a39d8c0685272620164a6d",
+          "url": "https://finnhub.io/api/news?id=e774292da76b8421527e6995b52de7c15c91b2114281665a322906e2548b46db",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Metaverse in Entertainment Market Report 2026: Revenues to Grow from $35 Billion to Over $89 Billion by 2030, Led by Apple, Samsung Electronics, and ByteDance",
-          "summary": "The market presents opportunities in virtual events, gaming, and social platforms, driven by increased VR adoption, AI personalization, and digital assets Metaverse in Entertainment Market Metaverse in Entertainment Market Dublin, April 15, 2026 (GLOBE NEWSWIRE) -- The \"Metaverse in Entertainment Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The metaverse in the entertainment market has experienced significant growth and shows promising prospects for future expansion.",
+          "headline": "Tesla, Apple Veteran Doug Field Exits Ford in Organizational Overhaul",
+          "summary": "The automaker has struggled with EV losses, but says an affordable \u201cskunkworks\u201d electric project will continue.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e700ce17cbdaa808adf3a3cee7c9103a5223b706db278264e9f34f9ec5d1ccb1",
+          "url": "https://finnhub.io/api/news?id=277cdfc2c91db5258cc8b0be35bb21247e5feb26792f1ac05179efc175cbf213",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Top BofA Analyst Raises Apple Stock (AAPL) Price Target Ahead of Q2 Earnings",
-          "summary": "Apple (AAPL) stock is down about 5% year-to-date due to concerns about higher input costs, tariffs, and the impact of macro uncertainty on consumer spending. Nonetheless, ahead of Apple\u2019s Q2 FY26 earnings, AAPL bulls are optimistic about the stock, citing several positives, including a loyal iPhone customer base and innovative offerings like the new MacBook Neo. On Tuesday, top Bank of America analyst Wamsi Mohan reiterated a Buy rating on AAPL stock and raised his price target to $325 from $320",
+          "headline": "Nasdaq, S&P 500 Hit New Highs Amid US-Iran Peace Talk Prospects",
+          "summary": "The Nasdaq Composite and the S&P 500 notched record highs on Wednesday, buoyed by hopes that another",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47f695c9d4859c5e63576301bca38dc1ab28e967d30a6d46a676aa2f32d2f379",
-          "score": 2,
+          "url": "https://finnhub.io/api/news?id=cea56d91343d4562ebe93895fd7e3eed1e4d0f1e93c6ac60596a03f170a92fa2",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Can Nvidia Become a $10 Trillion Company by 2030?",
+          "summary": "The stock is still down from the high it touched late last year. That could be a buying opportunity.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=548ca5f1ea4f09df84430f5387eec204e8aabaa2c1a81ab06f3cf4db9ba69124",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Apple Eyes OLED Upgrade for Future iPad Air",
+          "summary": "The shift would bring the midrange tablet closer to Apple's higher-end display lineup.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=563dacfb9b15e62c1c196030966cee71ee71bb65b0b8eae7a5f789722fea10d5",
+          "score": 1,
           "signal": "Bullish"
         },
         {
-          "headline": "VOO vs. QQQ vs. SPY \u2014 Which ETF Is the Best Buy Right Now?",
-          "summary": "When it comes to investing in the broader U.S. market, ETFs like Vanguard S&P 500 ETF (VOO) from Vanguard, the SPDR S&P 500 ETF Trust (SPY) from State Street, and Invesco QQQ Trust (QQQ) from Invesco PowerShares are among the most popular choices. Using the TipRanks\u2019 ETF Comparison Tool, we have compared VOO, SPY, and QQQ to determine the best ETF for investors in 2026. VOO or SPY or QQQ: Key Differences While VOO and SPY both track the S&P 500 (SPX), QQQ follows the Nasdaq-100 (NDX), giving it",
+          "headline": "Equities Mostly Rise Intraday as Trump Reportedly Says War Likely 'Very Close to Over'",
+          "summary": "US benchmark equity indexes were mostly higher intraday as President Donald Trump reportedly said th",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0eab6ace0e424c6e7abc634b5badd7e6c0def1f88ab649c90dedf954c70bceb7",
+          "url": "https://finnhub.io/api/news?id=00dd41b523c7352e044c2108abb433cdb239543518bd3df4d018cbfaba246a2a",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "These Stocks Are Today\u2019s Movers: Broadcom, Nike, ASML, Bank of America, Morgan Stanley, GitLab, and More",
-          "summary": "Broadcom stock rises after the chip maker extends an existing deal with Facebook parent Meta Platforms.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0eef6f4cae298f2145f3b6f96a1db64672f337c8af05985fbf55ed19b7fa4e50",
+          "headline": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
+          "summary": "Looking for the most active S&P500 stocks in today's session? Join us as we dive into the US markets on Wednesday and discover the stocks that are dominating the trading activity and setting the pace for the market.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ea83a9ddde135c5962548d5af854b057fd2770d7427574d0f26ef09c36477c14",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "PlanHub Appoints David Fleischman as Chief Product Officer",
-          "summary": "PlanHub, the leading preconstruction bidding platform and marketplace connecting general contractors, subcontractors, and suppliers across the commercial construction industry, today announced the appointment of David Fleischman as Chief Product Officer (CPO). In his role, Fleischman will lead PlanHub's product strategy and roadmap, with a sharp focus on delivering best-in-class AI-powered products that put customers at the center of every decision.",
+          "headline": "Apple's Latest Round of Product Announcements May Be More Important Than You Think",
+          "summary": "A key detail in Apple's latest products indicates a significant shift at the company.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eeffa3dae6bc11c2a7f2e21432a9464781a1c4b74d0c7561d1d2d33964cfcb11",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "ASML lifts 2026 outlook on the back of stronger AI demand",
-          "summary": "ASML (ASML) raised its 2026 revenue outlook on Wednesday as \u200cdemand for artificial intelligence chipmaking \u200ctools continues to rise",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3741b303c09455fbf9950723e6afe95d3c0e07e11d31d68cb7a1ade0748e898b",
-          "score": 2,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
-          "summary": "South Korean AI chip startup DEEPX will expand its partnership with Hyundai Motor Group to develop a computing platform for generative \u200cAI robots using its second generation of low-power chips, its top executive said, as \u200cit gets set for an IPO.  DEEPX is in talks with the government and investors to raise more than 600 \u200bbillion won ($408 million) in an ongoing funding round, in the run-up to a potential IPO in South Korea, DEEPX CEO Lokwon Kim said.  The company, which began producing chips late last year, is one of a number of South Korean startups riding on Seoul's ambitions to nurture artificial intelligence champions and \u200cmake the country an AI leader.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f46a59a3dd649a57dd30ae274df5ba38e1469a35cf57d470f27a33a60e95b954",
+          "url": "https://finnhub.io/api/news?id=546d5b65d399e6c5014d3151d54ec5faf9e0f462621c4c6939f14f3ec26098e4",
           "score": 0,
           "signal": "Neutral"
         }
@@ -84,80 +84,80 @@
     },
     {
       "ticker": "MSFT",
-      "price": 404.87,
-      "change": 11.76,
-      "percent_change": 2.9915,
-      "high": 405.2249,
+      "price": 411.22,
+      "change": 18.11,
+      "percent_change": 4.6069,
+      "high": 414.3699,
       "low": 396.73,
-      "open": 397.05,
+      "open": 398,
       "previous_close": 393.11,
       "sentiment": "Mixed",
-      "sentiment_score": -1,
+      "sentiment_score": -2,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more negative language and a stock move of +2.99% today.",
+      "reason": "Based on 8 recent headlines with more negative language and a stock move of +4.61% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "CIBC Innovation Banking Serves as Lead Arranger for Vena Solutions\u2019 Expanded Credit Facility and Syndicate to Support Acquisition of Acterys",
-          "summary": "TORONTO, April 15, 2026--CIBC Innovation Banking announced today its role as Lead Arranger and Administrative Agent in an expanded credit facility for Vena Solutions (Vena), a top-tier AI-powered Microsoft-native Financial Planning and Analysis (FP&A) platform that connects data, people and agents to help customers plan better and achieve more.",
+          "headline": "DigitalOcean (DOCN) Stock Trades Up, Here Is Why",
+          "summary": "Shares of cloud computing platform DigitalOcean (NYSE:DOCN) jumped 2.1% in the afternoon session as market benefited from a \"risk-on\" sentiment fueled by potential peace negotiations between the U.S. and Iran. As geopolitical tensions eased, investors returned to growth-heavy favorites like Microsoft and ServiceNow, which offer high-margin subscription revenue and clearer paths for integrating generative AI into enterprise workflows.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=497a0228b164d0236316b26cae08408af96eb2f14efb85a57e0756078729ecdc",
+          "url": "https://finnhub.io/api/news?id=df789f17d191862fea4d61a6d33b33fb674f03b445bc83fa966688707d18fce9",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "VOO vs. QQQ vs. SPY \u2014 Which ETF Is the Best Buy Right Now?",
-          "summary": "When it comes to investing in the broader U.S. market, ETFs like Vanguard S&P 500 ETF (VOO) from Vanguard, the SPDR S&P 500 ETF Trust (SPY) from State Street, and Invesco QQQ Trust (QQQ) from Invesco PowerShares are among the most popular choices. Using the TipRanks\u2019 ETF Comparison Tool, we have compared VOO, SPY, and QQQ to determine the best ETF for investors in 2026. VOO or SPY or QQQ: Key Differences While VOO and SPY both track the S&P 500 (SPX), QQQ follows the Nasdaq-100 (NDX), giving it",
+          "headline": "News of the day: Housing market correction, Microsoft data centre, private asset investing, trucking fuel costs, financial sector risks and more",
+          "summary": "Catch up on the stories we\u2019re following today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0eab6ace0e424c6e7abc634b5badd7e6c0def1f88ab649c90dedf954c70bceb7",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Wednesday; Robinhood Markets to Advance, Micron Technology to Decline",
-          "summary": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mixed hours before Wednesday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e003dadba985621bb9897f86a2093efa4b357d5153d7f47f79ee943842077682",
-          "score": -1,
+          "url": "https://finnhub.io/api/news?id=378f5859799a0c2904c9b9ef0c1ebb89d29cd763088a8def9f9539d2ffdd16fa",
+          "score": -2,
           "signal": "Bearish"
         },
         {
-          "headline": "Should You Buy Microsoft Stock After Its Correction, or Run for the Hills?",
-          "summary": "The tech giant's stock has fallen more than 20% so far in 2026.",
+          "headline": "Guidewire Software and Wix Stocks Trade Up, What You Need To Know",
+          "summary": "A number of stocks jumped in the afternoon session as markets benefited from a \"risk-on\" sentiment fueled by potential peace negotiations between the U.S. and Iran. As geopolitical tensions eased, investors returned to growth-heavy favorites like Microsoft and ServiceNow, which offer high-margin subscription revenue and clearer paths for integrating generative AI into enterprise workflows.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=64b0981689ad8e8c86a1913032d0face0d181367cd13a3b718a573a23f2f0071",
+          "url": "https://finnhub.io/api/news?id=5b0e7570ef9ee3200b292bb6a887e819b76078caba483cc2da6e0f197a8ad82c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Marvell Stock Is on a Roll. Why It Can Jump Another 27%.",
-          "summary": "Oppenheimer analyst Rick Schafer described the chips and networking company as \u201cthe Switzerland of interconnect.\u201d",
+          "headline": "HubSpot and Braze Shares Are Soaring, What You Need To Know",
+          "summary": "A number of stocks jumped in the afternoon session after software stocks benefited from a \"risk-on\" sentiment fueled by potential peace negotiations between the U.S. and Iran.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5af44e9384a6fae5cefee3b3eb65db9c6fc092b04f72467a9124f4242cdfdd54",
+          "url": "https://finnhub.io/api/news?id=d4fe1684d0ac08c2858b558c9291913c9fdf185fa77194b384fad2c25e988bf3",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Glasswall Brings Defense-Level File Sanitization to Every Government Agency and Business Using Microsoft Outlook",
-          "summary": "Glasswall, an industry-leading provider of intelligent Zero Trust file protection solutions in both the business-to-government (B2G) and business-to-business (B2B) sectors, has today announced the launch of Glasswall's M365 Outlook Integration, a new capability within its Content Disarm and Reconstruction (CDR) platform designed to protect organizations from malicious email attachments.",
+          "headline": "Bandwidth and Samsara Shares Skyrocket, What You Need To Know",
+          "summary": "A number of stocks jumped in the afternoon session after software stocks benefited from a \"risk-on\" sentiment fueled by potential peace negotiations between the U.S. and Iran.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=09ac19542497228e926a5b8d6f758b30794a8975c76ccbb39087a2846fe9bebc",
+          "url": "https://finnhub.io/api/news?id=b435ba942cae94d3a1931994a2c3bf3e953738e7c48cec238a55239e89e940ca",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Why this earnings season can change the software narrative",
-          "summary": "TECHnalysis Research, LLC, president Bob O'Donnell, joins Josh Lipton on Market Domination Overtime to discuss how software stocks can change their image this earnings season following the effect of the SAASpocalypse.",
+          "headline": "Health Catalyst and ZoomInfo Stocks Trade Up, What You Need To Know",
+          "summary": "A number of stocks jumped in the afternoon session after markets benefited from a \"risk-on\" sentiment fueled by potential peace negotiations between the U.S. and Iran.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b5a7a6d8f297eb4dce01df4c89422033714c53e92dea08a74535988f89bdfda",
+          "url": "https://finnhub.io/api/news?id=7791cf2da80ba9d4ffcc561b2e67ee25b3ceb59b91f47cb976c4e5ed3b4b1acd",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "OpenAI recalibrates investments as Microsoft secures Norway capacity",
-          "summary": "According to reports from CNBC, OpenAI has scaled back its infrastructure ambitions by opting out of a direct lease for computing capacity at a data center in Norway, just days after suspending a...",
-          "source": "Finnhub",
-          "url": "https://finnhub.io/api/news?id=445ac199303bd9a472098f2c8dcfbb09598164dfe29a26d2762efab1125f5c49",
+          "headline": "Nasdaq, S&P 500 Hit New Highs Amid US-Iran Peace Talk Prospects",
+          "summary": "The Nasdaq Composite and the S&P 500 notched record highs on Wednesday, buoyed by hopes that another",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cea56d91343d4562ebe93895fd7e3eed1e4d0f1e93c6ac60596a03f170a92fa2",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "The Trade Desk (TTD) Shares Skyrocket, What You Need To Know",
+          "summary": "Shares of digital advertising platform The Trade Desk (NASDAQ:TTD) jumped 5.9% in the afternoon session after markets benefited from a \"risk-on\" sentiment fueled by potential peace negotiations between the U.S. and Iran. As geopolitical tensions eased, investors returned to growth-heavy favorites like Microsoft and ServiceNow, which offer high-margin subscription revenue and clearer paths for integrating generative AI into enterprise workflows.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e552ea6532c42feba65083702a2e19e9575d81e841f6101813b6ad4b0756981a",
           "score": 0,
           "signal": "Neutral"
         }
@@ -165,242 +165,242 @@
     },
     {
       "ticker": "NVDA",
-      "price": 198.69,
-      "change": 2.18,
-      "percent_change": 1.1094,
-      "high": 198.795,
-      "low": 196.12,
-      "open": 196.12,
+      "price": 198.87,
+      "change": 2.36,
+      "percent_change": 1.201,
+      "high": 200.4,
+      "low": 195.74,
+      "open": 196.54,
       "previous_close": 196.51,
       "sentiment": "Mixed",
       "sentiment_score": 0,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with mixed language and a stock move of +1.11% today.",
+      "reason": "Based on 8 recent headlines with mixed language and a stock move of +1.20% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Stock Market Today: Dow Rises As Trump Points To U.S.-Iran Talks; ASML Drops On Outlook (Live Coverage)",
-          "summary": "Stock Market Today: The Dow Jones index rises Wednesday after President Donald Trump's latest comments on the U.S.-Iran peace talks.",
+          "headline": "D-Wave CEO says quantum computing is already past its ChatGPT moment",
+          "summary": "Shares of the quantum firm have surged 200% over the last year as Wall Street begins to price in a pivot toward real-world commercial utility.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d37a111d5dc4b6b31db9c65187e75df9c3d8bfb117847f688a90e31d7b74a073",
-          "score": -2,
-          "signal": "Bearish"
-        },
-        {
-          "headline": "Nvidia Stock To $300?",
-          "summary": "Nvidia stock (NVDA) rallied by close to 4% yesterday to roughly $197 per share amid a broader market rally fueled by hopes of de-escalation in the U.S. and Iran conflict. While the stock is up 75% over the last 12 months, investors are asking if a 41x trailing price to earnings multiple is too steep. (See Nvidia's valuation multiples.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd304cc8f4081719fadc9122be61b33f9e5eca1464499f4782c2ae7f22ab3121",
+          "url": "https://finnhub.io/api/news?id=889bb80ebea9a8d9b56b98653b2190d7d1b003bc3f13a8e3ec4fde144564dfe2",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Quantum Computing Stocks Surge After Nvidia's Game-Changing AI Move",
-          "summary": "Quantum Stocks Pop as Nvidia Accelerates $11 Billion Market Opportunity",
+          "headline": "Dow Jones Futures: S&P 500, Nasdaq Hit New Highs As Tesla, Robinhood Lead; Nvidia Chipmaker On Tap",
+          "summary": "The S&P 500 and Nasdaq hit highs as Tesla, Robinhood and other former leaders soared. Nvidia chipmaker Taiwan Semi looms.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd3ea700e51c53a7ac92e765d8f5f00a0750cdb3e8181849a2c485079bd58fe1",
-          "score": 1,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "This Magnificent Energy Stock Is Down 20%. Buy It Before It Sets a New All-Time High.",
-          "summary": "Constellation Energy has seen its shares drop more than 20% in 2026.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0fa92ca3ed0c4b96aae4d46c42522ca9008234c9a73bc539b12c3a726175c3db",
+          "url": "https://finnhub.io/api/news?id=3135b81563f90f4b6ed4156907a41439fe15195ee519273c2709067ff4a0c984",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Nvidia Rival Flashes Telltale Clues As Breakout Nears",
-          "summary": "While flashing telltale signs of rising strength, Nvidia AI rival Broadcom stock looks to etch a breakout.",
+          "headline": "2 Healthcare Stocks to Buy and 1 to Approach With Caution",
+          "summary": "Recent performances don't tell the whole story.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f03126f2e89b33df670077ec39f9d232298014ad05662f1eeda6c7afbe612a7c",
+          "url": "https://finnhub.io/api/news?id=759ea9868126b4d9e3f96b9dab8e91af7d9637a2c7b36dea1c3430e56af9d57c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Jane Street signs $6 billion AI cloud deal with CoreWeave, boosts stake",
-          "summary": "Trading firm Jane Street has committed about $6 billion for CoreWeave's cloud services, marking the third major deal for \u200cthe Nvidia-backed neocloud company in a week and underscoring surging demand \u200cfor computing capacity.  Jane Street also made a $1 billion equity investment in CoreWeave at a purchase \u200bprice of $109 per share, the companies said on Wednesday.  The investment will bring Jane Street's position in CoreWeave to about $1.44 billion, according to LSEG data, making the firm \u200cthe fifth-largest shareholder in the \u2060company.",
+          "headline": "The 1 Tech Stock I'd Put in Every Retirement Account Right Now",
+          "summary": "I'd put it in a growth-oriented portfolio, too.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90aa866760b6d3d2ac9b465aa55edec90a6ae56b616ee86a3aeca805a7a0f9a8",
+          "url": "https://finnhub.io/api/news?id=e774292da76b8421527e6995b52de7c15c91b2114281665a322906e2548b46db",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Intel\u2019s (INTC) Chip Business Comes Alive as Terafab Revives the Bull Case",
-          "summary": "Intel (INTC) is seeing renewed momentum in its foundry business, with the Terafab partnership marking a potential inflection point and supporting a bullish view. The stock has surged nearly 50% in April, driven in part by its involvement alongside Elon Musk\u2019s Tesla (TSLA), SpaceX, and xAI in the large-scale chip manufacturing initiative. I am bullish on the American semiconductor giant as I believe its foundry business is now at the cusp of a turnaround, which eliminates a key argument highlight",
+          "headline": "Democratic Senator slams X Money in blistering letter to Elon Musk",
+          "summary": "Senator Elizabeth Warren (D-MA) wrote a blistering letter to X Corp. owner Elon Musk on Apr. 14. The Democrat leader expressed her concern that the upcoming X Money feature could pose threats to consumers, national security, and the financial system in the U.S. Earlier, X product head Nikita ...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6801570adcaa2b2cb5ca4af00667f72cabf85ea1c13fc1b07ab10d2acd781f31",
+          "url": "https://finnhub.io/api/news?id=425da2998d732a57a3d3a276439703823c05c79365846b81964f7be6d51321e3",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "This Industry Group Is the Most Positive About Q1 Earnings",
-          "summary": "Semiconductor and semiconductor equipment companies are particularly optimistic about this earnings season.",
+          "headline": "2 Billionaire Investors Own Amazon Stock. Should You Buy It Too?",
+          "summary": "When two of the world's most successful investors make a move, it's worth paying attention.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=baa5f3fa580cbb6fa0b134ef27526d64ca27ebb52c92879a372ee1267ae26ed5",
-          "score": 1,
-          "signal": "Bullish"
+          "url": "https://finnhub.io/api/news?id=336b3b64b2eae09027cb2be5edb09ea08a83751034d3355c435c96de8246cf8a",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Nvidia Scores Historic Win Streak As TSMC Report Looms; Is Nvidia A Buy Or Sell Now?",
+          "summary": "Nvidia stock rises for a 11th consecutive day Wednesday, the AI chip company's longest winning streak on record.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3101683d8b9c991ed276c0c455f6b19a7788c46881374d63d699c2db1378b33e",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "3 Semiconductor ETFs to Buy Before the AI Chip Market Hits $500 Billion",
+          "summary": "Three semiconductor ETFs are competing for the same investor dollar in 2026, each built on a different philosophy for capturing growth in the chip industry. The backdrop is hard to ignore: Deloitte projects that generative AI chips alone will approach $500 billion in revenue in 2026, roughly half of total global semiconductor sales. AI infrastructure ... 3 Semiconductor ETFs to Buy Before the AI Chip Market Hits $500 Billion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=57aa0f2a3d4a2fbedbd797c8f25709694c331987d6d54e7b6043d45693f880d5",
+          "score": 0,
+          "signal": "Neutral"
         }
       ]
     },
     {
       "ticker": "TSLA",
-      "price": 373.06,
-      "change": 8.86,
-      "percent_change": 2.4327,
-      "high": 373.4,
+      "price": 391.95,
+      "change": 27.75,
+      "percent_change": 7.6194,
+      "high": 394.65,
       "low": 362.5,
-      "open": 366.65999999999997,
+      "open": 366.83,
       "previous_close": 364.2,
-      "sentiment": "Mixed",
-      "sentiment_score": 2,
-      "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of +2.43% today.",
+      "sentiment": "Bullish",
+      "sentiment_score": 3,
+      "confidence": "Moderate",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of +7.62% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "TESLA INC (NASDAQ:TSLA) Shows Strong Growth and Soundness Amid Technical Breakout Setup",
-          "summary": "Tesla combines strong growth forecasts and a solid financial base with a technical setup hinting at a potential breakout, offering a balanced investment opportunity.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=dfd60bf832c4a20c8198580b88c186e99df08d000a8b7ac8415aba5b71d641b8",
-          "score": 2,
-          "signal": "Bullish"
-        },
-        {
-          "headline": "Tesla is making just 250 final Model S cars at $159,420 each \u2014 and then it's gone forever",
-          "summary": "Tesla is retiring the Model S and X with a $160K limited \"Signature\" farewell run. But is it worth buying? Here's what you need to know about these models and whether they're worth the $60K increase.",
+          "headline": "Dow Jones Futures: S&P 500, Nasdaq Hit New Highs As Tesla, Robinhood Lead; Nvidia Chipmaker On Tap",
+          "summary": "The S&P 500 and Nasdaq hit highs as Tesla, Robinhood and other former leaders soared. Nvidia chipmaker Taiwan Semi looms.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=27bb2b8c003170625d9433e4aa4994660b8f27cf36735a3eb8ff6832c67e8538",
+          "url": "https://finnhub.io/api/news?id=3135b81563f90f4b6ed4156907a41439fe15195ee519273c2709067ff4a0c984",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Alibaba Readies Robots for Foray Into Crowded Chinese Arena",
-          "summary": "(Bloomberg) -- Alibaba Group Holding Ltd. plans to soon unveil its first robot, a four-legged device that will mark its entry into an increasingly crowded but popular arena.The Chinese company\u2019s Amap unit is preparing to introduce a quadruped robot to the market that will compete with the likes of Unitree\u2019s Go series, a company spokesperson said. Amap\u2019s embodied intelligence research division is also exploring the feasibility of humanoid robots, a segment that\u2019s captured Chinese consumer imagina",
+          "headline": "Gary Black Calls Tesla's FSD Approval In Europe 'Non-Event'\u2014Here's Why",
+          "summary": "Investor Gary Black of The Future Fund LLC on Monday outlined multiple reasons why Tesla Inc.\u2018s Full Self-Driving (FSD) approval by the Netherlands Vehicle Authority (RDW) wasn\u2019t significant. Tesla FSD Europe Approval A \u2018Non-Event\u2019 \u201cWS [Wall Street] will view the approval of FSD in the Netherlands as a non-event,\u201d the investor said in a post on the social media platform X. Expanding on why, the investor said that the move was \u201cexpected\u201d and that the technology was \u201csupervised FSD, not unsupervis",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=681ecf009abdb52d1f3502792f3ce8e1b6913549a6fca0c912266fcc09e16941",
+          "url": "https://finnhub.io/api/news?id=1279dd5cff76068af97472d3a160a473ae778007d4c666a35004ca542da0a27b",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Tesla\u2019s Chinese Robot Rival Ramps Pre-IPO Global Push",
-          "summary": "(Bloomberg) -- Unitree Robotics began selling its cheapest humanoid robot on Alibaba Group Holding Ltd.\u2019s AliExpress on Wednesday, expanding its international presence in a white-hot race featuring heavyweight players like Elon Musk\u2019s Tesla Inc.Hangzhou-based Unitree\u2019s R1 model will cost roughly $8,150 with import fees factored in, and shipping to the US will be free of charge, the company said on Wednesday. It\u2019ll also offer a scaled-down version priced at about $6,800. The R1 robots will be sol",
+          "headline": "Democratic Senator slams X Money in blistering letter to Elon Musk",
+          "summary": "Senator Elizabeth Warren (D-MA) wrote a blistering letter to X Corp. owner Elon Musk on Apr. 14. The Democrat leader expressed her concern that the upcoming X Money feature could pose threats to consumers, national security, and the financial system in the U.S. Earlier, X product head Nikita ...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9aa64008e2600647539ae8c820ebca42197cf953671734c15479a5dc1c6586d3",
+          "url": "https://finnhub.io/api/news?id=425da2998d732a57a3d3a276439703823c05c79365846b81964f7be6d51321e3",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "My 2 Favorite Cash-Gushing Machines To Sleep Well At Night",
-          "summary": "",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=81ae633f52ad276a62b546d39b70fe383e7a7663fe45eee1a61bdd656955e208",
+          "headline": "Tesla, Apple Veteran Doug Field Exits Ford in Organizational Overhaul",
+          "summary": "The automaker has struggled with EV losses, but says an affordable \u201cskunkworks\u201d electric project will continue.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=277cdfc2c91db5258cc8b0be35bb21247e5feb26792f1ac05179efc175cbf213",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "1 Profitable Stock Worth Investigating and 2 We Brush Off",
-          "summary": "Even if a company is profitable, it doesn\u2019t always mean it\u2019s a great investment. Some struggle to maintain growth, face looming threats, or fail to reinvest wisely, limiting their future potential.",
+          "headline": "S&P 500 Hits Record Amid Reports Iran Ceasefire to be Extended to Reach Peace Deal",
+          "summary": "US equity indexes closed mixed on Wednesday as strong gains in growth sectors pushed the S&P 500 to",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d28447fed9af595f7eb34a9839e631187974681bac732a688b6b0148b98ffca0",
+          "url": "https://finnhub.io/api/news?id=cd9f0909bd5dad360478c2c2a4f44efcd551cfe8bac0e55a00136fedadb095a5",
           "score": 1,
           "signal": "Bullish"
         },
         {
-          "headline": "Elon Musk\u2019s X Launches Smart Cashtags for BTC, ETH, XRP, DOGE, MSTR, COIN, Others",
-          "summary": "Elon Musk\u2019s X has officially debuted Smart Cashtags for stocks and crypto. This new feature adds interactive, real-time financial data to users\u2019 timelines. It supports major crypto and stocks cashtags such as BTC, ETH, XRP, SOL, DOGE, TSLA, MSTR, and COIN. The Smart Cashtags feature is currently available on iPhone in the US and Canada.",
+          "headline": "Stocks Spring Forward in Record-Breaking Day",
+          "summary": "Buoyed by big gains from the likes of Microsoft and Tesla, the S&P 500 rose 0.8% to 7022.95\u2013rallying into the close to finish comfortably above its previous all-time high set in January.  Technology stocks were the big outperformers.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2ce2b72fabebcb0d85beee6aae9f5a30c4fb820da893da882f00b3fa085848f9",
-          "score": 0,
-          "signal": "Neutral"
+          "url": "https://finnhub.io/api/news?id=36e738545389d8bfe1a99c24d8e8d1c8181785d08678f8a5bf44a12717f1213f",
+          "score": 1,
+          "signal": "Bullish"
         },
         {
-          "headline": "Oil Drops, Dimon Warns, and the Record Is Within Reach",
-          "summary": "Within 0.2% of its January all-time high. That's where the S&P 500 closed on Tuesday, not quite there yet, but close enough that the question investors are asking has quietly shifted from \"when does this market stabilize?\" to \"when does it print a new record?\"",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=3f6a5e16b6b2fffe55ad546636b33d3310afd60e8f97fe448e529d688d7bd3c1",
-          "score": -1,
-          "signal": "Bearish"
+          "headline": "Tech Stocks Power S&P 500 and Nasdaq to Records",
+          "summary": "Surging tech stocks carried the S&P 500 and Nasdaq composite to new records on Wednesday, a milestone in major indexes\u2019 rebound from war-fueled losses.  Buoyed by big gains from the likes of  Microsoft  and  Tesla  the S&P 500 rose 0.8% to 7022.95\u2014rallying into the close to finish comfortably above its previous all-time high set in January.  More recently, though, investors have grown increasingly confident that the U.S. and Iran will eventually reach a peace deal.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=53bd83e49aa1f49f4f0a1a88ca457e675cb2bc8f0eaedbad1e639151b9fb6b8f",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "US Equity Markets Mixed as Investors Weigh Trump's Comments on Ending Iran War Soon",
+          "summary": "US equity indexes were mixed on Wednesday as investors weighed President Trump's comments on ending",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f72ad8c09f0eb5913f2a2efadd68445c4ea6fcc6dea293e4e71531c6ca10132f",
+          "score": 0,
+          "signal": "Neutral"
         }
       ]
     },
     {
       "ticker": "AMZN",
-      "price": 247.93,
-      "change": -1.09,
-      "percent_change": -0.4377,
+      "price": 248.5,
+      "change": -0.52,
+      "percent_change": -0.2088,
       "high": 250.44,
-      "low": 247.26,
-      "open": 249.135,
+      "low": 247.2,
+      "open": 249.25,
       "previous_close": 249.02,
-      "sentiment": "Mixed",
-      "sentiment_score": 1,
-      "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.44% today.",
+      "sentiment": "Bullish",
+      "sentiment_score": 3,
+      "confidence": "Moderate",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of -0.21% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Why Wall Street loves Amazon's deal to buy satellite firm Globalstar",
-          "summary": "Wall Street digests a whopper of a deal for Amazon.",
+          "headline": "2 Billionaire Investors Own Amazon Stock. Should You Buy It Too?",
+          "summary": "When two of the world's most successful investors make a move, it's worth paying attention.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=05777200f257865a8c57ffbcd640a245f0823241a4844e47fb653481e0a7d4d2",
+          "url": "https://finnhub.io/api/news?id=336b3b64b2eae09027cb2be5edb09ea08a83751034d3355c435c96de8246cf8a",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Wednesday; Robinhood Markets to Advance, Micron Technology to Decline",
-          "summary": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mixed hours before Wednesday",
+          "headline": "S&P 500 Hits Record Amid Reports Iran Ceasefire to be Extended to Reach Peace Deal",
+          "summary": "US equity indexes closed mixed on Wednesday as strong gains in growth sectors pushed the S&P 500 to",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e003dadba985621bb9897f86a2093efa4b357d5153d7f47f79ee943842077682",
-          "score": -1,
-          "signal": "Bearish"
+          "url": "https://finnhub.io/api/news?id=cd9f0909bd5dad360478c2c2a4f44efcd551cfe8bac0e55a00136fedadb095a5",
+          "score": 1,
+          "signal": "Bullish"
         },
         {
-          "headline": "Should You Buy Microsoft Stock After Its Correction, or Run for the Hills?",
-          "summary": "The tech giant's stock has fallen more than 20% so far in 2026.",
+          "headline": "Marvell Eeks Out Another Record Close. Why It Can Keep Climbing After 150% Surge.",
+          "summary": "Shares of chip and network technology firm Marvell closed higher Wednesday after dipping more than 1% earlier in the day to notch their sixth consecutive day of gains and a new record close.  Booming data-center demand and custom chip partnerships with Big Tech hyperscalers, should help drive longer-term gains as well, according to Oppenheimer analyst Rick Schafer.  Schafer said Marvell is well-positioned because of its \u201cfull suite\u201d of copper and optical products.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=64b0981689ad8e8c86a1913032d0face0d181367cd13a3b718a573a23f2f0071",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Marvell Stock Is on a Roll. Why It Can Jump Another 27%.",
-          "summary": "Oppenheimer analyst Rick Schafer described the chips and networking company as \u201cthe Switzerland of interconnect.\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5af44e9384a6fae5cefee3b3eb65db9c6fc092b04f72467a9124f4242cdfdd54",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Morning Brief: We're watching for S&P 500 record highs again",
-          "summary": "Big Bank earnings continue with Bank of America and Morgan Stanley, and we'll be watching for other inklings of consumer and corporate strain throughout.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=91e56f43df56963abefe7d105534f2ed7452e254523f861e3209b623d9c4ffdf",
+          "url": "https://finnhub.io/api/news?id=cfabd32ea40ecd318230876b3e23bb4d2f25b53fbfa3a7bd21763ac8af2dcd03",
           "score": 2,
           "signal": "Bullish"
         },
         {
-          "headline": "Amazon: My Top 8 Reasons To Buy",
-          "summary": "Amazon is undervalued considering all of its prospects across the AI infrastructure stack. Find out why AMZN stock is a Buy.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0ad0ba0a9f9205b42e5b3c51132ae5ea49f112c7a6be01df6b669160529380a2",
+          "headline": "Lumen Strikes Connectivity Deal With Amazon\u2019s Cloud Unit. The Stock Jumps.",
+          "summary": "The networking company is working with Amazon Web Services to provide businesses cloud connectivity.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7eed07b366448115bf576cf7859627df14283248656fe8062d221cdca931d5c1",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Amazon to buy Globalstar for $11.6bn to expand LEO and D2D services",
-          "summary": "The acquisition of Globalstar will enable Amazon to provide cellular coverage in areas not served by current terrestrial networks.",
+          "headline": "A Young Investor Plans To Buy A Multifamily Property As A First Home. The Goal Is To Eventually Move Out And Replace Themselves As A Tenant",
+          "summary": "A soon-to-be graduate is thinking ahead. Instead of buying a traditional starter home, they\u2019re aiming for a multifamily property with two to four units. The plan is to live in one unit, rent out the others, and eventually move out...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7858fc25fcd222820a61e3c936645de64cbea2d44b6f8249e927acdffd6ddc72",
+          "url": "https://finnhub.io/api/news?id=8f3636ffe3cca7ad0fd2fab33fb4315722f875886a836f0a214faf4232b35948",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Tesla\u2019s Chinese Robot Rival Ramps Pre-IPO Global Push",
-          "summary": "(Bloomberg) -- Unitree Robotics began selling its cheapest humanoid robot on Alibaba Group Holding Ltd.\u2019s AliExpress on Wednesday, expanding its international presence in a white-hot race featuring heavyweight players like Elon Musk\u2019s Tesla Inc.Hangzhou-based Unitree\u2019s R1 model will cost roughly $8,150 with import fees factored in, and shipping to the US will be free of charge, the company said on Wednesday. It\u2019ll also offer a scaled-down version priced at about $6,800. The R1 robots will be sol",
+          "headline": "United Parcel Service (UPS) Is Up 5.8% After Network-Wide RFID Rollout Across U.S. Operations",
+          "summary": "United Parcel Service has completed a major rollout of RFID package sensing across its U.S. small\u2011package network, embedding sensors in delivery vehicles, facilities and labels, after investing more than US$100.00 million to enhance accuracy and reduce manual scanning. This shift from barcode scanning to network\u2011wide RFID sensing could meaningfully reshape how UPS manages parcels, data and service reliability for customers across its system. We\u2019ll now explore how UPS\u2019s broad RFID rollout,...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9aa64008e2600647539ae8c820ebca42197cf953671734c15479a5dc1c6586d3",
+          "url": "https://finnhub.io/api/news?id=fa7459a1bb1b449dcb7d97e3b5b7435a1e1fb051cb6571883b02f73322d0d2b0",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "Lilly Stock Dips on FDA Request for More Foundayo Safety Data. Is the Market Reaction Overblown?",
+          "summary": "Eli Lilly  stock took a hit Wednesday after the Food and Drug Administration requested more safety data on the pharmaceutical giant\u2019s weight-loss pill.  Lilly\u2019s once-daily pill, sold under the brand name Foundayo, secured FDA approval earlier this month.  The drugmaker has positioned it as a contender to  Novo Nordisk\u2019s  oral Wegovy, which became available in January, in a bid to deepen its lead in the market for GLP-1 drugs.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b90a6e1389fcc25e46b7962d85fdb5e3f048550f176266843f0f439f89d9a4aa",
+          "score": 0,
+          "signal": "Neutral"
+        },
+        {
+          "headline": "OpenAI Says Microsoft 'Limited' Its Reach, Slams Anthropic For 'Inflated $30B Revenue",
+          "summary": "OpenAI\u2018s new revenue chief just fired shots at both its biggest partner and its biggest rival in the same memo. Denise Dresser told staff Sunday that the Microsoft Corp partnership has \u201climited our ability to meet enterprises where they are,\u201d while calling demand through Amazon.com Inc\u2018s Bedrock platform \u201cfrankly staggering\u201d since the two companies announced their deal in late February, according to a memo viewed by CNBC. OpenAI Takes Aim At Anthropic\u2019s Numbers Dresser claimed Anthropic\u2019s report",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=feb7aa30ebb683320d83f17c030d140e21042b8cf9627bf5690e4c814173c08f",
           "score": 0,
           "signal": "Neutral"
         }
@@ -408,82 +408,82 @@
     },
     {
       "ticker": "META",
-      "price": 670.96,
-      "change": 8.47,
-      "percent_change": 1.2785,
-      "high": 673.2,
+      "price": 671.58,
+      "change": 9.09,
+      "percent_change": 1.3721,
+      "high": 678.5,
       "low": 664.22,
-      "open": 664.995,
+      "open": 667,
       "previous_close": 662.49,
       "sentiment": "Mixed",
       "sentiment_score": 2,
       "confidence": "Low",
-      "reason": "Based on 8 recent headlines with more positive language and a stock move of +1.28% today.",
+      "reason": "Based on 8 recent headlines with more positive language and a stock move of +1.37% today.",
       "news_count": 8,
       "news": [
         {
-          "headline": "Stocks Down Pre-Bell as Traders Monitor Developments on US-Iran Peace Talks",
-          "summary": "The main US stock measures were pointing lower in Wednesday's premarket activity as traders monitor",
+          "headline": "Stock Market Today, April 15: Snap Jumps After Announcing 1,000 Job Cuts and $500 Million Cost Savings Plan",
+          "summary": "On April 15, 2026, investors weighed sweeping layoffs, AI ambitions, and activist pressure as the platform\u2019s turnaround stakes rose.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=878a77d6076a88326b7dae9ca6b56622608e9610fe7c859c6f4bdd6fc6f752e1",
+          "url": "https://finnhub.io/api/news?id=67e28a5a851a9c83f44c7fcb072ea3bbeefef31b31d5c020692e506947848941",
+          "score": -2,
+          "signal": "Bearish"
+        },
+        {
+          "headline": "Jane Street Deal Expands CoreWeave AI Cloud Reach Into Trading Workloads",
+          "summary": "Jane Street has agreed to commit US$6 billion to CoreWeave's AI cloud platform. The trading firm is also investing an additional US$1 billion in CoreWeave equity. The multi-year agreement adds a major global trading customer to CoreWeave's client base. This news follows recent long-term contracts between CoreWeave and Meta and Anthropic. The deal further anchors CoreWeave (NasdaqGS:CRWV) in large-scale AI infrastructure for institutional clients. CoreWeave focuses on AI-oriented cloud...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e1629efde7c881453e278f79f52202b0753a2253b7654e2a85c6fc2dc78a2bd",
+          "score": 1,
+          "signal": "Bullish"
+        },
+        {
+          "headline": "A Young Investor Plans To Buy A Multifamily Property As A First Home. The Goal Is To Eventually Move Out And Replace Themselves As A Tenant",
+          "summary": "A soon-to-be graduate is thinking ahead. Instead of buying a traditional starter home, they\u2019re aiming for a multifamily property with two to four units. The plan is to live in one unit, rent out the others, and eventually move out...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8f3636ffe3cca7ad0fd2fab33fb4315722f875886a836f0a214faf4232b35948",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Snap to Cut 16% of Workforce as it Seeks Profitability",
-          "summary": "The layoffs were necessary to enable the company to increase efficiency and pursue profitable growth, the social-media company\u2019s chief executive said.",
+          "headline": "Zuck\u2019s Chip Dreams are a Broadcom Goldmine",
+          "summary": "Meta locked in a sweeping Broadcom partnership for next-gen AI accelerators but geopolitical risk is still at play over every silicon wafer.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6db566f9be6e114406ee2800c2e1c1b33d1307028b726fefd7de615ef02b3dcb",
+          "url": "https://finnhub.io/api/news?id=3a1009a72b133f230971e5e6ac81d456ba4c6cfa2bc233e7826fa890717de64c",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Stocks to Watch: Bank of America, Morgan Stanley, Snap, Herm\u00e8s",
-          "summary": "\u2198\ufe0f Herm\u00e8s International (FR:RMS), Kering (FR:KER): The maker of Birkin bags reported slowing sales as the Iran war weighed on demand, and Gucci owner Kering's sales fell, a day after industry bellwether LVMH also flagged weakness.",
+          "headline": "Tesla Regains 50-Day Line. Here's When The Stock Could Become Actionable.",
+          "summary": "On Wednesday, Tesla stock had one of its best days in months, as it looks to end an eight-week losing streak.  Tesla stock could become actionable if it makes a decisive move above the 200-day line.  Tesla is due to report first-quarter earnings on April 22.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc06af60618bf42e819c347b3e21a201eb3c8544fefae73a897ca8be1bd8bd3d",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Broadcom Expands Partnership With Meta for AI Compute Infrastructure",
-          "summary": "Broadcom (AVGO) shares rose early Wednesday after the chipmaker expanded its partnership with Meta P",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc02bfdd11af6f7345e97c05fd912e08901e3e66dfb0f0ca1a03affaaa51b4b8",
+          "url": "https://finnhub.io/api/news?id=859c0191d7b6a732b2620bd70139da39a5312d5b1937d60f9d7659302b1b056e",
           "score": 2,
           "signal": "Bullish"
         },
         {
-          "headline": "These Stocks Are Today\u2019s Movers: Broadcom, Nike, ASML, Bank of America, Morgan Stanley, GitLab, and More",
-          "summary": "Broadcom stock rises after the chip maker extends an existing deal with Facebook parent Meta Platforms.",
+          "headline": "CoreWeave Lands Another Big AI Deal",
+          "summary": "$6 billion agreement adds to growing pipeline",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0eef6f4cae298f2145f3b6f96a1db64672f337c8af05985fbf55ed19b7fa4e50",
+          "url": "https://finnhub.io/api/news?id=1b160cd1243c6b43ad72203411d27bacca293955eac39e9136cdcedb085b558b",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Snap to Cut 16% of Its Workforce in Quest for Profitability",
-          "summary": "(Bloomberg) -- Snap Inc. is laying off roughly 1,000 full-time employees, or 16% of its global workforce, part of an effort by Chief Executive Officer Evan Spiegel to reduce costs and achieve profitability.In a memo to employees early Wednesday, Spiegel said the cuts are necessary for Snap to boost efficiency as it pursues profitable growth. He also cited improvements in artificial intelligence technology that let Snap employees move more quickly. Additionally, the company is closing more than 3",
+          "headline": "Snap just slashed 1,000 jobs due to AI. Here are other tech giants who did the same.",
+          "summary": "The Snapchat parent joins the corporate push for AI efficiency, chasing $500 million in savings in a fight toward profitability.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=387e4d35028e228998c9ec44e675027fe3b6b46ec58c6e26332e7a5dfb85840a",
+          "url": "https://finnhub.io/api/news?id=decc9454321e5152a2cbf726e5a86bcd3f4fa45f5ef3761671d0c6b3c6d9ba75",
           "score": 0,
           "signal": "Neutral"
         },
         {
-          "headline": "Wisconsin woman says Meta\u2019s $1B data center turned her creek cloudy like milk. What now?",
-          "summary": "Data centers are disrupting communities across the US. But federal legislation regulating data centers is still new.",
+          "headline": "AI Compute Demand is Running Way Ahead of Supply \u2014 A Stock I\u2019d Buy on That Signal",
+          "summary": "Morgan Stanley (NYSE:MS) recently provided more insight into the state of the AI boom and the infrastructure deficit that could define it in the near future. As a part of their annual thematic outlook, they cited AI-driven power demand growing significantly faster than the supply. The energy shortfall was to be expected, but the scale ... AI Compute Demand is Running Way Ahead of Supply \u2014 A Stock I\u2019d Buy on That Signal",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c903bcb8d21ea37b8db8c53074fcad7ba2467bfe1f021acd0822f12fa0210ea3",
-          "score": 0,
-          "signal": "Neutral"
-        },
-        {
-          "headline": "Amazon: My Top 8 Reasons To Buy",
-          "summary": "Amazon is undervalued considering all of its prospects across the AI infrastructure stack. Find out why AMZN stock is a Buy.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0ad0ba0a9f9205b42e5b3c51132ae5ea49f112c7a6be01df6b669160529380a2",
-          "score": 0,
-          "signal": "Neutral"
+          "url": "https://finnhub.io/api/news?id=97229761c78847a18fa05edb84846144c9e3f0fc9b6468d40280323e926a9c47",
+          "score": 1,
+          "signal": "Bullish"
         }
       ]
     }

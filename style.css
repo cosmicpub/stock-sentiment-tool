@@ -2043,3 +2043,26 @@ footer, .site-footer{
 .blog-report-link:hover {
   background: #b81720;
 }
+
+/* Replace bulky "Relevant Headlines" card with sleek divider title */
+.news-divider {
+  margin: 26px 0 14px;
+  position: relative;
+  border-top: 1px solid rgba(255,255,255,0.22);
+  padding-top: 10px;
+}
+
+.news-divider span {
+  display: inline-block;
+  background: transparent;
+  color: #ffffff;           /* use #cf2027 for red */
+  font-size: 1.15rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+/* keep list visually tight under the divider */
+.news-list {
+  margin-top: 10px;
+}

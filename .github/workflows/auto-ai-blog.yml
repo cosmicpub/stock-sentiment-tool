@@ -3,13 +3,14 @@ name: Auto AI Blog Generator
 on:
   workflow_dispatch:
   schedule:
+    # morning baseline
     - cron: "30 12 * * *"
+    # intraday refreshes (every 2h during US market day window, Mon-Fri)
+    - cron: "30 14,16,18,20 * * 1-5"
 
 jobs:
   generate-ai-blog:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout
@@ -20,26 +21,32 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Refresh market data from Finnhub
-        env:
-          MARKET_API_KEY: ${{ secrets.MARKET_API_KEY }}
-        run: python scripts/build_data.py
+      - name: Set run mode
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "30 12 * * *" ]; then
+            echo "BLOG_RUN_MODE=morning" >> $GITHUB_ENV
+          else
+            echo "BLOG_RUN_MODE=intraday" >> $GITHUB_ENV
+          fi
 
       - name: Generate AI blog pages
         env:
-          FINNHUB_API_KEY: ${{ secrets.MARKET_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-4.1-mini
-          MAX_POSTS: "1"   # change to "6" after test passes
-        run: python scripts/generate_ai_blog.py
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          BLOG_RUN_MODE: ${{ env.BLOG_RUN_MODE }}
+          MORNING_POSTS: "6"
+          INTRADAY_POSTS: "2"
+          MAX_ARCHIVE_POSTS: "120"
+        run: python3 scripts/generate_ai_blog.py
 
-      - name: Commit and push if changed
+      - name: Commit and push generated files
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add blog/*.html data/*.json
-          git diff --cached --quiet || git commit -m "chore: refresh market data and generate AI blog posts"
-          git push
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add blog/*.html data/blog-manifest.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh AI blog posts (${BLOG_RUN_MODE})"
+            git push
+          fi

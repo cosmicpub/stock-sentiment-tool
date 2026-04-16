@@ -287,13 +287,12 @@ def render_index(posts, updated_at):
   <meta name="description" content="News-style stock sentiment desk with frequent market updates." />
   <link rel="stylesheet" href="/style.css" />
   <style>
-    .news-topbar {{
-      background:#041b46; color:#fff; border-top:4px solid #cf2027;
-    }}
+    .news-topbar {{ background:#041b46; color:#fff; border-top:4px solid #cf2027; }}
     .news-topbar-inner {{
-      max-width:1200px; margin:0 auto; padding:12px 16px; display:flex; gap:16px; align-items:center; justify-content:space-between;
+      max-width:1200px; margin:0 auto; padding:12px 16px;
+      display:flex; gap:16px; align-items:center; justify-content:space-between;
     }}
-    .news-brand {{ font-weight:800; letter-spacing:.04em; font-size:1rem; text-transform:uppercase; }}
+    .news-brand {{ font-weight:800; letter-spacing:.04em; text-transform:uppercase; }}
     .news-trending {{ font-size:.9rem; opacity:.95; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }}
 
     .news-shell {{ max-width:1200px; margin:22px auto; padding:0 16px; }}
@@ -304,30 +303,20 @@ def render_index(posts, updated_at):
     .news-kicker {{ color:#cf2027; font-weight:800; margin-bottom:8px; font-size:.85rem; letter-spacing:.04em; }}
     .news-lead h2 {{ margin:0 0 8px; font-size:2.2rem; line-height:1.05; }}
     .news-lead h2 a {{ color:#0a2a5e; text-decoration:none; }}
-    .news-lead p {{ margin:0; color:#2a3c5c; font-size:1.04rem; }}
+    .news-lead p {{ margin:0; color:#2a3c5c; }}
 
-    .news-grid {{
-      display:grid; grid-template-columns:repeat(3, minmax(0,1fr)); gap:14px;
-    }}
-    .news-card {{
-      border:1px solid #dbe1ec; background:#fff; padding:14px; min-height:180px;
-    }}
+    .news-grid {{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }}
+    .news-card {{ border:1px solid #dbe1ec; background:#fff; padding:14px; min-height:180px; }}
     .news-card-kicker {{
       display:inline-block; background:#143d78; color:#fff; font-size:.72rem; font-weight:800;
       padding:4px 8px; border-radius:2px; margin-bottom:10px;
     }}
     .news-card h3 {{ margin:0 0 8px; font-size:1.45rem; line-height:1.1; }}
     .news-card h3 a {{ color:#0b2f66; text-decoration:none; }}
-    .news-card p {{ margin:0; color:#3b4f71; font-size:.98rem; }}
+    .news-card p {{ margin:0; color:#3b4f71; }}
 
-    @media (max-width: 980px) {{
-      .news-grid {{ grid-template-columns:1fr 1fr; }}
-      .news-lead h2 {{ font-size:1.8rem; }}
-    }}
-    @media (max-width: 680px) {{
-      .news-grid {{ grid-template-columns:1fr; }}
-      .news-lead h2 {{ font-size:1.55rem; }}
-    }}
+    @media (max-width:980px) {{ .news-grid {{ grid-template-columns:1fr 1fr; }} .news-lead h2 {{ font-size:1.8rem; }} }}
+    @media (max-width:680px) {{ .news-grid {{ grid-template-columns:1fr; }} .news-lead h2 {{ font-size:1.55rem; }} }}
   </style>
 </head>
 <body>
@@ -336,7 +325,7 @@ def render_index(posts, updated_at):
   <div class="news-topbar">
     <div class="news-topbar-inner">
       <div class="news-brand">Market Desk</div>
-      <div class="news-trending">Trending: AI | Earnings | Rates | Macro | Regulation &nbsp; • &nbsp; Updated {date_label(updated_at)}</div>
+      <div class="news-trending">Trending: AI • Earnings • Rates • Regulation • Macro | Updated {date_label(updated_at)}</div>
     </div>
   </div>
 

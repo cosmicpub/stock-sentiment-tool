@@ -88,16 +88,17 @@ def pick_stocks(stocks, count, existing_posts, today):
 
     selected = []
     seen_tickers = set()
+
     for s in ranked:
         t = str(s.get("ticker", "")).upper().strip()
         if not t:
             continue
 
-        # prevent duplicates in same run
+        # never allow duplicates in same run
         if t in seen_tickers:
             continue
 
-        # intraday cap per ticker (optional)
+        # intraday: prevent overposting same ticker all day
         if BLOG_RUN_MODE == "intraday" and posted_today.get(t, 0) >= 2:
             continue
 

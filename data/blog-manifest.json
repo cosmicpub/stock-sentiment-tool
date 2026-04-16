@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-04-16T04:01:13.351634+00:00",
+  "generated_at": "2026-04-16T04:40:38.420248+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AMZN",
+      "href": "/blog/amzn-sentiment-2026-04-15-0440.html",
+      "title": "Amazon (AMZN) Stock Sentiment Remains Moderate Bullish Despite Small Price Dip",
+      "excerpt": "Amazon's stock closed slightly lower at $248.50, down 0.21%, but sentiment remains moderately bullish. Recent partnerships and investor interest highlight potential growth catalysts.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "published_date": "2026-04-15",
+      "generated_at": "2026-04-16T04:40:38.420060+00:00",
+      "image_url": ""
+    },
+    {
+      "ticker": "TSLA",
+      "href": "/blog/tsla-sentiment-2026-04-15-0440.html",
+      "title": "Tesla Stock Surges 7.6% Amid Tech Rally, Market Hits New Highs",
+      "excerpt": "Tesla's stock rose significantly, contributing to record-breaking gains in the tech sector and overall market. Investor sentiment is moderately bullish with optimism around tech-led rally.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "published_date": "2026-04-15",
+      "generated_at": "2026-04-16T04:40:30.579012+00:00",
+      "image_url": ""
+    },
     {
       "ticker": "AMZN",
       "href": "/blog/amzn-sentiment-2026-04-15-0401.html",

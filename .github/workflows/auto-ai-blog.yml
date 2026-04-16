@@ -34,7 +34,8 @@ jobs:
       - name: Generate AI blog pages
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          # hard-set model so empty repo var can't break runs
+          OPENAI_MODEL: "gpt-4.1-mini"
           BLOG_RUN_MODE: ${{ env.BLOG_RUN_MODE }}
           MORNING_POSTS: "6"
           INTRADAY_POSTS: "2"

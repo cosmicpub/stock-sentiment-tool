@@ -371,7 +371,7 @@ def main():
 
         ai = mock_ai(stock) if USE_MOCK else call_openai(stock, updated_at)
 
-        # unique archive filename so new posts are added, not replacing older ones
+        # unique archive filename so morning+intraday can add more each day
         stamp = f"{today}-{hhmm(now_iso())}"
         file_name = f"{ticker.lower()}-sentiment-{stamp}.html"
         href = f"/blog/{file_name}"
@@ -379,6 +379,12 @@ def main():
         html = render_post(stock, ai, updated_at)
         (BLOG_DIR / file_name).write_text(html, encoding="utf-8")
         print(f"Generated blog/{file_name}")
+
+        # capture image (if present) from stock news payload
+        image_url = ""
+        news_items = stock.get("news", []) or []
+        if news_items:
+            image_url = (news_items[0].get("image") or "").strip()
 
         new_posts.append({
             "ticker": ticker,
@@ -389,9 +395,10 @@ def main():
             "score": int(stock.get("sentiment_score", 0)),
             "published_date": today,
             "generated_at": now_iso(),
+            "image_url": image_url,
         })
 
-    # append only (no mass delete), newest first
+    # append only (no wipe), newest first
     all_posts = sorted(
         new_posts + existing_posts,
         key=lambda x: x.get("generated_at", ""),

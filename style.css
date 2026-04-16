@@ -2015,3 +2015,9 @@ footer, .site-footer{
   border-radius:8px;
   margin-bottom:10px;
 }
+
+/* Hero title color fix */
+.hero h1,
+.hero .hero-title {
+  color: #ffffff !important; /* change to #cf2027 if you want red */
+}

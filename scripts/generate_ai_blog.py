@@ -13,7 +13,7 @@ INDEX_PATH = BLOG_DIR / "index.html"
 MANIFEST_PATH = ROOT / "data" / "blog-manifest.json"
 
 OPENAI_API_URL = "https://api.openai.com/v1/responses"
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
+OPENAI_MODEL = (os.getenv("OPENAI_MODEL") or "gpt-4.1-mini").strip()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 
 # behavior controls

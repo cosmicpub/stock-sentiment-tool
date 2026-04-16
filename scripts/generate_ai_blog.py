@@ -71,7 +71,6 @@ def save_manifest(manifest):
 
 
 def pick_stocks(stocks, count, existing_posts, today):
-    # avoid duplicating same ticker too often in same day for intraday runs
     posted_today = {}
     for p in existing_posts:
         if p.get("published_date") == today:
@@ -88,16 +87,23 @@ def pick_stocks(stocks, count, existing_posts, today):
     ranked = sorted(stocks, key=rank_key, reverse=True)
 
     selected = []
+    seen_tickers = set()
     for s in ranked:
         t = str(s.get("ticker", "")).upper().strip()
         if not t:
             continue
 
+        # prevent duplicates in same run
+        if t in seen_tickers:
+            continue
+
+        # intraday cap per ticker (optional)
         if BLOG_RUN_MODE == "intraday" and posted_today.get(t, 0) >= 2:
-            # avoid flooding same ticker throughout day
             continue
 
         selected.append(s)
+        seen_tickers.add(t)
+
         if len(selected) >= count:
             break
 

@@ -2021,3 +2021,25 @@ footer, .site-footer{
 .hero .hero-title {
   color: #ffffff !important; /* change to #cf2027 if you want red */
 }
+
+/* Read report button spacing fix */
+.blog-report-link,
+.news-card .blog-report-link,
+.news-card a.blog-report-link {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  width: auto !important;
+  min-height: 44px;
+  padding: 10px 18px !important;
+  border-radius: 999px;
+  line-height: 1;
+  font-weight: 800;
+  text-decoration: none;
+  background: #d91f2a;
+  color: #fff !important;
+}
+
+.blog-report-link:hover {
+  background: #b81720;
+}

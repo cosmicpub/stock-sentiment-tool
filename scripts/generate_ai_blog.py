@@ -365,7 +365,7 @@ def main():
 
         ai = mock_ai(stock) if USE_MOCK else call_openai(stock, updated_at)
 
-        # archive-like filename so morning+intraday can add more each day
+        # unique archive filename so new posts are added, not replacing older ones
         stamp = f"{today}-{hhmm(now_iso())}"
         file_name = f"{ticker.lower()}-sentiment-{stamp}.html"
         href = f"/blog/{file_name}"
@@ -385,8 +385,12 @@ def main():
             "generated_at": now_iso(),
         })
 
-    # append, do not delete existing
-    all_posts = sorted(new_posts + existing_posts, key=lambda x: x.get("generated_at", ""), reverse=True)
+    # append only (no mass delete), newest first
+    all_posts = sorted(
+        new_posts + existing_posts,
+        key=lambda x: x.get("generated_at", ""),
+        reverse=True,
+    )
     all_posts = all_posts[:MAX_ARCHIVE_POSTS]
 
     INDEX_PATH.write_text(render_index(all_posts, updated_at), encoding="utf-8")
@@ -398,7 +402,10 @@ def main():
     manifest["posts"] = all_posts
     save_manifest(manifest)
 
-    print(f"[ai-blog] mode={BLOG_RUN_MODE} selected={len(selected)} new_posts={len(new_posts)} total_posts={len(all_posts)}")
+    print(
+        f"[ai-blog] mode={BLOG_RUN_MODE} selected={len(selected)} "
+        f"new_posts={len(new_posts)} total_posts={len(all_posts)}"
+    )
     print("Generated blog/index.html")
     print("Generated data/blog-manifest.json")
 

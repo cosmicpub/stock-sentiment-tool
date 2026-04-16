@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-04-15T22:43:14.188688+00:00",
+  "generated_at": "2026-04-16T04:01:13.351634+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AMZN",
+      "href": "/blog/amzn-sentiment-2026-04-15-0401.html",
+      "title": "Amazon Stock Sentiment: Moderate Bullish Outlook with Slight Price Dip",
+      "excerpt": "Amazon\u2019s stock price recently dipped slightly to $248.50 but maintains a moderate bullish sentiment. Key developments include a new cloud connectivity deal and investor attention from billionaire stakeholders.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "published_date": "2026-04-15",
+      "generated_at": "2026-04-16T04:01:13.351468+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "href": "/blog/tsla-sentiment-2026-04-15-0401.html",
+      "title": "Tesla Stock Surges 7.6% Amid Tech Rally and Market Optimism",
+      "excerpt": "Tesla shares climbed 7.6%, contributing to record highs in major US indexes. Investors remain moderately confident amid mixed news and ongoing market optimism.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "published_date": "2026-04-15",
+      "generated_at": "2026-04-16T04:01:04.340636+00:00"
+    },
     {
       "ticker": "TSLA",
       "href": "/blog/tsla-sentiment.html",
@@ -11,5 +31,6 @@
       "sentiment": "Bullish",
       "score": 3
     }
-  ]
+  ],
+  "mode": "intraday"
 }

@@ -3,9 +3,7 @@ name: Auto AI Blog Generator
 on:
   workflow_dispatch:
   schedule:
-    # Morning baseline run (create up to 6)
     - cron: "30 12 * * *"
-    # Intraday runs (create a few more)
     - cron: "30 14,16,18,20 * * 1-5"
 
 jobs:
@@ -32,24 +30,22 @@ jobs:
           fi
 
       - name: Generate AI blog pages
-       env:
-        FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        OPENAI_MODEL: "gpt-4.1-mini"
-        BLOG_RUN_MODE: ${{ env.BLOG_RUN_MODE }}
-        MORNING_POSTS: "6"
-        INTRADAY_POSTS: "2"
-        MAX_ARCHIVE_POSTS: "120"
-        BLOG_MOCK: "false"
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: "gpt-4.1-mini"
+          BLOG_RUN_MODE: ${{ env.BLOG_RUN_MODE }}
+          MORNING_POSTS: "6"
+          INTRADAY_POSTS: "2"
+          MAX_ARCHIVE_POSTS: "120"
+          BLOG_MOCK: "false"
         run: python3 scripts/generate_ai_blog.py
 
       - name: Commit and push generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add blog/*.html data/blog-manifest.json
-
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

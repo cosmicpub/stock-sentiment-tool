@@ -32,15 +32,15 @@ jobs:
           fi
 
       - name: Generate AI blog pages
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          # hard-set model so empty repo var can't break runs
-          OPENAI_MODEL: "gpt-4.1-mini"
-          BLOG_RUN_MODE: ${{ env.BLOG_RUN_MODE }}
-          MORNING_POSTS: "6"
-          INTRADAY_POSTS: "2"
-          MAX_ARCHIVE_POSTS: "120"
-          BLOG_MOCK: "false"
+       env:
+        FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        OPENAI_MODEL: "gpt-4.1-mini"
+        BLOG_RUN_MODE: ${{ env.BLOG_RUN_MODE }}
+        MORNING_POSTS: "6"
+        INTRADAY_POSTS: "2"
+        MAX_ARCHIVE_POSTS: "120"
+        BLOG_MOCK: "false"
         run: python3 scripts/generate_ai_blog.py
 
       - name: Commit and push generated files

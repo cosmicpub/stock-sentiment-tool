@@ -1899,3 +1899,119 @@ body{
   border-radius:3px;
   margin-bottom:10px;
 }
+
+/* ===== Global Market Desk Theme ===== */
+:root{
+  --md-bg-1:#081b46;
+  --md-bg-2:#0f2a66;
+  --md-bg-3:#16174d;
+  --md-ink:#0b2f66;
+  --md-ink-soft:#2f4262;
+  --md-card:#f4f6fb;
+  --md-border:#d8e0ee;
+  --md-accent:#cf2027;
+  --md-accent-dark:#b0171d;
+  --md-pill:#143d78;
+  --md-white:#ffffff;
+}
+
+body{
+  background: linear-gradient(120deg,var(--md-bg-1),var(--md-bg-2) 45%,var(--md-bg-3));
+  color:#e9eef9;
+}
+
+/* Keep text readable in white cards/sections */
+.container, main, section{
+  color:inherit;
+}
+
+/* Top nav/header keeps dark newsroom tone */
+.site-header, header, .hero{
+  border-top: 4px solid var(--md-accent);
+}
+
+/* Core content cards across site */
+.content-card,
+.blog-report-card,
+.blog-article-card,
+.sentiment-card,
+.result-card,
+.card{
+  background: var(--md-card);
+  color: var(--md-ink-soft);
+  border: 1px solid var(--md-border);
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(4, 16, 44, 0.18);
+}
+
+/* Headlines */
+h1, h2, h3, h4{
+  color: var(--md-ink);
+}
+
+/* Section labels / pills */
+.eyebrow,
+.blog-report-tag,
+.blog-article-pill,
+.badge,
+.tag{
+  background: rgba(20, 61, 120, 0.12);
+  color: #2f53c7;
+  border: 1px solid rgba(47, 83, 199, 0.20);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-weight: 700;
+}
+
+/* Links */
+a{
+  color:#2f53c7;
+}
+a:hover{
+  color:#2142ac;
+}
+
+/* Primary CTA buttons */
+button,
+.btn,
+.blog-cta-button,
+.blog-report-link,
+input[type="submit"]{
+  background: var(--md-accent);
+  color: var(--md-white);
+  border: 0;
+  border-radius: 10px;
+  font-weight: 700;
+}
+button:hover,
+.btn:hover,
+.blog-cta-button:hover,
+.blog-report-link:hover,
+input[type="submit"]:hover{
+  background: var(--md-accent-dark);
+}
+
+/* Inputs */
+input, select, textarea{
+  background:#fff;
+  color:#1f2f4a;
+  border:1px solid var(--md-border);
+  border-radius:10px;
+}
+
+/* Footer */
+footer, .site-footer{
+  border-top: 1px solid rgba(255,255,255,0.16);
+  color:#d5def1;
+}
+
+/* Blog list images (if present) */
+.news-card-img,
+.news-thumb,
+.blog-thumb{
+  width:100%;
+  height:180px;
+  object-fit:cover;
+  border-radius:8px;
+  margin-bottom:10px;
+}

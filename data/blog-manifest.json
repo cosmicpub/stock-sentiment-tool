@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-04-17T15:35:06.393050+00:00",
+  "generated_at": "2026-04-17T17:12:20.829804+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "href": "/blog/it-sentiment-2026-04-17-1713.html",
+      "title": "Gartner Inc Faces Mixed Signals Amid Iran Strait Peace and Market Optimism",
+      "excerpt": "Gartner Inc shares edged down slightly to $154.88 despite high investor optimism buoyed by positive geopolitical developments and megacap stock endorsements, highlighting a nuanced market backdrop.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T17:13:30.959080+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "href": "/blog/say-sentiment-2026-04-17-1713.html",
+      "title": "Saratoga Investment Corp (SAY): Bullish Momentum Amid Stabilizing Geopolitical Developments",
+      "excerpt": "Saratoga Investment Corp (ticker: SAY) saw a modest price increase today, supported by bullish market sentiment as geopolitical risks in the Middle East appeared to ease. Recent headlines signaling an open Strait of Hormuz and positive analyst commentary provide a cautiously optimistic backdrop for investors.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T17:13:15.200876+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106790564-1605035923549-three.png?v=1605036000&w=1920&h=1080"
+    },
     {
       "ticker": "T",
       "href": "/blog/t-sentiment-2026-04-17-1536.html",

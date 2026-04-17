@@ -300,7 +300,8 @@ def mock_ai(stock):
 
 def pick_best_image(mentions):
     """
-    Prefer non-generic story images; skip wire/logo placeholders.
+    Choose best non-generic image from mention list.
+    Returns "" if only generic/wire/logo images are available.
     """
     if not mentions:
         return ""
@@ -313,6 +314,7 @@ def pick_best_image(mentions):
         "no-image",
         "icon",
         "brand",
+        "static",
     ]
 
     for item in mentions:
@@ -321,7 +323,13 @@ def pick_best_image(mentions):
             continue
 
         low = img.lower()
+
+        # skip obvious generic/wire art
         if any(p in low for p in bad_patterns):
+            continue
+
+        # skip non-http(s)
+        if not (low.startswith("http://") or low.startswith("https://")):
             continue
 
         return img
@@ -402,16 +410,29 @@ def render_post(stock, ai, generated_at):
 def render_index(posts, generated_at):
     # de-dupe display by ticker (newest only)
     deduped = []
-    seen = set()
+    seen_tickers = set()
     for p in posts:
         t = str(p.get("ticker", "")).upper()
-        if not t or t in seen:
+        if not t or t in seen_tickers:
             continue
-        seen.add(t)
+        seen_tickers.add(t)
         deduped.append(p)
 
-    lead = deduped[0] if deduped else None
-    rest = deduped[1:13] if len(deduped) > 1 else []
+    # de-dupe repeated image URLs across displayed cards
+    used_images = set()
+    normalized = []
+    for p in deduped:
+        item = dict(p)
+        img = (item.get("image_url") or "").strip()
+        if img:
+            if img in used_images:
+                item["image_url"] = ""  # remove repeated image, keep card
+            else:
+                used_images.add(img)
+        normalized.append(item)
+
+    lead = normalized[0] if normalized else None
+    rest = normalized[1:13] if len(normalized) > 1 else []
 
     lead_html = ""
     if lead:
@@ -444,6 +465,77 @@ def render_index(posts, generated_at):
           <a class="md-btn" href="{escape(p.get('href', '#'))}">Read report →</a>
         </article>
         """)
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Market Desk | Stock Sentiment Score</title>
+  <meta name="description" content="Fresh ticker-impact stories generated from current market news." />
+  <link rel="stylesheet" href="/style.css" />
+  <style>
+    .md-wrap {{ max-width: 1280px; margin: 0 auto; padding: 18px 20px 40px; }}
+    .md-top {{
+      border-top: 3px solid #cf2027;
+      background: linear-gradient(90deg,#07265a,#1b2f7f);
+      color: #fff;
+      padding: 10px 14px;
+      margin-bottom: 14px;
+      border-radius: 6px;
+      font-weight: 700;
+      display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;
+    }}
+    .md-lead {{
+      background:#f4f7ff; border:1px solid #d9e2f3; border-left:6px solid #cf2027;
+      border-radius:10px; padding:16px; margin-bottom:18px; color:#102445;
+    }}
+    .md-kicker {{ color:#cf2027; font-weight:800; letter-spacing:.04em; margin-bottom:6px; font-size:.82rem; }}
+    .md-lead h2 {{ margin:0 0 8px; font-size:2.2rem; line-height:1.05; }}
+    .md-lead h2 a {{ color:#173b7a; text-decoration:none; }}
+    .md-lead p {{ margin:0 0 12px; color:#334968; font-size:1.12rem; }}
+    .md-lead-img {{ width:100%; height:320px; object-fit:cover; border-radius:8px; }}
+    .md-grid {{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }}
+    .md-card {{ background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px; padding:14px; color:#1f3558; }}
+    .md-card-img {{ width:100%; height:170px; object-fit:cover; border-radius:8px; margin-bottom:10px; }}
+    .md-pill {{ display:inline-block; padding:6px 12px; border-radius:999px; background:#e7eefc; border:1px solid #bfd0f2; color:#365ac8; font-weight:800; margin-bottom:8px; }}
+    .md-card h3 {{ margin:0 0 8px; font-size:2rem; line-height:1.05; }}
+    .md-card h3 a {{ color:#142b58; text-decoration:none; }}
+    .md-card h3 a:visited {{ color:#142b58; }}
+    .md-card p {{ margin:0 0 10px; color:#445a7b; font-size:1.02rem; }}
+    .md-date {{ color:#6a7f9d; font-weight:700; margin-bottom:10px; }}
+    .md-btn {{
+      display:inline-flex; align-items:center; justify-content:center;
+      min-height:44px; padding:10px 18px; border-radius:999px;
+      background:#d91f2a; color:#fff !important; font-weight:800; text-decoration:none;
+    }}
+    .md-btn:hover {{ background:#b81720; }}
+    @media (max-width:1000px) {{ .md-grid{{grid-template-columns:1fr 1fr;}} .md-lead h2{{font-size:1.7rem;}} }}
+    @media (max-width:680px) {{ .md-grid{{grid-template-columns:1fr;}} .md-lead h2{{font-size:1.4rem;}} .md-lead-img{{height:220px;}} }}
+  </style>
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <div class="md-wrap">
+    <div class="md-top">
+      <div>Market Desk</div>
+      <div>Trending: AI • Earnings • Rates • Regulation • Macro | Updated {date_label(generated_at)}</div>
+    </div>
+
+    {lead_html}
+
+    <section class="md-grid">
+      {''.join(cards_html)}
+    </section>
+  </div>
+
+  <div id="site-footer"></div>
+  <script src="/js/include-header.js"></script>
+  <script src="/js/include-footer.js"></script>
+</body>
+</html>
+"""
 
     return f"""<!DOCTYPE html>
 <html lang="en">

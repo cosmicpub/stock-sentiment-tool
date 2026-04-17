@@ -631,17 +631,26 @@ def main():
         continue
 
     ticker = validated["ticker"].upper()
+
+    # hard blocklist for noisy/irrelevant symbols
     if ticker in BLOCKED_TICKERS:
         continue
 
+    # price floor to avoid low-quality tiny names
     if float(validated.get("price") or 0) < MIN_PRICE:
         continue
 
     ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
+
+    # require minimum relevance depth
     if len(ticker_news["mentions"]) < MIN_MENTIONS:
         continue
 
-    impact_score = mention_count * 2 + abs(ticker_news["sentiment_score"]) + len(ticker_news["mentions"])
+    impact_score = (
+        mention_count * 2
+        + abs(ticker_news["sentiment_score"])
+        + len(ticker_news["mentions"])
+    )
     item = {**validated, **ticker_news, "impact_score": impact_score}
     candidates.append(item)
 

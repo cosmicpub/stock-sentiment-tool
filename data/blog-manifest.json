@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-04-17T21:08:17.322100+00:00",
+  "generated_at": "2026-04-17T23:09:43.825104+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AMID",
+      "href": "/blog/amid-sentiment-2026-04-17-2310.html",
+      "title": "AMID Rises 2.24% Amid Mixed Global Economic and Geopolitical Developments",
+      "excerpt": "AMID shares climbed 2.24% on April 17, 2026, influenced by broader macroeconomic and geopolitical headlines including stable US labor market data, reduced German growth forecasts due to Middle East tensions, and the Panama Canal's traffic dynamics.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T23:10:37.806759+00:00",
+      "image_url": ""
+    },
+    {
+      "ticker": "ARE",
+      "href": "/blog/are-sentiment-2026-04-17-2310.html",
+      "title": "Alexandria Real Estate Equities Inc (ARE) Sees Modest Gains Amid Bullish Sentiment in Real Estate",
+      "excerpt": "Shares of Alexandria Real Estate Equities Inc (ARE) rose 1.42% to $48.63 on robust bullish sentiment fueled by technological advancements and broader market optimism. This report breaks down today\u2019s price action, what investors should consider, and future outlook in the real estate industry.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T23:10:19.612704+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&w=1920&h=1080"
+    },
     {
       "ticker": "IT",
       "href": "/blog/it-sentiment-2026-04-17-2109.html",

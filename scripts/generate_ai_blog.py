@@ -282,10 +282,33 @@ def mock_ai(stock):
 
 
 def pick_best_image(mentions):
+    """
+    Prefer non-generic story images; skip wire/logo placeholders.
+    """
+    if not mentions:
+        return ""
+
+    bad_patterns = [
+        "reuters",
+        "logo",
+        "placeholder",
+        "default",
+        "no-image",
+        "icon",
+        "brand",
+    ]
+
     for item in mentions:
         img = (item.get("image") or "").strip()
-        if img:
-            return img
+        if not img:
+            continue
+
+        low = img.lower()
+        if any(p in low for p in bad_patterns):
+            continue
+
+        return img
+
     return ""
 
 

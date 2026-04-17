@@ -6,38 +6,6 @@
   <title>Market Desk | Stock Sentiment Score</title>
   <meta name="description" content="News-style stock sentiment desk with frequent market updates." />
   <link rel="stylesheet" href="/style.css" />
-  <style>
-    .news-topbar { background:#041b46; color:#fff; border-top:4px solid #cf2027; }
-    .news-topbar-inner {
-      max-width:1200px; margin:0 auto; padding:12px 16px;
-      display:flex; gap:16px; align-items:center; justify-content:space-between;
-    }
-    .news-brand { font-weight:800; letter-spacing:.04em; text-transform:uppercase; }
-    .news-trending { font-size:.9rem; opacity:.95; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-
-    .news-shell { max-width:1200px; margin:22px auto; padding:0 16px; }
-    .news-lead {
-      background:#f5f7fb; border:1px solid #dde3ef; border-left:6px solid #cf2027; margin-bottom:18px;
-    }
-    .news-lead-text { padding:18px; }
-    .news-kicker { color:#cf2027; font-weight:800; margin-bottom:8px; font-size:.85rem; letter-spacing:.04em; }
-    .news-lead h2 { margin:0 0 8px; font-size:2.2rem; line-height:1.05; }
-    .news-lead h2 a { color:#0a2a5e; text-decoration:none; }
-    .news-lead p { margin:0; color:#2a3c5c; }
-
-    .news-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }
-    .news-card { border:1px solid #dbe1ec; background:#fff; padding:14px; min-height:180px; }
-    .news-card-kicker {
-      display:inline-block; background:#143d78; color:#fff; font-size:.72rem; font-weight:800;
-      padding:4px 8px; border-radius:2px; margin-bottom:10px;
-    }
-    .news-card h3 { margin:0 0 8px; font-size:1.45rem; line-height:1.1; }
-    .news-card h3 a { color:#0b2f66; text-decoration:none; }
-    .news-card p { margin:0; color:#3b4f71; }
-
-    @media (max-width:980px) { .news-grid { grid-template-columns:1fr 1fr; } .news-lead h2 { font-size:1.8rem; } }
-    @media (max-width:680px) { .news-grid { grid-template-columns:1fr; } .news-lead h2 { font-size:1.55rem; } }
-  </style>
 </head>
 <body>
   <div id="site-header"></div>
@@ -45,7 +13,7 @@
   <div class="news-topbar">
     <div class="news-topbar-inner">
       <div class="news-brand">Market Desk</div>
-      <div class="news-trending">Trending: AI • Earnings • Rates • Regulation • Macro | Updated April 15, 2026</div>
+      <div class="news-trending">Trending: AI • Earnings • Rates • Regulation • Macro | Updated April 17, 2026</div>
     </div>
   </div>
 
@@ -54,34 +22,34 @@
         <section class="news-lead">
           <div class="news-lead-text">
             <div class="news-kicker">TOP STORY</div>
-            <h2><a href="/blog/amzn-sentiment-2026-04-15-0440.html">Amazon (AMZN) Stock Sentiment Remains Moderate Bullish Despite Small Price Dip</a></h2>
-            <p>Amazon&#x27;s stock closed slightly lower at $248.50, down 0.21%, but sentiment remains moderately bullish. Recent partnerships and investor interest highlight potential growth catalysts.</p>
+            <h2><a href="/blog/s-sentiment-2026-04-17-0401.html">SentinelOne Inc (S) Stock Sentiment Turns Bullish Amid 5% Price Surge</a></h2>
+            <p>SentinelOne Inc’s stock climbed 5.05%, reaching $13.93, reflecting high confidence and a bullish outlook. Recent market news centers on global geopolitical developments.</p>
           </div>
         </section>
         
     <section class="news-grid">
             <article class="news-card">
-              <div class="news-card-kicker">TSLA</div>
-              <h3><a href="/blog/tsla-sentiment-2026-04-15-0440.html">Tesla Stock Surges 7.6% Amid Tech Rally, Market Hits New Highs</a></h3>
-              <p>Tesla&#x27;s stock rose significantly, contributing to record-breaking gains in the tech sector and overall market. Investor sentiment is moderately bullish with optimism around tech-led rally.</p>
+              <img src="https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg" alt="WAR Stock Shows Bullish Sentiment Amid Geopolitical Developments" class="news-card-img" loading="lazy" />
+              <div class="news-card-kicker">WAR</div>
+              <h3><a href="/blog/war-sentiment-2026-04-17-0400.html">WAR Stock Shows Bullish Sentiment Amid Geopolitical Developments</a></h3>
+              <p>WAR’s stock price increased by 0.93%, reflecting a bullish outlook supported by high confidence sentiment amid ongoing geopolitical news surrounding the Iran conflict and its economic implications.</p>
+              <a class="blog-report-link" href="/blog/war-sentiment-2026-04-17-0400.html">Read report →</a>
             </article>
             
             <article class="news-card">
-              <div class="news-card-kicker">AMZN</div>
-              <h3><a href="/blog/amzn-sentiment-2026-04-15-0401.html">Amazon Stock Sentiment: Moderate Bullish Outlook with Slight Price Dip</a></h3>
-              <p>Amazon’s stock price recently dipped slightly to $248.50 but maintains a moderate bullish sentiment. Key developments include a new cloud connectivity deal and investor attention from billionaire stakeholders.</p>
-            </article>
-            
-            <article class="news-card">
-              <div class="news-card-kicker">TSLA</div>
-              <h3><a href="/blog/tsla-sentiment-2026-04-15-0401.html">Tesla Stock Surges 7.6% Amid Tech Rally and Market Optimism</a></h3>
-              <p>Tesla shares climbed 7.6%, contributing to record highs in major US indexes. Investors remain moderately confident amid mixed news and ongoing market optimism.</p>
-            </article>
-            
-            <article class="news-card">
+              
               <div class="news-card-kicker">TSLA</div>
               <h3><a href="/blog/tsla-sentiment.html">Tesla Shares Surge 7.6% as Tech Stocks Propel Market to New Highs</a></h3>
               <p>Tesla&#x27;s stock jumped 7.6% to $391.95, contributing to the S&amp;P 500 and Nasdaq reaching new highs. Investor confidence in tech stocks remains bullish with moderate confidence.</p>
+              <a class="blog-report-link" href="/blog/tsla-sentiment.html">Read report →</a>
+            </article>
+            
+            <article class="news-card">
+              
+              <div class="news-card-kicker">AMZN</div>
+              <h3><a href="/blog/amzn-sentiment-2026-04-15-0440.html">Amazon (AMZN) Stock Sentiment Remains Moderate Bullish Despite Small Price Dip</a></h3>
+              <p>Amazon&#x27;s stock closed slightly lower at $248.50, down 0.21%, but sentiment remains moderately bullish. Recent partnerships and investor interest highlight potential growth catalysts.</p>
+              <a class="blog-report-link" href="/blog/amzn-sentiment-2026-04-15-0440.html">Read report →</a>
             </article>
             </section>
   </main>

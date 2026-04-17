@@ -39,6 +39,8 @@ jobs:
           INTRADAY_POSTS: "2"
           MAX_ARCHIVE_POSTS: "120"
           BLOG_MOCK: "false"
+          MIN_PRICE: "25"
+          MIN_MENTIONS: "2"
         run: python3 scripts/generate_ai_blog.py
 
       - name: Commit and push generated files

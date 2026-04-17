@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-04-17T19:35:54.272289+00:00",
+  "generated_at": "2026-04-17T21:08:17.322100+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "href": "/blog/it-sentiment-2026-04-17-2109.html",
+      "title": "Gartner Inc (IT) Stock Report: Market Context and Investor Implications Amid Geopolitical Developments",
+      "excerpt": "Gartner Inc (IT) closed at $154.62 down 0.59% amid a neutral sentiment day influenced by global markets reacting to Iran conflict developments. Wall Street indexes rallied following Iran\u2019s announcement that the Strait of Hormuz remains open, alleviating fears of a major disruption. This analysis examines the day\u2019s events, their implications for investors, and key financial outlook considerations.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T21:09:25.350529+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108240022-1765391471879-gettyimages-2241308715-251017_la_011.jpeg?v=1765391511&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "href": "/blog/be-sentiment-2026-04-17-2108.html",
+      "title": "Bloom Energy Corp Dips Amid Geopolitical Stability, Mixed Market Signals on April 17, 2026",
+      "excerpt": "On April 17, 2026, Bloom Energy Corp (BE) saw its shares fall by 1.05% to close at $207.86. This movement occurred in the context of global market stability despite ongoing geopolitical tensions involving Iran. Key headlines highlight resilient banking earnings, fluctuating oil prices, and cautious cost signals from sectors affected by the conflict, offering a complex landscape for electrical equipment investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T21:08:59.849715+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106900956-16243843872021-06-22t172417z_879139053_rc2t5o9wpyaj_rtrmadp_0_usa-fed-stress-tests.jpeg?v=1697983261&w=1920&h=1080"
+    },
     {
       "ticker": "ARE",
       "href": "/blog/are-sentiment-2026-04-17-1937.html",

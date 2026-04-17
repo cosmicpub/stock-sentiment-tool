@@ -18,11 +18,16 @@ FINNHUB_API_KEY = (os.getenv("FINNHUB_API_KEY") or "").strip()
 OPENAI_API_KEY = (os.getenv("OPENAI_API_KEY") or "").strip()
 OPENAI_MODEL = (os.getenv("OPENAI_MODEL") or "gpt-4.1-mini").strip()
 
-BLOG_RUN_MODE = (os.getenv("BLOG_RUN_MODE") or "morning").strip().lower()  # morning | intraday
+BLOG_RUN_MODE = (os.getenv("BLOG_RUN_MODE") or "morning").strip().lower()
 MORNING_POSTS = int(os.getenv("MORNING_POSTS", "6"))
 INTRADAY_POSTS = int(os.getenv("INTRADAY_POSTS", "2"))
 MAX_ARCHIVE_POSTS = int(os.getenv("MAX_ARCHIVE_POSTS", "120"))
 BLOG_MOCK = (os.getenv("BLOG_MOCK", "false").lower() == "true")
+
+# quality filters
+MIN_PRICE = float(os.getenv("MIN_PRICE", "25"))
+MIN_MENTIONS = int(os.getenv("MIN_MENTIONS", "2"))
+BLOCKED_TICKERS = {"S", "WAR", "AI", "IONQ"}
 
 OPENAI_API_URL = "https://api.openai.com/v1/responses"
 FINNHUB_BASE = "https://finnhub.io/api/v1"
@@ -212,7 +217,7 @@ def call_openai(stock_payload, generated_at):
         "sentiment": stock_payload.get("sentiment"),
         "sentiment_score": stock_payload.get("sentiment_score"),
         "confidence": stock_payload.get("confidence"),
-        "news": stock_payload.get("news", [])[:8],
+        "news": stock_payload.get("news", [])[:12],
     }
 
     body = {
@@ -221,10 +226,22 @@ def call_openai(stock_payload, generated_at):
             {
                 "role": "system",
                 "content": (
-                    "Write a concise stock sentiment report for retail readers. "
-                    "Use ONLY provided data. No invented facts. No financial advice. "
+                    "You are writing a high-quality financial news analysis article for retail investors. "
+                    "Use ONLY the provided data/news. Do not invent facts. No financial advice. "
                     "Return strict JSON keys: title, meta_description, excerpt, body_html. "
-                    "body_html must use only <h2>, <p>, <ul>, <li>."
+                    "body_html must use only <h2>, <p>, <ul>, <li>. "
+                    "Minimum 900 words in body_html. "
+                    "Include these sections in order: "
+                    "1) What happened today, "
+                    "2) Why this matters for investors, "
+                    "3) Bull case, "
+                    "4) Bear case, "
+                    "5) Key headlines and what they imply, "
+                    "6) Industry and macro context, "
+                    "7) What to watch next (earnings window, guidance risks, catalysts), "
+                    "8) Bottom line summary. "
+                    "Use concrete numbers from payload whenever available. "
+                    "Write clearly and factually."
                 ),
             },
             {"role": "user", "content": json.dumps(prompt, ensure_ascii=False)},
@@ -609,17 +626,24 @@ def main():
 
     candidates = []
     for symbol, mention_count in counts.most_common(150):
-        validated = validate_ticker(symbol)
-        if not validated:
-            continue
+    validated = validate_ticker(symbol)
+    if not validated:
+        continue
 
-        ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
-        if not ticker_news["mentions"]:
-            continue
+    ticker = validated["ticker"].upper()
+    if ticker in BLOCKED_TICKERS:
+        continue
 
-        impact_score = mention_count * 2 + abs(ticker_news["sentiment_score"]) + len(ticker_news["mentions"])
-        item = {**validated, **ticker_news, "impact_score": impact_score}
-        candidates.append(item)
+    if float(validated.get("price") or 0) < MIN_PRICE:
+        continue
+
+    ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
+    if len(ticker_news["mentions"]) < MIN_MENTIONS:
+        continue
+
+    impact_score = mention_count * 2 + abs(ticker_news["sentiment_score"]) + len(ticker_news["mentions"])
+    item = {**validated, **ticker_news, "impact_score": impact_score}
+    candidates.append(item)
 
     # sort by impact
     candidates.sort(key=lambda x: x["impact_score"], reverse=True)

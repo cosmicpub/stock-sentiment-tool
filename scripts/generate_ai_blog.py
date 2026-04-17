@@ -694,7 +694,81 @@ def render_index(posts, generated_at):
 </body>
 </html>
 """
+def looks_generic_image(url: str) -> bool:
+    low = (url or "").lower()
+    bad_patterns = [
+        "reuters", "logo", "placeholder", "default", "no-image",
+        "icon", "brand", "static"
+    ]
+    return any(p in low for p in bad_patterns)
 
+
+def fetch_company_news_images(symbol: str):
+    """
+    Pull recent company-specific news images from Finnhub as fallback.
+    """
+    images = []
+    try:
+        today = now_utc().date()
+        frm = (today.replace(day=max(1, today.day - 7))).isoformat()
+        to = today.isoformat()
+        data = finnhub_get("company-news", {"symbol": symbol, "from": frm, "to": to})
+        if isinstance(data, list):
+            for item in data[:30]:
+                img = (item.get("image") or "").strip()
+                if not img:
+                    continue
+                if looks_generic_image(img):
+                    continue
+                if img.startswith("http://") or img.startswith("https://"):
+                    images.append(img)
+    except Exception:
+        pass
+    return images
+
+
+def choose_unique_image_for_ticker(symbol: str, mentions: list, used_images: set):
+    """
+    Pick best API image for this ticker:
+    1) from mentions
+    2) fallback from company-news
+    Avoids duplicates already used on page.
+    """
+    candidates = []
+
+    # First: mention images
+    for item in (mentions or []):
+        img = (item.get("image") or "").strip()
+        if not img:
+            continue
+        if looks_generic_image(img):
+            continue
+        if not (img.startswith("http://") or img.startswith("https://")):
+            continue
+        candidates.append(img)
+
+    # Second: company-news fallback images
+    candidates.extend(fetch_company_news_images(symbol))
+
+    # Dedup while preserving order
+    seen = set()
+    uniq = []
+    for img in candidates:
+        if img in seen:
+            continue
+        seen.add(img)
+        uniq.append(img)
+
+    for img in uniq:
+        if img not in used_images:
+            used_images.add(img)
+            return img
+
+    # If all are used already, still return first real image (better than blank)
+    if uniq:
+        return uniq[0]
+
+    return ""
 
 def main():
     if not FINNHUB_API_KEY:
@@ -798,7 +872,15 @@ def main():
         file_name = f"{ticker.lower()}-sentiment-{stamp}.html"
         href = f"/blog/{file_name}"
 
-        image_url = pick_best_image(stock.get("mentions", []))
+        # keep images unique across this run/page
+            if "used_images" not in locals():
+                used_images = set()
+            
+            image_url = choose_unique_image_for_ticker(
+                stock["ticker"],
+                stock.get("mentions", []),
+                used_images
+            )
         stock["image_url"] = image_url
 
         html = render_post(stock, ai, generated_at)

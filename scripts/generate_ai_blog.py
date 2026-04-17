@@ -383,14 +383,14 @@ def render_post(stock, ai, generated_at):
 
 
 def render_index(posts, generated_at):
-    # display de-dupe by ticker (keep newest per ticker)
+    # de-dupe display by ticker (newest only)
     deduped = []
-    seen_tickers = set()
+    seen = set()
     for p in posts:
         t = str(p.get("ticker", "")).upper()
-        if t in seen_tickers:
+        if not t or t in seen:
             continue
-        seen_tickers.add(t)
+        seen.add(t)
         deduped.append(p)
 
     lead = deduped[0] if deduped else None
@@ -398,33 +398,35 @@ def render_index(posts, generated_at):
 
     lead_html = ""
     if lead:
+        lead_img = ""
+        if lead.get("image_url"):
+            lead_img = f'<img src="{escape(lead["image_url"])}" alt="{escape(lead.get("title","Top story image"))}" class="md-lead-img" loading="lazy" />'
+
         lead_html = f"""
-        <section class="news-lead">
-          <div class="news-lead-text">
-            <div class="news-kicker">TOP STORY</div>
-            <h2><a href="{escape(lead.get('href', '#'))}">{escape(lead.get('title', 'Untitled'))}</a></h2>
-            <p>{escape(lead.get('excerpt', ''))}</p>
-          </div>
+        <section class="md-lead">
+          <div class="md-kicker">TOP STORY</div>
+          <h2><a href="{escape(lead.get('href', '#'))}">{escape(lead.get('title', 'Untitled'))}</a></h2>
+          <p>{escape(lead.get('excerpt', ''))}</p>
+          {lead_img}
         </section>
         """
 
-    cards = []
+    cards_html = []
     for p in rest:
         img_html = ""
         if p.get("image_url"):
-            img_html = f'<img src="{escape(p["image_url"])}" alt="{escape(p.get("title","news image"))}" class="news-card-img" loading="lazy" />'
+            img_html = f'<img src="{escape(p["image_url"])}" alt="{escape(p.get("title","News image"))}" class="md-card-img" loading="lazy" />'
 
-        cards.append(
-            f"""
-            <article class="news-card">
-              {img_html}
-              <div class="news-card-kicker">{escape(p.get('ticker', 'NEWS'))}</div>
-              <h3><a href="{escape(p.get('href', '#'))}">{escape(p.get('title', 'Untitled'))}</a></h3>
-              <p>{escape(p.get('excerpt', ''))}</p>
-              <a class="blog-report-link" href="{escape(p.get('href', '#'))}">Read report →</a>
-            </article>
-            """
-        )
+        cards_html.append(f"""
+        <article class="md-card">
+          {img_html}
+          <div class="md-pill">{escape(p.get('ticker', 'NEWS'))} • {escape(p.get('sentiment', 'Neutral'))}</div>
+          <h3><a href="{escape(p.get('href', '#'))}">{escape(p.get('title', 'Untitled'))}</a></h3>
+          <p>{escape(p.get('excerpt', ''))}</p>
+          <div class="md-date">{escape(str(p.get('published_date', '')))}</div>
+          <a class="md-btn" href="{escape(p.get('href', '#'))}">Read report →</a>
+        </article>
+        """)
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -432,23 +434,150 @@ def render_index(posts, generated_at):
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Market Desk | Stock Sentiment Score</title>
-  <meta name="description" content="News-style stock sentiment desk with frequent market updates." />
+  <meta name="description" content="Fresh ticker-impact stories generated from current market news." />
   <link rel="stylesheet" href="/style.css" />
+  <style>
+    .md-wrap {{
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 18px 20px 40px;
+    }}
+    .md-top {{
+      border-top: 3px solid #cf2027;
+      background: linear-gradient(90deg,#07265a,#1b2f7f);
+      color: #fff;
+      padding: 10px 14px;
+      margin-bottom: 14px;
+      border-radius: 6px;
+      font-weight: 700;
+      display:flex;
+      justify-content:space-between;
+      gap: 12px;
+      flex-wrap:wrap;
+    }}
+    .md-lead {{
+      background:#f4f7ff;
+      border:1px solid #d9e2f3;
+      border-left:6px solid #cf2027;
+      border-radius:10px;
+      padding:16px;
+      margin-bottom:18px;
+      color:#102445;
+    }}
+    .md-kicker {{
+      color:#cf2027;
+      font-weight:800;
+      letter-spacing:.04em;
+      margin-bottom:6px;
+      font-size:.82rem;
+    }}
+    .md-lead h2 {{
+      margin:0 0 8px;
+      font-size:2.2rem;
+      line-height:1.05;
+    }}
+    .md-lead h2 a {{
+      color:#173b7a;
+      text-decoration:none;
+    }}
+    .md-lead p {{
+      margin:0 0 12px;
+      color:#334968;
+      font-size:1.12rem;
+    }}
+    .md-lead-img {{
+      width:100%;
+      height:320px;
+      object-fit:cover;
+      border-radius:8px;
+    }}
+    .md-grid {{
+      display:grid;
+      grid-template-columns:repeat(3,minmax(0,1fr));
+      gap:14px;
+    }}
+    .md-card {{
+      background:#f4f7ff;
+      border:1px solid #d9e2f3;
+      border-radius:12px;
+      padding:14px;
+      color:#1f3558;
+    }}
+    .md-card-img {{
+      width:100%;
+      height:170px;
+      object-fit:cover;
+      border-radius:8px;
+      margin-bottom:10px;
+    }}
+    .md-pill {{
+      display:inline-block;
+      padding:6px 12px;
+      border-radius:999px;
+      background:#e7eefc;
+      border:1px solid #bfd0f2;
+      color:#365ac8;
+      font-weight:800;
+      margin-bottom:8px;
+    }}
+    .md-card h3 {{
+      margin:0 0 8px;
+      font-size:2rem;
+      line-height:1.05;
+    }}
+    .md-card h3 a {{
+      color:#142b58;
+      text-decoration:none;
+    }}
+    .md-card p {{
+      margin:0 0 10px;
+      color:#445a7b;
+      font-size:1.02rem;
+    }}
+    .md-date {{
+      color:#6a7f9d;
+      font-weight:700;
+      margin-bottom:10px;
+    }}
+    .md-btn {{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      min-height:44px;
+      padding:10px 18px;
+      border-radius:999px;
+      background:#d91f2a;
+      color:#fff !important;
+      font-weight:800;
+      text-decoration:none;
+    }}
+    .md-btn:hover {{ background:#b81720; }}
+    @media (max-width: 1000px) {{
+      .md-grid {{ grid-template-columns:1fr 1fr; }}
+      .md-lead h2 {{ font-size:1.7rem; }}
+    }}
+    @media (max-width: 680px) {{
+      .md-grid {{ grid-template-columns:1fr; }}
+      .md-lead h2 {{ font-size:1.4rem; }}
+      .md-lead-img {{ height:220px; }}
+    }}
+  </style>
 </head>
 <body>
   <div id="site-header"></div>
 
-  <div class="news-topbar">
-    <div class="news-topbar-inner">
-      <div class="news-brand">Market Desk</div>
-      <div class="news-trending">Trending: AI • Earnings • Rates • Regulation • Macro | Updated {date_label(generated_at)}</div>
+  <div class="md-wrap">
+    <div class="md-top">
+      <div>Market Desk</div>
+      <div>Trending: AI • Earnings • Rates • Regulation • Macro | Updated {date_label(generated_at)}</div>
     </div>
-  </div>
 
-  <main class="news-shell">
     {lead_html}
-    <section class="news-grid">{''.join(cards)}</section>
-  </main>
+
+    <section class="md-grid">
+      {''.join(cards_html)}
+    </section>
+  </div>
 
   <div id="site-footer"></div>
   <script src="/js/include-header.js"></script>

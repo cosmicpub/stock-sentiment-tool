@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-04-17T04:53:50.999427+00:00",
+  "generated_at": "2026-04-17T05:32:00.205447+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "U",
+      "href": "/blog/u-sentiment-2026-04-17-0533.html",
+      "title": "Unity Software Rises 2.65% Amid Bullish Sentiment and Geo-Political Uncertainties",
+      "excerpt": "Unity Software Inc (U) shares rose 2.65% to $25.93, driven by high investor confidence as geopolitical developments surrounding Iran and global peace talks create market uncertainty. This analysis explores today's trading activity, implications for investors, bulls and bears views, and the broader technological and macroeconomic context.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T05:33:24.734342+00:00",
+      "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/12/Close-Up-Of-Large-Red-Sign-With-White-Te_0.jpeg?width=2048&height=1536"
+    },
+    {
+      "ticker": "AS",
+      "href": "/blog/as-sentiment-2026-04-17-0533.html",
+      "title": "Amer Sports Inc Faces Modest Setback Amid Broader Geopolitical Risks Impacting Textiles and Apparel Sector",
+      "excerpt": "Amer Sports Inc (ticker: AS) saw a 1.07% drop in its share price to $36.02 as investors contended with mounting geopolitical challenges stemming from the Iran war and broader macroeconomic pressures impacting the textiles and apparel industry.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T05:33:09.957340+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108262074-1770314944878-108262074-17703148722026-02-05t180206z_413793548_rc2geeaz1czd_rtrmadp_0_usa-fed-bessent-warsh.jpg?v=1770314955&w=1920&h=1080"
+    },
     {
       "ticker": "U",
       "href": "/blog/u-sentiment-2026-04-17-0454.html",

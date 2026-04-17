@@ -7,11 +7,7 @@
   <meta name="description" content="Fresh ticker-impact stories generated from current market news." />
   <link rel="stylesheet" href="/style.css" />
   <style>
-    .md-wrap {
-      max-width: 1280px;
-      margin: 0 auto;
-      padding: 18px 20px 40px;
-    }
+    .md-wrap { max-width: 1280px; margin: 0 auto; padding: 18px 20px 40px; }
     .md-top {
       border-top: 3px solid #cf2027;
       background: linear-gradient(90deg,#07265a,#1b2f7f);
@@ -20,117 +16,34 @@
       margin-bottom: 14px;
       border-radius: 6px;
       font-weight: 700;
-      display:flex;
-      justify-content:space-between;
-      gap: 12px;
-      flex-wrap:wrap;
+      display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;
     }
     .md-lead {
-      background:#f4f7ff;
-      border:1px solid #d9e2f3;
-      border-left:6px solid #cf2027;
-      border-radius:10px;
-      padding:16px;
-      margin-bottom:18px;
-      color:#102445;
+      background:#f4f7ff; border:1px solid #d9e2f3; border-left:6px solid #cf2027;
+      border-radius:10px; padding:16px; margin-bottom:18px; color:#102445;
     }
-    .md-kicker {
-      color:#cf2027;
-      font-weight:800;
-      letter-spacing:.04em;
-      margin-bottom:6px;
-      font-size:.82rem;
-    }
-    .md-lead h2 {
-      margin:0 0 8px;
-      font-size:2.2rem;
-      line-height:1.05;
-    }
-    .md-lead h2 a {
-      color:#173b7a;
-      text-decoration:none;
-    }
-    .md-lead p {
-      margin:0 0 12px;
-      color:#334968;
-      font-size:1.12rem;
-    }
-    .md-lead-img {
-      width:100%;
-      height:320px;
-      object-fit:cover;
-      border-radius:8px;
-    }
-    .md-grid {
-      display:grid;
-      grid-template-columns:repeat(3,minmax(0,1fr));
-      gap:14px;
-    }
-    .md-card {
-      background:#f4f7ff;
-      border:1px solid #d9e2f3;
-      border-radius:12px;
-      padding:14px;
-      color:#1f3558;
-    }
-    .md-card-img {
-      width:100%;
-      height:170px;
-      object-fit:cover;
-      border-radius:8px;
-      margin-bottom:10px;
-    }
-    .md-pill {
-      display:inline-block;
-      padding:6px 12px;
-      border-radius:999px;
-      background:#e7eefc;
-      border:1px solid #bfd0f2;
-      color:#365ac8;
-      font-weight:800;
-      margin-bottom:8px;
-    }
-    .md-card h3 {
-      margin:0 0 8px;
-      font-size:2rem;
-      line-height:1.05;
-    }
-    .md-card h3 a {
-      color:#142b58;
-      text-decoration:none;
-    }
-    .md-card p {
-      margin:0 0 10px;
-      color:#445a7b;
-      font-size:1.02rem;
-    }
-    .md-date {
-      color:#6a7f9d;
-      font-weight:700;
-      margin-bottom:10px;
-    }
+    .md-kicker { color:#cf2027; font-weight:800; letter-spacing:.04em; margin-bottom:6px; font-size:.82rem; }
+    .md-lead h2 { margin:0 0 8px; font-size:2.2rem; line-height:1.05; }
+    .md-lead h2 a { color:#173b7a; text-decoration:none; }
+    .md-lead p { margin:0 0 12px; color:#334968; font-size:1.12rem; }
+    .md-lead-img { width:100%; height:320px; object-fit:cover; border-radius:8px; }
+    .md-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }
+    .md-card { background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px; padding:14px; color:#1f3558; }
+    .md-card-img { width:100%; height:170px; object-fit:cover; border-radius:8px; margin-bottom:10px; }
+    .md-pill { display:inline-block; padding:6px 12px; border-radius:999px; background:#e7eefc; border:1px solid #bfd0f2; color:#365ac8; font-weight:800; margin-bottom:8px; }
+    .md-card h3 { margin:0 0 8px; font-size:2rem; line-height:1.05; }
+    .md-card h3 a { color:#142b58; text-decoration:none; }
+    .md-card h3 a:visited { color:#142b58; }
+    .md-card p { margin:0 0 10px; color:#445a7b; font-size:1.02rem; }
+    .md-date { color:#6a7f9d; font-weight:700; margin-bottom:10px; }
     .md-btn {
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      min-height:44px;
-      padding:10px 18px;
-      border-radius:999px;
-      background:#d91f2a;
-      color:#fff !important;
-      font-weight:800;
-      text-decoration:none;
+      display:inline-flex; align-items:center; justify-content:center;
+      min-height:44px; padding:10px 18px; border-radius:999px;
+      background:#d91f2a; color:#fff !important; font-weight:800; text-decoration:none;
     }
     .md-btn:hover { background:#b81720; }
-    @media (max-width: 1000px) {
-      .md-grid { grid-template-columns:1fr 1fr; }
-      .md-lead h2 { font-size:1.7rem; }
-    }
-    @media (max-width: 680px) {
-      .md-grid { grid-template-columns:1fr; }
-      .md-lead h2 { font-size:1.4rem; }
-      .md-lead-img { height:220px; }
-    }
+    @media (max-width:1000px) { .md-grid{grid-template-columns:1fr 1fr;} .md-lead h2{font-size:1.7rem;} }
+    @media (max-width:680px) { .md-grid{grid-template-columns:1fr;} .md-lead h2{font-size:1.4rem;} .md-lead-img{height:220px;} }
   </style>
 </head>
 <body>
@@ -145,21 +58,21 @@
     
         <section class="md-lead">
           <div class="md-kicker">TOP STORY</div>
-          <h2><a href="/blog/u-sentiment-2026-04-17-0454.html">Unity Software Inc Rises Amid Bullish Market Sentiment and Broader Geopolitical Concerns</a></h2>
-          <p>Shares of Unity Software Inc closed up 2.65% at $25.93 today, supported by a strong bullish sentiment and ongoing global geopolitical dynamics that may impact investor confidence and technological innovation.</p>
-          <img src="https://image.cnbcfm.com/api/v1/image/108229110-1763647314907-gettyimages-2242654322-AA_24102025_2485792.jpeg?v=1763647342&amp;w=1920&amp;h=1080" alt="Unity Software Inc Rises Amid Bullish Market Sentiment and Broader Geopolitical Concerns" class="md-lead-img" loading="lazy" />
+          <h2><a href="/blog/u-sentiment-2026-04-17-0533.html">Unity Software Rises 2.65% Amid Bullish Sentiment and Geo-Political Uncertainties</a></h2>
+          <p>Unity Software Inc (U) shares rose 2.65% to $25.93, driven by high investor confidence as geopolitical developments surrounding Iran and global peace talks create market uncertainty. This analysis explores today&#x27;s trading activity, implications for investors, bulls and bears views, and the broader technological and macroeconomic context.</p>
+          <img src="https://cdn.benzinga.com/files/images/story/2026/04/12/Close-Up-Of-Large-Red-Sign-With-White-Te_0.jpeg?width=2048&amp;height=1536" alt="Unity Software Rises 2.65% Amid Bullish Sentiment and Geo-Political Uncertainties" class="md-lead-img" loading="lazy" />
         </section>
         
 
     <section class="md-grid">
       
         <article class="md-card">
-          <img src="https://image.cnbcfm.com/api/v1/image/108262074-1770314944878-108262074-17703148722026-02-05t180206z_413793548_rc2geeaz1czd_rtrmadp_0_usa-fed-bessent-warsh.jpg?v=1770314955&amp;w=1920&amp;h=1080" alt="Amer Sports Inc Faces Market Pressure Amid Middle East Conflicts and Global Economic Uncertainties" class="md-card-img" loading="lazy" />
+          <img src="https://image.cnbcfm.com/api/v1/image/108262074-1770314944878-108262074-17703148722026-02-05t180206z_413793548_rc2geeaz1czd_rtrmadp_0_usa-fed-bessent-warsh.jpg?v=1770314955&amp;w=1920&amp;h=1080" alt="Amer Sports Inc Faces Modest Setback Amid Broader Geopolitical Risks Impacting Textiles and Apparel Sector" class="md-card-img" loading="lazy" />
           <div class="md-pill">AS • Bullish</div>
-          <h3><a href="/blog/as-sentiment-2026-04-17-0454.html">Amer Sports Inc Faces Market Pressure Amid Middle East Conflicts and Global Economic Uncertainties</a></h3>
-          <p>Amer Sports Inc (AS) shares declined 1.07% amid a backdrop of global uncertainties triggered by the Iran war and economic challenges in key regions. These developments underscore the complex macroeconomic environment impacting retailers and luxury goods companies in 2026.</p>
+          <h3><a href="/blog/as-sentiment-2026-04-17-0533.html">Amer Sports Inc Faces Modest Setback Amid Broader Geopolitical Risks Impacting Textiles and Apparel Sector</a></h3>
+          <p>Amer Sports Inc (ticker: AS) saw a 1.07% drop in its share price to $36.02 as investors contended with mounting geopolitical challenges stemming from the Iran war and broader macroeconomic pressures impacting the textiles and apparel industry.</p>
           <div class="md-date">2026-04-17</div>
-          <a class="md-btn" href="/blog/as-sentiment-2026-04-17-0454.html">Read report →</a>
+          <a class="md-btn" href="/blog/as-sentiment-2026-04-17-0533.html">Read report →</a>
         </article>
         
         <article class="md-card">
@@ -172,7 +85,7 @@
         </article>
         
         <article class="md-card">
-          <img src="https://image.cnbcfm.com/api/v1/image/108262074-1770314944878-108262074-17703148722026-02-05t180206z_413793548_rc2geeaz1czd_rtrmadp_0_usa-fed-bessent-warsh.jpg?v=1770314955&amp;w=1920&amp;h=1080" alt="WAR Stock Sentiment Turns Bullish Amid Geopolitical Developments" class="md-card-img" loading="lazy" />
+          
           <div class="md-pill">WAR • Bullish</div>
           <h3><a href="/blog/war-sentiment-2026-04-17-0416.html">WAR Stock Sentiment Turns Bullish Amid Geopolitical Developments</a></h3>
           <p>WAR stock gained 0.93% to $28.36 supported by positive market sentiment driven by developments in the Iran conflict and global economic shifts.</p>

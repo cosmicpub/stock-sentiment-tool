@@ -626,33 +626,33 @@ def main():
 
     candidates = []
     for symbol, mention_count in counts.most_common(150):
-    validated = validate_ticker(symbol)
-    if not validated:
-        continue
+        validated = validate_ticker(symbol)
+        if not validated:
+            continue
 
-    ticker = validated["ticker"].upper()
+        ticker = validated["ticker"].upper()
 
-    # hard blocklist for noisy/irrelevant symbols
-    if ticker in BLOCKED_TICKERS:
-        continue
+        # hard blocklist for noisy/irrelevant symbols
+        if ticker in BLOCKED_TICKERS:
+            continue
 
-    # price floor to avoid low-quality tiny names
-    if float(validated.get("price") or 0) < MIN_PRICE:
-        continue
+        # price floor to avoid low-quality tiny names
+        if float(validated.get("price") or 0) < MIN_PRICE:
+            continue
 
-    ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
+        ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
 
-    # require minimum relevance depth
-    if len(ticker_news["mentions"]) < MIN_MENTIONS:
-        continue
+        # require minimum relevance depth
+        if len(ticker_news["mentions"]) < MIN_MENTIONS:
+            continue
 
-    impact_score = (
-        mention_count * 2
-        + abs(ticker_news["sentiment_score"])
-        + len(ticker_news["mentions"])
-    )
-    item = {**validated, **ticker_news, "impact_score": impact_score}
-    candidates.append(item)
+        impact_score = (
+            mention_count * 2
+            + abs(ticker_news["sentiment_score"])
+            + len(ticker_news["mentions"])
+        )
+        item = {**validated, **ticker_news, "impact_score": impact_score}
+        candidates.append(item)
 
     # sort by impact
     candidates.sort(key=lambda x: x["impact_score"], reverse=True)

@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-04-17T17:12:20.829804+00:00",
+  "generated_at": "2026-04-17T19:35:54.272289+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ARE",
+      "href": "/blog/are-sentiment-2026-04-17-1937.html",
+      "title": "Alexandria Real Estate Equities Inc (ARE) Advances on Bullish Sentiment Amidst AI and Real Estate Market Dynamics",
+      "excerpt": "Alexandria Real Estate Equities Inc (ARE) shares rose 1.29% on April 17, 2026, reflecting high investor confidence amid sector-specific and macroeconomic developments. The surge coincides with growing AI adoption trends, geopolitical movements impacting commodity markets, and ongoing real estate market challenges.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T19:37:10.879109+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "href": "/blog/be-sentiment-2026-04-17-1936.html",
+      "title": "Bloom Energy Corp Stock Dips Amid Market Volatility, Iran-US Tensions and Sector Dynamics",
+      "excerpt": "Bloom Energy Corp (BE) saw its stock price drop 2.04% to $205.78 amid wider market movements influenced by ongoing Iran-US geopolitical tensions and shifts in the electrical equipment sector. We break down the day's events, implications for investors, and what to monitor next.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T19:36:52.602746+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292922-1776388088642-gettyimages-2270914397-tk4l4094_b6dw5hux.jpeg?v=1776426237&w=1920&h=1080"
+    },
     {
       "ticker": "IT",
       "href": "/blog/it-sentiment-2026-04-17-1713.html",

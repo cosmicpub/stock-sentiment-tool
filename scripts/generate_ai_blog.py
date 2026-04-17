@@ -798,17 +798,13 @@ def main():
 
         ticker = validated["ticker"].upper()
 
-        # hard blocklist for noisy/irrelevant symbols
         if ticker in BLOCKED_TICKERS:
             continue
 
-        # price floor to avoid low-quality tiny names
         if float(validated.get("price") or 0) < MIN_PRICE:
             continue
 
         ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
-
-        # require minimum relevance depth
         if len(ticker_news["mentions"]) < MIN_MENTIONS:
             continue
 
@@ -820,10 +816,8 @@ def main():
         item = {**validated, **ticker_news, "impact_score": impact_score}
         candidates.append(item)
 
-    # sort by impact
     candidates.sort(key=lambda x: x["impact_score"], reverse=True)
 
-    # hard de-dupe ticker selection per run
     selected = []
     seen_tickers = set()
     for c in candidates:
@@ -831,7 +825,6 @@ def main():
         if t in seen_tickers:
             continue
 
-        # intraday: avoid flooding same ticker if already posted twice today
         if BLOG_RUN_MODE == "intraday":
             already_today = sum(
                 1 for p in existing_posts
@@ -847,6 +840,9 @@ def main():
             break
 
     BLOG_DIR.mkdir(exist_ok=True)
+
+    # IMPORTANT: define this ONCE, outside the loop
+    used_images = set()
 
     new_posts = []
     for stock in selected:
@@ -872,15 +868,11 @@ def main():
         file_name = f"{ticker.lower()}-sentiment-{stamp}.html"
         href = f"/blog/{file_name}"
 
-        # keep images unique across this run/page
-            if "used_images" not in locals():
-                used_images = set()
-            
-            image_url = choose_unique_image_for_ticker(
-                stock["ticker"],
-                stock.get("mentions", []),
-                used_images
-            )
+        image_url = choose_unique_image_for_ticker(
+            stock["ticker"],
+            stock.get("mentions", []),
+            used_images
+        )
         stock["image_url"] = image_url
 
         html = render_post(stock, ai, generated_at)

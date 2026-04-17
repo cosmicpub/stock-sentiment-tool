@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-04-17T04:00:26.102925+00:00",
+  "generated_at": "2026-04-17T04:16:18.704829+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "S",
+      "href": "/blog/s-sentiment-2026-04-17-0417.html",
+      "title": "SentinelOne Inc (S) Stock Rises 5.05% on Bullish Sentiment Amid Geopolitical News",
+      "excerpt": "SentinelOne Inc (S) stock price climbed 5.05% to $13.93, reflecting strong bullish sentiment as geopolitical tensions shape market dynamics.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T04:17:03.225413+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108229110-1763647314907-gettyimages-2242654322-AA_24102025_2485792.jpeg?v=1763647342&w=1920&h=1080"
+    },
+    {
+      "ticker": "WAR",
+      "href": "/blog/war-sentiment-2026-04-17-0416.html",
+      "title": "WAR Stock Sentiment Turns Bullish Amid Geopolitical Developments",
+      "excerpt": "WAR stock gained 0.93% to $28.36 supported by positive market sentiment driven by developments in the Iran conflict and global economic shifts.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "published_date": "2026-04-17",
+      "generated_at": "2026-04-17T04:16:52.288600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108262074-1770314944878-108262074-17703148722026-02-05t180206z_413793548_rc2geeaz1czd_rtrmadp_0_usa-fed-bessent-warsh.jpg?v=1770314955&w=1920&h=1080"
+    },
     {
       "ticker": "S",
       "href": "/blog/s-sentiment-2026-04-17-0401.html",

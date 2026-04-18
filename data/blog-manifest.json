@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-04-18T13:41:46.657075+00:00",
+  "generated_at": "2026-04-18T17:46:16.173876+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "href": "/blog/it-sentiment-2026-04-18-1747.html",
+      "title": "Gartner Inc Faces Market Pressure Amid Rising Geopolitical Tensions and Economic Headwinds",
+      "excerpt": "Shares of Gartner Inc (ticker: IT) closed at $154.64, down 0.57% as geopolitical tensions rise around the Strait of Hormuz with attacks on Indian ships and U.S.-Iran conflict intensifying. These developments pose risks to global trade and economic stability, impacting technology sector outlooks. This article delves into market responses, implications for investors, and what lies ahead.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T17:47:11.497661+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105843799-1554907883822studentstakingtest.jpg?v=1776459227&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "href": "/blog/as-sentiment-2026-04-18-1746.html",
+      "title": "Amer Sports Inc Gains Amidst Turbulent Iran War and Economic Pressures: What Investors Should Know",
+      "excerpt": "Amer Sports Inc (ticker: AS) stock climbed 3.05% to $37.12 as investors digest the evolving global situation shaped by the Iran war and $4 gas prices, which have strained the US consumer economy and shipping activities. The company\u2019s performance is influenced by wide-ranging industry and macroeconomic effects, amid uncertain economic and geopolitical outlooks.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T17:46:54.310805+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&w=1920&h=1080"
+    },
     {
       "ticker": "SOME",
       "href": "/blog/some-sentiment-2026-04-18-1343.html",
@@ -323,6 +345,6 @@
       "image_url": ""
     }
   ],
-  "mode": "morning",
+  "mode": "intraday",
   "source": "finnhub_general_news"
 }

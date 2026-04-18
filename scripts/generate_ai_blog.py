@@ -770,6 +770,152 @@ def choose_unique_image_for_ticker(symbol: str, mentions: list, used_images: set
 
     return ""
 
+import hashlib
+
+
+BAD_IMAGE_PATTERNS = {
+    "reuters", "logo", "placeholder", "default", "no-image", "icon",
+    "brand", "static", "nano-banana", "banana", "meme"
+}
+
+FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1600&q=80"
+
+
+def is_valid_news_image(url: str) -> bool:
+    if not url:
+        return False
+    low = url.lower().strip()
+    if not (low.startswith("http://") or low.startswith("https://")):
+        return False
+    return not any(p in low for p in BAD_IMAGE_PATTERNS)
+
+
+def text_matches_ticker(text: str, ticker: str, company_name: str) -> bool:
+    txt = (text or "").lower()
+    t = (ticker or "").lower()
+    c = (company_name or "").lower()
+    return (t and t in txt) or (c and c in txt)
+
+
+def choose_relevant_unique_image_for_ticker(ticker: str, company_name: str, mentions: list, used_images: set) -> str:
+    """
+    Priority:
+    1) mention image that matches ticker/company in related/headline/summary
+    2) any valid mention image
+    3) company profile logo
+    4) fallback market image
+    Always avoid duplicates on page when possible.
+    """
+    candidates = []
+
+    # 1) Strong relevance match
+    for item in mentions or []:
+        img = (item.get("image") or "").strip()
+        if not is_valid_news_image(img):
+            continue
+
+        related = (item.get("related") or "").lower()
+        headline = item.get("headline") or ""
+        summary = item.get("summary") or ""
+        rel_match = (ticker.lower() in related)
+        txt_match = text_matches_ticker(f"{headline} {summary}", ticker, company_name)
+
+        if rel_match or txt_match:
+            candidates.append(img)
+
+    # 2) Any valid mention image
+    for item in mentions or []:
+        img = (item.get("image") or "").strip()
+        if is_valid_news_image(img):
+            candidates.append(img)
+
+    # 3) Company logo fallback (relevant to ticker)
+    try:
+        prof = finnhub_get("stock/profile2", {"symbol": ticker})
+        logo = (prof.get("logo") or "").strip()
+        if is_valid_news_image(logo):
+            candidates.append(logo)
+    except Exception:
+        pass
+
+    # De-dupe while preserving order
+    uniq = []
+    seen = set()
+    for c in candidates:
+        if c in seen:
+            continue
+        seen.add(c)
+        uniq.append(c)
+
+    # Prefer unused image
+    for img in uniq:
+        if img not in used_images:
+            used_images.add(img)
+            return img
+
+    # Fallback if all used
+    if uniq:
+        return uniq[0]
+
+    if FALLBACK_IMAGE_URL not in used_images:
+        used_images.add(FALLBACK_IMAGE_URL)
+    return FALLBACK_IMAGE_URL
+
+
+def article_fingerprint(ticker: str, title: str, excerpt: str) -> str:
+    """
+    Detect near-duplicate articles in same run.
+    """
+    raw = f"{ticker}|{(title or '').lower().strip()}|{(excerpt or '')[:200].lower().strip()}"
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()
+
+
+def render_archive(posts, generated_at):
+    cards = []
+    for p in posts:
+        img_html = ""
+        if p.get("image_url"):
+            img_html = f'<img src="{escape(p["image_url"])}" alt="{escape(p.get("title","News image"))}" class="md-card-img" loading="lazy" />'
+
+        cards.append(f"""
+        <article class="md-card">
+          {img_html}
+          <div class="md-pill">{escape(p.get('ticker', 'NEWS'))} • {escape(p.get('sentiment', 'Neutral'))}</div>
+          <h3><a href="{escape(p.get('href', '#'))}">{escape(p.get('title', 'Untitled'))}</a></h3>
+          <p>{escape(p.get('excerpt', ''))}</p>
+          <div class="md-date">{escape(str(p.get('published_date', '')))}</div>
+          <a class="md-btn" href="{escape(p.get('href', '#'))}">Read report →</a>
+        </article>
+        """)
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog Archive | Stock Sentiment Score</title>
+  <meta name="description" content="Full archive of generated stock sentiment reports." />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div id="site-header"></div>
+  <main class="md-wrap">
+    <div class="md-top">
+      <div>Market Desk Archive</div>
+      <div>Updated {date_label(generated_at)}</div>
+    </div>
+    <section class="md-grid">
+      {''.join(cards)}
+    </section>
+  </main>
+  <div id="site-footer"></div>
+  <script src="/js/include-header.js"></script>
+  <script src="/js/include-footer.js"></script>
+</body>
+</html>
+"""
+
+
 def main():
     if not FINNHUB_API_KEY:
         raise RuntimeError("Missing FINNHUB_API_KEY")
@@ -800,7 +946,6 @@ def main():
 
         if ticker in BLOCKED_TICKERS:
             continue
-
         if float(validated.get("price") or 0) < MIN_PRICE:
             continue
 
@@ -808,11 +953,7 @@ def main():
         if len(ticker_news["mentions"]) < MIN_MENTIONS:
             continue
 
-        impact_score = (
-            mention_count * 2
-            + abs(ticker_news["sentiment_score"])
-            + len(ticker_news["mentions"])
-        )
+        impact_score = mention_count * 2 + abs(ticker_news["sentiment_score"]) + len(ticker_news["mentions"])
         item = {**validated, **ticker_news, "impact_score": impact_score}
         candidates.append(item)
 
@@ -841,8 +982,8 @@ def main():
 
     BLOG_DIR.mkdir(exist_ok=True)
 
-    # IMPORTANT: define this ONCE, outside the loop
     used_images = set()
+    used_article_fingerprints = set()
 
     new_posts = []
     for stock in selected:
@@ -864,12 +1005,20 @@ def main():
             generated_at=generated_at,
         )
 
+        title = ai.get("title", f"{ticker} Stock Sentiment Report")
+        excerpt = ai.get("excerpt", "")
+        fp = article_fingerprint(ticker, title, excerpt)
+        if fp in used_article_fingerprints:
+            continue
+        used_article_fingerprints.add(fp)
+
         stamp = f"{today}-{hhmm(now_iso())}"
         file_name = f"{ticker.lower()}-sentiment-{stamp}.html"
         href = f"/blog/{file_name}"
 
-        image_url = choose_unique_image_for_ticker(
+        image_url = choose_relevant_unique_image_for_ticker(
             stock["ticker"],
+            stock.get("company_name", stock["ticker"]),
             stock.get("mentions", []),
             used_images
         )
@@ -882,8 +1031,8 @@ def main():
         new_posts.append({
             "ticker": ticker,
             "href": href,
-            "title": ai.get("title", f"{ticker} Stock Sentiment Report"),
-            "excerpt": ai.get("excerpt", ""),
+            "title": title,
+            "excerpt": excerpt,
             "sentiment": stock.get("sentiment", "Neutral"),
             "score": int(stock.get("sentiment_score", 0)),
             "published_date": today,
@@ -894,7 +1043,11 @@ def main():
     all_posts = sorted(new_posts + existing_posts, key=lambda x: x.get("generated_at", ""), reverse=True)
     all_posts = all_posts[:MAX_ARCHIVE_POSTS]
 
-    INDEX_PATH.write_text(render_index(all_posts, generated_at), encoding="utf-8")
+    # Front page/blog main: latest 12 only
+    INDEX_PATH.write_text(render_index(all_posts[:12], generated_at), encoding="utf-8")
+
+    # Archive page: full retained set
+    (BLOG_DIR / "archive.html").write_text(render_archive(all_posts, generated_at), encoding="utf-8")
 
     manifest["generated_at"] = generated_at
     manifest["source"] = "finnhub_general_news"
@@ -908,6 +1061,7 @@ def main():
         f"selected={len(selected)} new_posts={len(new_posts)} total_posts={len(all_posts)}"
     )
     print("Generated blog/index.html")
+    print("Generated blog/archive.html")
     print("Generated data/blog-manifest.json")
 
 

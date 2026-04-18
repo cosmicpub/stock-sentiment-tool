@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-04-18T19:17:03.179008+00:00",
+  "generated_at": "2026-04-18T19:22:55.158230+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AMID",
+      "href": "/blog/amid-sentiment-2026-04-18-1924.html",
+      "title": "AMID Stock Rises 2.2% Amid Macro Uncertainties: What Investors Should Know",
+      "excerpt": "AMID\u2019s stock price gained modestly amid a turbulent macroeconomic backdrop marked by the Iran conflict, rising gas prices, and global growth slowdown. This article examines today\u2019s price movement, key headlines, and the broader environment shaping AMID\u2019s outlook for investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:24:28.407425+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "href": "/blog/two-sentiment-2026-04-18-1924.html",
+      "title": "Two Harbors Investment Corp (TWO) Holds Steady Amid Middle East Tensions and Energy Market Shifts",
+      "excerpt": "Two Harbors Investment Corp\u2019s stock price held steady at $11.13 with no change today amid growing geopolitical tensions in the Strait of Hormuz and evolving energy dynamics. This report reviews the latest headlines affecting broader markets and what these developments could mean for investors in the real estate sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:24:15.816469+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108240022-1765391471879-gettyimages-2241308715-251017_la_011.jpeg?v=1765391511&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "href": "/blog/are-sentiment-2026-04-18-1923.html",
+      "title": "Alexandria Real Estate Equities Inc (ARE) Sees Modest Gains Amid Complex Macro Backdrop",
+      "excerpt": "Shares of Alexandria Real Estate Equities Inc moved higher by 1.44% to $48.64 as investors weighed geopolitical tensions, elevated gas prices, and persistent economic challenges influencing U.S. consumer spending and real estate dynamics.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:24:00.080343+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "href": "/blog/say-sentiment-2026-04-18-1923.html",
+      "title": "Saratoga Investment Corp (SAY) Edges Higher Amid Bullish Sentiment and Market Stability",
+      "excerpt": "Saratoga Investment Corp (ticker: SAY) saw a modest price increase of 0.02 points (0.08%) today, closing at $25.42. This stability comes amid a broadly bullish sentiment and high confidence in the stock, despite limited direct company news. Investors should consider the broader geopolitical and market environment, including recent developments around the Iran Strait of Hormuz and related geopolitical tensions.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:23:47.658704+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108293187-1776438118065-gettyimages-2262586560-dsc00067copy.jpeg?v=1776438357&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "href": "/blog/it-sentiment-2026-04-18-1923.html",
+      "title": "Gartner Inc Faces Headwinds Amid Geopolitical Tensions and Market Uncertainty",
+      "excerpt": "Shares of Gartner Inc dipped 0.57% to $154.64 as geopolitical unrest surrounding the Strait of Hormuz escalated, raising concerns about supply chain disruptions and tech sector volatility. Investors weigh potential risks and opportunities amid these developments.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:23:34.483249+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105843799-1554907883822studentstakingtest.jpg?v=1776459227&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "href": "/blog/as-sentiment-2026-04-18-1923.html",
+      "title": "Amer Sports Inc Reacts Amid Iran Conflict and Rising Gas Prices: Implications for Investors",
+      "excerpt": "Amer Sports Inc (ticker: AS) saw its stock price rise by 3.05% to $37.12 today, reflecting investor reactions amidst ongoing geopolitical turmoil involving the Iran conflict and surging gas prices. This analysis covers the broader economic implications, sector context, and key developments affecting the textiles and apparel sector.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:23:21.691905+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&w=1920&h=1080"
+    },
     {
       "ticker": "ARE",
       "href": "/blog/are-sentiment-2026-04-18-1751.html",

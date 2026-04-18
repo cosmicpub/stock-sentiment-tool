@@ -1025,6 +1025,7 @@ def main():
         raise RuntimeError("Finnhub general news response invalid")
 
     counts = extract_ticker_candidates(general_news)
+    print(f"[ai-blog] extracted_symbols={len(counts)}")
 
     candidates = []
     for symbol, mention_count in counts.most_common(CANDIDATE_SCAN_LIMIT):

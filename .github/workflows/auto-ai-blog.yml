@@ -90,6 +90,7 @@ jobs:
           MIN_MENTIONS: ${{ env.MIN_MENTIONS }}
           MIN_PRICE: ${{ env.MIN_PRICE }}
           BLOG_MOCK: ${{ env.BLOG_MOCK }}
+          TICKER_COOLDOWN_DAYS: "2"
         run: python3 scripts/generate_ai_blog.py
 
       - name: Commit and push generated files

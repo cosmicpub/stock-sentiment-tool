@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-04-18T19:22:55.158230+00:00",
+  "generated_at": "2026-04-18T19:51:48.027052+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "PUSH",
+      "href": "/blog/push-sentiment-2026-04-18-1952.html",
+      "title": "PUSH Stock Holds Steady Amid Rising Geopolitical Risks and Shifting Market Dynamics",
+      "excerpt": "PUSH stock saw minimal change today, reflecting a market cautious about the geopolitical tensions affecting jet fuel supplies and broader economic risks. Multiple headlines highlight important developments around the Middle East conflict, energy diversification, and consumer shifts toward sedans, all of which could influence investor outlook on PUSH going forward.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:52:52.739751+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "ticker": "CUT",
+      "href": "/blog/cut-sentiment-2026-04-18-1952.html",
+      "title": "Air Canada Cuts New York Flights Amid Fuel Price Surge from Iran Conflict: What Investors Should Know",
+      "excerpt": "Air Canada is reducing its New York-bound flight offerings in response to soaring fuel prices caused by escalating geopolitical tensions involving Iran. This move underscores broader industry challenges amid volatile energy markets and highlights strategic adjustments in airline operations.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:52:41.236425+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "href": "/blog/has-sentiment-2026-04-18-1952.html",
+      "title": "Hasbro Inc Shares Rally 4% Amid Market Volatility and Macro Shifts",
+      "excerpt": "Shares of Hasbro Inc climbed 4.1% to $97.17 amid a volatile market backdrop marked by geopolitical unrest and fluctuating oil prices. Although no company-specific news was reported, macroeconomic factors and market sentiment could influence Hasbro's near-term outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:52:26.923273+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291795-17762652421776265238-45281526073-1080pnbcnews.jpg?v=1776265241&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIGH",
+      "href": "/blog/high-sentiment-2026-04-18-1952.html",
+      "title": "HIGH Stock Steady Amid Mixed Global News and Market Sentiment",
+      "excerpt": "On April 18, 2026, HIGH's stock inched up 0.0464% to $21.54 amid a backdrop of mixed economic and geopolitical news including developments in Iran, the Canadian dollar, and commodity prices. This analysis explores what happened today and what investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T19:52:11.553361+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108293187-1776438118065-gettyimages-2262586560-dsc00067copy.jpeg?v=1776438357&w=1920&h=1080"
+    },
     {
       "ticker": "AMID",
       "href": "/blog/amid-sentiment-2026-04-18-1924.html",

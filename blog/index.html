@@ -18,13 +18,7 @@
       font-weight: 700;
       display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;
     }
-
-    .md-layout {
-      display:grid;
-      grid-template-columns: 3fr 1fr;
-      gap: 16px;
-    }
-
+    .md-layout { display:grid; grid-template-columns: 3fr 1fr; gap: 16px; }
     .md-lead {
       background:#f4f7ff; border:1px solid #d9e2f3; border-left:6px solid #cf2027;
       border-radius:10px; padding:16px; margin-bottom:14px; color:#102445;
@@ -34,16 +28,8 @@
     .md-lead h2 a { color:#173b7a; text-decoration:none; }
     .md-lead p { margin:0 0 12px; color:#334968; font-size:1rem; }
     .md-lead-img { width:100%; height:260px; object-fit:cover; border-radius:8px; }
-
-    .md-grid {
-      display:grid;
-      grid-template-columns:repeat(4,minmax(0,1fr));
-      gap:12px;
-    }
-    .md-card {
-      background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px;
-      padding:12px; color:#1f3558;
-    }
+    .md-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; }
+    .md-card { background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px; padding:12px; color:#1f3558; }
     .md-card-img { width:100%; height:120px; object-fit:cover; border-radius:8px; margin-bottom:8px; }
     .md-pill { display:inline-block; padding:4px 10px; border-radius:999px; background:#e7eefc; border:1px solid #bfd0f2; color:#365ac8; font-weight:800; margin-bottom:6px; font-size:.88rem; }
     .md-card h3 { margin:0 0 8px; font-size:1.25rem; line-height:1.15; min-height:58px; }
@@ -56,39 +42,19 @@
       background:#d91f2a; color:#fff !important; font-weight:800; text-decoration:none;
     }
     .md-btn:hover { background:#b81720; }
-
-    .md-sidebar {
-      display:flex; flex-direction:column; gap:12px;
-    }
-    .md-side-card {
-      background:#f4f7ff; border:1px solid #d9e2f3; border-radius:10px; padding:12px;
-    }
-    .md-side-card h4 {
-      margin:0 0 8px; color:#173b7a; font-size:1.05rem;
-    }
-    .md-side-card ul {
-      list-style:none; margin:0; padding:0;
-    }
+    .md-sidebar { display:flex; flex-direction:column; gap:12px; }
+    .md-side-card { background:#f4f7ff; border:1px solid #d9e2f3; border-radius:10px; padding:12px; }
+    .md-side-card h4 { margin:0 0 8px; color:#173b7a; font-size:1.05rem; }
+    .md-side-card ul { list-style:none; margin:0; padding:0; }
     .md-side-card li {
       display:flex; justify-content:space-between; gap:10px;
-      padding:6px 0; border-bottom:1px solid #e3eaf8; color:#2a4164;
-      font-size:.95rem;
+      padding:6px 0; border-bottom:1px solid #e3eaf8; color:#2a4164; font-size:.95rem;
     }
     .md-side-card li:last-child { border-bottom:0; }
-    .md-side-card a {
-      color:#2f53c7; text-decoration:none; line-height:1.2;
-    }
-
-    @media (max-width: 1200px) {
-      .md-layout { grid-template-columns:1fr; }
-      .md-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
-    }
-    @media (max-width: 920px) {
-      .md-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
-    }
-    @media (max-width: 680px) {
-      .md-grid { grid-template-columns:1fr; }
-    }
+    .md-side-card a { color:#2f53c7; text-decoration:none; line-height:1.2; }
+    @media (max-width:1200px) { .md-layout{grid-template-columns:1fr;} .md-grid{grid-template-columns:repeat(3,minmax(0,1fr));} }
+    @media (max-width:920px) { .md-grid{grid-template-columns:repeat(2,minmax(0,1fr));} }
+    @media (max-width:680px) { .md-grid{grid-template-columns:1fr;} }
   </style>
 </head>
 <body>
@@ -105,13 +71,45 @@
         
         <section class="md-lead">
           <div class="md-kicker">TOP STORY</div>
-          <h2><a href="/blog/amid-sentiment-2026-04-18-1924.html">AMID Stock Rises 2.2% Amid Macro Uncertainties: What Investors Should Know</a></h2>
-          <p>AMID’s stock price gained modestly amid a turbulent macroeconomic backdrop marked by the Iran conflict, rising gas prices, and global growth slowdown. This article examines today’s price movement, key headlines, and the broader environment shaping AMID’s outlook for investors.</p>
-          <img src="https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&amp;w=1920&amp;h=1080" alt="AMID Stock Rises 2.2% Amid Macro Uncertainties: What Investors Should Know" class="md-lead-img" loading="lazy" />
+          <h2><a href="/blog/push-sentiment-2026-04-18-1952.html">PUSH Stock Holds Steady Amid Rising Geopolitical Risks and Shifting Market Dynamics</a></h2>
+          <p>PUSH stock saw minimal change today, reflecting a market cautious about the geopolitical tensions affecting jet fuel supplies and broader economic risks. Multiple headlines highlight important developments around the Middle East conflict, energy diversification, and consumer shifts toward sedans, all of which could influence investor outlook on PUSH going forward.</p>
+          <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&amp;fit=crop&amp;w=1600&amp;q=80" alt="PUSH Stock Holds Steady Amid Rising Geopolitical Risks and Shifting Market Dynamics" class="md-lead-img" loading="lazy" />
         </section>
         
         <section class="md-grid">
           
+        <article class="md-card">
+          <img src="https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&amp;w=1920&amp;h=1080" alt="Air Canada Cuts New York Flights Amid Fuel Price Surge from Iran Conflict: What Investors Should Know" class="md-card-img" loading="lazy" />
+          <div class="md-pill">CUT • Neutral</div>
+          <h3><a href="/blog/cut-sentiment-2026-04-18-1952.html">Air Canada Cuts New York Flights Amid Fuel Price Surge from Iran Conflict: What Investors Should Know</a></h3>
+          <div class="md-date">2026-04-18</div>
+          <a class="md-btn" href="/blog/cut-sentiment-2026-04-18-1952.html">Read report →</a>
+        </article>
+        
+        <article class="md-card">
+          <img src="https://image.cnbcfm.com/api/v1/image/108291795-17762652421776265238-45281526073-1080pnbcnews.jpg?v=1776265241&amp;w=1920&amp;h=1080" alt="Hasbro Inc Shares Rally 4% Amid Market Volatility and Macro Shifts" class="md-card-img" loading="lazy" />
+          <div class="md-pill">HAS • Neutral</div>
+          <h3><a href="/blog/has-sentiment-2026-04-18-1952.html">Hasbro Inc Shares Rally 4% Amid Market Volatility and Macro Shifts</a></h3>
+          <div class="md-date">2026-04-18</div>
+          <a class="md-btn" href="/blog/has-sentiment-2026-04-18-1952.html">Read report →</a>
+        </article>
+        
+        <article class="md-card">
+          <img src="https://image.cnbcfm.com/api/v1/image/108293187-1776438118065-gettyimages-2262586560-dsc00067copy.jpeg?v=1776438357&amp;w=1920&amp;h=1080" alt="HIGH Stock Steady Amid Mixed Global News and Market Sentiment" class="md-card-img" loading="lazy" />
+          <div class="md-pill">HIGH • Neutral</div>
+          <h3><a href="/blog/high-sentiment-2026-04-18-1952.html">HIGH Stock Steady Amid Mixed Global News and Market Sentiment</a></h3>
+          <div class="md-date">2026-04-18</div>
+          <a class="md-btn" href="/blog/high-sentiment-2026-04-18-1952.html">Read report →</a>
+        </article>
+        
+        <article class="md-card">
+          <img src="https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&amp;w=1920&amp;h=1080" alt="AMID Stock Rises 2.2% Amid Macro Uncertainties: What Investors Should Know" class="md-card-img" loading="lazy" />
+          <div class="md-pill">AMID • Neutral</div>
+          <h3><a href="/blog/amid-sentiment-2026-04-18-1924.html">AMID Stock Rises 2.2% Amid Macro Uncertainties: What Investors Should Know</a></h3>
+          <div class="md-date">2026-04-18</div>
+          <a class="md-btn" href="/blog/amid-sentiment-2026-04-18-1924.html">Read report →</a>
+        </article>
+        
         <article class="md-card">
           <img src="https://image.cnbcfm.com/api/v1/image/108240022-1765391471879-gettyimages-2241308715-251017_la_011.jpeg?v=1765391511&amp;w=1920&amp;h=1080" alt="Two Harbors Investment Corp (TWO) Holds Steady Amid Middle East Tensions and Energy Market Shifts" class="md-card-img" loading="lazy" />
           <div class="md-pill">TWO • Neutral</div>
@@ -121,7 +119,7 @@
         </article>
         
         <article class="md-card">
-          <img src="https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&amp;w=1920&amp;h=1080" alt="Alexandria Real Estate Equities Inc (ARE) Sees Modest Gains Amid Complex Macro Backdrop" class="md-card-img" loading="lazy" />
+          
           <div class="md-pill">ARE • Bullish</div>
           <h3><a href="/blog/are-sentiment-2026-04-18-1923.html">Alexandria Real Estate Equities Inc (ARE) Sees Modest Gains Amid Complex Macro Backdrop</a></h3>
           <div class="md-date">2026-04-18</div>
@@ -129,7 +127,7 @@
         </article>
         
         <article class="md-card">
-          <img src="https://image.cnbcfm.com/api/v1/image/108293187-1776438118065-gettyimages-2262586560-dsc00067copy.jpeg?v=1776438357&amp;w=1920&amp;h=1080" alt="Saratoga Investment Corp (SAY) Edges Higher Amid Bullish Sentiment and Market Stability" class="md-card-img" loading="lazy" />
+          
           <div class="md-pill">SAY • Bullish</div>
           <h3><a href="/blog/say-sentiment-2026-04-18-1923.html">Saratoga Investment Corp (SAY) Edges Higher Amid Bullish Sentiment and Market Stability</a></h3>
           <div class="md-date">2026-04-18</div>
@@ -145,7 +143,7 @@
         </article>
         
         <article class="md-card">
-          <img src="https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&amp;w=1920&amp;h=1080" alt="Amer Sports Inc Reacts Amid Iran Conflict and Rising Gas Prices: Implications for Investors" class="md-card-img" loading="lazy" />
+          
           <div class="md-pill">AS • Neutral</div>
           <h3><a href="/blog/as-sentiment-2026-04-18-1923.html">Amer Sports Inc Reacts Amid Iran Conflict and Rising Gas Prices: Implications for Investors</a></h3>
           <div class="md-date">2026-04-18</div>
@@ -153,7 +151,7 @@
         </article>
         
         <article class="md-card">
-          <img src="https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&amp;w=1920&amp;h=1080" alt="Somerset Trust Holding Co Shares Dip Amid Middle East Tensions and Market Uncertainty" class="md-card-img" loading="lazy" />
+          
           <div class="md-pill">SOME • Neutral</div>
           <h3><a href="/blog/some-sentiment-2026-04-18-1343.html">Somerset Trust Holding Co Shares Dip Amid Middle East Tensions and Market Uncertainty</a></h3>
           <div class="md-date">2026-04-18</div>
@@ -174,18 +172,16 @@
       <aside class="md-sidebar">
         <section class="md-side-card">
           <h4>Active Tickers</h4>
-          <ul><li><strong>AMID</strong> <span>1 posts</span></li><li><strong>TWO</strong> <span>1 posts</span></li><li><strong>ARE</strong> <span>1 posts</span></li><li><strong>SAY</strong> <span>1 posts</span></li><li><strong>IT</strong> <span>1 posts</span></li><li><strong>AS</strong> <span>1 posts</span></li><li><strong>SOME</strong> <span>1 posts</span></li><li><strong>BE</strong> <span>1 posts</span></li></ul>
+          <ul><li><strong>PUSH</strong> <span>1 posts</span></li><li><strong>CUT</strong> <span>1 posts</span></li><li><strong>HAS</strong> <span>1 posts</span></li><li><strong>HIGH</strong> <span>1 posts</span></li><li><strong>AMID</strong> <span>1 posts</span></li><li><strong>TWO</strong> <span>1 posts</span></li><li><strong>ARE</strong> <span>1 posts</span></li><li><strong>SAY</strong> <span>1 posts</span></li><li><strong>IT</strong> <span>1 posts</span></li><li><strong>AS</strong> <span>1 posts</span></li><li><strong>SOME</strong> <span>1 posts</span></li><li><strong>BE</strong> <span>1 posts</span></li></ul>
         </section>
         <section class="md-side-card">
           <h4>Latest Updates</h4>
-          <ul><li><a href="/blog/amid-sentiment-2026-04-18-1924.html">AMID Stock Rises 2.2% Amid Macro Uncertainties: What Investors Should Know</a></li><li><a href="/blog/two-sentiment-2026-04-18-1924.html">Two Harbors Investment Corp (TWO) Holds Steady Amid Middle East Tensions and Energy Market Shifts</a></li><li><a href="/blog/are-sentiment-2026-04-18-1923.html">Alexandria Real Estate Equities Inc (ARE) Sees Modest Gains Amid Complex Macro Backdrop</a></li><li><a href="/blog/say-sentiment-2026-04-18-1923.html">Saratoga Investment Corp (SAY) Edges Higher Amid Bullish Sentiment and Market Stability</a></li><li><a href="/blog/it-sentiment-2026-04-18-1923.html">Gartner Inc Faces Headwinds Amid Geopolitical Tensions and Market Uncertainty</a></li><li><a href="/blog/as-sentiment-2026-04-18-1923.html">Amer Sports Inc Reacts Amid Iran Conflict and Rising Gas Prices: Implications for Investors</a></li><li><a href="/blog/some-sentiment-2026-04-18-1343.html">Somerset Trust Holding Co Shares Dip Amid Middle East Tensions and Market Uncertainty</a></li><li><a href="/blog/be-sentiment-2026-04-17-2108.html">Bloom Energy Corp Dips Amid Geopolitical Stability, Mixed Market Signals on April 17, 2026</a></li></ul>
+          <ul><li><a href="/blog/push-sentiment-2026-04-18-1952.html">PUSH Stock Holds Steady Amid Rising Geopolitical Risks and Shifting Market Dynamics</a></li><li><a href="/blog/cut-sentiment-2026-04-18-1952.html">Air Canada Cuts New York Flights Amid Fuel Price Surge from Iran Conflict: What Investors Should Know</a></li><li><a href="/blog/has-sentiment-2026-04-18-1952.html">Hasbro Inc Shares Rally 4% Amid Market Volatility and Macro Shifts</a></li><li><a href="/blog/high-sentiment-2026-04-18-1952.html">HIGH Stock Steady Amid Mixed Global News and Market Sentiment</a></li><li><a href="/blog/amid-sentiment-2026-04-18-1924.html">AMID Stock Rises 2.2% Amid Macro Uncertainties: What Investors Should Know</a></li><li><a href="/blog/two-sentiment-2026-04-18-1924.html">Two Harbors Investment Corp (TWO) Holds Steady Amid Middle East Tensions and Energy Market Shifts</a></li><li><a href="/blog/are-sentiment-2026-04-18-1923.html">Alexandria Real Estate Equities Inc (ARE) Sees Modest Gains Amid Complex Macro Backdrop</a></li><li><a href="/blog/say-sentiment-2026-04-18-1923.html">Saratoga Investment Corp (SAY) Edges Higher Amid Bullish Sentiment and Market Stability</a></li></ul>
         </section>
         <section class="md-side-card">
           <h4>Full Archive</h4>
           <p style="margin:0;color:#3d5274;">Older posts stay available in the archive.</p>
-          <p style="margin:10px 0 0;">
-            <a href="/blog/archive.html">Open Archive →</a>
-          </p>
+          <p style="margin:10px 0 0;"><a href="/blog/archive.html">Open Archive →</a></p>
         </section>
       </aside>
     </div>

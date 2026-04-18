@@ -29,21 +29,53 @@ DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
 DEFAULT_MAX_POSTS = int(os.getenv("MAX_POSTS", "6"))
 
 STOPWORDS = {
-    "THE", "AND", "FOR", "WITH", "FROM", "NEWS", "TODAY", "WEEK", "MONTH", "INC", "CO", "PLC", "ETF",
-    "CEO", "CFO", "IPO", "SEC", "GDP", "CPI", "FED", "NYSE", "NASDAQ", "US", "USA", "Q1", "Q2", "Q3", "Q4"
+    # articles / connectors
+    "A", "AN", "THE", "AND", "OR", "FOR", "WITH", "FROM", "BY", "ON", "IN", "TO", "OF",
+    # geography / broad labels
+    "US", "USA", "U.S", "U.S.", "GLOBAL", "WORLD", "ASIA", "EUROPE", "CHINA", "RUSSIA",
+    # market boilerplate
+    "MARKET", "MARKETS", "STOCK", "STOCKS", "SHARES", "INDEX", "INDICES", "RALLY", "SELL", "BUY",
+    "ETF", "ETFS", "FUND", "FUNDS", "CAP", "LARGE", "SMALL",
+    # company suffixes
+    "INC", "CO", "CORP", "CORPORATION", "PLC", "LTD", "LLC", "GROUP", "HOLDINGS",
+    # macro / policy
+    "FED", "FOMC", "SEC", "GDP", "CPI", "PPI", "RATE", "RATES", "YIELD", "TREASURY",
+    # exchanges / symbols context
+    "NYSE", "NASDAQ", "AMEX", "SP", "S&P", "DJIA", "DOW",
+    # finance terms often not tickers
+    "CEO", "CFO", "CTO", "IPO", "AI", "EARNINGS", "GUIDANCE", "REVENUE", "PROFIT", "MARGIN",
+    "OUTLOOK", "FORECAST", "ESTIMATE", "ESTIMATES", "TARGET", "PRICE", "VALUATION",
+    # time tokens
+    "TODAY", "WEEK", "MONTH", "YEAR", "Q1", "Q2", "Q3", "Q4", "FY", "2024", "2025", "2026",
+    # energy/news noise
+    "OIL", "GAS", "WAR", "TARIFF", "SANCTIONS", "DEAL", "MERGER", "ACQUISITION"
 }
 
 COMMON_FALSE_TICKERS = {
+    # common English words that sneak in as uppercase
     "OPEN", "GROW", "UNIT", "WELL", "LOVE", "FREE", "TRUE", "GOOD", "BEST", "TOP", "LOW", "HIGH",
-    "UP", "DOWN", "NOW", "NEW", "FAST", "GAIN", "LOSS", "RISK", "RATE", "SALE", "PLAN", "MOVE"
+    "UP", "DOWN", "NOW", "NEW", "FAST", "GAIN", "LOSS", "RISK", "PLAN", "MOVE", "WINS", "BEAT",
+    "MISS", "DROP", "FALL", "WARN", "HOLD", "LONG", "SHORT", "BULL", "BEAR", "HYPE", "MOON",
+    # frequent false positives from headlines
+    "NEWS", "LIVE", "POST", "EDIT", "UPDATE", "BREAK", "WATCH", "READ", "VIEW", "OPENS", "CLOSE"
 }
 
 TRUSTED_SOURCES = {
-    "Reuters", "Bloomberg", "CNBC", "MarketWatch", "WSJ", "Barrons", "Associated Press", "AP", "The Wall Street Journal"
+    "Reuters", "Bloomberg", "CNBC", "MarketWatch", "WSJ", "Barrons",
+    "Associated Press", "AP", "The Wall Street Journal", "Financial Times", "Yahoo Finance"
 }
 
-POSITIVE_WORDS = {"beat", "beats", "surge", "surges", "strong", "growth", "record", "profit", "profits", "upgrade", "upgrades", "bullish", "rebound", "gains", "outperform"}
-NEGATIVE_WORDS = {"miss", "misses", "drop", "drops", "fall", "falls", "slump", "warning", "warnings", "downgrade", "downgrades", "lawsuit", "probe", "bearish", "risk", "risks", "weak"}
+POSITIVE_WORDS = {
+    "beat", "beats", "surge", "surges", "strong", "growth", "record", "profit", "profits",
+    "upgrade", "upgrades", "bullish", "rebound", "gains", "outperform", "raise", "raised",
+    "expands", "expansion", "momentum", "backlog", "demand"
+}
+
+NEGATIVE_WORDS = {
+    "miss", "misses", "drop", "drops", "fall", "falls", "slump", "warning", "warnings",
+    "downgrade", "downgrades", "lawsuit", "probe", "bearish", "risk", "risks", "weak",
+    "cuts", "cut", "delay", "delays", "decline", "declines", "pressure"
+}
 
 
 def now_utc() -> datetime:
@@ -102,6 +134,7 @@ def save_manifest(manifest: dict[str, Any]) -> None:
 
 
 def is_reasonable_ticker(token: str) -> bool:
+    # 2-5 uppercase chars only (filters single-letter symbols like S)
     if not re.fullmatch(r"[A-Z]{2,5}", token):
         return False
     if token in STOPWORDS or token in COMMON_FALSE_TICKERS:

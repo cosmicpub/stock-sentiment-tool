@@ -128,19 +128,24 @@ def is_valid_symbol(sym: str) -> bool:
 
 def extract_ticker_candidates(news_items):
     """
-    Strict candidate extraction:
-    - Prefer Finnhub `related` field
-    - Ignore weak regex-only ticker extraction
+    Robust candidate extraction:
+    1) Use Finnhub 'related' when available
+    2) Fallback to headline/summary uppercase ticker regex
     """
     counter = Counter()
 
     for item in news_items:
+        # Preferred source: related symbols
         related = (item.get("related") or "").upper().strip()
-        if not related:
-            continue
+        if related:
+            for raw in related.split(","):
+                sym = raw.strip().upper()
+                if is_valid_symbol(sym):
+                    counter[sym] += 2
 
-        for raw in related.split(","):
-            sym = raw.strip().upper()
+        # Fallback source: regex from text
+        text = f"{item.get('headline', '')} {item.get('summary', '')}".upper()
+        for sym in re.findall(r"\b[A-Z]{1,5}\b", text):
             if is_valid_symbol(sym):
                 counter[sym] += 1
 

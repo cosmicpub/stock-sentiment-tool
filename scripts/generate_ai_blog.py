@@ -29,53 +29,21 @@ DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
 DEFAULT_MAX_POSTS = int(os.getenv("MAX_POSTS", "6"))
 
 STOPWORDS = {
-    # articles / connectors
-    "A", "AN", "THE", "AND", "OR", "FOR", "WITH", "FROM", "BY", "ON", "IN", "TO", "OF",
-    # geography / broad labels
-    "US", "USA", "U.S", "U.S.", "GLOBAL", "WORLD", "ASIA", "EUROPE", "CHINA", "RUSSIA",
-    # market boilerplate
-    "MARKET", "MARKETS", "STOCK", "STOCKS", "SHARES", "INDEX", "INDICES", "RALLY", "SELL", "BUY",
-    "ETF", "ETFS", "FUND", "FUNDS", "CAP", "LARGE", "SMALL",
-    # company suffixes
-    "INC", "CO", "CORP", "CORPORATION", "PLC", "LTD", "LLC", "GROUP", "HOLDINGS",
-    # macro / policy
-    "FED", "FOMC", "SEC", "GDP", "CPI", "PPI", "RATE", "RATES", "YIELD", "TREASURY",
-    # exchanges / symbols context
-    "NYSE", "NASDAQ", "AMEX", "SP", "S&P", "DJIA", "DOW",
-    # finance terms often not tickers
-    "CEO", "CFO", "CTO", "IPO", "AI", "EARNINGS", "GUIDANCE", "REVENUE", "PROFIT", "MARGIN",
-    "OUTLOOK", "FORECAST", "ESTIMATE", "ESTIMATES", "TARGET", "PRICE", "VALUATION",
-    # time tokens
-    "TODAY", "WEEK", "MONTH", "YEAR", "Q1", "Q2", "Q3", "Q4", "FY", "2024", "2025", "2026",
-    # energy/news noise
-    "OIL", "GAS", "WAR", "TARIFF", "SANCTIONS", "DEAL", "MERGER", "ACQUISITION"
+    "THE", "AND", "FOR", "WITH", "FROM", "NEWS", "TODAY", "WEEK", "MONTH", "INC", "CO", "PLC", "ETF",
+    "CEO", "CFO", "IPO", "SEC", "GDP", "CPI", "FED", "NYSE", "NASDAQ", "US", "USA", "Q1", "Q2", "Q3", "Q4"
 }
 
 COMMON_FALSE_TICKERS = {
-    # common English words that sneak in as uppercase
     "OPEN", "GROW", "UNIT", "WELL", "LOVE", "FREE", "TRUE", "GOOD", "BEST", "TOP", "LOW", "HIGH",
-    "UP", "DOWN", "NOW", "NEW", "FAST", "GAIN", "LOSS", "RISK", "PLAN", "MOVE", "WINS", "BEAT",
-    "MISS", "DROP", "FALL", "WARN", "HOLD", "LONG", "SHORT", "BULL", "BEAR", "HYPE", "MOON",
-    # frequent false positives from headlines
-    "NEWS", "LIVE", "POST", "EDIT", "UPDATE", "BREAK", "WATCH", "READ", "VIEW", "OPENS", "CLOSE"
+    "UP", "DOWN", "NOW", "NEW", "FAST", "GAIN", "LOSS", "RISK", "RATE", "SALE", "PLAN", "MOVE"
 }
 
 TRUSTED_SOURCES = {
-    "Reuters", "Bloomberg", "CNBC", "MarketWatch", "WSJ", "Barrons",
-    "Associated Press", "AP", "The Wall Street Journal", "Financial Times", "Yahoo Finance"
+    "Reuters", "Bloomberg", "CNBC", "MarketWatch", "WSJ", "Barrons", "Associated Press", "AP", "The Wall Street Journal"
 }
 
-POSITIVE_WORDS = {
-    "beat", "beats", "surge", "surges", "strong", "growth", "record", "profit", "profits",
-    "upgrade", "upgrades", "bullish", "rebound", "gains", "outperform", "raise", "raised",
-    "expands", "expansion", "momentum", "backlog", "demand"
-}
-
-NEGATIVE_WORDS = {
-    "miss", "misses", "drop", "drops", "fall", "falls", "slump", "warning", "warnings",
-    "downgrade", "downgrades", "lawsuit", "probe", "bearish", "risk", "risks", "weak",
-    "cuts", "cut", "delay", "delays", "decline", "declines", "pressure"
-}
+POSITIVE_WORDS = {"beat", "beats", "surge", "surges", "strong", "growth", "record", "profit", "profits", "upgrade", "upgrades", "bullish", "rebound", "gains", "outperform"}
+NEGATIVE_WORDS = {"miss", "misses", "drop", "drops", "fall", "falls", "slump", "warning", "warnings", "downgrade", "downgrades", "lawsuit", "probe", "bearish", "risk", "risks", "weak"}
 
 
 def now_utc() -> datetime:
@@ -134,7 +102,6 @@ def save_manifest(manifest: dict[str, Any]) -> None:
 
 
 def is_reasonable_ticker(token: str) -> bool:
-    # 2-5 uppercase chars only (filters single-letter symbols like S)
     if not re.fullmatch(r"[A-Z]{2,5}", token):
         return False
     if token in STOPWORDS or token in COMMON_FALSE_TICKERS:
@@ -180,10 +147,28 @@ def classify_sentiment(score: int) -> str:
 
 
 def pick_best_image(mentions: list[dict[str, Any]]) -> str:
+    def looks_like_logo(url: str) -> bool:
+        lowered = url.lower()
+        noisy_tokens = (
+            "logo",
+            "icon",
+            "avatar",
+            "wordmark",
+            "placeholder",
+            "default-image",
+            "default.jpg",
+            "spacer",
+            "sprite",
+            "brand-assets",
+        )
+        # Reuters feeds often include repetitive brand/logo assets; skip those.
+        reuters_logo_patterns = ("reuters.com/pf/resources", "/resources_v2/images/", "reuters-graphics")
+        return any(token in lowered for token in noisy_tokens) or any(token in lowered for token in reuters_logo_patterns)
+
     for item in mentions:
         for key in ("image", "image_url", "urlToImage", "thumbnail"):
             v = item.get(key)
-            if isinstance(v, str) and v.startswith(("http://", "https://")):
+            if isinstance(v, str) and v.startswith(("http://", "https://")) and not looks_like_logo(v):
                 return v
     return ""
 
@@ -197,13 +182,26 @@ def fallback_article(stock: dict[str, Any], generated_at: datetime) -> dict[str,
 
     title = f"{ticker} Stock Analysis: News Sentiment, Risks, and Catalysts ({date_text})"
     excerpt = f"{company} ({ticker}) headline momentum is {sentiment.lower()} today. We break down key catalysts, risks, and sentiment drivers investors are watching."
-    body_html = "".join(
-        [
-            f"<p><strong>{escape(company)} ({escape(ticker)})</strong> currently shows a <strong>{escape(sentiment)}</strong> headline tone based on recent coverage and market narratives.</p>",
-            f"<p>Our rules-based sentiment score is <strong>{score}</strong>. This score reflects positive and negative signal words appearing in the latest company-specific headlines.</p>",
-            "<p>Potential upside catalysts include earnings momentum, improving guidance, and favorable sector trends. Key risks include valuation compression, execution misses, and macro volatility.</p>",
-            "<p>This page is for informational purposes only and should be combined with valuation, fundamentals, and risk management before any investment decision.</p>",
-        ]
+    price = stock.get("price")
+    mentions = stock.get("mentions", [])[:6]
+    headline_items = []
+    for item in mentions:
+        h = str(item.get("headline", "")).strip()
+        s = str(item.get("source", "")).strip()
+        if not h:
+            continue
+        headline_items.append(f"<li><strong>{escape(s or 'Source')}</strong>: {escape(h)}</li>")
+
+    catalyst_bias = "upside" if score >= 0 else "defensive"
+    body_html = (
+        f"<p><strong>{escape(company)} ({escape(ticker)})</strong> currently shows a <strong>{escape(sentiment)}</strong> headline tone based on company-specific coverage as of {escape(date_text)}.</p>"
+        f"<p>Our rules-based sentiment score is <strong>{score}</strong>. This score weighs positive/negative signal terms and source coverage concentration to estimate short-term narrative pressure.</p>"
+        f"{('<h2>Top Headlines Driving Sentiment</h2><ul>' + ''.join(headline_items) + '</ul>') if headline_items else ''}"
+        f"<h2>What This Means for Investors</h2><p>The current setup suggests a <strong>{escape(catalyst_bias)}</strong> posture may be warranted. "
+        "Investors should evaluate earnings trajectory, guidance credibility, margin trend durability, and valuation sensitivity to rates before acting.</p>"
+        f"<h2>Risk Checklist</h2><p>Watch for estimate revisions, management commentary shifts, macro-demand softness, and event risk around product cycles or regulatory headlines. "
+        f"{'Spot price snapshot: <strong>$' + str(price) + '</strong>.' if isinstance(price, (int, float)) else ''} "
+        "Treat this as a directional briefing, not a standalone investment recommendation.</p>"
     )
 
     return {"title": title, "excerpt": excerpt, "body_html": body_html}
@@ -238,7 +236,7 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
                 "content": (
                     "You are an expert financial SEO editor. Return strict JSON with keys title, excerpt, body_html. "
                     "Requirements: title 60-90 chars and include ticker + a high-intent phrase like 'Stock Analysis' or 'Forecast'; "
-                    "excerpt 130-170 chars; body_html must have 4 concise <p> paragraphs with concrete investor-relevant framing."
+                    "excerpt 130-170 chars; body_html must include at least 6 paragraphs and 2 <h2> subsections, with concrete investor-relevant framing."
                 ),
             },
             {"role": "user", "content": json.dumps(prompt)},
@@ -270,7 +268,16 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
             "Content-Type": "application/json",
         },
     )
-    out = parsed.get("output_text", "").strip()
+    out = str(parsed.get("output_text", "")).strip()
+    if not out and isinstance(parsed.get("output"), list):
+        # Robustly recover text when SDK output_text is absent.
+        chunks: list[str] = []
+        for item in parsed["output"]:
+            for content in item.get("content", []):
+                txt = content.get("text")
+                if isinstance(txt, str):
+                    chunks.append(txt)
+        out = "\n".join(chunks).strip()
     if not out:
         raise RuntimeError("Model returned empty output_text")
 
@@ -538,6 +545,8 @@ def main() -> None:
     manifest = load_manifest()
     posts = manifest.get("posts", [])
 
+    used_images: set[str] = set()
+
     for stock in selected:
         slug = f"{stock['ticker'].lower()}-news-impact-{ymd(generated_at)}"
         article = fallback_article(stock, generated_at)
@@ -548,6 +557,10 @@ def main() -> None:
                 pass
 
         image_url = stock.get("image_url") or pick_best_image(stock.get("mentions", []))
+        if image_url in used_images:
+            image_url = ""
+        if image_url:
+            used_images.add(image_url)
         html = render_post_html(stock, article, generated_at, slug, image_url)
         (BLOG_DIR / f"{slug}.html").write_text(html, encoding="utf-8")
 

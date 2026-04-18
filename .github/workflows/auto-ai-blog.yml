@@ -23,7 +23,9 @@ jobs:
 
       - name: Set run mode
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "30 12 * * *" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "BLOG_RUN_MODE=morning" >> $GITHUB_ENV
+          elif [ "${{ github.event.schedule }}" = "30 12 * * *" ]; then
             echo "BLOG_RUN_MODE=morning" >> $GITHUB_ENV
           else
             echo "BLOG_RUN_MODE=intraday" >> $GITHUB_ENV

@@ -432,18 +432,27 @@ def render_post(stock, ai, generated_at):
 
 
 def render_index(posts, generated_at):
-    # Keep newest posts order, do NOT de-dupe by ticker here (shows more variety on page)
-    ordered = posts[:]
+    # de-dupe by ticker (keep newest per ticker) for front-page display
+    deduped = []
+    seen_tickers = set()
+    for p in posts:
+        t = str(p.get("ticker", "")).upper().strip()
+        if not t:
+            continue
+        if t in seen_tickers:
+            continue
+        seen_tickers.add(t)
+        deduped.append(p)
 
-    # De-dupe repeated image URLs across cards shown on this page
+    # de-dupe repeated image URLs in this page slice
     used_images = set()
     normalized = []
-    for p in ordered:
+    for p in deduped:
         item = dict(p)
         img = (item.get("image_url") or "").strip()
         if img:
             if img in used_images:
-                item["image_url"] = ""  # avoid repeated image on page
+                item["image_url"] = ""
             else:
                 used_images.add(img)
         normalized.append(item)
@@ -451,10 +460,13 @@ def render_index(posts, generated_at):
     lead = normalized[0] if normalized else None
     rest = normalized[1:25] if len(normalized) > 1 else []
 
-    # sidebar data
-    ticker_counts = Counter([str(p.get("ticker", "")).upper() for p in deduped if p.get("ticker")])
+    ticker_counts = Counter(
+        str(p.get("ticker", "")).upper()
+        for p in normalized
+        if p.get("ticker")
+    )
     top_tickers = ticker_counts.most_common(12)
-    latest_links = deduped[:8]
+    latest_links = normalized[:8]
 
     lead_html = ""
     if lead:
@@ -490,7 +502,6 @@ def render_index(posts, generated_at):
     ticker_board = "".join(
         f'<li><strong>{escape(t)}</strong> <span>{n} posts</span></li>' for t, n in top_tickers
     )
-
     latest_board = "".join(
         f'<li><a href="{escape(p.get("href", "#"))}">{escape(p.get("title", "Untitled"))}</a></li>'
         for p in latest_links
@@ -516,13 +527,7 @@ def render_index(posts, generated_at):
       font-weight: 700;
       display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;
     }}
-
-    .md-layout {{
-      display:grid;
-      grid-template-columns: 3fr 1fr;
-      gap: 16px;
-    }}
-
+    .md-layout {{ display:grid; grid-template-columns: 3fr 1fr; gap: 16px; }}
     .md-lead {{
       background:#f4f7ff; border:1px solid #d9e2f3; border-left:6px solid #cf2027;
       border-radius:10px; padding:16px; margin-bottom:14px; color:#102445;
@@ -532,16 +537,8 @@ def render_index(posts, generated_at):
     .md-lead h2 a {{ color:#173b7a; text-decoration:none; }}
     .md-lead p {{ margin:0 0 12px; color:#334968; font-size:1rem; }}
     .md-lead-img {{ width:100%; height:260px; object-fit:cover; border-radius:8px; }}
-
-    .md-grid {{
-      display:grid;
-      grid-template-columns:repeat(4,minmax(0,1fr));
-      gap:12px;
-    }}
-    .md-card {{
-      background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px;
-      padding:12px; color:#1f3558;
-    }}
+    .md-grid {{ display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; }}
+    .md-card {{ background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px; padding:12px; color:#1f3558; }}
     .md-card-img {{ width:100%; height:120px; object-fit:cover; border-radius:8px; margin-bottom:8px; }}
     .md-pill {{ display:inline-block; padding:4px 10px; border-radius:999px; background:#e7eefc; border:1px solid #bfd0f2; color:#365ac8; font-weight:800; margin-bottom:6px; font-size:.88rem; }}
     .md-card h3 {{ margin:0 0 8px; font-size:1.25rem; line-height:1.15; min-height:58px; }}
@@ -554,39 +551,19 @@ def render_index(posts, generated_at):
       background:#d91f2a; color:#fff !important; font-weight:800; text-decoration:none;
     }}
     .md-btn:hover {{ background:#b81720; }}
-
-    .md-sidebar {{
-      display:flex; flex-direction:column; gap:12px;
-    }}
-    .md-side-card {{
-      background:#f4f7ff; border:1px solid #d9e2f3; border-radius:10px; padding:12px;
-    }}
-    .md-side-card h4 {{
-      margin:0 0 8px; color:#173b7a; font-size:1.05rem;
-    }}
-    .md-side-card ul {{
-      list-style:none; margin:0; padding:0;
-    }}
+    .md-sidebar {{ display:flex; flex-direction:column; gap:12px; }}
+    .md-side-card {{ background:#f4f7ff; border:1px solid #d9e2f3; border-radius:10px; padding:12px; }}
+    .md-side-card h4 {{ margin:0 0 8px; color:#173b7a; font-size:1.05rem; }}
+    .md-side-card ul {{ list-style:none; margin:0; padding:0; }}
     .md-side-card li {{
       display:flex; justify-content:space-between; gap:10px;
-      padding:6px 0; border-bottom:1px solid #e3eaf8; color:#2a4164;
-      font-size:.95rem;
+      padding:6px 0; border-bottom:1px solid #e3eaf8; color:#2a4164; font-size:.95rem;
     }}
     .md-side-card li:last-child {{ border-bottom:0; }}
-    .md-side-card a {{
-      color:#2f53c7; text-decoration:none; line-height:1.2;
-    }}
-
-    @media (max-width: 1200px) {{
-      .md-layout {{ grid-template-columns:1fr; }}
-      .md-grid {{ grid-template-columns:repeat(3,minmax(0,1fr)); }}
-    }}
-    @media (max-width: 920px) {{
-      .md-grid {{ grid-template-columns:repeat(2,minmax(0,1fr)); }}
-    }}
-    @media (max-width: 680px) {{
-      .md-grid {{ grid-template-columns:1fr; }}
-    }}
+    .md-side-card a {{ color:#2f53c7; text-decoration:none; line-height:1.2; }}
+    @media (max-width:1200px) {{ .md-layout{{grid-template-columns:1fr;}} .md-grid{{grid-template-columns:repeat(3,minmax(0,1fr));}} }}
+    @media (max-width:920px) {{ .md-grid{{grid-template-columns:repeat(2,minmax(0,1fr));}} }}
+    @media (max-width:680px) {{ .md-grid{{grid-template-columns:1fr;}} }}
   </style>
 </head>
 <body>
@@ -618,9 +595,7 @@ def render_index(posts, generated_at):
         <section class="md-side-card">
           <h4>Full Archive</h4>
           <p style="margin:0;color:#3d5274;">Older posts stay available in the archive.</p>
-          <p style="margin:10px 0 0;">
-            <a href="/blog/archive.html">Open Archive →</a>
-          </p>
+          <p style="margin:10px 0 0;"><a href="/blog/archive.html">Open Archive →</a></p>
         </section>
       </aside>
     </div>

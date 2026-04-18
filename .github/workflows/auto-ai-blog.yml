@@ -2,8 +2,19 @@ name: Auto AI Blog Generator
 
 on:
   workflow_dispatch:
+    inputs:
+      profile:
+        description: "Run profile"
+        required: true
+        default: "test"
+        type: choice
+        options:
+          - test
+          - production
   schedule:
+    # Morning production run
     - cron: "30 12 * * *"
+    # Intraday production refreshes
     - cron: "30 14,16,18,20 * * 1-5"
 
 jobs:
@@ -21,15 +32,49 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Set run mode
+      - name: Resolve profile and mode
         run: |
+          # Defaults
+          PROFILE="production"
+          MODE="intraday"
+
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "BLOG_RUN_MODE=morning" >> $GITHUB_ENV
+            PROFILE="${{ github.event.inputs.profile }}"
+            MODE="morning"   # manual runs should generate clearly
           elif [ "${{ github.event.schedule }}" = "30 12 * * *" ]; then
-            echo "BLOG_RUN_MODE=morning" >> $GITHUB_ENV
+            PROFILE="production"
+            MODE="morning"
           else
-            echo "BLOG_RUN_MODE=intraday" >> $GITHUB_ENV
+            PROFILE="production"
+            MODE="intraday"
           fi
+
+          echo "PROFILE=$PROFILE" >> $GITHUB_ENV
+          echo "BLOG_RUN_MODE=$MODE" >> $GITHUB_ENV
+
+      - name: Set filters for TEST profile
+        if: env.PROFILE == 'test'
+        run: |
+          echo "MORNING_POSTS=6" >> $GITHUB_ENV
+          echo "INTRADAY_POSTS=2" >> $GITHUB_ENV
+          echo "MAX_ARCHIVE_POSTS=120" >> $GITHUB_ENV
+          echo "CANDIDATE_SCAN_LIMIT=80" >> $GITHUB_ENV
+          echo "MIN_RELATED_MATCHES=0" >> $GITHUB_ENV
+          echo "MIN_MENTIONS=1" >> $GITHUB_ENV
+          echo "MIN_PRICE=10" >> $GITHUB_ENV
+          echo "BLOG_MOCK=false" >> $GITHUB_ENV
+
+      - name: Set filters for PRODUCTION profile
+        if: env.PROFILE == 'production'
+        run: |
+          echo "MORNING_POSTS=6" >> $GITHUB_ENV
+          echo "INTRADAY_POSTS=2" >> $GITHUB_ENV
+          echo "MAX_ARCHIVE_POSTS=120" >> $GITHUB_ENV
+          echo "CANDIDATE_SCAN_LIMIT=40" >> $GITHUB_ENV
+          echo "MIN_RELATED_MATCHES=1" >> $GITHUB_ENV
+          echo "MIN_MENTIONS=2" >> $GITHUB_ENV
+          echo "MIN_PRICE=25" >> $GITHUB_ENV
+          echo "BLOG_MOCK=false" >> $GITHUB_ENV
 
       - name: Generate AI blog pages
         env:
@@ -37,14 +82,14 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: "gpt-4.1-mini"
           BLOG_RUN_MODE: ${{ env.BLOG_RUN_MODE }}
-          MORNING_POSTS: "6"
-          INTRADAY_POSTS: "2"
-          MAX_ARCHIVE_POSTS: "120"
-          BLOG_MOCK: "false"
-          CANDIDATE_SCAN_LIMIT: "80"
-          MIN_RELATED_MATCHES: "0"
-          MIN_MENTIONS: "1"
-          MIN_PRICE: "10"
+          MORNING_POSTS: ${{ env.MORNING_POSTS }}
+          INTRADAY_POSTS: ${{ env.INTRADAY_POSTS }}
+          MAX_ARCHIVE_POSTS: ${{ env.MAX_ARCHIVE_POSTS }}
+          CANDIDATE_SCAN_LIMIT: ${{ env.CANDIDATE_SCAN_LIMIT }}
+          MIN_RELATED_MATCHES: ${{ env.MIN_RELATED_MATCHES }}
+          MIN_MENTIONS: ${{ env.MIN_MENTIONS }}
+          MIN_PRICE: ${{ env.MIN_PRICE }}
+          BLOG_MOCK: ${{ env.BLOG_MOCK }}
         run: python3 scripts/generate_ai_blog.py
 
       - name: Commit and push generated files
@@ -55,6 +100,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: refresh AI blog posts (${BLOG_RUN_MODE})"
+            git commit -m "chore: refresh AI blog posts (${PROFILE}/${BLOG_RUN_MODE})"
             git push
           fi

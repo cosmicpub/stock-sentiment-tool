@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-04-18T17:46:16.173876+00:00",
+  "generated_at": "2026-04-18T17:50:56.435900+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ARE",
+      "href": "/blog/are-sentiment-2026-04-18-1751.html",
+      "title": "Alexandria Real Estate Equities Inc Sees a Bullish Uptick Amid Market and Geopolitical Shifts",
+      "excerpt": "Shares of Alexandria Real Estate Equities Inc (ARE) advanced 1.44% to $48.64, reflecting a bullish investor sentiment amid ongoing geopolitical and economic uncertainties. This movement comes as U.S.-Iran tensions affect energy markets and consumer spending patterns shift, creating nuanced implications for the real estate sector.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T17:51:57.311166+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "href": "/blog/say-sentiment-2026-04-18-1751.html",
+      "title": "Saratoga Investment Corp (SAY) Shares Steady Amid Global Tensions and Market Optimism",
+      "excerpt": "Saratoga Investment Corp's stock showed marginal gains today as geopolitical developments around the Strait of Hormuz and evolving US-Iran relations influenced market dynamics. Investors weigh bullish opportunities against risks from ongoing negotiations and security issues in critical shipping routes.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T17:51:39.639058+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105843799-1554907883822studentstakingtest.jpg?v=1776459227&w=1920&h=1080"
+    },
     {
       "ticker": "IT",
       "href": "/blog/it-sentiment-2026-04-18-1747.html",

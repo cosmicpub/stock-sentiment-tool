@@ -7,7 +7,7 @@
   <meta name="description" content="Fresh ticker-impact stories generated from current market news." />
   <link rel="stylesheet" href="/style.css" />
   <style>
-    .md-wrap { max-width: 1280px; margin: 0 auto; padding: 18px 20px 40px; }
+    .md-wrap { max-width: 1450px; margin: 0 auto; padding: 18px 20px 40px; }
     .md-top {
       border-top: 3px solid #cf2027;
       background: linear-gradient(90deg,#07265a,#1b2f7f);
@@ -18,32 +18,77 @@
       font-weight: 700;
       display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;
     }
+
+    .md-layout {
+      display:grid;
+      grid-template-columns: 3fr 1fr;
+      gap: 16px;
+    }
+
     .md-lead {
       background:#f4f7ff; border:1px solid #d9e2f3; border-left:6px solid #cf2027;
-      border-radius:10px; padding:16px; margin-bottom:18px; color:#102445;
+      border-radius:10px; padding:16px; margin-bottom:14px; color:#102445;
     }
     .md-kicker { color:#cf2027; font-weight:800; letter-spacing:.04em; margin-bottom:6px; font-size:.82rem; }
-    .md-lead h2 { margin:0 0 8px; font-size:2.2rem; line-height:1.05; }
+    .md-lead h2 { margin:0 0 8px; font-size:1.9rem; line-height:1.08; }
     .md-lead h2 a { color:#173b7a; text-decoration:none; }
-    .md-lead p { margin:0 0 12px; color:#334968; font-size:1.12rem; }
-    .md-lead-img { width:100%; height:320px; object-fit:cover; border-radius:8px; }
-    .md-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }
-    .md-card { background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px; padding:14px; color:#1f3558; }
-    .md-card-img { width:100%; height:170px; object-fit:cover; border-radius:8px; margin-bottom:10px; }
-    .md-pill { display:inline-block; padding:6px 12px; border-radius:999px; background:#e7eefc; border:1px solid #bfd0f2; color:#365ac8; font-weight:800; margin-bottom:8px; }
-    .md-card h3 { margin:0 0 8px; font-size:2rem; line-height:1.05; }
+    .md-lead p { margin:0 0 12px; color:#334968; font-size:1rem; }
+    .md-lead-img { width:100%; height:260px; object-fit:cover; border-radius:8px; }
+
+    .md-grid {
+      display:grid;
+      grid-template-columns:repeat(4,minmax(0,1fr));
+      gap:12px;
+    }
+    .md-card {
+      background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px;
+      padding:12px; color:#1f3558;
+    }
+    .md-card-img { width:100%; height:120px; object-fit:cover; border-radius:8px; margin-bottom:8px; }
+    .md-pill { display:inline-block; padding:4px 10px; border-radius:999px; background:#e7eefc; border:1px solid #bfd0f2; color:#365ac8; font-weight:800; margin-bottom:6px; font-size:.88rem; }
+    .md-card h3 { margin:0 0 8px; font-size:1.25rem; line-height:1.15; min-height:58px; }
     .md-card h3 a { color:#142b58; text-decoration:none; }
     .md-card h3 a:visited { color:#142b58; }
-    .md-card p { margin:0 0 10px; color:#445a7b; font-size:1.02rem; }
-    .md-date { color:#6a7f9d; font-weight:700; margin-bottom:10px; }
+    .md-date { color:#6a7f9d; font-weight:700; margin-bottom:8px; font-size:.95rem; }
     .md-btn {
-      display:inline-flex; align-items:center; justify-content:center;
-      min-height:44px; padding:10px 18px; border-radius:999px;
+      display:inline-flex; align-items:center; justify-content:center; width:100%;
+      min-height:40px; padding:8px 14px; border-radius:999px;
       background:#d91f2a; color:#fff !important; font-weight:800; text-decoration:none;
     }
     .md-btn:hover { background:#b81720; }
-    @media (max-width:1000px) { .md-grid{grid-template-columns:1fr 1fr;} .md-lead h2{font-size:1.7rem;} }
-    @media (max-width:680px) { .md-grid{grid-template-columns:1fr;} .md-lead h2{font-size:1.4rem;} .md-lead-img{height:220px;} }
+
+    .md-sidebar {
+      display:flex; flex-direction:column; gap:12px;
+    }
+    .md-side-card {
+      background:#f4f7ff; border:1px solid #d9e2f3; border-radius:10px; padding:12px;
+    }
+    .md-side-card h4 {
+      margin:0 0 8px; color:#173b7a; font-size:1.05rem;
+    }
+    .md-side-card ul {
+      list-style:none; margin:0; padding:0;
+    }
+    .md-side-card li {
+      display:flex; justify-content:space-between; gap:10px;
+      padding:6px 0; border-bottom:1px solid #e3eaf8; color:#2a4164;
+      font-size:.95rem;
+    }
+    .md-side-card li:last-child { border-bottom:0; }
+    .md-side-card a {
+      color:#2f53c7; text-decoration:none; line-height:1.2;
+    }
+
+    @media (max-width: 1200px) {
+      .md-layout { grid-template-columns:1fr; }
+      .md-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
+    }
+    @media (max-width: 920px) {
+      .md-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+    }
+    @media (max-width: 680px) {
+      .md-grid { grid-template-columns:1fr; }
+    }
   </style>
 </head>
 <body>
@@ -55,7 +100,9 @@
       <div>Trending: AI • Earnings • Rates • Regulation • Macro | Updated April 18, 2026</div>
     </div>
 
-    
+    <div class="md-layout">
+      <section>
+        
         <section class="md-lead">
           <div class="md-kicker">TOP STORY</div>
           <h2><a href="/blog/are-sentiment-2026-04-18-1751.html">Alexandria Real Estate Equities Inc Sees a Bullish Uptick Amid Market and Geopolitical Shifts</a></h2>
@@ -63,32 +110,28 @@
           <img src="https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&amp;w=1920&amp;h=1080" alt="Alexandria Real Estate Equities Inc Sees a Bullish Uptick Amid Market and Geopolitical Shifts" class="md-lead-img" loading="lazy" />
         </section>
         
-
-    <section class="md-grid">
-      
+        <section class="md-grid">
+          
         <article class="md-card">
           <img src="https://image.cnbcfm.com/api/v1/image/105843799-1554907883822studentstakingtest.jpg?v=1776459227&amp;w=1920&amp;h=1080" alt="Saratoga Investment Corp (SAY) Shares Steady Amid Global Tensions and Market Optimism" class="md-card-img" loading="lazy" />
           <div class="md-pill">SAY • Bullish</div>
           <h3><a href="/blog/say-sentiment-2026-04-18-1751.html">Saratoga Investment Corp (SAY) Shares Steady Amid Global Tensions and Market Optimism</a></h3>
-          <p>Saratoga Investment Corp&#x27;s stock showed marginal gains today as geopolitical developments around the Strait of Hormuz and evolving US-Iran relations influenced market dynamics. Investors weigh bullish opportunities against risks from ongoing negotiations and security issues in critical shipping routes.</p>
           <div class="md-date">2026-04-18</div>
           <a class="md-btn" href="/blog/say-sentiment-2026-04-18-1751.html">Read report →</a>
         </article>
         
         <article class="md-card">
-          
+          <img src="https://image.cnbcfm.com/api/v1/image/105843799-1554907883822studentstakingtest.jpg?v=1776459227&amp;w=1920&amp;h=1080" alt="Gartner Inc Faces Market Pressure Amid Rising Geopolitical Tensions and Economic Headwinds" class="md-card-img" loading="lazy" />
           <div class="md-pill">IT • Bearish</div>
           <h3><a href="/blog/it-sentiment-2026-04-18-1747.html">Gartner Inc Faces Market Pressure Amid Rising Geopolitical Tensions and Economic Headwinds</a></h3>
-          <p>Shares of Gartner Inc (ticker: IT) closed at $154.64, down 0.57% as geopolitical tensions rise around the Strait of Hormuz with attacks on Indian ships and U.S.-Iran conflict intensifying. These developments pose risks to global trade and economic stability, impacting technology sector outlooks. This article delves into market responses, implications for investors, and what lies ahead.</p>
           <div class="md-date">2026-04-18</div>
           <a class="md-btn" href="/blog/it-sentiment-2026-04-18-1747.html">Read report →</a>
         </article>
         
         <article class="md-card">
-          
+          <img src="https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&amp;w=1920&amp;h=1080" alt="Amer Sports Inc Gains Amidst Turbulent Iran War and Economic Pressures: What Investors Should Know" class="md-card-img" loading="lazy" />
           <div class="md-pill">AS • Neutral</div>
           <h3><a href="/blog/as-sentiment-2026-04-18-1746.html">Amer Sports Inc Gains Amidst Turbulent Iran War and Economic Pressures: What Investors Should Know</a></h3>
-          <p>Amer Sports Inc (ticker: AS) stock climbed 3.05% to $37.12 as investors digest the evolving global situation shaped by the Iran war and $4 gas prices, which have strained the US consumer economy and shipping activities. The company’s performance is influenced by wide-ranging industry and macroeconomic effects, amid uncertain economic and geopolitical outlooks.</p>
           <div class="md-date">2026-04-18</div>
           <a class="md-btn" href="/blog/as-sentiment-2026-04-18-1746.html">Read report →</a>
         </article>
@@ -97,7 +140,6 @@
           <img src="https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&amp;w=1920&amp;h=1080" alt="Somerset Trust Holding Co Shares Dip Amid Middle East Tensions and Market Uncertainty" class="md-card-img" loading="lazy" />
           <div class="md-pill">SOME • Neutral</div>
           <h3><a href="/blog/some-sentiment-2026-04-18-1343.html">Somerset Trust Holding Co Shares Dip Amid Middle East Tensions and Market Uncertainty</a></h3>
-          <p>Somerset Trust Holding Co saw its shares decline by 2.8%, closing at $68.50, as escalating tensions in the Strait of Hormuz and geopolitical developments create uncertainty. While the banking sector faces headwinds, ongoing technological advances and macroeconomic dynamics offer both risks and opportunities for investors.</p>
           <div class="md-date">2026-04-18</div>
           <a class="md-btn" href="/blog/some-sentiment-2026-04-18-1343.html">Read report →</a>
         </article>
@@ -106,12 +148,55 @@
           
           <div class="md-pill">AMID • Neutral</div>
           <h3><a href="/blog/amid-sentiment-2026-04-18-1343.html">AMID Rises 2.2% Amid Global Market Shifts and Geopolitical Risks</a></h3>
-          <p>Shares of AMID rose 2.2% following a day marked by significant macroeconomic and geopolitical news. Key headlines include the Indian rupee’s surge on new oil forex window reports, US labor market stability despite Iran war risks, and Germany’s halving of 2026 growth forecasts. These factors frame a complex backdrop for investors weighing AMID’s outlook.</p>
           <div class="md-date">2026-04-18</div>
           <a class="md-btn" href="/blog/amid-sentiment-2026-04-18-1343.html">Read report →</a>
         </article>
         
-    </section>
+        <article class="md-card">
+          <img src="https://image.cnbcfm.com/api/v1/image/106900956-16243843872021-06-22t172417z_879139053_rc2t5o9wpyaj_rtrmadp_0_usa-fed-stress-tests.jpeg?v=1697983261&amp;w=1920&amp;h=1080" alt="Bloom Energy Corp Dips Amid Geopolitical Stability, Mixed Market Signals on April 17, 2026" class="md-card-img" loading="lazy" />
+          <div class="md-pill">BE • Neutral</div>
+          <h3><a href="/blog/be-sentiment-2026-04-17-2108.html">Bloom Energy Corp Dips Amid Geopolitical Stability, Mixed Market Signals on April 17, 2026</a></h3>
+          <div class="md-date">2026-04-17</div>
+          <a class="md-btn" href="/blog/be-sentiment-2026-04-17-2108.html">Read report →</a>
+        </article>
+        
+        <article class="md-card">
+          <img src="https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&amp;w=1920&amp;h=1080" alt="AT&amp;T Inc (T) Shares Nudge Up Amid Bullish Market Sentiment and Geopolitical Developments" class="md-card-img" loading="lazy" />
+          <div class="md-pill">T • Bullish</div>
+          <h3><a href="/blog/t-sentiment-2026-04-17-1536.html">AT&amp;T Inc (T) Shares Nudge Up Amid Bullish Market Sentiment and Geopolitical Developments</a></h3>
+          <div class="md-date">2026-04-17</div>
+          <a class="md-btn" href="/blog/t-sentiment-2026-04-17-1536.html">Read report →</a>
+        </article>
+        
+        <article class="md-card">
+          <img src="https://cdn.benzinga.com/files/images/story/2026/04/12/Close-Up-Of-Large-Red-Sign-With-White-Te_0.jpeg?width=2048&amp;height=1536" alt="Unity Software Rises 2.65% Amid Bullish Sentiment and Geo-Political Uncertainties" class="md-card-img" loading="lazy" />
+          <div class="md-pill">U • Bullish</div>
+          <h3><a href="/blog/u-sentiment-2026-04-17-0533.html">Unity Software Rises 2.65% Amid Bullish Sentiment and Geo-Political Uncertainties</a></h3>
+          <div class="md-date">2026-04-17</div>
+          <a class="md-btn" href="/blog/u-sentiment-2026-04-17-0533.html">Read report →</a>
+        </article>
+        
+        </section>
+      </section>
+
+      <aside class="md-sidebar">
+        <section class="md-side-card">
+          <h4>Active Tickers</h4>
+          <ul><li><strong>ARE</strong> <span>1 posts</span></li><li><strong>SAY</strong> <span>1 posts</span></li><li><strong>IT</strong> <span>1 posts</span></li><li><strong>AS</strong> <span>1 posts</span></li><li><strong>SOME</strong> <span>1 posts</span></li><li><strong>AMID</strong> <span>1 posts</span></li><li><strong>BE</strong> <span>1 posts</span></li><li><strong>T</strong> <span>1 posts</span></li><li><strong>U</strong> <span>1 posts</span></li></ul>
+        </section>
+        <section class="md-side-card">
+          <h4>Latest Updates</h4>
+          <ul><li><a href="/blog/are-sentiment-2026-04-18-1751.html">Alexandria Real Estate Equities Inc Sees a Bullish Uptick Amid Market and Geopolitical Shifts</a></li><li><a href="/blog/say-sentiment-2026-04-18-1751.html">Saratoga Investment Corp (SAY) Shares Steady Amid Global Tensions and Market Optimism</a></li><li><a href="/blog/it-sentiment-2026-04-18-1747.html">Gartner Inc Faces Market Pressure Amid Rising Geopolitical Tensions and Economic Headwinds</a></li><li><a href="/blog/as-sentiment-2026-04-18-1746.html">Amer Sports Inc Gains Amidst Turbulent Iran War and Economic Pressures: What Investors Should Know</a></li><li><a href="/blog/some-sentiment-2026-04-18-1343.html">Somerset Trust Holding Co Shares Dip Amid Middle East Tensions and Market Uncertainty</a></li><li><a href="/blog/amid-sentiment-2026-04-18-1343.html">AMID Rises 2.2% Amid Global Market Shifts and Geopolitical Risks</a></li><li><a href="/blog/be-sentiment-2026-04-17-2108.html">Bloom Energy Corp Dips Amid Geopolitical Stability, Mixed Market Signals on April 17, 2026</a></li><li><a href="/blog/t-sentiment-2026-04-17-1536.html">AT&amp;T Inc (T) Shares Nudge Up Amid Bullish Market Sentiment and Geopolitical Developments</a></li></ul>
+        </section>
+        <section class="md-side-card">
+          <h4>Full Archive</h4>
+          <p style="margin:0;color:#3d5274;">Older posts stay available in the archive.</p>
+          <p style="margin:10px 0 0;">
+            <a href="/blog/archive.html">Open Archive →</a>
+          </p>
+        </section>
+      </aside>
+    </div>
   </div>
 
   <div id="site-footer"></div>

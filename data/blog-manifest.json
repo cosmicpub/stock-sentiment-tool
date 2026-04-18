@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-04-17T23:09:43.825104+00:00",
+  "generated_at": "2026-04-18T13:41:46.657075+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SOME",
+      "href": "/blog/some-sentiment-2026-04-18-1343.html",
+      "title": "Somerset Trust Holding Co Shares Dip Amid Middle East Tensions and Market Uncertainty",
+      "excerpt": "Somerset Trust Holding Co saw its shares decline by 2.8%, closing at $68.50, as escalating tensions in the Strait of Hormuz and geopolitical developments create uncertainty. While the banking sector faces headwinds, ongoing technological advances and macroeconomic dynamics offer both risks and opportunities for investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T13:43:53.415330+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&w=1920&h=1080"
+    },
+    {
+      "ticker": "AMID",
+      "href": "/blog/amid-sentiment-2026-04-18-1343.html",
+      "title": "AMID Rises 2.2% Amid Global Market Shifts and Geopolitical Risks",
+      "excerpt": "Shares of AMID rose 2.2% following a day marked by significant macroeconomic and geopolitical news. Key headlines include the Indian rupee\u2019s surge on new oil forex window reports, US labor market stability despite Iran war risks, and Germany\u2019s halving of 2026 growth forecasts. These factors frame a complex backdrop for investors weighing AMID\u2019s outlook.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T13:43:37.213916+00:00",
+      "image_url": ""
+    },
+    {
+      "ticker": "ARE",
+      "href": "/blog/are-sentiment-2026-04-18-1343.html",
+      "title": "Alexandria Real Estate Equities (ARE) Gains 1.44% Amid Bullish Sentiment: What Investors Should Know",
+      "excerpt": "Alexandria Real Estate Equities Inc (ARE), a key player in the real estate sector, saw its share price climb 1.44% to $48.64, driven by bullish market sentiment and strong investor confidence. This article unpacks today\u2019s market developments, their importance for investors, alongside an analysis of both optimistic and cautious views on ARE's outlook.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T13:43:18.618425+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "href": "/blog/say-sentiment-2026-04-18-1343.html",
+      "title": "Saratoga Investment Corp (SAY) Sees Slight Gains Amid Geopolitical Tensions and Positive Market Sentiment",
+      "excerpt": "On April 18, 2026, Saratoga Investment Corp (SAY) closed modestly higher by 0.08%, amid a flurry of geopolitical news concerning Iran and the Strait of Hormuz that influenced market movements. Despite ongoing tensions, investor sentiment remains bullish with high confidence. This article dissects the day\u2019s developments, contrasting bull and bear perspectives for SAY investors, and highlights key macroeconomic and industry factors to watch in the near term.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T13:43:01.113603+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106790564-1605035923549-three.png?v=1605036000&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "href": "/blog/it-sentiment-2026-04-18-1342.html",
+      "title": "Gartner Inc Faces Bearish Sentiment Amid Heightened Geopolitical Tensions Impacting Markets",
+      "excerpt": "Gartner Inc\u2019s stock fell modestly by nearly 0.6% amid high bearish sentiment, reflecting investor caution linked to recent geopolitical developments in the Strait of Hormuz. These events contribute to a complex market environment for technology stocks, with potential risks and opportunities for investors detailed in this analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T13:42:44.585173+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105843799-1554907883822studentstakingtest.jpg?v=1776459227&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "href": "/blog/as-sentiment-2026-04-18-1342.html",
+      "title": "Amer Sports Inc Gains 3.05% Amid Geopolitical and Industry Shifts: What Investors Should Know",
+      "excerpt": "On April 18, 2026, Amer Sports Inc (ticker: AS) saw its stock price increase by 3.05%, closing at $37.12. This movement occurs against a backdrop of heightened geopolitical tensions in the Middle East impacting global trade routes, alongside evolving industry challenges and opportunities in textiles, apparel, and luxury goods. Investors should evaluate the implications of these events for Amer Sports.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T13:42:26.234255+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108293187-1776438118065-gettyimages-2262586560-dsc00067copy.jpeg?v=1776438357&w=1920&h=1080"
+    },
     {
       "ticker": "AMID",
       "href": "/blog/amid-sentiment-2026-04-17-2310.html",
@@ -257,6 +323,6 @@
       "image_url": ""
     }
   ],
-  "mode": "intraday",
+  "mode": "morning",
   "source": "finnhub_general_news"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-18T20:42:20.533927+00:00",
+  "generated_at": "2026-04-18T22:55:09.265651+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "AS Stock Analysis: News Sentiment, Risks, and Catalysts (April 18, 2026)",
+      "excerpt": "Amer Sports Inc (AS) headline momentum is bearish today. We break down key catalysts, risks, and sentiment drivers investors are watching.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 83,
+      "href": "/blog/as-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T22:55:09.265651+00:00",
+      "image_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "ticker": "TWO",
+      "title": "TWO Stock Analysis: News Sentiment, Risks, and Catalysts (April 18, 2026)",
+      "excerpt": "Two Harbors Investment Corp (TWO) headline momentum is neutral today. We break down key catalysts, risks, and sentiment drivers investors are watching.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/two-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T22:55:09.265651+00:00",
+      "image_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "ticker": "IT",
+      "title": "IT Stock Analysis: News Sentiment, Risks, and Catalysts (April 18, 2026)",
+      "excerpt": "Gartner Inc (IT) headline momentum is neutral today. We break down key catalysts, risks, and sentiment drivers investors are watching.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 27,
+      "href": "/blog/it-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T22:55:09.265651+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105843799-1554907883822studentstakingtest.jpg?v=1776459227&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis: News Sentiment, Risks, and Catalysts (April 18, 2026)",
+      "excerpt": "Alexandria Real Estate Equities Inc (ARE) headline momentum is bearish today. We break down key catalysts, risks, and sentiment drivers investors are watching.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 27,
+      "href": "/blog/are-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T22:55:09.265651+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "SOME Stock Analysis: News Sentiment, Risks, and Catalysts (April 18, 2026)",
+      "excerpt": "Somerset Trust Holding Co (SOME) headline momentum is bearish today. We break down key catalysts, risks, and sentiment drivers investors are watching.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 26,
+      "href": "/blog/some-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T22:55:09.265651+00:00",
+      "image_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: News Sentiment, Risks, and Catalysts (April 18, 2026)",
+      "excerpt": "Saratoga Investment Corp (SAY) headline momentum is bearish today. We break down key catalysts, risks, and sentiment drivers investors are watching.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 22,
+      "href": "/blog/say-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T22:55:09.265651+00:00",
+      "image_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
     {
       "ticker": "S",
       "title": "S News Impact Report (April 18, 2026)",
@@ -545,5 +617,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-18T20:42:20.533927+00:00"
+  "market_data_as_of": "2026-04-18T22:55:09.265651+00:00"
 }

@@ -17,7 +17,8 @@ MANIFEST_PATH = ROOT / "data" / "blog-manifest.json"
 FINNHUB_API_KEY = (os.getenv("FINNHUB_API_KEY") or "").strip()
 OPENAI_API_KEY = (os.getenv("OPENAI_API_KEY") or "").strip()
 OPENAI_MODEL = (os.getenv("OPENAI_MODEL") or "gpt-4.1-mini").strip()
-
+CANDIDATE_SCAN_LIMIT = int(os.getenv("CANDIDATE_SCAN_LIMIT", "40"))
+MIN_RELATED_MATCHES = int(os.getenv("MIN_RELATED_MATCHES", "1"))
 BLOG_RUN_MODE = (os.getenv("BLOG_RUN_MODE") or "morning").strip().lower()
 MORNING_POSTS = int(os.getenv("MORNING_POSTS", "6"))
 INTRADAY_POSTS = int(os.getenv("INTRADAY_POSTS", "2"))
@@ -127,22 +128,21 @@ def is_valid_symbol(sym: str) -> bool:
 
 def extract_ticker_candidates(news_items):
     """
-    Prefer Finnhub's `related` field (comma-separated symbols), fallback to regex.
+    Strict candidate extraction:
+    - Prefer Finnhub `related` field
+    - Ignore weak regex-only ticker extraction
     """
     counter = Counter()
 
     for item in news_items:
         related = (item.get("related") or "").upper().strip()
-        if related:
-            for raw in related.split(","):
-                sym = raw.strip().upper()
-                if is_valid_symbol(sym):
-                    counter[sym] += 2
+        if not related:
+            continue
 
-        text = f"{item.get('headline', '')} {item.get('summary', '')}".upper()
-        for m in re.findall(r"\b[A-Z]{1,5}\b", text):
-            if is_valid_symbol(m):
-                counter[m] += 1
+        for raw in related.split(","):
+            sym = raw.strip().upper()
+            if is_valid_symbol(sym):
+                counter[sym] += 1
 
     return counter
 
@@ -172,18 +172,37 @@ def score_news_for_ticker(symbol: str, company_name: str, news_items):
     sym = symbol.lower()
     mentions = []
     score = 0
+    related_hits = 0
 
     for item in news_items:
-        headline = item.get("headline") or ""
-        summary = item.get("summary") or ""
-        text = f"{headline} {summary}".lower()
-        related = (item.get("related") or "").lower()
+        h = item.get("headline") or ""
+        s = item.get("summary") or ""
+        text = f"{h} {s}".lower()
 
-        if sym in text or (comp and comp in text) or sym in related:
+        related = (item.get("related") or "").lower()
+        related_syms = {x.strip() for x in related.split(",") if x.strip()}
+
+        strong_related = sym in related_syms
+        text_match = (sym in text) or (comp and comp in text)
+
+        # only count if relevance is strong
+        if strong_related or text_match:
             mentions.append(item)
+            if strong_related:
+                related_hits += 1
+
             words = set(re.findall(r"[a-z]+", text))
             score += len(words.intersection(POSITIVE_WORDS))
             score -= len(words.intersection(NEGATIVE_WORDS))
+
+    # require at least one strong `related` signal
+    if related_hits < MIN_RELATED_MATCHES:
+        return {
+            "mentions": [],
+            "sentiment_score": 0,
+            "sentiment": "Neutral",
+            "confidence": "Low",
+        }
 
     sentiment = "Neutral"
     if score >= 2:
@@ -937,23 +956,28 @@ def main():
     counts = extract_ticker_candidates(general_news)
 
     candidates = []
-    for symbol, mention_count in counts.most_common(150):
+    for symbol, mention_count in counts.most_common(CANDIDATE_SCAN_LIMIT):
         validated = validate_ticker(symbol)
         if not validated:
             continue
-
+    
         ticker = validated["ticker"].upper()
-
+    
         if ticker in BLOCKED_TICKERS:
             continue
+    
         if float(validated.get("price") or 0) < MIN_PRICE:
             continue
-
+    
         ticker_news = score_news_for_ticker(symbol, validated["company_name"], general_news)
         if len(ticker_news["mentions"]) < MIN_MENTIONS:
             continue
-
-        impact_score = mention_count * 2 + abs(ticker_news["sentiment_score"]) + len(ticker_news["mentions"])
+    
+        impact_score = (
+            mention_count * 2
+            + abs(ticker_news["sentiment_score"])
+            + len(ticker_news["mentions"])
+        )
         item = {**validated, **ticker_news, "impact_score": impact_score}
         candidates.append(item)
 

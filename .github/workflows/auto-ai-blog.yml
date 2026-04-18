@@ -31,10 +31,6 @@ jobs:
 
       - name: Generate AI blog pages
         env:
-          CANDIDATE_SCAN_LIMIT: "40"
-          MIN_RELATED_MATCHES: "1"
-          MIN_MENTIONS: "2"
-          MIN_PRICE: "25"
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: "gpt-4.1-mini"
@@ -43,8 +39,10 @@ jobs:
           INTRADAY_POSTS: "2"
           MAX_ARCHIVE_POSTS: "120"
           BLOG_MOCK: "false"
-          MIN_PRICE: "25"
+          CANDIDATE_SCAN_LIMIT: "40"
+          MIN_RELATED_MATCHES: "1"
           MIN_MENTIONS: "2"
+          MIN_PRICE: "25"
         run: python3 scripts/generate_ai_blog.py
 
       - name: Commit and push generated files

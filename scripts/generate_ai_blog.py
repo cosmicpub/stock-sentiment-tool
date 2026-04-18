@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parent.parent
 BLOG_DIR = ROOT / "blog"
 INDEX_PATH = BLOG_DIR / "index.html"
 MANIFEST_PATH = ROOT / "data" / "blog-manifest.json"
-
+TICKER_COOLDOWN_DAYS = int(os.getenv("TICKER_COOLDOWN_DAYS", "2"))
 FINNHUB_API_KEY = (os.getenv("FINNHUB_API_KEY") or "").strip()
 OPENAI_API_KEY = (os.getenv("OPENAI_API_KEY") or "").strip()
 OPENAI_MODEL = (os.getenv("OPENAI_MODEL") or "gpt-4.1-mini").strip()
@@ -432,18 +432,24 @@ def render_post(stock, ai, generated_at):
 
 
 def render_index(posts, generated_at):
-    # de-dupe display by ticker (newest only)
-    deduped = []
-    seen_tickers = set()
-    for p in posts:
-        t = str(p.get("ticker", "")).upper()
-        if not t or t in seen_tickers:
-            continue
-        seen_tickers.add(t)
-        deduped.append(p)
+    # Keep newest posts order, do NOT de-dupe by ticker here (shows more variety on page)
+    ordered = posts[:]
 
-    lead = deduped[0] if deduped else None
-    rest = deduped[1:25] if len(deduped) > 1 else []
+    # De-dupe repeated image URLs across cards shown on this page
+    used_images = set()
+    normalized = []
+    for p in ordered:
+        item = dict(p)
+        img = (item.get("image_url") or "").strip()
+        if img:
+            if img in used_images:
+                item["image_url"] = ""  # avoid repeated image on page
+            else:
+                used_images.add(img)
+        normalized.append(item)
+
+    lead = normalized[0] if normalized else None
+    rest = normalized[1:25] if len(normalized) > 1 else []
 
     # sidebar data
     ticker_counts = Counter([str(p.get("ticker", "")).upper() for p in deduped if p.get("ticker")])
@@ -1057,11 +1063,34 @@ def main():
 
     selected = []
     seen_tickers = set()
+    
+    # build recent ticker set from manifest (cooldown)
+    recent_tickers = set()
+    now_dt = now_utc()
+    for p in existing_posts:
+        t = str(p.get("ticker", "")).upper()
+        if not t:
+            continue
+        g = p.get("generated_at")
+        if not g:
+            continue
+        try:
+            age_days = (now_dt - to_dt(g)).days
+            if age_days <= TICKER_COOLDOWN_DAYS:
+                recent_tickers.add(t)
+        except Exception:
+            pass
+    
     for c in candidates:
         t = c["ticker"]
+    
         if t in seen_tickers:
             continue
-
+    
+        # avoid repeating same ticker too frequently
+        if t in recent_tickers:
+            continue
+    
         if BLOG_RUN_MODE == "intraday":
             already_today = sum(
                 1 for p in existing_posts
@@ -1069,10 +1098,10 @@ def main():
             )
             if already_today >= 2:
                 continue
-
+    
         selected.append(c)
         seen_tickers.add(t)
-
+    
         if len(selected) >= run_count:
             break
 

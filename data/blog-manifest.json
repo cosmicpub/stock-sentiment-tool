@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-04-18T19:51:48.027052+00:00",
+  "generated_at": "2026-04-18T20:42:20.533927+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "S",
+      "title": "S News Impact Report (April 18, 2026)",
+      "excerpt": "A quick view of SentinelOne Inc's latest headline flow and why traders are reading it as neutral.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 81,
+      "href": "/blog/s-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T20:42:20.533927+00:00"
+    },
+    {
+      "ticker": "AS",
+      "title": "AS News Impact Report (April 18, 2026)",
+      "excerpt": "A quick view of Amer Sports Inc's latest headline flow and why traders are reading it as bearish.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 62,
+      "href": "/blog/as-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T20:42:20.533927+00:00"
+    },
+    {
+      "ticker": "OPEN",
+      "title": "OPEN News Impact Report (April 18, 2026)",
+      "excerpt": "A quick view of Opendoor Technologies Inc's latest headline flow and why traders are reading it as bullish.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 32,
+      "href": "/blog/open-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T20:42:20.533927+00:00"
+    },
+    {
+      "ticker": "TWO",
+      "title": "TWO News Impact Report (April 18, 2026)",
+      "excerpt": "A quick view of Two Harbors Investment Corp's latest headline flow and why traders are reading it as neutral.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/two-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T20:42:20.533927+00:00"
+    },
+    {
+      "ticker": "IT",
+      "title": "IT News Impact Report (April 18, 2026)",
+      "excerpt": "A quick view of Gartner Inc's latest headline flow and why traders are reading it as neutral.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/it-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T20:42:20.533927+00:00"
+    },
+    {
+      "ticker": "UP",
+      "title": "UP News Impact Report (April 18, 2026)",
+      "excerpt": "A quick view of Wheels Up Experience Inc's latest headline flow and why traders are reading it as neutral.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/up-news-impact-2026-04-18.html",
+      "published_date": "2026-04-18",
+      "generated_at": "2026-04-18T20:42:20.533927+00:00"
+    },
     {
       "ticker": "PUSH",
       "href": "/blog/push-sentiment-2026-04-18-1952.html",
@@ -478,5 +544,6 @@
     }
   ],
   "mode": "morning",
-  "source": "finnhub_general_news"
+  "source": "finnhub_general_news",
+  "market_data_as_of": "2026-04-18T20:42:20.533927+00:00"
 }

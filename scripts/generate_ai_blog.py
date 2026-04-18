@@ -437,21 +437,13 @@ def render_index(posts, generated_at):
         seen_tickers.add(t)
         deduped.append(p)
 
-    # de-dupe repeated image URLs across displayed cards
-    used_images = set()
-    normalized = []
-    for p in deduped:
-        item = dict(p)
-        img = (item.get("image_url") or "").strip()
-        if img:
-            if img in used_images:
-                item["image_url"] = ""  # remove repeated image, keep card
-            else:
-                used_images.add(img)
-        normalized.append(item)
+    lead = deduped[0] if deduped else None
+    rest = deduped[1:25] if len(deduped) > 1 else []
 
-    lead = normalized[0] if normalized else None
-    rest = normalized[1:13] if len(normalized) > 1 else []
+    # sidebar data
+    ticker_counts = Counter([str(p.get("ticker", "")).upper() for p in deduped if p.get("ticker")])
+    top_tickers = ticker_counts.most_common(12)
+    latest_links = deduped[:8]
 
     lead_html = ""
     if lead:
@@ -479,11 +471,19 @@ def render_index(posts, generated_at):
           {img_html}
           <div class="md-pill">{escape(p.get('ticker', 'NEWS'))} • {escape(p.get('sentiment', 'Neutral'))}</div>
           <h3><a href="{escape(p.get('href', '#'))}">{escape(p.get('title', 'Untitled'))}</a></h3>
-          <p>{escape(p.get('excerpt', ''))}</p>
           <div class="md-date">{escape(str(p.get('published_date', '')))}</div>
           <a class="md-btn" href="{escape(p.get('href', '#'))}">Read report →</a>
         </article>
         """)
+
+    ticker_board = "".join(
+        f'<li><strong>{escape(t)}</strong> <span>{n} posts</span></li>' for t, n in top_tickers
+    )
+
+    latest_board = "".join(
+        f'<li><a href="{escape(p.get("href", "#"))}">{escape(p.get("title", "Untitled"))}</a></li>'
+        for p in latest_links
+    )
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -494,7 +494,7 @@ def render_index(posts, generated_at):
   <meta name="description" content="Fresh ticker-impact stories generated from current market news." />
   <link rel="stylesheet" href="/style.css" />
   <style>
-    .md-wrap {{ max-width: 1280px; margin: 0 auto; padding: 18px 20px 40px; }}
+    .md-wrap {{ max-width: 1450px; margin: 0 auto; padding: 18px 20px 40px; }}
     .md-top {{
       border-top: 3px solid #cf2027;
       background: linear-gradient(90deg,#07265a,#1b2f7f);
@@ -505,32 +505,77 @@ def render_index(posts, generated_at):
       font-weight: 700;
       display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;
     }}
+
+    .md-layout {{
+      display:grid;
+      grid-template-columns: 3fr 1fr;
+      gap: 16px;
+    }}
+
     .md-lead {{
       background:#f4f7ff; border:1px solid #d9e2f3; border-left:6px solid #cf2027;
-      border-radius:10px; padding:16px; margin-bottom:18px; color:#102445;
+      border-radius:10px; padding:16px; margin-bottom:14px; color:#102445;
     }}
     .md-kicker {{ color:#cf2027; font-weight:800; letter-spacing:.04em; margin-bottom:6px; font-size:.82rem; }}
-    .md-lead h2 {{ margin:0 0 8px; font-size:2.2rem; line-height:1.05; }}
+    .md-lead h2 {{ margin:0 0 8px; font-size:1.9rem; line-height:1.08; }}
     .md-lead h2 a {{ color:#173b7a; text-decoration:none; }}
-    .md-lead p {{ margin:0 0 12px; color:#334968; font-size:1.12rem; }}
-    .md-lead-img {{ width:100%; height:320px; object-fit:cover; border-radius:8px; }}
-    .md-grid {{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }}
-    .md-card {{ background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px; padding:14px; color:#1f3558; }}
-    .md-card-img {{ width:100%; height:170px; object-fit:cover; border-radius:8px; margin-bottom:10px; }}
-    .md-pill {{ display:inline-block; padding:6px 12px; border-radius:999px; background:#e7eefc; border:1px solid #bfd0f2; color:#365ac8; font-weight:800; margin-bottom:8px; }}
-    .md-card h3 {{ margin:0 0 8px; font-size:2rem; line-height:1.05; }}
+    .md-lead p {{ margin:0 0 12px; color:#334968; font-size:1rem; }}
+    .md-lead-img {{ width:100%; height:260px; object-fit:cover; border-radius:8px; }}
+
+    .md-grid {{
+      display:grid;
+      grid-template-columns:repeat(4,minmax(0,1fr));
+      gap:12px;
+    }}
+    .md-card {{
+      background:#f4f7ff; border:1px solid #d9e2f3; border-radius:12px;
+      padding:12px; color:#1f3558;
+    }}
+    .md-card-img {{ width:100%; height:120px; object-fit:cover; border-radius:8px; margin-bottom:8px; }}
+    .md-pill {{ display:inline-block; padding:4px 10px; border-radius:999px; background:#e7eefc; border:1px solid #bfd0f2; color:#365ac8; font-weight:800; margin-bottom:6px; font-size:.88rem; }}
+    .md-card h3 {{ margin:0 0 8px; font-size:1.25rem; line-height:1.15; min-height:58px; }}
     .md-card h3 a {{ color:#142b58; text-decoration:none; }}
     .md-card h3 a:visited {{ color:#142b58; }}
-    .md-card p {{ margin:0 0 10px; color:#445a7b; font-size:1.02rem; }}
-    .md-date {{ color:#6a7f9d; font-weight:700; margin-bottom:10px; }}
+    .md-date {{ color:#6a7f9d; font-weight:700; margin-bottom:8px; font-size:.95rem; }}
     .md-btn {{
-      display:inline-flex; align-items:center; justify-content:center;
-      min-height:44px; padding:10px 18px; border-radius:999px;
+      display:inline-flex; align-items:center; justify-content:center; width:100%;
+      min-height:40px; padding:8px 14px; border-radius:999px;
       background:#d91f2a; color:#fff !important; font-weight:800; text-decoration:none;
     }}
     .md-btn:hover {{ background:#b81720; }}
-    @media (max-width:1000px) {{ .md-grid{{grid-template-columns:1fr 1fr;}} .md-lead h2{{font-size:1.7rem;}} }}
-    @media (max-width:680px) {{ .md-grid{{grid-template-columns:1fr;}} .md-lead h2{{font-size:1.4rem;}} .md-lead-img{{height:220px;}} }}
+
+    .md-sidebar {{
+      display:flex; flex-direction:column; gap:12px;
+    }}
+    .md-side-card {{
+      background:#f4f7ff; border:1px solid #d9e2f3; border-radius:10px; padding:12px;
+    }}
+    .md-side-card h4 {{
+      margin:0 0 8px; color:#173b7a; font-size:1.05rem;
+    }}
+    .md-side-card ul {{
+      list-style:none; margin:0; padding:0;
+    }}
+    .md-side-card li {{
+      display:flex; justify-content:space-between; gap:10px;
+      padding:6px 0; border-bottom:1px solid #e3eaf8; color:#2a4164;
+      font-size:.95rem;
+    }}
+    .md-side-card li:last-child {{ border-bottom:0; }}
+    .md-side-card a {{
+      color:#2f53c7; text-decoration:none; line-height:1.2;
+    }}
+
+    @media (max-width: 1200px) {{
+      .md-layout {{ grid-template-columns:1fr; }}
+      .md-grid {{ grid-template-columns:repeat(3,minmax(0,1fr)); }}
+    }}
+    @media (max-width: 920px) {{
+      .md-grid {{ grid-template-columns:repeat(2,minmax(0,1fr)); }}
+    }}
+    @media (max-width: 680px) {{
+      .md-grid {{ grid-template-columns:1fr; }}
+    }}
   </style>
 </head>
 <body>
@@ -542,11 +587,32 @@ def render_index(posts, generated_at):
       <div>Trending: AI • Earnings • Rates • Regulation • Macro | Updated {date_label(generated_at)}</div>
     </div>
 
-    {lead_html}
+    <div class="md-layout">
+      <section>
+        {lead_html}
+        <section class="md-grid">
+          {''.join(cards_html)}
+        </section>
+      </section>
 
-    <section class="md-grid">
-      {''.join(cards_html)}
-    </section>
+      <aside class="md-sidebar">
+        <section class="md-side-card">
+          <h4>Active Tickers</h4>
+          <ul>{ticker_board}</ul>
+        </section>
+        <section class="md-side-card">
+          <h4>Latest Updates</h4>
+          <ul>{latest_board}</ul>
+        </section>
+        <section class="md-side-card">
+          <h4>Full Archive</h4>
+          <p style="margin:0;color:#3d5274;">Older posts stay available in the archive.</p>
+          <p style="margin:10px 0 0;">
+            <a href="/blog/archive.html">Open Archive →</a>
+          </p>
+        </section>
+      </aside>
+    </div>
   </div>
 
   <div id="site-footer"></div>
@@ -1068,7 +1134,7 @@ def main():
     all_posts = all_posts[:MAX_ARCHIVE_POSTS]
 
     # Front page/blog main: latest 12 only
-    INDEX_PATH.write_text(render_index(all_posts[:12], generated_at), encoding="utf-8")
+    INDEX_PATH.write_text(render_index(all_posts[:24], generated_at), encoding="utf-8")
 
     # Archive page: full retained set
     (BLOG_DIR / "archive.html").write_text(render_archive(all_posts, generated_at), encoding="utf-8")

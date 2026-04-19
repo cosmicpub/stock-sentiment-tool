@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Generate high-quality stock sentiment blog posts from market headlines."""
+"""Generate stock sentiment blog posts from current market headlines.
+
+Supports two modes:
+- Real mode: fetches Finnhub news/quotes and uses OpenAI to draft article copy.
+- Mock mode: no network/API keys required, creates deterministic sample posts.
+"""
 
 from __future__ import annotations
 
@@ -23,27 +28,84 @@ MANIFEST_PATH = ROOT / "data" / "blog-manifest.json"
 
 OPENAI_API_URL = "https://api.openai.com/v1/responses"
 FINNHUB_BASE_URL = "https://finnhub.io/api/v1"
-SITE_URL = os.getenv("SITE_URL", "https://stocksentimentscore.com").rstrip("/")
 
 DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
-DEFAULT_MAX_POSTS = int(os.getenv("MAX_POSTS", "6"))
+DEFAULT_MAX_POSTS = 6
 
 STOPWORDS = {
-    "THE", "AND", "FOR", "WITH", "FROM", "NEWS", "TODAY", "WEEK", "MONTH", "INC", "CO", "PLC", "ETF",
-    "CEO", "CFO", "IPO", "SEC", "GDP", "CPI", "FED", "NYSE", "NASDAQ", "US", "USA", "Q1", "Q2", "Q3", "Q4"
+    "A",
+    "AN",
+    "THE",
+    "AND",
+    "OR",
+    "FOR",
+    "WITH",
+    "FROM",
+    "BY",
+    "ON",
+    "IN",
+    "TO",
+    "OF",
+    "US",
+    "USA",
+    "ETF",
+    "ETFS",
+    "CEO",
+    "CFO",
+    "IPO",
+    "SEC",
+    "GDP",
+    "CPI",
+    "FED",
+    "NYSE",
+    "NASDAQ",
+    "NEWS",
+    "TODAY",
+    "WEEK",
+    "MONTH",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
 }
 
-COMMON_FALSE_TICKERS = {
-    "OPEN", "GROW", "UNIT", "WELL", "LOVE", "FREE", "TRUE", "GOOD", "BEST", "TOP", "LOW", "HIGH",
-    "UP", "DOWN", "NOW", "NEW", "FAST", "GAIN", "LOSS", "RISK", "RATE", "SALE", "PLAN", "MOVE"
+POSITIVE_WORDS = {
+    "beat",
+    "beats",
+    "surge",
+    "surges",
+    "strong",
+    "growth",
+    "record",
+    "profit",
+    "profits",
+    "upgrade",
+    "upgrades",
+    "win",
+    "wins",
+    "bullish",
+    "rebound",
+    "gains",
 }
 
-TRUSTED_SOURCES = {
-    "Reuters", "Bloomberg", "CNBC", "MarketWatch", "WSJ", "Barrons", "Associated Press", "AP", "The Wall Street Journal"
+NEGATIVE_WORDS = {
+    "miss",
+    "misses",
+    "drop",
+    "drops",
+    "fall",
+    "falls",
+    "slump",
+    "warning",
+    "warnings",
+    "downgrade",
+    "downgrades",
+    "lawsuit",
+    "probe",
+    "bearish",
+    "risk",
+    "risks",
 }
-
-POSITIVE_WORDS = {"beat", "beats", "surge", "surges", "strong", "growth", "record", "profit", "profits", "upgrade", "upgrades", "bullish", "rebound", "gains", "outperform"}
-NEGATIVE_WORDS = {"miss", "misses", "drop", "drops", "fall", "falls", "slump", "warning", "warnings", "downgrade", "downgrades", "lawsuit", "probe", "bearish", "risk", "risks", "weak"}
 
 
 def now_utc() -> datetime:
@@ -62,26 +124,16 @@ def date_label(dt: datetime) -> str:
     return dt.strftime("%B %d, %Y")
 
 
-def http_json_get(url: str, *, timeout: int = 30, headers: dict[str, str] | None = None) -> Any:
-    req = urllib.request.Request(url, headers=headers or {}, method="GET")
-    with urllib.request.urlopen(req, timeout=timeout) as resp:  # nosec B310
-        return json.loads(resp.read().decode("utf-8"))
-
-
-def http_json_post(url: str, payload: dict[str, Any], *, timeout: int = 60, headers: dict[str, str] | None = None) -> Any:
-    req = urllib.request.Request(
-        url,
-        data=json.dumps(payload).encode("utf-8"),
-        headers=headers or {"Content-Type": "application/json"},
-        method="POST",
-    )
-    with urllib.request.urlopen(req, timeout=timeout) as resp:  # nosec B310
-        return json.loads(resp.read().decode("utf-8"))
+def safe_get_json(url: str, *, headers: dict[str, str] | None = None, timeout: int = 30) -> Any:
+    request = urllib.request.Request(url, headers=headers or {})
+    with urllib.request.urlopen(request, timeout=timeout) as response:  # nosec B310
+        return json.loads(response.read().decode("utf-8"))
 
 
 def finnhub_get(endpoint: str, params: dict[str, Any], api_key: str) -> Any:
-    query = urllib.parse.urlencode({**params, "token": api_key})
-    return http_json_get(f"{FINNHUB_BASE_URL}/{endpoint}?{query}")
+    qs = urllib.parse.urlencode({**params, "token": api_key})
+    url = f"{FINNHUB_BASE_URL}/{endpoint}?{qs}"
+    return safe_get_json(url)
 
 
 def load_manifest() -> dict[str, Any]:
@@ -101,40 +153,21 @@ def save_manifest(manifest: dict[str, Any]) -> None:
     MANIFEST_PATH.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
 
 
-def is_reasonable_ticker(token: str) -> bool:
-    if not re.fullmatch(r"[A-Z]{2,5}", token):
-        return False
-    if token in STOPWORDS or token in COMMON_FALSE_TICKERS:
-        return False
-    return True
-
-
 def extract_ticker_candidates(news_items: list[dict[str, Any]]) -> Counter:
     counter: Counter = Counter()
     for item in news_items:
-        headline = str(item.get("headline", ""))
-        summary = str(item.get("summary", ""))
-        related = str(item.get("related", ""))
-
-        for token in re.findall(r"\$([A-Z]{1,5})\b", headline):
-            if is_reasonable_ticker(token):
-                counter[token] += 4
-
-        for token in [t.strip().upper() for t in related.split(",") if t.strip()]:
-            if is_reasonable_ticker(token):
-                counter[token] += 6
-
-        text = f"{headline} {summary}".upper()
-        for token in re.findall(r"\b[A-Z]{2,5}\b", text):
-            if is_reasonable_ticker(token):
-                counter[token] += 1
+        text = f"{item.get('headline', '')} {item.get('summary', '')}".upper()
+        for token in re.findall(r"\b[A-Z]{1,5}\b", text):
+            if token in STOPWORDS:
+                continue
+            counter[token] += 1
     return counter
 
 
 def score_sentiment(text: str) -> int:
     words = re.findall(r"[a-zA-Z]+", text.lower())
-    pos = sum(1 for w in words if w in POSITIVE_WORDS)
-    neg = sum(1 for w in words if w in NEGATIVE_WORDS)
+    pos = sum(1 for word in words if word in POSITIVE_WORDS)
+    neg = sum(1 for word in words if word in NEGATIVE_WORDS)
     return pos - neg
 
 
@@ -146,86 +179,42 @@ def classify_sentiment(score: int) -> str:
     return "Neutral"
 
 
-def pick_best_image(mentions: list[dict[str, Any]]) -> str:
-    def looks_like_logo(url: str) -> bool:
-        lowered = url.lower()
-        noisy_tokens = (
-            "logo",
-            "icon",
-            "avatar",
-            "wordmark",
-            "placeholder",
-            "default-image",
-            "default.jpg",
-            "spacer",
-            "sprite",
-            "brand-assets",
-        )
-        # Reuters feeds often include repetitive brand/logo assets; skip those.
-        reuters_logo_patterns = ("reuters.com/pf/resources", "/resources_v2/images/", "reuters-graphics")
-        return any(token in lowered for token in noisy_tokens) or any(token in lowered for token in reuters_logo_patterns)
-
-    for item in mentions:
-        for key in ("image", "image_url", "urlToImage", "thumbnail"):
-            v = item.get(key)
-            if isinstance(v, str) and v.startswith(("http://", "https://")) and not looks_like_logo(v):
-                return v
-    return ""
-
-
-def fallback_article(stock: dict[str, Any], generated_at: datetime) -> dict[str, str]:
+def build_article_fallback(stock: dict[str, Any], generated_at: datetime) -> dict[str, str]:
     ticker = stock["ticker"]
-    company = stock.get("company_name", ticker)
-    sentiment = stock["sentiment"]
+    company = stock.get("company_name") or ticker
+    sentiment = stock["sentiment"].lower()
     score = stock["sentiment_score"]
-    date_text = date_label(generated_at)
+    date = date_label(generated_at)
 
-    title = f"{ticker} Stock Analysis: News Sentiment, Risks, and Catalysts ({date_text})"
-    excerpt = f"{company} ({ticker}) headline momentum is {sentiment.lower()} today. We break down key catalysts, risks, and sentiment drivers investors are watching."
-    price = stock.get("price")
-    mentions = stock.get("mentions", [])[:6]
-    headline_items = []
-    for item in mentions:
-        h = str(item.get("headline", "")).strip()
-        s = str(item.get("source", "")).strip()
-        if not h:
-            continue
-        headline_items.append(f"<li><strong>{escape(s or 'Source')}</strong>: {escape(h)}</li>")
-
-    catalyst_bias = "upside" if score >= 0 else "defensive"
-    body_html = (
-        f"<p><strong>{escape(company)} ({escape(ticker)})</strong> currently shows a <strong>{escape(sentiment)}</strong> headline tone based on company-specific coverage as of {escape(date_text)}.</p>"
-        f"<p>Our rules-based sentiment score is <strong>{score}</strong>. This score weighs positive/negative signal terms and source coverage concentration to estimate short-term narrative pressure.</p>"
-        f"{('<h2>Top Headlines Driving Sentiment</h2><ul>' + ''.join(headline_items) + '</ul>') if headline_items else ''}"
-        f"<h2>What This Means for Investors</h2><p>The current setup suggests a <strong>{escape(catalyst_bias)}</strong> posture may be warranted. "
-        "Investors should evaluate earnings trajectory, guidance credibility, margin trend durability, and valuation sensitivity to rates before acting.</p>"
-        f"<h2>Risk Checklist</h2><p>Watch for estimate revisions, management commentary shifts, macro-demand softness, and event risk around product cycles or regulatory headlines. "
-        f"{'Spot price snapshot: <strong>$' + str(price) + '</strong>.' if isinstance(price, (int, float)) else ''} "
-        "Treat this as a directional briefing, not a standalone investment recommendation.</p>"
-    )
-
-    return {"title": title, "excerpt": excerpt, "body_html": body_html}
+    return {
+        "title": f"{ticker} News Impact Report ({date})",
+        "excerpt": f"A quick view of {company}'s latest headline flow and why traders are reading it as {sentiment}.",
+        "body_html": "".join(
+            [
+                f"<p>{escape(company)} ({escape(ticker)}) is showing a <strong>{escape(stock['sentiment'])}</strong> tone in headline coverage as of {escape(date)}.</p>",
+                f"<p>Our heuristic sentiment score is <strong>{score}</strong>, based on recent positive/negative signal words in market coverage.</p>",
+                "<p>Use this report as a directional summary and pair it with valuation, risk, and macro context before taking action.</p>",
+            ]
+        ),
+    }
 
 
-def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: str, generated_at: datetime) -> dict[str, str]:
+def generate_article_openai(stock: dict[str, Any], generated_at: datetime, openai_api_key: str, model: str) -> dict[str, str]:
     prompt = {
         "ticker": stock["ticker"],
         "company_name": stock.get("company_name"),
-        "industry": stock.get("industry"),
-        "price": stock.get("price"),
-        "sentiment": stock.get("sentiment"),
-        "sentiment_score": stock.get("sentiment_score"),
+        "sentiment": stock["sentiment"],
+        "sentiment_score": stock["sentiment_score"],
         "headlines": [
             {
-                "headline": n.get("headline", ""),
-                "summary": n.get("summary", ""),
-                "source": n.get("source", ""),
-                "datetime": n.get("datetime", ""),
-                "url": n.get("url", ""),
+                "headline": item.get("headline"),
+                "source": item.get("source"),
+                "datetime": item.get("datetime"),
+                "url": item.get("url"),
             }
-            for n in stock.get("mentions", [])[:8]
+            for item in stock.get("mentions", [])[:8]
         ],
-        "date": date_label(generated_at),
+        "generated_at": iso(generated_at),
     }
 
     body = {
@@ -234,9 +223,8 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
             {
                 "role": "system",
                 "content": (
-                    "You are an expert financial SEO editor. Return strict JSON with keys title, excerpt, body_html. "
-                    "Requirements: title 60-90 chars and include ticker + a high-intent phrase like 'Stock Analysis' or 'Forecast'; "
-                    "excerpt 130-170 chars; body_html must include at least 6 paragraphs and 2 <h2> subsections, with concrete investor-relevant framing."
+                    "You write concise financial blog posts. Return strict JSON with keys: "
+                    "title, excerpt, body_html. body_html must contain 2-4 short <p> paragraphs."
                 ),
             },
             {"role": "user", "content": json.dumps(prompt)},
@@ -244,7 +232,7 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
         "text": {
             "format": {
                 "type": "json_schema",
-                "name": "seo_blog_post",
+                "name": "blog_post",
                 "schema": {
                     "type": "object",
                     "properties": {
@@ -260,28 +248,23 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
         },
     }
 
-    parsed = http_json_post(
+    payload = json.dumps(body).encode("utf-8")
+    request = urllib.request.Request(
         OPENAI_API_URL,
-        body,
+        data=payload,
         headers={
             "Authorization": f"Bearer {openai_api_key}",
             "Content-Type": "application/json",
         },
+        method="POST",
     )
-    out = str(parsed.get("output_text", "")).strip()
-    if not out and isinstance(parsed.get("output"), list):
-        # Robustly recover text when SDK output_text is absent.
-        chunks: list[str] = []
-        for item in parsed["output"]:
-            for content in item.get("content", []):
-                txt = content.get("text")
-                if isinstance(txt, str):
-                    chunks.append(txt)
-        out = "\n".join(chunks).strip()
-    if not out:
-        raise RuntimeError("Model returned empty output_text")
+    with urllib.request.urlopen(request, timeout=60) as res:  # nosec B310
+        parsed = json.loads(res.read().decode("utf-8"))
 
-    article = json.loads(out)
+    text = parsed.get("output_text", "").strip()
+    if not text:
+        raise RuntimeError("Empty model output")
+    article = json.loads(text)
     return {
         "title": article["title"].strip(),
         "excerpt": article["excerpt"].strip(),
@@ -289,65 +272,37 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
     }
 
 
-def render_post_html(stock: dict[str, Any], article: dict[str, str], generated_at: datetime, slug: str, image_url: str) -> str:
+def render_post_html(stock: dict[str, Any], article: dict[str, str], generated_at: datetime, slug: str) -> str:
     title = article["title"]
-    excerpt = article["excerpt"]
-    ticker = stock["ticker"]
-    company = stock.get("company_name", ticker)
-    sentiment = stock.get("sentiment", "Neutral")
-    canonical = f"{SITE_URL}/blog/{slug}.html"
-
-    image_meta = f'<meta property="og:image" content="{escape(image_url)}" />' if image_url else ""
-    hero_image = f'<img src="{escape(image_url)}" alt="{escape(ticker)} market sentiment chart" loading="lazy" style="width:100%;max-height:420px;object-fit:cover;border-radius:14px;margin:0 0 20px;" />' if image_url else ""
-
-    ld_json = {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": title,
-        "description": excerpt,
-        "datePublished": iso(generated_at),
-        "dateModified": iso(generated_at),
-        "author": {"@type": "Organization", "name": "Stock Sentiment Score"},
-        "publisher": {"@type": "Organization", "name": "Stock Sentiment Score"},
-        "mainEntityOfPage": canonical,
-        "url": canonical,
-    }
-    if image_url:
-        ld_json["image"] = [image_url]
+    description = article["excerpt"]
+    company = stock.get("company_name") or stock["ticker"]
+    sentiment = stock["sentiment"]
 
     return f"""<!DOCTYPE html>
-<html lang=\"en\">
+<html lang="en">
 <head>
-  <meta charset=\"UTF-8\" />
-  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{escape(title)} | Stock Sentiment Score</title>
-  <meta name=\"description\" content=\"{escape(excerpt)}\" />
-  <link rel=\"canonical\" href=\"{escape(canonical)}\" />
-  <meta property=\"og:title\" content=\"{escape(title)}\" />
-  <meta property=\"og:description\" content=\"{escape(excerpt)}\" />
-  <meta property=\"og:type\" content=\"article\" />
-  <meta property=\"og:url\" content=\"{escape(canonical)}\" />
-  {image_meta}
-  <link rel=\"stylesheet\" href=\"/style.css\" />
-  <script type=\"application/ld+json\">{json.dumps(ld_json)}</script>
+  <meta name="description" content="{escape(description)}" />
+  <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
-  <div id=\"site-header\"></div>
-  <main class=\"container content-page blog-article-page\">
-    <article class=\"content-card blog-article-card\">
-      <p class=\"eyebrow\">AI Stock Sentiment Report</p>
+  <div id="site-header"></div>
+  <main class="container content-page blog-post-page">
+    <article class="content-card">
+      <p class="eyebrow">AI Sentiment Report</p>
       <h1>{escape(title)}</h1>
-      <p><strong>Ticker:</strong> {escape(ticker)} · <strong>Company:</strong> {escape(company)} · <strong>Sentiment:</strong> {escape(sentiment)}</p>
+      <p><strong>Ticker:</strong> {escape(stock['ticker'])} · <strong>Company:</strong> {escape(company)} · <strong>Sentiment:</strong> {escape(sentiment)}</p>
       <p><strong>Published:</strong> {escape(date_label(generated_at))}</p>
-      {hero_image}
       {article['body_html']}
       <hr />
-      <p><a href=\"/blog/index.html\">← Back to blog index</a></p>
+      <p><a href="/blog/index.html">← Back to blog index</a></p>
     </article>
   </main>
-  <div id=\"site-footer\"></div>
-  <script src=\"/js/include-header.js\"></script>
-  <script src=\"/js/include-footer.js\"></script>
+  <div id="site-footer"></div>
+  <script src="/js/include-header.js"></script>
+  <script src="/js/include-footer.js"></script>
 </body>
 </html>
 """
@@ -356,24 +311,13 @@ def render_post_html(stock: dict[str, Any], article: dict[str, str], generated_a
 def render_index(posts: list[dict[str, Any]], generated_at: datetime) -> str:
     cards = []
     for post in posts[:60]:
-        image_html = ""
-        if post.get("image_url"):
-            image_html = (
-                f'<a href="{escape(post["href"])}" aria-label="{escape(post["title"])}">'
-                f'<img src="{escape(post["image_url"])}" alt="{escape(post.get("ticker", "Stock"))} report cover" '
-                'loading="lazy" style="width:100%;height:180px;object-fit:cover;border-radius:14px;margin:0 0 14px;" />'
-                f'</a>'
-            )
-
         cards.append(
             f"""
-        <article class=\"blog-report-card\">
-          {image_html}
-          <div class=\"blog-report-tag\">{escape(post.get('ticker', 'N/A'))} • {escape(post.get('sentiment', 'Neutral')).upper()}</div>
-          <h3><a href=\"{escape(post['href'])}\">{escape(post['title'])}</a></h3>
+        <article class="blog-report-card">
+          <div class="blog-report-tag">{escape(post.get('ticker', 'N/A'))} · {escape(post.get('sentiment', 'Neutral'))}</div>
+          <h3><a href="{escape(post['href'])}">{escape(post['title'])}</a></h3>
           <p>{escape(post.get('excerpt', ''))}</p>
-          <p style=\"margin:0 0 14px;font-size:14px;color:#64748b;\">{escape(post.get('published_date', ''))}</p>
-          <a class=\"blog-report-link\" href=\"{escape(post['href'])}\">Read report →</a>
+          <a class="blog-report-link" href="{escape(post['href'])}">Read report →</a>
         </article>
         """.strip()
         )
@@ -381,54 +325,55 @@ def render_index(posts: list[dict[str, Any]], generated_at: datetime) -> str:
     cards_html = "\n".join(cards) if cards else "<p>No reports available yet.</p>"
 
     return f"""<!DOCTYPE html>
-<html lang=\"en\">
+<html lang="en">
 <head>
-  <meta charset=\"UTF-8\" />
-  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />
-  <title>AI Stock Sentiment Reports | Stock Sentiment Score Blog</title>
-  <meta name=\"description\" content=\"Daily AI stock sentiment reports with headline impact analysis, catalysts, risks, and investor-focused summaries.\" />
-  <link rel=\"canonical\" href=\"{SITE_URL}/blog/index.html\" />
-  <link rel=\"stylesheet\" href=\"/style.css\" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Stock Sentiment Blog | Stock Sentiment Score</title>
+  <meta name="description" content="Recent AI-generated stock sentiment reports and headline impact summaries." />
+  <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
-  <div id=\"site-header\"></div>
-  <header class=\"hero hero-small blog-hero\">
-    <div class=\"hero-inner\">
-      <p class=\"eyebrow\">Market Insight Blog</p>
-      <h1>AI Stock Sentiment Reports</h1>
-      <p class=\"hero-text\">Fresh headline-driven analysis with SEO-focused titles, market context, and company-level risk/catalyst framing. Updated {escape(date_label(generated_at))}.</p>
+  <div id="site-header"></div>
+  <header class="hero hero-small blog-hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Market Insight Blog</p>
+      <h1>Stock Sentiment Blog</h1>
+      <p class="hero-text">Auto-generated from recent headlines. Last updated {escape(date_label(generated_at))}.</p>
     </div>
   </header>
-  <main class=\"container content-page blog-page\">
-    <section class=\"content-card blog-featured-card\">
-      <div class=\"blog-section-top\">
+  <main class="container content-page blog-page">
+    <section class="content-card blog-featured-card">
+      <div class="blog-section-top">
         <div>
           <h2>Latest Reports</h2>
-          <p>Browse sentiment, catalysts, and risk summaries by ticker.</p>
+          <p>Short-form AI summaries of news momentum by ticker.</p>
         </div>
       </div>
-      <div class=\"blog-report-grid\">{cards_html}</div>
+      <div class="blog-report-grid">
+        {cards_html}
+      </div>
     </section>
   </main>
-  <div id=\"site-footer\"></div>
-  <script src=\"/js/include-header.js\"></script>
-  <script src=\"/js/include-footer.js\"></script>
+  <div id="site-footer"></div>
+  <script src="/js/include-header.js"></script>
+  <script src="/js/include-footer.js"></script>
 </body>
 </html>
 """
 
 
-def select_real_candidates(news: list[dict[str, Any]], api_key: str, limit_hint: int) -> list[dict[str, Any]]:
-    counts = extract_ticker_candidates(news)
+def select_real_candidates(news: list[dict[str, Any]], finnhub_api_key: str) -> list[dict[str, Any]]:
+    ticker_counts = extract_ticker_candidates(news)
     candidates: list[dict[str, Any]] = []
 
-    for ticker, mention_weight in counts.most_common(max(60, limit_hint * 20)):
-        if mention_weight < 5:
+    for ticker, mentions in ticker_counts.most_common(120):
+        if mentions < 2:
             continue
 
         try:
-            profile = finnhub_get("stock/profile2", {"symbol": ticker}, api_key)
-            quote = finnhub_get("quote", {"symbol": ticker}, api_key)
+            profile = finnhub_get("stock/profile2", {"symbol": ticker}, finnhub_api_key)
+            quote = finnhub_get("quote", {"symbol": ticker}, finnhub_api_key)
         except urllib.error.URLError:
             continue
 
@@ -437,50 +382,32 @@ def select_real_candidates(news: list[dict[str, Any]], api_key: str, limit_hint:
         if not isinstance(quote, dict) or not quote.get("c"):
             continue
 
-        mentions: list[dict[str, Any]] = []
-        text_blobs = []
-        trust_bonus = 0
-
+        related = []
+        combined_text = []
         for item in news:
-            headline = str(item.get("headline", ""))
-            summary = str(item.get("summary", ""))
-            related = str(item.get("related", "")).upper()
-            full = f"{headline} {summary}".upper()
+            text = f"{item.get('headline', '')} {item.get('summary', '')}".upper()
+            if re.search(rf"\b{re.escape(ticker)}\b", text):
+                related.append(item)
+                combined_text.append(f"{item.get('headline', '')} {item.get('summary', '')}")
 
-            hit = (
-                ticker in {s.strip() for s in related.split(",") if s.strip()}
-                or bool(re.search(rf"\${re.escape(ticker)}\b", headline.upper()))
-                or bool(re.search(rf"\b{re.escape(ticker)}\b", full))
-            )
-            if not hit:
-                continue
-
-            mentions.append(item)
-            text_blobs.append(f"{headline} {summary}")
-            if str(item.get("source", "")).strip() in TRUSTED_SOURCES:
-                trust_bonus += 1
-
-        if len(mentions) < 2:
+        if len(related) < 2:
             continue
 
-        sentiment_score = score_sentiment(" ".join(text_blobs))
-        impact_score = mention_weight + len(mentions) * 2 + abs(sentiment_score) + trust_bonus
-
+        sentiment_score = score_sentiment(" ".join(combined_text))
         candidates.append(
             {
                 "ticker": ticker,
                 "company_name": profile.get("name") or ticker,
                 "industry": profile.get("finnhubIndustry") or "Unknown",
                 "price": quote.get("c"),
-                "sentiment": classify_sentiment(sentiment_score),
                 "sentiment_score": sentiment_score,
-                "impact_score": impact_score,
-                "mentions": mentions,
-                "image_url": pick_best_image(mentions),
+                "sentiment": classify_sentiment(sentiment_score),
+                "mentions": related,
+                "impact_score": mentions * 2 + abs(sentiment_score),
             }
         )
 
-    candidates.sort(key=lambda x: x["impact_score"], reverse=True)
+    candidates.sort(key=lambda item: item["impact_score"], reverse=True)
     return candidates
 
 
@@ -491,31 +418,39 @@ def mock_candidates() -> list[dict[str, Any]]:
             "company_name": "Apple Inc.",
             "industry": "Consumer Electronics",
             "price": 198.11,
-            "sentiment": "Bullish",
             "sentiment_score": 3,
-            "impact_score": 18,
-            "image_url": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1200&q=80",
-            "mentions": [{"headline": "Apple supplier checks point to stronger-than-expected iPhone demand", "source": "Reuters"}],
+            "sentiment": "Bullish",
+            "impact_score": 10,
+            "mentions": [{"headline": "Apple supplier checks point to strong iPhone demand", "source": "MockWire"}],
         },
         {
             "ticker": "NVDA",
             "company_name": "NVIDIA Corporation",
             "industry": "Semiconductors",
             "price": 1120.44,
-            "sentiment": "Bullish",
             "sentiment_score": 2,
-            "impact_score": 16,
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-            "mentions": [{"headline": "NVIDIA AI infrastructure demand remains elevated across hyperscalers", "source": "Bloomberg"}],
+            "sentiment": "Bullish",
+            "impact_score": 9,
+            "mentions": [{"headline": "NVIDIA AI server backlog remains elevated", "source": "MockWire"}],
+        },
+        {
+            "ticker": "TSLA",
+            "company_name": "Tesla, Inc.",
+            "industry": "Automobiles",
+            "price": 173.05,
+            "sentiment_score": -2,
+            "sentiment": "Bearish",
+            "impact_score": 8,
+            "mentions": [{"headline": "Tesla faces margin pressure amid renewed EV incentives", "source": "MockWire"}],
         },
     ]
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Generate AI stock sentiment blog posts.")
-    parser.add_argument("--mock", action="store_true", help="Generate deterministic sample content without API calls.")
-    parser.add_argument("--limit", type=int, default=DEFAULT_MAX_POSTS, help="Maximum number of posts to generate.")
-    parser.add_argument("--model", default=DEFAULT_MODEL, help="OpenAI model for article generation.")
+    parser.add_argument("--mock", action="store_true", help="Run without external APIs and generate deterministic sample posts.")
+    parser.add_argument("--limit", type=int, default=DEFAULT_MAX_POSTS, help=f"Maximum number of posts to generate (default: {DEFAULT_MAX_POSTS}).")
+    parser.add_argument("--model", default=DEFAULT_MODEL, help=f"OpenAI model name (default: {DEFAULT_MODEL}).")
     return parser.parse_args()
 
 
@@ -533,11 +468,13 @@ def main() -> None:
         if not openai_api_key:
             raise RuntimeError("Missing OPENAI_API_KEY (or run with --mock)")
 
-    candidates = mock_candidates() if args.mock else select_real_candidates(
-        finnhub_get("news", {"category": "general"}, finnhub_api_key),
-        finnhub_api_key,
-        limit,
-    )
+    if args.mock:
+        candidates = mock_candidates()
+    else:
+        news = finnhub_get("news", {"category": "general"}, finnhub_api_key)
+        if not isinstance(news, list):
+            raise RuntimeError("Finnhub general news response was not a list")
+        candidates = select_real_candidates(news, finnhub_api_key)
 
     selected = candidates[:limit]
 
@@ -545,23 +482,18 @@ def main() -> None:
     manifest = load_manifest()
     posts = manifest.get("posts", [])
 
-    used_images: set[str] = set()
-
     for stock in selected:
         slug = f"{stock['ticker'].lower()}-news-impact-{ymd(generated_at)}"
-        article = fallback_article(stock, generated_at)
-        if not args.mock:
-            try:
-                article = generate_openai_article(stock, openai_api_key, args.model, generated_at)
-            except Exception:
-                pass
 
-        image_url = stock.get("image_url") or pick_best_image(stock.get("mentions", []))
-        if image_url in used_images:
-            image_url = ""
-        if image_url:
-            used_images.add(image_url)
-        html = render_post_html(stock, article, generated_at, slug, image_url)
+        if args.mock:
+            article = build_article_fallback(stock, generated_at)
+        else:
+            try:
+                article = generate_article_openai(stock, generated_at, openai_api_key, args.model)
+            except Exception:
+                article = build_article_fallback(stock, generated_at)
+
+        html = render_post_html(stock, article, generated_at, slug)
         (BLOG_DIR / f"{slug}.html").write_text(html, encoding="utf-8")
 
         posts.append(
@@ -575,11 +507,10 @@ def main() -> None:
                 "href": f"/blog/{slug}.html",
                 "published_date": ymd(generated_at),
                 "generated_at": iso(generated_at),
-                "image_url": image_url,
             }
         )
 
-    posts = sorted(posts, key=lambda x: x.get("generated_at", ""), reverse=True)
+    posts = sorted(posts, key=lambda item: item.get("generated_at", ""), reverse=True)
 
     INDEX_PATH.write_text(render_index(posts, generated_at), encoding="utf-8")
     manifest.update(

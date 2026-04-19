@@ -896,6 +896,7 @@ body{
 }
 
 /* NAVBAR */
+/* NAVBAR */
 .top-nav{
   position:sticky;
   top:0;
@@ -912,6 +913,7 @@ body{
   display:flex;
   justify-content:space-between;
   align-items:center;
+  gap:12px;
 }
 
 .nav-logo a{
@@ -924,6 +926,8 @@ body{
 .nav-links{
   display:flex;
   gap:18px;
+  flex-wrap:wrap;
+  justify-content:flex-end;
 }
 
 .nav-links a{
@@ -935,6 +939,34 @@ body{
 
 .nav-links a:hover{
   color:#fff;
+}
+
+@media (max-width: 760px){
+  .nav-inner{
+    align-items:flex-start;
+    padding:12px 14px;
+  }
+
+  .nav-logo{
+    width:100%;
+  }
+
+  .nav-logo a{
+    display:inline-block;
+    font-size:17px;
+    line-height:1.2;
+  }
+
+  .nav-links{
+    width:100%;
+    gap:10px 14px;
+    justify-content:flex-start;
+  }
+
+  .nav-links a{
+    font-size:13px;
+    white-space:nowrap;
+  }
 }
 
 /* FOOTER */

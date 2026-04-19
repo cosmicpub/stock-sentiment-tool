@@ -432,6 +432,13 @@ def render_post_html(stock: dict[str, Any], article: dict[str, str], generated_a
       <p><strong>Published:</strong> {escape(date_label(generated_at))}</p>
       {hero_image}
       {article['body_html']}
+        <div style="margin-top:24px;padding:14px 16px;border:1px solid #fcd34d;background:#fffbeb;border-radius:10px;">
+        <strong>Educational Use Only — Not Financial Advice.</strong>
+        <p style="margin:8px 0 0;">
+          This content is generated for educational and informational purposes only and should not be considered
+          investment, financial, tax, or legal advice. Always do your own research and consult a licensed advisor.
+        </p>
+        </div>
       <hr />
       <p><a href=\"/blog/index.html\">← Back to blog index</a></p>
     </article>

@@ -16,6 +16,15 @@ from html import escape
 from pathlib import Path
 from typing import Any
 
+BLOG_DIR = ROOT / "blog"
+INDEX_PATH = BLOG_DIR / "index.html"
+ARCHIVE_PATH = BLOG_DIR / "archive.html"
+MANIFEST_PATH = ROOT / "data" / "blog-manifest.json"
+
+DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
+DEFAULT_MAX_POSTS = int(os.getenv("MAX_POSTS", "6"))
+FRONT_PAGE_POST_LIMIT = 24
+
 ROOT = Path(__file__).resolve().parent.parent
 BLOG_DIR = ROOT / "blog"
 INDEX_PATH = BLOG_DIR / "index.html"
@@ -467,72 +476,122 @@ def render_post_html(stock: dict[str, Any], article: dict[str, str], generated_a
 """
 
 
-def render_index(posts: list[dict[str, Any]], generated_at: datetime) -> str:
+def render_report_cards(posts: list[dict[str, Any]]) -> str:
     cards = []
-    for post in posts[:60]:
+    for post in posts:
         image_html = ""
         if post.get("image_url"):
             image_html = (
                 f'<a href="{escape(post["href"])}" aria-label="{escape(post["title"])}">'
                 f'<img src="{escape(post["image_url"])}" alt="{escape(post.get("ticker", "Stock"))} report cover" '
-                'loading="lazy" style="width:100%;height:180px;object-fit:cover;border-radius:14px;margin:0 0 14px;" />'
+                'loading="lazy" style="width:100%;height:140px;object-fit:cover;border-radius:12px;margin:0 0 10px;" />'
                 f'</a>'
             )
 
         cards.append(
             f"""
-        <article class=\"blog-report-card\">
+        <article class="blog-report-card">
           {image_html}
-          <div class=\"blog-report-tag\">{escape(post.get('ticker', 'N/A'))} • {escape(post.get('sentiment', 'Neutral')).upper()}</div>
-          <h3><a href=\"{escape(post['href'])}\">{escape(post['title'])}</a></h3>
+          <div class="blog-report-tag">{escape(post.get('ticker', 'N/A'))} • {escape(post.get('sentiment', 'Neutral')).upper()}</div>
+          <h3><a href="{escape(post['href'])}">{escape(post['title'])}</a></h3>
           <p>{escape(post.get('excerpt', ''))}</p>
-          <p style=\"margin:0 0 14px;font-size:14px;color:#64748b;\">{escape(post.get('published_date', ''))}</p>
-          <a class=\"blog-report-link\" href=\"{escape(post['href'])}\">Read report →</a>
+          <p style="margin:0 0 10px;font-size:13px;color:#64748b;">{escape(post.get('published_date', ''))}</p>
+          <a class="blog-report-link" href="{escape(post['href'])}">Read report →</a>
         </article>
         """.strip()
         )
+    return "\n".join(cards) if cards else "<p>No reports available yet.</p>"
 
-    cards_html = "\n".join(cards) if cards else "<p>No reports available yet.</p>"
+
+def render_index(posts: list[dict[str, Any]], generated_at: datetime) -> str:
+    visible_posts = posts[:FRONT_PAGE_POST_LIMIT]
+    archived_count = max(0, len(posts) - FRONT_PAGE_POST_LIMIT)
+    cards_html = render_report_cards(visible_posts)
 
     return f"""<!DOCTYPE html>
-<html lang=\"en\">
+<html lang="en">
 <head>
-  <meta charset=\"UTF-8\" />
-  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AI Stock Sentiment Reports | Stock Sentiment Score Blog</title>
-  <meta name=\"description\" content=\"Daily AI stock sentiment reports with headline impact analysis, catalysts, risks, and investor-focused summaries.\" />
-  <link rel=\"canonical\" href=\"{SITE_URL}/blog/index.html\" />
-  <link rel=\"stylesheet\" href=\"/style.css\" />
+  <meta name="description" content="Daily AI stock sentiment reports with headline impact analysis, catalysts, risks, and investor-focused summaries." />
+  <link rel="canonical" href="{SITE_URL}/blog/index.html" />
+  <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
-  <div id=\"site-header\"></div>
-  <header class=\"hero hero-small blog-hero\">
-    <div class=\"hero-inner\">
-      <p class=\"eyebrow\">Market Insight Blog</p>
+  <div id="site-header"></div>
+  <header class="hero hero-small blog-hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Market Insight Blog</p>
       <h1>AI Stock Sentiment Reports</h1>
-        <div style="margin-top:14px;padding:12px 14px;border:1px solid #fcd34d;background:#fffbeb;border-radius:10px;max-width:900px;">
-        <strong>Educational Use Only — Not Financial Advice.</strong>
-        <p style="margin:8px 0 0;">
-          Blog reports are informational and generated analysis. They are not personalized investment recommendations.
-        </p>
-      </div>
-      <p class=\"hero-text\">Fresh headline-driven analysis with SEO-focused titles, market context, and company-level risk/catalyst framing. Updated {escape(date_label(generated_at))}.</p>
+      <p class="hero-text">Fresh headline-driven analysis with SEO-focused titles, market context, and company-level risk/catalyst framing. Updated {escape(date_label(generated_at))}.</p>
     </div>
   </header>
-  <main class=\"container content-page blog-page\">
-    <section class=\"content-card blog-featured-card\">
-      <div class=\"blog-section-top\">
-        <div>
-          <h2>Latest Reports</h2>
-          <p>Browse sentiment, catalysts, and risk summaries by ticker.</p>
+  <main class="container content-page blog-page">
+    <section class="content-card blog-newsroom-layout">
+      <div class="blog-news-main">
+        <div class="blog-section-top">
+          <div>
+            <h2>Latest Reports</h2>
+            <p>Latest {FRONT_PAGE_POST_LIMIT} reports, with older reports moved to archive.</p>
+          </div>
         </div>
+        <div class="blog-report-grid blog-report-grid-compact">{cards_html}</div>
       </div>
-      <div class=\"blog-report-grid\">{cards_html}</div>
+      <aside class="blog-news-sidebar">
+        <div class="blog-sidebar-card">
+          <h3>Newsroom Feed</h3>
+          <p>Auto-published AI sentiment reports from market headlines and ticker-specific coverage.</p>
+          <p><strong>Visible now:</strong> {len(visible_posts)} reports</p>
+          <p><strong>Archived:</strong> {archived_count} reports</p>
+          <a class="blog-report-link" href="/blog/archive.html">Open full archive →</a>
+        </div>
+      </aside>
     </section>
   </main>
-  <div id=\"site-footer\"></div>
-  <script src=\"/js/include-header.js\"></script>
-  <script src=\"/js/include-footer.js\"></script>
+  <div id="site-footer"></div>
+  <script src="/js/include-header.js"></script>
+  <script src="/js/include-footer.js"></script>
+</body>
+</html>
+"""
+
+
+def render_archive(posts: list[dict[str, Any]], generated_at: datetime) -> str:
+    cards_html = render_report_cards(posts)
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Stock Sentiment Report Archive | Stock Sentiment Score</title>
+  <meta name="description" content="Full archive of AI stock sentiment reports published by Stock Sentiment Score." />
+  <link rel="canonical" href="{SITE_URL}/blog/archive.html" />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div id="site-header"></div>
+  <header class="hero hero-small blog-hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Market Insight Blog</p>
+      <h1>Report Archive</h1>
+      <p class="hero-text">Complete history of generated stock sentiment reports. Last updated {escape(date_label(generated_at))}.</p>
+    </div>
+  </header>
+  <main class="container content-page blog-page">
+    <section class="content-card blog-featured-card">
+      <div class="blog-section-top">
+        <div>
+          <h2>All Reports</h2>
+          <p>{len(posts)} total reports. <a href="/blog/index.html">Back to latest feed</a>.</p>
+        </div>
+      </div>
+      <div class="blog-report-grid blog-report-grid-compact">{cards_html}</div>
+    </section>
+  </main>
+  <div id="site-footer"></div>
+  <script src="/js/include-header.js"></script>
+  <script src="/js/include-footer.js"></script>
 </body>
 </html>
 """

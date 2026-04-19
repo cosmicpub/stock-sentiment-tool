@@ -549,6 +549,7 @@ def render_index(posts: list[dict[str, Any]], generated_at: datetime) -> str:
   <meta name="description" content="Daily AI stock sentiment reports with headline impact analysis, catalysts, risks, and investor-focused summaries." />
   <link rel="canonical" href="{SITE_URL}/blog/index.html" />
   <link rel="stylesheet" href="/style.css" />
+  <link rel="stylesheet" href="/blog-layout.css" />
 </head>
 <body>
   <div id="site-header"></div>

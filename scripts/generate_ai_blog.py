@@ -608,7 +608,44 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--limit", type=int, default=DEFAULT_MAX_POSTS, help="Maximum number of posts to generate.")
     parser.add_argument("--model", default=DEFAULT_MODEL, help="OpenAI model for article generation.")
     return parser.parse_args()
+def ensure_seo_title(title: str, ticker: str, company: str) -> str:
+    t = (title or "").strip()
 
+    # Detect weak/generic title patterns
+    weak_patterns = [
+        "news impact report",
+        "sentiment report",
+        "stock update",
+        "market update",
+        "daily update",
+    ]
+    is_weak = (len(t) < 45) or any(p in t.lower() for p in weak_patterns)
+
+    if is_weak:
+        return f"{ticker} Stock Analysis & Forecast: Is {ticker} a Buy Right Now?"
+
+    # Ensure high-intent keywords are present
+    lower_t = t.lower()
+    if "stock analysis" not in lower_t and "stock forecast" not in lower_t and "is " + ticker.lower() + " a buy" not in lower_t:
+        t = f"{t} | {ticker} Stock Analysis"
+
+    # Keep reasonable SEO length
+    if len(t) > 100:
+        t = t[:97].rstrip() + "..."
+
+    return t
+
+
+def ensure_excerpt_quality(excerpt: str, ticker: str, company: str) -> str:
+    e = (excerpt or "").strip()
+    if len(e) < 120:
+        e = (
+            f"{company} ({ticker}) sentiment outlook with bull and bear scenarios, "
+            f"key risks, and the next catalysts investors should watch."
+        )
+    if len(e) > 200:
+        e = e[:197].rstrip() + "..."
+    return e
 
 def main() -> None:
     args = parse_args()
@@ -646,7 +683,10 @@ def main() -> None:
                 article = generate_openai_article(stock, openai_api_key, args.model, generated_at)
             except Exception:
                 pass
-
+                
+        article["title"] = ensure_seo_title(article.get("title", ""), stock["ticker"], stock.get("company_name", stock["ticker"]))
+        article["excerpt"] = ensure_excerpt_quality(article.get("excerpt", ""), stock["ticker"], stock.get("company_name", stock["ticker"]))
+        
         image_url = stock.get("image_url") or pick_best_image(stock.get("mentions", []), used_images)
         if image_url:
             used_images.add(image_url)

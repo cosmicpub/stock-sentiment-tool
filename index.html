@@ -11,6 +11,7 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6749618919601275"
      crossorigin="anonymous"></script>
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="blog-layout.css" />
 </head>
 <body>
   <!-- HEADER -->
@@ -67,14 +68,34 @@
     <ul id="newsList" class="news-list"></ul>
 
     <!-- NEW: Latest AI Blog News -->
-    <section class="content-card home-news-card">
-      <div class="section-head">
-        <h2>Latest Market News</h2>
-        <p class="muted">Fresh ticker-impact stories generated from current market news.</p>
+    <section class="content-card home-news-card home-newsroom-shell">
+      <div class="home-news-main">
+        <div class="section-head">
+          <h2>Latest Market News</h2>
+          <p class="muted">Fresh ticker-impact stories generated from current market news.</p>
+          <p class="home-disclaimer-subtle">Educational content only — not financial advice.</p>
+        </div>
+        <div id="homeLatestNews" class="blog-report-grid blog-report-grid-large">
+          <p class="muted">Loading latest posts...</p>
+        </div>
       </div>
-      <div id="homeLatestNews" class="blog-report-grid">
-        <p class="muted">Loading latest posts...</p>
-      </div>
+    
+      <aside class="home-news-sidebar">
+        <div class="blog-sidebar-card">
+          <h3>News Desk</h3>
+          <p>Live generated ticker stories and sentiment snapshots.</p>
+          <a class="blog-report-link" href="/blog/">Open Blog Feed →</a>
+        </div>
+    
+        <div class="blog-sidebar-card">
+          <h3>Explore</h3>
+          <ul class="sidebar-story-list">
+            <li><a href="/blog/archive.html">Full Archive</a></li>
+            <li><a href="/blog/getting-started.html">How to Use Reports</a></li>
+            <li><a href="/faq.html">FAQ</a></li>
+          </ul>
+        </div>
+      </aside>
     </section>
 
     <section class="disclaimer">

@@ -2240,3 +2240,69 @@ footer, .site-footer{
     grid-template-columns:1fr;
   }
 }
+
+/* ===== Homepage + Blog width + disclaimer cleanup ===== */
+
+/* Wider shells */
+.home-page.home-page-wide,
+.blog-page.blog-page-full {
+  max-width: 1600px !important;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.home-page.home-page-wide .home-news-wide,
+.blog-page.blog-page-full .content-card {
+  max-width: none !important;
+  width: 100%;
+}
+
+/* Homepage cards can spread wider */
+.home-page .blog-report-grid,
+.home-page #homeLatestNews.blog-report-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+}
+
+/* Keep responsive */
+@media (max-width: 1450px){
+  .home-page .blog-report-grid,
+  .home-page #homeLatestNews.blog-report-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (max-width: 1050px){
+  .home-page .blog-report-grid,
+  .home-page #homeLatestNews.blog-report-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 720px){
+  .home-page .blog-report-grid,
+  .home-page #homeLatestNews.blog-report-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Kill the ugly yellow disclaimer styling everywhere */
+.blog-warning,
+.blog-disclaimer,
+.blog-alert,
+.hero .blog-warning,
+.hero .blog-disclaimer,
+.hero .blog-alert {
+  background: rgba(255,255,255,0.08) !important;
+  border: 1px solid rgba(255,255,255,0.16) !important;
+  color: rgba(255,255,255,0.80) !important;
+  border-radius: 12px !important;
+  padding: 10px 12px !important;
+  box-shadow: none !important;
+}
+
+/* If your yellow box is using .disclaimer class in hero, neutralize it too */
+.hero .disclaimer {
+  background: rgba(255,255,255,0.08) !important;
+  border: 1px solid rgba(255,255,255,0.16) !important;
+  color: rgba(255,255,255,0.80) !important;
+}

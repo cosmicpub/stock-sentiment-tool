@@ -2175,3 +2175,68 @@ footer, .site-footer{
     font-size:15px;
   }
 }
+
+/* ===== Wider blog layout with sidebar + 3 cards ===== */
+
+/* Let blog pages use more screen width than default container */
+.blog-page .container,
+.blog-page.container {
+  max-width: 1600px;
+}
+
+/* Override the global card width cap on blog pages only */
+.blog-page .content-card {
+  max-width: none !important;
+}
+
+/* Keep sidebar, but allocate space for 3-card rail */
+.blog-newsroom-layout{
+  display:grid;
+  grid-template-columns:minmax(0, 1fr) 340px;
+  gap:20px;
+  align-items:start;
+}
+
+/* Main column can hold 3 cards comfortably */
+.blog-news-main .blog-report-grid{
+  display:grid;
+  grid-template-columns:repeat(3, minmax(0, 1fr));
+  gap:18px;
+}
+
+/* Keep cards readable (not tiny) */
+.blog-report-card{
+  padding:20px;
+}
+
+.blog-report-card h3{
+  font-size:30px;
+  line-height:1.15;
+}
+
+.blog-report-card p{
+  font-size:18px;
+  line-height:1.6;
+}
+
+/* Sidebar stays sticky-ish feeling */
+.blog-news-sidebar{
+  min-width:0;
+}
+
+/* Responsive breakpoints */
+@media (max-width: 1400px){
+  .blog-news-main .blog-report-grid{
+    grid-template-columns:repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 980px){
+  .blog-newsroom-layout{
+    grid-template-columns:1fr;
+  }
+
+  .blog-news-main .blog-report-grid{
+    grid-template-columns:1fr;
+  }
+}

@@ -146,12 +146,32 @@ def classify_sentiment(score: int) -> str:
     return "Neutral"
 
 
-def pick_best_image(mentions: list[dict[str, Any]]) -> str:
+def pick_best_image(mentions: list[dict[str, Any]], used_urls: set[str] | None = None) -> str:
+    used_urls = used_urls or set()
+
+    def is_bad_image(url: str) -> bool:
+        u = url.lower()
+        bad_tokens = [
+            "logo", "wordmark", "icon", "avatar", "placeholder", "default",
+            "reuters.com/pf/resources", "/resources_v2/images/", "reuters-graphics",
+            "sprite", "brand-assets"
+        ]
+        return any(t in u for t in bad_tokens)
+
+    # Prefer first valid, non-duplicate, non-logo image
     for item in mentions:
         for key in ("image", "image_url", "urlToImage", "thumbnail"):
             v = item.get(key)
-            if isinstance(v, str) and v.startswith(("http://", "https://")):
-                return v
+            if not isinstance(v, str):
+                continue
+            if not v.startswith(("http://", "https://")):
+                continue
+            if v in used_urls:
+                continue
+            if is_bad_image(v):
+                continue
+            return v
+
     return ""
 
 
@@ -161,16 +181,35 @@ def fallback_article(stock: dict[str, Any], generated_at: datetime) -> dict[str,
     sentiment = stock["sentiment"]
     score = stock["sentiment_score"]
     date_text = date_label(generated_at)
+    price = stock.get("price")
+    mentions = stock.get("mentions", [])[:8]
 
-    title = f"{ticker} Stock Analysis: News Sentiment, Risks, and Catalysts ({date_text})"
-    excerpt = f"{company} ({ticker}) headline momentum is {sentiment.lower()} today. We break down key catalysts, risks, and sentiment drivers investors are watching."
-    body_html = "".join(
-        [
-            f"<p><strong>{escape(company)} ({escape(ticker)})</strong> currently shows a <strong>{escape(sentiment)}</strong> headline tone based on recent coverage and market narratives.</p>",
-            f"<p>Our rules-based sentiment score is <strong>{score}</strong>. This score reflects positive and negative signal words appearing in the latest company-specific headlines.</p>",
-            "<p>Potential upside catalysts include earnings momentum, improving guidance, and favorable sector trends. Key risks include valuation compression, execution misses, and macro volatility.</p>",
-            "<p>This page is for informational purposes only and should be combined with valuation, fundamentals, and risk management before any investment decision.</p>",
-        ]
+    # Better SEO title pattern
+    title = f"{ticker} Stock Forecast & Sentiment Analysis ({date_text}): Catalysts, Risks, and Outlook"
+    excerpt = (
+        f"{company} ({ticker}) sentiment update: key headline drivers, "
+        f"bull/bear catalysts, risk factors, and what investors should watch next."
+    )
+
+    bullets = []
+    for m in mentions:
+        h = str(m.get("headline", "")).strip()
+        s = str(m.get("source", "")).strip() or "Source"
+        if h:
+            bullets.append(f"<li><strong>{escape(s)}:</strong> {escape(h)}</li>")
+
+    body_html = (
+        f"<p><strong>{escape(company)} ({escape(ticker)})</strong> is currently screening as "
+        f"<strong>{escape(sentiment)}</strong> based on recent company-specific headline flow as of {escape(date_text)}.</p>"
+        f"<p>Our narrative score is <strong>{score}</strong>, derived from weighted positive/negative market language and topic concentration across latest mentions.</p>"
+        f"{('<h2>Top Headlines Driving This Signal</h2><ul>' + ''.join(bullets) + '</ul>') if bullets else ''}"
+        "<h2>Bull Case vs Bear Case</h2>"
+        "<p><strong>Bull case:</strong> upside can come from stronger revenue execution, margin stability, upward guidance revisions, and supportive sector momentum.</p>"
+        "<p><strong>Bear case:</strong> downside risk includes demand softness, estimate cuts, valuation compression, competitive pressure, and macro sensitivity.</p>"
+        "<h2>What to Watch Next</h2>"
+        f"<p>Watch management commentary, estimate revisions, and upcoming catalysts (earnings, product cycle updates, and macro releases). "
+        f"{'Current price snapshot: <strong>$' + str(price) + '</strong>. ' if isinstance(price, (int, float)) else ''}"
+        "Use this as a directional research brief, not financial advice.</p>"
     )
 
     return {"title": title, "excerpt": excerpt, "body_html": body_html}
@@ -192,7 +231,7 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
                 "datetime": n.get("datetime", ""),
                 "url": n.get("url", ""),
             }
-            for n in stock.get("mentions", [])[:8]
+            for n in stock.get("mentions", [])[:10]
         ],
         "date": date_label(generated_at),
     }
@@ -203,9 +242,13 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
             {
                 "role": "system",
                 "content": (
-                    "You are an expert financial SEO editor. Return strict JSON with keys title, excerpt, body_html. "
-                    "Requirements: title 60-90 chars and include ticker + a high-intent phrase like 'Stock Analysis' or 'Forecast'; "
-                    "excerpt 130-170 chars; body_html must have 4 concise <p> paragraphs with concrete investor-relevant framing."
+                    "You are a senior equity research and SEO editor. Return STRICT JSON with keys: title, excerpt, body_html.\n"
+                    "Rules:\n"
+                    "1) title: 65-95 chars, include ticker and high-intent phrases (Stock Forecast, Sentiment Analysis, Outlook).\n"
+                    "2) excerpt: 140-180 chars, specific and investor-focused.\n"
+                    "3) body_html: 900-1500 words total, include multiple <h2> sections and rich <p> paragraphs.\n"
+                    "4) Must include sections: Headline Drivers, Bull Case, Bear Case, Risks, What To Watch Next.\n"
+                    "5) Be concrete and analytical, avoid generic filler.\n"
                 ),
             },
             {"role": "user", "content": json.dumps(prompt)},
@@ -237,9 +280,19 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
             "Content-Type": "application/json",
         },
     )
-    out = parsed.get("output_text", "").strip()
+
+    out = str(parsed.get("output_text", "")).strip()
+    if not out and isinstance(parsed.get("output"), list):
+        chunks = []
+        for item in parsed["output"]:
+            for content in item.get("content", []):
+                txt = content.get("text")
+                if isinstance(txt, str):
+                    chunks.append(txt)
+        out = "\n".join(chunks).strip()
+
     if not out:
-        raise RuntimeError("Model returned empty output_text")
+        raise RuntimeError("Model returned empty output text")
 
     article = json.loads(out)
     return {
@@ -505,6 +558,8 @@ def main() -> None:
     manifest = load_manifest()
     posts = manifest.get("posts", [])
 
+    used_images: set[str] = set()
+    
     for stock in selected:
         slug = f"{stock['ticker'].lower()}-news-impact-{ymd(generated_at)}"
         article = fallback_article(stock, generated_at)
@@ -514,7 +569,9 @@ def main() -> None:
             except Exception:
                 pass
 
-        image_url = stock.get("image_url") or pick_best_image(stock.get("mentions", []))
+        image_url = stock.get("image_url") or pick_best_image(stock.get("mentions", []), used_images)
+        if image_url:
+            used_images.add(image_url)
         html = render_post_html(stock, article, generated_at, slug, image_url)
         (BLOG_DIR / f"{slug}.html").write_text(html, encoding="utf-8")
 

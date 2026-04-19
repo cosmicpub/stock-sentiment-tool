@@ -799,6 +799,7 @@ def main() -> None:
     posts = sorted(posts, key=lambda x: x.get("generated_at", ""), reverse=True)
 
     INDEX_PATH.write_text(render_index(posts, generated_at), encoding="utf-8")
+    ARCHIVE_PATH.write_text(render_archive(posts, generated_at), encoding="utf-8")
     manifest.update(
         {
             "generated_at": iso(generated_at),
@@ -808,7 +809,7 @@ def main() -> None:
         }
     )
     save_manifest(manifest)
-
+    
     print(f"Done. Generated {len(selected)} post(s). mock={args.mock}")
 
 

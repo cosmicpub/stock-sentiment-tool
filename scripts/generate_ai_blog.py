@@ -264,18 +264,14 @@ def fallback_article(stock: dict[str, Any], generated_at: datetime) -> dict[str,
 def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: str, generated_at: datetime) -> dict[str, str]:
     ticker = stock["ticker"]
     company = stock.get("company_name", ticker)
-    industry = stock.get("industry", "Unknown")
-    price = stock.get("price")
-    sentiment = stock.get("sentiment", "Neutral")
-    sentiment_score = stock.get("sentiment_score", 0)
 
     prompt = {
         "ticker": ticker,
         "company_name": company,
-        "industry": industry,
-        "price": price,
-        "sentiment": sentiment,
-        "sentiment_score": sentiment_score,
+        "industry": stock.get("industry", "Unknown"),
+        "price": stock.get("price"),
+        "sentiment": stock.get("sentiment", "Neutral"),
+        "sentiment_score": stock.get("sentiment_score", 0),
         "headlines": [
             {
                 "headline": n.get("headline", ""),
@@ -296,37 +292,57 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
             {
                 "role": "system",
                 "content": (
-                    "You are a senior financial SEO writer and equity-content editor.\n"
+                    "You are a senior financial SEO content strategist writing high-quality stock analysis articles.\n"
                     "Return STRICT JSON with keys: title, excerpt, body_html.\n\n"
 
-                    "Transform content with these rules:\n"
-                    "1) Create a strong SEO title using patterns like:\n"
-                    '   - "[Ticker] stock analysis"\n'
-                    '   - "[Company] stock forecast"\n'
-                    '   - "Is [Ticker] a buy"\n'
-                    "2) Write a compelling 2-3 sentence intro that includes company+ticker, current price context, "
-                    "main market driver, and a question hook for investors.\n"
-                    "3) Add a 'Quick Verdict' section near the top including: sentiment, short-term outlook, "
-                    "long-term outlook, risk level.\n"
-                    "4) Add a 'Stock Snapshot' section including: price, industry, sentiment score, key theme.\n"
-                    "5) Use these SEO-friendly section headers exactly:\n"
-                    "   - Why [Stock] Is Moving Today\n"
-                    "   - Bull Case for [Stock]\n"
-                    "   - Bear Case for [Stock]\n"
-                    "   - Key Risks for [Stock]\n"
-                    "   - What Investors Should Watch Next\n"
-                    "6) Improve readability: short paragraphs, occasional bold emphasis, light conversational tone.\n"
-                    "7) Add an FAQ section at the bottom with 3-5 investor questions.\n"
-                    "8) Add a visible 'Last Updated' timestamp.\n"
-                    "9) Keep it informative but slightly opinionated and engaging.\n"
-                    "10) Avoid generic phrasing; make the copy feel unique and human.\n\n"
+                    "Follow this framework, but introduce natural variation in execution:\n"
+                    "1) Always include:\n"
+                    "   - SEO-optimized title\n"
+                    "   - Intro hook\n"
+                    "   - Quick Verdict\n"
+                    "   - Stock Snapshot\n"
+                    "   - At least 3-5 core analysis sections\n"
+                    "   - FAQ section\n"
+                    "   - Last Updated timestamp\n\n"
 
-                    "Hard output requirements:\n"
-                    "- title: 65-100 chars, include ticker and high-intent keyword phrase.\n"
-                    "- excerpt: 140-200 chars.\n"
-                    "- body_html: 1,000-1,800 words, valid HTML using <h2>, <h3>, <p>, <ul>, <li>.\n"
-                    "- Must include exactly one FAQ section with 3-5 Q&A items.\n"
-                    "- Do NOT include markdown fences.\n"
+                    "2) Choose ONE primary framing per article:\n"
+                    "   - Is this stock a buy?\n"
+                    "   - Why this stock is moving\n"
+                    "   - Bull vs Bear breakdown\n"
+                    "   - Biggest risks investors should watch\n"
+                    "   - Short-term vs long-term outlook\n\n"
+
+                    "3) Vary section order naturally (do not always use the same sequence).\n\n"
+
+                    "4) Dynamically include/exclude optional sections based on context:\n"
+                    "   - What Smart Investors Are Thinking\n"
+                    "   - Hidden Opportunity\n"
+                    "   - Market Overreaction?\n"
+                    "   - Competitor Comparison\n"
+                    "   - Valuation Insight\n\n"
+
+                    "5) Rewrite all sections with unique phrasing each time:\n"
+                    "   - avoid repeated sentence structures\n"
+                    "   - avoid predictable transitions\n"
+                    "   - use natural, human-like tone\n\n"
+
+                    "6) Add light opinionated phrasing:\n"
+                    "   - highlight what matters most\n"
+                    "   - call out risks/opportunities clearly\n\n"
+
+                    "7) Generate a unique FAQ section each time based on this stock and current setup.\n"
+                    "8) Keep paragraphs short and readable.\n"
+                    "9) Avoid generic AI-sounding language.\n\n"
+
+                    "IMPORTANT content requirements:\n"
+                    "- title: 65-100 chars, include high-intent SEO terms such as "
+                    "\"[Ticker] stock analysis\", \"[Company] stock forecast\", or \"Is [Ticker] a buy\".\n"
+                    "- excerpt: 140-200 chars, compelling and specific.\n"
+                    "- body_html: 900-1600 words, valid HTML using <h2>, <h3>, <p>, <ul>, <li>.\n"
+                    "- Include a clear educational-use disclaimer in the generated body near the end:\n"
+                    "  \"This content is for educational and informational purposes only and is not financial advice.\"\n"
+                    "- Include a visible \"Last Updated\" line in body_html using provided date.\n"
+                    "- No markdown fences. Output only JSON."
                 ),
             },
             {"role": "user", "content": json.dumps(prompt)},
@@ -334,7 +350,7 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
         "text": {
             "format": {
                 "type": "json_schema",
-                "name": "seo_blog_post_v2",
+                "name": "seo_blog_post_v3",
                 "schema": {
                     "type": "object",
                     "properties": {

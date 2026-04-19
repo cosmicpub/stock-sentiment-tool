@@ -178,41 +178,87 @@ def pick_best_image(mentions: list[dict[str, Any]], used_urls: set[str] | None =
 def fallback_article(stock: dict[str, Any], generated_at: datetime) -> dict[str, str]:
     ticker = stock["ticker"]
     company = stock.get("company_name", ticker)
-    sentiment = stock["sentiment"]
-    score = stock["sentiment_score"]
-    date_text = date_label(generated_at)
+    industry = stock.get("industry", "Unknown")
+    sentiment = stock.get("sentiment", "Neutral")
+    score = stock.get("sentiment_score", 0)
     price = stock.get("price")
-    mentions = stock.get("mentions", [])[:8]
+    date_text = date_label(generated_at)
 
-    # Better SEO title pattern
-    title = f"{ticker} Stock Forecast & Sentiment Analysis ({date_text}): Catalysts, Risks, and Outlook"
-    excerpt = (
-        f"{company} ({ticker}) sentiment update: key headline drivers, "
-        f"bull/bear catalysts, risk factors, and what investors should watch next."
-    )
+    price_text = f"${price:.2f}" if isinstance(price, (int, float)) else "N/A"
+    risk_level = "High" if abs(score) >= 4 else ("Medium" if abs(score) >= 2 else "Low")
+    short_outlook = "Bullish bias" if score > 1 else ("Bearish bias" if score < -1 else "Sideways/Neutral")
+    long_outlook = "Constructive if execution holds" if score >= 0 else "Cautious until trend improves"
+    key_theme = "Momentum and narrative shift" if abs(score) >= 2 else "Mixed signals / wait-and-see"
 
-    bullets = []
-    for m in mentions:
-        h = str(m.get("headline", "")).strip()
-        s = str(m.get("source", "")).strip() or "Source"
+    mentions = stock.get("mentions", [])[:6]
+    drivers = []
+    for item in mentions:
+        h = str(item.get("headline", "")).strip()
+        s = str(item.get("source", "")).strip() or "Source"
         if h:
-            bullets.append(f"<li><strong>{escape(s)}:</strong> {escape(h)}</li>")
+            drivers.append(f"<li><strong>{escape(s)}:</strong> {escape(h)}</li>")
 
-    body_html = (
-        f"<p><strong>{escape(company)} ({escape(ticker)})</strong> is currently screening as "
-        f"<strong>{escape(sentiment)}</strong> based on recent company-specific headline flow as of {escape(date_text)}.</p>"
-        f"<p>Our narrative score is <strong>{score}</strong>, derived from weighted positive/negative market language and topic concentration across latest mentions.</p>"
-        f"{('<h2>Top Headlines Driving This Signal</h2><ul>' + ''.join(bullets) + '</ul>') if bullets else ''}"
-        "<h2>Bull Case vs Bear Case</h2>"
-        "<p><strong>Bull case:</strong> upside can come from stronger revenue execution, margin stability, upward guidance revisions, and supportive sector momentum.</p>"
-        "<p><strong>Bear case:</strong> downside risk includes demand softness, estimate cuts, valuation compression, competitive pressure, and macro sensitivity.</p>"
-        "<h2>What to Watch Next</h2>"
-        f"<p>Watch management commentary, estimate revisions, and upcoming catalysts (earnings, product cycle updates, and macro releases). "
-        f"{'Current price snapshot: <strong>$' + str(price) + '</strong>. ' if isinstance(price, (int, float)) else ''}"
-        "Use this as a directional research brief, not financial advice.</p>"
+    faq_items = [
+        (f"Is {ticker} stock a buy right now?", f"{ticker} currently has a {sentiment.lower()} setup. Consider valuation, earnings quality, and risk tolerance before deciding."),
+        (f"What is driving {ticker} stock today?", "Headline flow, sentiment momentum, and forward guidance expectations are the key near-term drivers."),
+        (f"What are the biggest risks for {ticker}?", "Estimate cuts, margin pressure, macro shocks, and execution misses are the core risks to monitor."),
+        (f"What should investors watch next for {ticker}?", "Watch earnings commentary, analyst revisions, and whether headline tone confirms or reverses current momentum."),
+    ]
+
+    title = f"{ticker} Stock Analysis: {company} Stock Forecast & Outlook — Is {ticker} a Buy?"
+    excerpt = (
+        f"{company} ({ticker}) sentiment update with bull/bear scenarios, risk analysis, "
+        f"and the key signals investors should watch next."
     )
 
-    return {"title": title, "excerpt": excerpt, "body_html": body_html}
+    body_html = f"""
+    <p><strong>{escape(company)} ({escape(ticker)})</strong> is trading around <strong>{escape(price_text)}</strong> and has a current sentiment read of <strong>{escape(sentiment)}</strong>. 
+    The main market driver right now is headline momentum and expectation-reset risk across its sector.</p>
+    <p>Investors are asking a simple question: <strong>is {escape(ticker)} a buy here, or is this setup a trap?</strong> 
+    The answer depends on whether upcoming catalysts confirm the current narrative or break it.</p>
+
+    <h2>Quick Verdict</h2>
+    <ul>
+      <li><strong>Sentiment:</strong> {escape(sentiment)}</li>
+      <li><strong>Short-Term Outlook:</strong> {escape(short_outlook)}</li>
+      <li><strong>Long-Term Outlook:</strong> {escape(long_outlook)}</li>
+      <li><strong>Risk Level:</strong> {escape(risk_level)}</li>
+    </ul>
+
+    <h2>Stock Snapshot</h2>
+    <ul>
+      <li><strong>Price:</strong> {escape(price_text)}</li>
+      <li><strong>Industry:</strong> {escape(industry)}</li>
+      <li><strong>Sentiment Score:</strong> {escape(str(score))}</li>
+      <li><strong>Key Theme:</strong> {escape(key_theme)}</li>
+    </ul>
+
+    <h2>Why {escape(ticker)} Is Moving Today</h2>
+    {("<ul>" + "".join(drivers) + "</ul>") if drivers else "<p>Price action appears driven by a mix of company updates, sector tone, and positioning ahead of catalysts.</p>"}
+
+    <h2>Bull Case for {escape(ticker)}</h2>
+    <p>If execution remains strong, the upside case includes improved guidance credibility, stronger demand signals, and multiple expansion as uncertainty fades.</p>
+
+    <h2>Bear Case for {escape(ticker)}</h2>
+    <p>The downside case is centered on softer demand, earnings misses, estimate cuts, and valuation compression if macro or rates move against risk assets.</p>
+
+    <h2>Key Risks for {escape(ticker)}</h2>
+    <p>Primary risks include guidance disappointment, margin pressure, regulatory or competitive shocks, and sudden narrative reversals after earnings commentary.</p>
+
+    <h2>What Investors Should Watch Next</h2>
+    <p>Track analyst revision trends, management tone, and whether new headlines reinforce or contradict the current sentiment structure.</p>
+
+    <h2>FAQ: {escape(ticker)} Stock Analysis</h2>
+    {"".join([f"<h3>{escape(q)}</h3><p>{escape(a)}</p>" for q, a in faq_items])}
+
+    <p><strong>Last Updated:</strong> {escape(date_text)} (UTC)</p>
+    """
+
+    return {
+        "title": title,
+        "excerpt": excerpt,
+        "body_html": body_html.strip(),
+    }
 
 
 def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: str, generated_at: datetime) -> dict[str, str]:

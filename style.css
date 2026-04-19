@@ -2306,3 +2306,97 @@ footer, .site-footer{
   border: 1px solid rgba(255,255,255,0.16) !important;
   color: rgba(255,255,255,0.80) !important;
 }
+
+/* ===== FORCE homepage 3-cards + true right sidebar ===== */
+.home-newsroom-shell{
+  display:grid !important;
+  grid-template-columns:minmax(0, 3fr) minmax(300px, 1fr) !important;
+  gap:16px !important;
+  align-items:start !important;
+}
+
+.home-news-main{
+  min-width:0 !important;
+}
+
+.home-news-sidebar{
+  min-width:0 !important;
+  display:flex !important;
+  flex-direction:column !important;
+  gap:12px !important;
+}
+
+/* 3 cards across in the main rail */
+#homeLatestNews.blog-report-grid{
+  display:grid !important;
+  grid-template-columns:repeat(3, minmax(0, 1fr)) !important;
+  gap:14px !important;
+  align-items:start !important;
+}
+
+/* Make cards smaller so sidebar has room */
+#homeLatestNews .blog-report-card{
+  padding:14px !important;
+  border-radius:14px !important;
+}
+
+#homeLatestNews .news-card-img,
+#homeLatestNews .news-thumb{
+  height:130px !important;
+  object-fit:cover !important;
+  border-radius:10px !important;
+}
+
+#homeLatestNews .blog-report-tag{
+  font-size:11px !important;
+  padding:5px 9px !important;
+  margin-bottom:8px !important;
+}
+
+#homeLatestNews .blog-report-card h3{
+  font-size:1.55rem !important;
+  line-height:1.2 !important;
+  margin:0 0 8px !important;
+}
+
+#homeLatestNews .blog-report-card p{
+  font-size:0.95rem !important;
+  line-height:1.4 !important;
+  margin:0 0 10px !important;
+}
+
+#homeLatestNews .blog-report-link{
+  margin-top:auto !important;
+  padding:10px 14px !important;
+  min-height:40px !important;
+  font-size:1rem !important;
+  border-radius:999px !important;
+}
+
+/* Kill ugly yellow disclaimer look */
+.blog-warning,
+.blog-disclaimer,
+.hero .blog-warning,
+.hero .blog-disclaimer{
+  background:rgba(255,255,255,.08) !important;
+  border:1px solid rgba(255,255,255,.18) !important;
+  color:rgba(255,255,255,.85) !important;
+  box-shadow:none !important;
+}
+
+/* Keep sidebar on desktop, stack only when actually needed */
+@media (max-width: 1280px){
+  .home-newsroom-shell{
+    grid-template-columns:minmax(0, 1fr) !important;
+  }
+
+  #homeLatestNews.blog-report-grid{
+    grid-template-columns:repeat(2, minmax(0, 1fr)) !important;
+  }
+}
+
+@media (max-width: 760px){
+  #homeLatestNews.blog-report-grid{
+    grid-template-columns:1fr !important;
+  }
+}

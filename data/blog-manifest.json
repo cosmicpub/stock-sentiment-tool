@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-19T01:33:33.090458+00:00",
+  "generated_at": "2026-04-19T01:56:09.662284+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Bearish Sentiment and Key Risks to Watch",
+      "excerpt": "ON Semiconductor (ON) faces bearish market sentiment amid global uncertainties. This analysis explores key risk factors, recent developments, and future outlook.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 102,
+      "href": "/blog/on-news-impact-2026-04-19.html",
+      "published_date": "2026-04-19",
+      "generated_at": "2026-04-19T01:56:09.662284+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108248606-1767689779972-gettyimages-2253792540-US_STOCKS.jpeg?v=1775823848&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is It Time to Buy Despite Bearish Sentiment?",
+      "excerpt": "Amer Sports Inc (AS) trades at $37.11 amid bearish sentiment. Our analysis explores key risks and opportunities shaping its short- and long-term outlook.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 80,
+      "href": "/blog/as-news-impact-2026-04-19.html",
+      "published_date": "2026-04-19",
+      "generated_at": "2026-04-19T01:56:09.662284+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291795-17762652421776265238-45281526073-1080pnbcnews.jpg?v=1776265241&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is This Real Estate Investment Trust a Buy in 2...",
+      "excerpt": "Explore our detailed analysis on Two Harbors Investment Corp (TWO) stock, covering valuation, risks, and market potential to see if it fits your portfolio this year.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/two-news-impact-2026-04-19.html",
+      "published_date": "2026-04-19",
+      "generated_at": "2026-04-19T01:56:09.662284+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108240022-1765391471879-gettyimages-2241308715-251017_la_011.jpeg?v=1765391511&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis April 2026: Is IT a Buy Amid Market Uncertainties?",
+      "excerpt": "Explore Gartner's latest stock perspective, valuation insights, and risks as we analyze if IT stock is a smart addition to your portfolio in April 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 27,
+      "href": "/blog/it-news-impact-2026-04-19.html",
+      "published_date": "2026-04-19",
+      "generated_at": "2026-04-19T01:56:09.662284+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105843799-1554907883822studentstakingtest.jpg?v=1776459227&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore a detailed analysis of Alexandria Real Estate Equities (ARE), evaluating its growth potential and risks in today\u2019s shifting real estate market.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 26,
+      "href": "/blog/are-news-impact-2026-04-19.html",
+      "published_date": "2026-04-19",
+      "generated_at": "2026-04-19T01:56:09.662284+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291972-1776276274360-gettyimages-1243905926-PGCURFEW.jpeg?v=1776276308&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is It a Buy in 2026?",
+      "excerpt": "Explore our in-depth Somerset Trust Holding Co (SOME) stock analysis for 2026, uncovering key insights, risks, and opportunities to help investors decide if SOME is a buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 24,
+      "href": "/blog/some-news-impact-2026-04-19.html",
+      "published_date": "2026-04-19",
+      "generated_at": "2026-04-19T01:56:09.662284+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is the Semiconductor Giant a Buy at $83.01?",
@@ -911,5 +983,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-19T01:33:33.090458+00:00"
+  "market_data_as_of": "2026-04-19T01:56:09.662284+00:00"
 }

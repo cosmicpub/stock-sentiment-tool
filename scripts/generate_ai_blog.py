@@ -509,52 +509,52 @@ def render_index(posts: list[dict[str, Any]], generated_at: datetime) -> str:
     cards_html = render_report_cards(visible_posts)
 
     return f"""<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI Stock Sentiment Reports | Stock Sentiment Score Blog</title>
-  <meta name="description" content="Daily AI stock sentiment reports with headline impact analysis, catalysts, risks, and investor-focused summaries." />
-  <link rel="canonical" href="{SITE_URL}/blog/index.html" />
-  <link rel="stylesheet" href="/style.css" />
-</head>
-<body>
-  <div id="site-header"></div>
-  <header class="hero hero-small blog-hero">
-    <div class="hero-inner">
-      <p class="eyebrow">Market Insight Blog</p>
-      <h1>AI Stock Sentiment Reports</h1>
-      <p class="hero-text">Fresh headline-driven analysis with SEO-focused titles, market context, and company-level risk/catalyst framing. Updated {escape(date_label(generated_at))}.</p>
-    </div>
-  </header>
-  <main class="container content-page blog-page">
-    <section class="content-card blog-newsroom-layout">
-      <div class="blog-news-main">
-        <div class="blog-section-top">
-          <div>
-            <h2>Latest Reports</h2>
-            <p>Latest {FRONT_PAGE_POST_LIMIT} reports, with older reports moved to archive.</p>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>AI Stock Sentiment Reports | Stock Sentiment Score Blog</title>
+      <meta name="description" content="Daily AI stock sentiment reports with headline impact analysis, catalysts, risks, and investor-focused summaries." />
+      <link rel="canonical" href="{SITE_URL}/blog/index.html" />
+      <link rel="stylesheet" href="/style.css" />
+    </head>
+    <body>
+      <div id="site-header"></div>
+      <header class="hero hero-small blog-hero">
+        <div class="hero-inner">
+          <p class="eyebrow">Market Insight Blog</p>
+          <h1>AI Stock Sentiment Reports</h1>
+          <p class="hero-text">Fresh headline-driven analysis with SEO-focused titles, market context, and company-level risk/catalyst framing. Updated {escape(date_label(generated_at))}.</p>
+        </div>
+      </header>
+      <main class="container content-page blog-page">
+        <section class="content-card blog-newsroom-layout">
+          <div class="blog-news-main">
+            <div class="blog-section-top">
+              <div>
+                <h2>Latest Reports</h2>
+                <p>Latest {FRONT_PAGE_POST_LIMIT} reports, with older reports moved to archive.</p>
+              </div>
+            </div>
+            <div class="blog-report-grid blog-report-grid-compact">{cards_html}</div>
           </div>
-        </div>
-        <div class="blog-report-grid blog-report-grid-compact">{cards_html}</div>
-      </div>
-      <aside class="blog-news-sidebar">
-        <div class="blog-sidebar-card">
-          <h3>Newsroom Feed</h3>
-          <p>Auto-published AI sentiment reports from market headlines and ticker-specific coverage.</p>
-          <p><strong>Visible now:</strong> {len(visible_posts)} reports</p>
-          <p><strong>Archived:</strong> {archived_count} reports</p>
-          <a class="blog-report-link" href="/blog/archive.html">Open full archive →</a>
-        </div>
-      </aside>
-    </section>
-  </main>
-  <div id="site-footer"></div>
-  <script src="/js/include-header.js"></script>
-  <script src="/js/include-footer.js"></script>
-</body>
-</html>
-"""
+          <aside class="blog-news-sidebar">
+            <div class="blog-sidebar-card">
+              <h3>Newsroom Feed</h3>
+              <p>Auto-published AI sentiment reports from market headlines and ticker-specific coverage.</p>
+              <p><strong>Visible now:</strong> {len(visible_posts)} reports</p>
+              <p><strong>Archived:</strong> {archived_count} reports</p>
+              <a class="blog-report-link" href="/blog/archive.html">Open full archive →</a>
+            </div>
+          </aside>
+        </section>
+      </main>
+      <div id="site-footer"></div>
+      <script src="/js/include-header.js"></script>
+      <script src="/js/include-footer.js"></script>
+    </body>
+    </html>
+    """
 
 
 def render_archive(posts: list[dict[str, Any]], generated_at: datetime) -> str:

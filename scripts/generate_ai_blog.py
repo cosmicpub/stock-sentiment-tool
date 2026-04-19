@@ -494,6 +494,12 @@ def render_index(posts: list[dict[str, Any]], generated_at: datetime) -> str:
     <div class=\"hero-inner\">
       <p class=\"eyebrow\">Market Insight Blog</p>
       <h1>AI Stock Sentiment Reports</h1>
+        <div style="margin-top:14px;padding:12px 14px;border:1px solid #fcd34d;background:#fffbeb;border-radius:10px;max-width:900px;">
+        <strong>Educational Use Only — Not Financial Advice.</strong>
+        <p style="margin:8px 0 0;">
+          Blog reports are informational and generated analysis. They are not personalized investment recommendations.
+        </p>
+      </div>
       <p class=\"hero-text\">Fresh headline-driven analysis with SEO-focused titles, market context, and company-level risk/catalyst framing. Updated {escape(date_label(generated_at))}.</p>
     </div>
   </header>

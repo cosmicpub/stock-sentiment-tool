@@ -216,13 +216,20 @@ def fallback_article(stock: dict[str, Any], generated_at: datetime) -> dict[str,
 
 
 def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: str, generated_at: datetime) -> dict[str, str]:
+    ticker = stock["ticker"]
+    company = stock.get("company_name", ticker)
+    industry = stock.get("industry", "Unknown")
+    price = stock.get("price")
+    sentiment = stock.get("sentiment", "Neutral")
+    sentiment_score = stock.get("sentiment_score", 0)
+
     prompt = {
-        "ticker": stock["ticker"],
-        "company_name": stock.get("company_name"),
-        "industry": stock.get("industry"),
-        "price": stock.get("price"),
-        "sentiment": stock.get("sentiment"),
-        "sentiment_score": stock.get("sentiment_score"),
+        "ticker": ticker,
+        "company_name": company,
+        "industry": industry,
+        "price": price,
+        "sentiment": sentiment,
+        "sentiment_score": sentiment_score,
         "headlines": [
             {
                 "headline": n.get("headline", ""),
@@ -233,7 +240,8 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
             }
             for n in stock.get("mentions", [])[:10]
         ],
-        "date": date_label(generated_at),
+        "generated_at": iso(generated_at),
+        "date_label": date_label(generated_at),
     }
 
     body = {
@@ -242,13 +250,37 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
             {
                 "role": "system",
                 "content": (
-                    "You are a senior equity research and SEO editor. Return STRICT JSON with keys: title, excerpt, body_html.\n"
-                    "Rules:\n"
-                    "1) title: 65-95 chars, include ticker and high-intent phrases (Stock Forecast, Sentiment Analysis, Outlook).\n"
-                    "2) excerpt: 140-180 chars, specific and investor-focused.\n"
-                    "3) body_html: 900-1500 words total, include multiple <h2> sections and rich <p> paragraphs.\n"
-                    "4) Must include sections: Headline Drivers, Bull Case, Bear Case, Risks, What To Watch Next.\n"
-                    "5) Be concrete and analytical, avoid generic filler.\n"
+                    "You are a senior financial SEO writer and equity-content editor.\n"
+                    "Return STRICT JSON with keys: title, excerpt, body_html.\n\n"
+
+                    "Transform content with these rules:\n"
+                    "1) Create a strong SEO title using patterns like:\n"
+                    '   - "[Ticker] stock analysis"\n'
+                    '   - "[Company] stock forecast"\n'
+                    '   - "Is [Ticker] a buy"\n'
+                    "2) Write a compelling 2-3 sentence intro that includes company+ticker, current price context, "
+                    "main market driver, and a question hook for investors.\n"
+                    "3) Add a 'Quick Verdict' section near the top including: sentiment, short-term outlook, "
+                    "long-term outlook, risk level.\n"
+                    "4) Add a 'Stock Snapshot' section including: price, industry, sentiment score, key theme.\n"
+                    "5) Use these SEO-friendly section headers exactly:\n"
+                    "   - Why [Stock] Is Moving Today\n"
+                    "   - Bull Case for [Stock]\n"
+                    "   - Bear Case for [Stock]\n"
+                    "   - Key Risks for [Stock]\n"
+                    "   - What Investors Should Watch Next\n"
+                    "6) Improve readability: short paragraphs, occasional bold emphasis, light conversational tone.\n"
+                    "7) Add an FAQ section at the bottom with 3-5 investor questions.\n"
+                    "8) Add a visible 'Last Updated' timestamp.\n"
+                    "9) Keep it informative but slightly opinionated and engaging.\n"
+                    "10) Avoid generic phrasing; make the copy feel unique and human.\n\n"
+
+                    "Hard output requirements:\n"
+                    "- title: 65-100 chars, include ticker and high-intent keyword phrase.\n"
+                    "- excerpt: 140-200 chars.\n"
+                    "- body_html: 1,000-1,800 words, valid HTML using <h2>, <h3>, <p>, <ul>, <li>.\n"
+                    "- Must include exactly one FAQ section with 3-5 Q&A items.\n"
+                    "- Do NOT include markdown fences.\n"
                 ),
             },
             {"role": "user", "content": json.dumps(prompt)},
@@ -256,7 +288,7 @@ def generate_openai_article(stock: dict[str, Any], openai_api_key: str, model: s
         "text": {
             "format": {
                 "type": "json_schema",
-                "name": "seo_blog_post",
+                "name": "seo_blog_post_v2",
                 "schema": {
                     "type": "object",
                     "properties": {

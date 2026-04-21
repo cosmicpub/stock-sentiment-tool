@@ -16,10 +16,15 @@ from html import escape
 from pathlib import Path
 from typing import Any
 
+ROOT = Path(__file__).resolve().parent.parent
 BLOG_DIR = ROOT / "blog"
 INDEX_PATH = BLOG_DIR / "index.html"
 ARCHIVE_PATH = BLOG_DIR / "archive.html"
 MANIFEST_PATH = ROOT / "data" / "blog-manifest.json"
+
+OPENAI_API_URL = "https://api.openai.com/v1/responses"
+FINNHUB_BASE_URL = "https://finnhub.io/api/v1"
+SITE_URL = os.getenv("SITE_URL", "https://stocksentimentscore.com").rstrip("/")
 
 DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
 DEFAULT_MAX_POSTS = int(os.getenv("MAX_POSTS", "6"))

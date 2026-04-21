@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-19T01:56:09.662284+00:00",
+  "generated_at": "2026-04-21T05:34:50.642321+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Sector Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's current bearish outlook and key factors shaping its stock forecast in the textiles and apparel industry as of April 2026.",
+      "sentiment": "Bearish",
+      "score": -9,
+      "impact_score": 125,
+      "href": "/blog/as-news-impact-2026-04-21.html",
+      "published_date": "2026-04-21",
+      "generated_at": "2026-04-21T05:34:50.642321+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292227-1776308110730-gettyimages-2269603615-AFP_A6WU9KF.jpeg?v=1776308121&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's bearish outlook, valuation concerns, and growth prospects in this comprehensive stock analysis and forecast for potential investors.",
+      "sentiment": "Bearish",
+      "score": -9,
+      "impact_score": 124,
+      "href": "/blog/on-news-impact-2026-04-21.html",
+      "published_date": "2026-04-21",
+      "generated_at": "2026-04-21T05:34:50.642321+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292227-1776308110730-gettyimages-2269603615-AFP_A6WU9KF.jpeg?v=1776308121&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore a comprehensive analysis of Two Harbors Investment Corp (TWO) stock, including key industry insights, valuation, risks, and investment outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 43,
+      "href": "/blog/two-news-impact-2026-04-21.html",
+      "published_date": "2026-04-21",
+      "generated_at": "2026-04-21T05:34:50.642321+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291970-1776276253964-gettyimages-1493003872-portraitoffunsoallyway-2.jpeg?v=1776276273&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Gartner Inc's current outlook with bearish sentiment, discuss risks and opportunities, and determine if IT stock is a buy for value investors today.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 41,
+      "href": "/blog/it-news-impact-2026-04-21.html",
+      "published_date": "2026-04-21",
+      "generated_at": "2026-04-21T05:34:50.642321+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108293112-1776431396833-gettyimages-2264504321-dsc00674.jpeg?v=1776431498&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Now the Time to Buy or Hold?",
+      "excerpt": "Explore our in-depth Hasbro Inc stock analysis amid bearish market sentiment and industry challenges. Discover key risks, valuation insights, and outlook.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 30,
+      "href": "/blog/has-news-impact-2026-04-21.html",
+      "published_date": "2026-04-21",
+      "generated_at": "2026-04-21T05:34:50.642321+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108293845-1776683259489-gettyimages-2271539084-AA_19042026_2746088.jpeg?v=1776683287&w=1920&h=1080"
+    },
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amid Geopolitical Tensions?",
+      "excerpt": "Explore the latest Seanergy Maritime Holdings (SHIP) stock analysis. Understand the impact of recent geopolitical events and marine industry trends on SHIP's outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/ship-news-impact-2026-04-21.html",
+      "published_date": "2026-04-21",
+      "generated_at": "2026-04-21T05:34:50.642321+00:00",
+      "image_url": ""
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Bearish Sentiment and Key Risks to Watch",
@@ -983,5 +1055,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-19T01:56:09.662284+00:00"
+  "market_data_as_of": "2026-04-21T05:34:50.642321+00:00"
 }

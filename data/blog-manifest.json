@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-22T15:48:09.225687+00:00",
+  "generated_at": "2026-04-22T17:31:16.495061+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Momentum?",
+      "excerpt": "Discover why Amer Sports Inc (AS) is generating bullish sentiment with promising market dynamics and what investors should watch going forward.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 148,
+      "href": "/blog/as-news-impact-2026-04-22.html",
+      "published_date": "2026-04-22",
+      "generated_at": "2026-04-22T17:31:16.495061+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108293426-1776453839693-CNBC_INVESTINAMERICA_AC_041526_0357.jpg?v=1776454257&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is ON a Buy in the Shifting Semiconductor Market?",
+      "excerpt": "Explore ON Semiconductor's 2026 outlook with a detailed stock analysis, key industry trends, valuation insights, and risks investors must know.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 112,
+      "href": "/blog/on-news-impact-2026-04-22.html",
+      "published_date": "2026-04-22",
+      "generated_at": "2026-04-22T17:31:16.495061+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108293426-1776453839693-CNBC_INVESTINAMERICA_AC_041526_0357.jpg?v=1776454257&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy in the Electrical Equipment Sector?",
+      "excerpt": "Examining Bloom Energy's latest performance, growth potential, and risks to determine if BE stock is a smart buy for investors investing in the electrical equipment market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/be-news-impact-2026-04-22.html",
+      "published_date": "2026-04-22",
+      "generated_at": "2026-04-22T17:31:16.495061+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294832-1776795436340-gettyimages-2271844059-WARSH_CONFIRMATION.jpeg?v=1776795462&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Industry Shifts?",
+      "excerpt": "Explore our in-depth Health In Tech Inc (HIT) stock analysis as we evaluate its bullish outlook, risks, and insurance sector dynamics for 2026 investors.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 21,
+      "href": "/blog/hit-news-impact-2026-04-22.html",
+      "published_date": "2026-04-22",
+      "generated_at": "2026-04-22T17:31:16.495061+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294060-1776701454240-gettyimages-2236714582-115_20250611-chine-usines-0135.jpeg?v=1776701505&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Sector Shifts?",
+      "excerpt": "Explore a detailed AutoNation (AN) stock analysis revealing key retail trends, valuation insights, and the outlook for investors considering this $203.29 stock.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/an-news-impact-2026-04-22.html",
+      "published_date": "2026-04-22",
+      "generated_at": "2026-04-22T17:31:16.495061+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292682-1776360600406-gettyimages-2271644473-_73a8690_wqksapdt.jpeg?v=1776360700&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Real Estate Outlook and Investment Considerations",
+      "excerpt": "Discover the latest analysis on Ucommune International Ltd (UK) stock, exploring real estate sector dynamics and whether UK shares present a solid buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/uk-news-impact-2026-04-22.html",
+      "published_date": "2026-04-22",
+      "generated_at": "2026-04-22T17:31:16.495061+00:00",
+      "image_url": ""
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Sentiment Amid Geopolitical Tensions and Market Unce...",
@@ -1559,5 +1631,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-22T15:48:09.225687+00:00"
+  "market_data_as_of": "2026-04-22T17:31:16.495061+00:00"
 }

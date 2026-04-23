@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-23T16:16:00.347465+00:00",
+  "generated_at": "2026-04-23T17:52:27.714559+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Why Bearish Sentiment Clouds 2026 Outlook",
+      "excerpt": "Explore an in-depth ON Semiconductor Corp stock analysis focusing on bearish sentiment, industry challenges, and what investors should watch in 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 122,
+      "href": "/blog/on-news-impact-2026-04-23.html",
+      "published_date": "2026-04-23",
+      "generated_at": "2026-04-23T17:52:27.714559+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294983-1776806190144-gettyimages-2272449454-aw1a9693_e8f2ngcp.jpeg?v=1776806297&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Textile Sector Bullish Momentum?",
+      "excerpt": "Explore our in-depth analysis of Amer Sports Inc (AS) with bullish sentiment, current price trends, and key risks. Discover if AS is a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 10,
+      "impact_score": 117,
+      "href": "/blog/as-news-impact-2026-04-23.html",
+      "published_date": "2026-04-23",
+      "generated_at": "2026-04-23T17:52:27.714559+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108277384-1773337239576-gettyimages-2263894016-lululemonclothesclothingfashionwearshopstorefrontexteriorsig.jpeg?v=1773337353&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Tech Industry Bullishness?",
+      "excerpt": "Explore why Gartner Inc (IT) is drawing bullish attention in 2026, analyzing its market position, growth prospects, and risks in the evolving technology sector.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 38,
+      "href": "/blog/it-news-impact-2026-04-23.html",
+      "published_date": "2026-04-23",
+      "generated_at": "2026-04-23T17:52:27.714559+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295877-1776904195815-gettyimages-2262967294-20090101260225-99-646971.jpeg?v=1776904332&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Tech Play a Buy in 2026?",
+      "excerpt": "Explore C3.ai's current stock outlook amid mixed sentiment and AI sector dynamics. Our detailed analysis weighs growth prospects, risks, and market positioning.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 32,
+      "href": "/blog/ai-news-impact-2026-04-23.html",
+      "published_date": "2026-04-23",
+      "generated_at": "2026-04-23T17:52:27.714559+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295877-1776904195815-gettyimages-2262967294-20090101260225-99-646971.jpeg?v=1776904332&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Buy in Financial Services?",
+      "excerpt": "Explore Saratoga Investment Corp's current valuation, key risks, and growth prospects in financial services with our detailed SAY stock analysis and forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/say-news-impact-2026-04-23.html",
+      "published_date": "2026-04-23",
+      "generated_at": "2026-04-23T17:52:27.714559+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295877-1776904195815-gettyimages-2262967294-20090101260225-99-646971.jpeg?v=1776904332&w=1920&h=1080"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in 2026?",
+      "excerpt": "Discover our comprehensive IMAC Holdings Inc (BACK) stock analysis for 2026, exploring its biotech prospects, price outlook, risks, and investment potential.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 24,
+      "href": "/blog/back-news-impact-2026-04-23.html",
+      "published_date": "2026-04-23",
+      "generated_at": "2026-04-23T17:52:27.714559+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108090677-1737564483883-Wi3Jjocc.jpg?v=1769716464&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Stock Analysis April 2026: Is ON a Smart Buy Amid Bearish Sentiment?",
@@ -1919,5 +1991,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-23T16:16:00.347465+00:00"
+  "market_data_as_of": "2026-04-23T17:52:27.714559+00:00"
 }

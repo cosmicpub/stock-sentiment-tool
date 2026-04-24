@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-24T14:12:33.010255+00:00",
+  "generated_at": "2026-04-24T15:44:31.171945+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Sector Strength?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis revealing bullish sentiment in the textiles and luxury goods sector. Is AS poised for growth?",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 110,
+      "href": "/blog/as-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T15:44:31.171945+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108284036-1774615901312-gettyimages-2208472512-250407_fw0442.jpeg?v=1777011714&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's bearish outlook, key risks, valuation, and long-term potential in our detailed ON stock analysis and forecast.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 97,
+      "href": "/blog/on-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T15:44:31.171945+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108284036-1774615901312-gettyimages-2208472512-250407_fw0442.jpeg?v=1777011714&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Analyze Gartner Inc's (IT) current stock position with a balanced view on its growth prospects, valuation, and risks amid neutral market sentiment in tech.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 31,
+      "href": "/blog/it-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T15:44:31.171945+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296254-17769568252026-04-23t145358z_716100223_rc22vka5zk4e_rtrmadp_0_usa-stocks.jpeg?v=1776956884&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amidst Banking Sector Stability?",
+      "excerpt": "Explore a detailed Byline Bancorp Inc (BY) stock analysis focusing on its financial health, market position, and outlook to determine if BY stock is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/by-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T15:44:31.171945+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296540-1776978222218-gettyimages-2272096266-TRUMP_REGENERON.jpeg?v=1776978264&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Software Leader a Buy Amid Market Neutrality?",
+      "excerpt": "C3.ai stock faces neutral sentiment at $8.64 amid AI sector buzz and geopolitical uncertainties. We explore if AI's growth prospects justify a buy now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 28,
+      "href": "/blog/ai-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T15:44:31.171945+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295877-1776904195815-gettyimages-2262967294-20090101260225-99-646971.jpeg?v=1776904332&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy Amid Real Estate Sector Pressure?",
+      "excerpt": "Explore our in-depth Two Harbors Investment Corp (TWO) stock analysis to understand its real estate prospects, valuation insights, and risks affecting potential investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 20,
+      "href": "/blog/two-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T15:44:31.171945+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106873601-1619432551102-gettyimages-1220205083-AFP_1TH5E0.jpeg?v=1776942897&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis and Forecast: Is AS a Buy Amid Bullish Sentiment?",
@@ -2207,5 +2279,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-24T14:12:33.010255+00:00"
+  "market_data_as_of": "2026-04-24T15:44:31.171945+00:00"
 }

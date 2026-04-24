@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-24T19:26:54.033077+00:00",
+  "generated_at": "2026-04-24T21:11:12.895800+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment in Apparel Sector?",
+      "excerpt": "Explore Amer Sports Inc (AS) stock outlook with a bullish sentiment, key growth drivers, valuation insights, and risks in the fast-evolving textiles and apparel industry.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 99,
+      "href": "/blog/as-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T21:11:12.895800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296877-1777038905299-Prediction_Markets_Explainer-26099732446186-AP.jpg?v=1777038976&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Momentum?",
+      "excerpt": "Explore the bullish outlook for ON Semiconductor Corp as semiconductor demand surges. We analyze its growth drivers, valuation, risks, and competitive stance.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 96,
+      "href": "/blog/on-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T21:11:12.895800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108282352-1774374295227-gettyimages-2267714027-ARM_EVERYWHERE.jpeg?v=1777055543&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore a detailed Byline Bancorp Inc stock analysis highlighting key financial metrics, industry outlook, and an informed buy verdict as of April 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/by-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T21:11:12.895800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296540-1776978222218-gettyimages-2272096266-TRUMP_REGENERON.jpeg?v=1776978264&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy at $150.55 Amid Market Neutrality?",
+      "excerpt": "Explore our in-depth Gartner Inc stock analysis at $150.55, assessing its neutral market sentiment, growth potential, and key investment risks for 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 26,
+      "href": "/blog/it-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T21:11:12.895800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296877-1777038905299-Prediction_Markets_Explainer-26099732446186-AP.jpg?v=1777038976&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Headwinds?",
+      "excerpt": "Explore AutoNation Inc's latest stock performance, industry positioning, and investor considerations to decide if AN stock is a worthwhile buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 21,
+      "href": "/blog/an-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T21:11:12.895800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296877-1777038905299-Prediction_Markets_Explainer-26099732446186-AP.jpg?v=1777038976&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is Now the Time to Buy?",
+      "excerpt": "Explore an in-depth analysis of Two Harbors Investment Corp (TWO) with a balanced look at its real estate position, risks, and growth prospects heading into mid-2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 20,
+      "href": "/blog/two-news-impact-2026-04-24.html",
+      "published_date": "2026-04-24",
+      "generated_at": "2026-04-24T21:11:12.895800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106873601-1619432551102-gettyimages-1220205083-AFP_1TH5E0.jpeg?v=1776942897&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Smart Buy in the Current Chip Sector Rally?",
@@ -2423,5 +2495,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-24T19:26:54.033077+00:00"
+  "market_data_as_of": "2026-04-24T21:11:12.895800+00:00"
 }

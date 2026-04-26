@@ -159,33 +159,52 @@ def classify_sentiment(score: int) -> str:
         return "Bearish"
     return "Neutral"
 
+def fallback_image_for_ticker(ticker: str) -> str:
+    # deterministic fallback image by ticker initial
+    options = [
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80",  # markets
+        "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80",  # trading floor
+        "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80",  # finance desk
+        "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80",  # chart screen
+    ]
+    idx = sum(ord(c) for c in ticker) % len(options)
+    return options[idx]
 
-def pick_best_image(mentions: list[dict[str, Any]], used_urls: set[str] | None = None) -> str:
-    used_urls = used_urls or set()
+def fallback_image_for_ticker(ticker: str) -> str:
+    # deterministic fallback image so cards never render blank
+    options = [
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80",
+        "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80",
+        "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80",
+        "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80",
+    ]
+    idx = sum(ord(c) for c in ticker) % len(options)
+    return options[idx]
 
-    def is_bad_image(url: str) -> bool:
-        u = url.lower()
-        bad_tokens = [
-            "logo", "wordmark", "icon", "avatar", "placeholder", "default",
-            "reuters.com/pf/resources", "/resources_v2/images/", "reuters-graphics",
-            "sprite", "brand-assets"
-        ]
-        return any(t in u for t in bad_tokens)
 
-    # Prefer first valid, non-duplicate, non-logo image
+def pick_best_image(mentions: list[dict[str, Any]]) -> str:
+    def looks_like_logo(url: str) -> bool:
+        lowered = url.lower()
+        noisy_tokens = (
+            "logo",
+            "icon",
+            "avatar",
+            "wordmark",
+            "placeholder",
+            "default-image",
+            "default.jpg",
+            "spacer",
+            "sprite",
+            "brand-assets",
+        )
+        reuters_logo_patterns = ("reuters.com/pf/resources", "/resources_v2/images/", "reuters-graphics")
+        return any(token in lowered for token in noisy_tokens) or any(token in lowered for token in reuters_logo_patterns)
+
     for item in mentions:
         for key in ("image", "image_url", "urlToImage", "thumbnail"):
             v = item.get(key)
-            if not isinstance(v, str):
-                continue
-            if not v.startswith(("http://", "https://")):
-                continue
-            if v in used_urls:
-                continue
-            if is_bad_image(v):
-                continue
-            return v
-
+            if isinstance(v, str) and v.startswith(("http://", "https://")) and not looks_like_logo(v):
+                return v
     return ""
 
 

@@ -823,29 +823,44 @@ def main() -> None:
         limit,
     )
 
-    selected = candidates[:limit]
-
     BLOG_DIR.mkdir(parents=True, exist_ok=True)
     manifest = load_manifest()
     posts = manifest.get("posts", [])
 
+    # Encourage variety: avoid recently used tickers first
+    recent_tickers = {
+        p.get("ticker")
+        for p in posts[:30]
+        if isinstance(p, dict) and p.get("ticker")
+    }
+
+    fresh = [c for c in candidates if c.get("ticker") not in recent_tickers]
+    selected = (fresh[:limit] if len(fresh) >= limit else (fresh + candidates)[:limit])
+
     used_images: set[str] = set()
-    
+
     for stock in selected:
-        slug = f"{stock['ticker'].lower()}-news-impact-{ymd(generated_at)}"
+        # Include time so intraday runs don't overwrite same-day ticker pages
+        slug = f"{stock['ticker'].lower()}-news-impact-{generated_at.strftime('%Y-%m-%d-%H%M')}"
+
         article = fallback_article(stock, generated_at)
         if not args.mock:
             try:
                 article = generate_openai_article(stock, openai_api_key, args.model, generated_at)
             except Exception:
                 pass
-                
-        article["title"] = ensure_seo_title(article.get("title", ""), stock["ticker"], stock.get("company_name", stock["ticker"]))
-        article["excerpt"] = ensure_excerpt_quality(article.get("excerpt", ""), stock["ticker"], stock.get("company_name", stock["ticker"]))
-        
-        image_url = stock.get("image_url") or pick_best_image(stock.get("mentions", []), used_images)
+
+        image_url = (
+            stock.get("image_url")
+            or pick_best_image(stock.get("mentions", []))
+            or fallback_image_for_ticker(stock["ticker"])
+        )
+
+        if image_url in used_images:
+            image_url = fallback_image_for_ticker(stock["ticker"])
         if image_url:
             used_images.add(image_url)
+
         html = render_post_html(stock, article, generated_at, slug, image_url)
         (BLOG_DIR / f"{slug}.html").write_text(html, encoding="utf-8")
 
@@ -877,7 +892,7 @@ def main() -> None:
         }
     )
     save_manifest(manifest)
-    
+
     print(f"Done. Generated {len(selected)} post(s). mock={args.mock}")
 
 

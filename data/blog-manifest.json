@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-26T13:44:28.635351+00:00",
+  "generated_at": "2026-04-27T14:32:10.601346+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TRIP",
+      "title": "Tripadvisor Inc (TRIP) Stock Analysis: Is TRIP a Buy in the Media Sector?",
+      "excerpt": "Explore an in-depth Tripadvisor Inc (TRIP) stock analysis, including valuation, risks, and growth prospects, to determine if this media stock fits your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/trip-news-impact-2026-04-27-1432.html",
+      "published_date": "2026-04-27",
+      "generated_at": "2026-04-27T14:32:10.601346+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is Now the Time to Buy This AI-Linked Tech Stock?",
+      "excerpt": "Explore our in-depth Canaan Inc stock analysis covering recent AI market dynamics, valuation, risks, and why cautious investors might find opportunity in CAN shares.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/can-news-impact-2026-04-27-1432.html",
+      "published_date": "2026-04-27",
+      "generated_at": "2026-04-27T14:32:10.601346+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291439-1776202127048-gettyimages-2217198328-MEMPHISMUSK.jpeg?v=1776202200&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "HE Stock Analysis: Is Hawaiian Electric Industries Inc a Buy in 2026?",
+      "excerpt": "Explore Hawaiian Electric Industries Inc (HE) stock forecast and whether this utilities sector player offers a promising buying opportunity amid market neutrality.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/he-news-impact-2026-04-27-1432.html",
+      "published_date": "2026-04-27",
+      "generated_at": "2026-04-27T14:32:10.601346+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296877-1777038905299-Prediction_Markets_Explainer-26099732446186-AP.jpg?v=1777038976&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Sector Stock a Buy in 2026?",
+      "excerpt": "Discover why Amer Sports Inc (AS) is facing bearish pressure amid global uncertainties. Explore the stock's outlook and key risks investors should know in 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 125,
+      "href": "/blog/as-news-impact-2026-04-27-1432.html",
+      "published_date": "2026-04-27",
+      "generated_at": "2026-04-27T14:32:10.601346+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Strong Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore ON Semiconductor Corp's latest stock analysis with a bullish outlook, recent price snapshot, and key risks and opportunities for investors in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 68,
+      "href": "/blog/on-news-impact-2026-04-27-1432.html",
+      "published_date": "2026-04-27",
+      "generated_at": "2026-04-27T14:32:10.601346+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297203-1777066249001-Three_generations_laughing_women_mom_grandma_girl_-2272700498-Getty.jpg?v=1777066503&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Tech Leader a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore our in-depth Gartner Inc (IT) stock analysis, uncovering key growth drivers, risks, and valuation insights to decide if this technology stalwart fits your portfolio.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 37,
+      "href": "/blog/it-news-impact-2026-04-27-1432.html",
+      "published_date": "2026-04-27",
+      "generated_at": "2026-04-27T14:32:10.601346+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "UK",
       "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Stock Worth Buying Amid Bearish Sentiment?",
@@ -2639,5 +2711,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-26T13:44:28.635351+00:00"
+  "market_data_as_of": "2026-04-27T14:32:10.601346+00:00"
 }

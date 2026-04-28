@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-28T17:59:29.102963+00:00",
+  "generated_at": "2026-04-28T20:00:00.034115+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Strong Buy Amid Textile Industry Shifts?",
+      "excerpt": "Explore our detailed analysis of Amer Sports Inc (AS) stock, uncovering bullish drivers, valuation insights, and market outlook in the apparel sector.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 124,
+      "href": "/blog/as-news-impact-2026-04-28-2000.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T20:00:00.034115+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108214897-17610702982025-10-21t151612z_905678818_rc2eghawmtlb_rtrmadp_0_jpmorgan-new-york.jpeg?v=1761070414&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Headwinds?",
+      "excerpt": "Explore ON Semiconductor Corp's latest stock insights, growth prospects, and risks in the evolving semiconductor landscape. Is ON a smart buy in 2026?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 70,
+      "href": "/blog/on-news-impact-2026-04-28-2000.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T20:00:00.034115+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Upside?",
+      "excerpt": "Discover if Byline Bancorp Inc (BY) is a buy as we break down its bullish momentum, financials, growth drivers, and key risks in the evolving banking landscape.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 39,
+      "href": "/blog/by-news-impact-2026-04-28-2000.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T20:00:00.034115+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore a detailed Alexandria Real Estate Equities stock analysis and forecast for 2026. Understand whether ARE shares present a compelling buy amid real estate market trends.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 24,
+      "href": "/blog/are-news-impact-2026-04-28-2000.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T20:00:00.034115+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108298307-1777382968019-LJs_Lil_Cafe_lead_photo.jpg?v=1777383149&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Strong Buy in Today\u2019s Retail Market?",
+      "excerpt": "Explore why AutoNation Inc (AN) is attracting bullish sentiment in the retail sector, with a detailed stock forecast and key insights for investors considering a buy.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 23,
+      "href": "/blog/an-news-impact-2026-04-28-2000.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T20:00:00.034115+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108188497-1755694394554-SG-Friar-02.jpg?v=1755694558&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis and Forecast: Is HIT a Buy at $1.50?",
+      "excerpt": "Explore our in-depth analysis of Health In Tech Inc (HIT) stock, evaluating recent market factors, valuation, and industry outlook to determine if HIT is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/hit-news-impact-2026-04-28-2000.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T20:00:00.034115+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/102512892-185720673.jpg?v=1426618590&w=1920&h=1080"
+    },
     {
       "ticker": "UK",
       "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy in 2026?",
@@ -3143,5 +3215,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-28T17:59:29.102963+00:00"
+  "market_data_as_of": "2026-04-28T20:00:00.034115+00:00"
 }

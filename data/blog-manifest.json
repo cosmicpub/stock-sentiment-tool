@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-27T21:32:23.247790+00:00",
+  "generated_at": "2026-04-28T16:22:18.509455+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is the Downtrend Justified Amid Geopolitical Turmoil?",
+      "excerpt": "Explore why Health In Tech Inc (HIT) stock is facing bearish pressure amid rising treasury yields and Middle East tensions. Is HIT a buy or a risk?",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 31,
+      "href": "/blog/hit-news-impact-2026-04-28-1622.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T16:22:18.509455+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/102512892-185720673.jpg?v=1426618590&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis April 2026: Is This Distrubutor a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our April 2026 deep dive on Gold.com Inc (GOLD), examining recent bearish trends, key risks, competitor landscape, and whether the stock offers value now.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 19,
+      "href": "/blog/gold-news-impact-2026-04-28-1622.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T16:22:18.509455+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Volatile Market Sentiment?",
+      "excerpt": "Explore C3.ai\u2019s current stock outlook with a detailed analysis of its market position, risks, and growth potential amid AI sector shifts and geopolitical tensions.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 19,
+      "href": "/blog/ai-news-impact-2026-04-28-1622.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T16:22:18.509455+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291439-1776202127048-gettyimages-2217198328-MEMPHISMUSK.jpeg?v=1776202200&w=1920&h=1080"
+    },
+    {
+      "ticker": "PM",
+      "title": "Philip Morris International (PM) Stock Analysis: Is Now the Time to Buy?",
+      "excerpt": "Discover a comprehensive Philip Morris International stock analysis exploring valuation, risks, and future outlook in the evolving tobacco industry landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/pm-news-impact-2026-04-28-1622.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T16:22:18.509455+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS Stock a Strong Buy in 2026?",
+      "excerpt": "Dive into our detailed Amer Sports Inc (AS) stock analysis, uncover key growth drivers, risks, and whether AS stock deserves a place in your portfolio this year.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 113,
+      "href": "/blog/as-news-impact-2026-04-28-1622.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T16:22:18.509455+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108214897-17610702982025-10-21t151612z_905678818_rc2eghawmtlb_rtrmadp_0_jpmorgan-new-york.jpeg?v=1761070414&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's latest stock analysis amid bearish trends, industry challenges, and geopolitical risks affecting its semiconductor market outlook.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 48,
+      "href": "/blog/on-news-impact-2026-04-28-1622.html",
+      "published_date": "2026-04-28",
+      "generated_at": "2026-04-28T16:22:18.509455+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro Inc (HAS) Stock Analysis and Forecast: Is HAS a Buy in 2026?",
@@ -2999,5 +3071,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-27T21:32:23.247790+00:00"
+  "market_data_as_of": "2026-04-28T16:22:18.509455+00:00"
 }

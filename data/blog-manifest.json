@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-29T17:55:24.224433+00:00",
+  "generated_at": "2026-04-29T19:58:29.663574+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Assessing the Real Estate Player's Outlook in 2026",
+      "excerpt": "Dive into our detailed analysis of Ucommune International Ltd (UK) stock, exploring valuation, growth prospects, risks, and why cautious investors are watching closely.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-04-29-1958.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T19:58:29.663574+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now a Good Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's current bearish sentiment and key factors shaping its near-term outlook in the competitive textiles and apparel market.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 136,
+      "href": "/blog/as-news-impact-2026-04-29-1958.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T19:58:29.663574+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294993-1776806810140-gettyimages-2272449578-_73a9283_thf40opz.jpeg?v=1776806840&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Semiconductor Sector Stability?",
+      "excerpt": "Explore ON Semiconductor's latest stock performance, sector positioning, and whether ON stock is a worthwhile buy in 2026's shifting semiconductor market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 88,
+      "href": "/blog/on-news-impact-2026-04-29-1958.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T19:58:29.663574+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299412-1777488412676-108299412-1777488352607-gettyimages-2273134683-POWELL_FOMC.jpg?v=1777488421&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Optimism?",
+      "excerpt": "Explore Byline Bancorp Inc's current bullish momentum, valuation, and risks to determine if BY stock is a strong buy in today's banking landscape.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 30,
+      "href": "/blog/by-news-impact-2026-04-29-1958.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T19:58:29.663574+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108214897-17610702982025-10-21t151612z_905678818_rc2eghawmtlb_rtrmadp_0_jpmorgan-new-york.jpeg?v=1761070414&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Retail Sector?",
+      "excerpt": "Explore AutoNation Inc's bullish momentum, key growth drivers, and risks in this comprehensive AN stock analysis to inform your investment decision.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 27,
+      "href": "/blog/an-news-impact-2026-04-29-1958.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T19:58:29.663574+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Hasbro a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore Hasbro's current bullish stance, growth drivers, valuation, and risks. This detailed HAS stock analysis helps investors decide if Hasbro is a buy.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 23,
+      "href": "/blog/has-news-impact-2026-04-29-1958.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T19:58:29.663574+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294846-1776796495861-gettyimages-2271059069-AFP_A83M98C.jpeg?v=1776796580&w=1920&h=1080"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro Inc (HAS) Stock Analysis: Why This Leisure Products Leader Remains a Buy in 2026",
@@ -3503,5 +3575,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-29T17:55:24.224433+00:00"
+  "market_data_as_of": "2026-04-29T19:58:29.663574+00:00"
 }

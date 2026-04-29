@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-29T16:10:52.827665+00:00",
+  "generated_at": "2026-04-29T17:55:24.224433+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Why This Leisure Products Leader Remains a Buy in 2026",
+      "excerpt": "Explore why Hasbro Inc (HAS) stands out in the leisure products industry with bullish momentum, robust brand strength, and promising growth drivers in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 23,
+      "href": "/blog/has-news-impact-2026-04-29-1755.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T17:55:24.224433+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294846-1776796495861-gettyimages-2271059069-AFP_A83M98C.jpeg?v=1776796580&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is It a Buy Amid Persistent Bearish Sentiment?",
+      "excerpt": "Gold.com Inc shares are under pressure with bearish sentiment driven by inflation worries and Fed meetings. We analyze risks, valuation, and market outlook.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 19,
+      "href": "/blog/gold-news-impact-2026-04-29-1755.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T17:55:24.224433+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "COST",
+      "title": "Costco (COST) Stock Analysis: Is Costco Wholesale Corp a Buy in 2026?",
+      "excerpt": "Explore a deep dive into Costco Wholesale Corp's stock outlook for 2026, assessing valuation, growth drivers, and risks in the retail sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/cost-news-impact-2026-04-29-1755.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T17:55:24.224433+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294993-1776806810140-gettyimages-2272449578-_73a9283_thf40opz.jpeg?v=1776806840&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Smart Buy in Tech\u2019s Competitive Landscape?",
+      "excerpt": "Explore C3.ai Inc\u2019s stock outlook amid AI industry shifts, rising software competitors, and geopolitical volatility impacting tech stocks in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/ai-news-impact-2026-04-29-1755.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T17:55:24.224433+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297322-1777288505181-108297322-1777171671971-gettyimages-2272606760-AFP_A8Z32A6.jpg?v=1777288518&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Signals Amid Global Uncertainties and Industry Challenges",
+      "excerpt": "Explore why Amer Sports Inc (AS) faces bearish sentiment driven by economic pressures, geopolitical risks, and sector competition. Is AS a viable buy now?",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 131,
+      "href": "/blog/as-news-impact-2026-04-29-1755.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T17:55:24.224433+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Bearish Signals Cloud Semiconductor Outlook",
+      "excerpt": "With a bearish sentiment score and geopolitical tensions impacting supply chains, ON Semiconductor faces challenges. Is ON stock a buy or hold amid this uncertainty?",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 96,
+      "href": "/blog/on-news-impact-2026-04-29-1755.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T17:55:24.224433+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis April 2026: Bearish Signals Amid Industry Challenges",
@@ -3431,5 +3503,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-29T16:10:52.827665+00:00"
+  "market_data_as_of": "2026-04-29T17:55:24.224433+00:00"
 }

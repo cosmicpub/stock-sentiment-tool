@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-28T21:35:45.497120+00:00",
+  "generated_at": "2026-04-29T14:35:11.078444+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis and Forecast: Is BACK a Smart Buy Amid Biotechnology Volatility?",
+      "excerpt": "Explore our detailed IMAC Holdings Inc stock forecast and analysis. Discover whether BACK stock is worth buying in today's unpredictable biotech market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/back-news-impact-2026-04-29-1435.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T14:35:11.078444+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis April 2026: Bearish Signals Amidst Apparel Industry Challenges",
+      "excerpt": "Amer Sports Inc (AS) faces bearish pressure at $34.86 amid industry headwinds and geopolitical risks. Our April 2026 analysis examines whether AS stock is worth a buy now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 132,
+      "href": "/blog/as-news-impact-2026-04-29-1435.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T14:35:11.078444+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294993-1776806810140-gettyimages-2272449578-_73a9283_thf40opz.jpeg?v=1776806840&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Market Neutrality?",
+      "excerpt": "Analyze ON Semiconductor Corp's latest stock outlook, industry positioning, and what investors should consider in the current semiconductor landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 85,
+      "href": "/blog/on-news-impact-2026-04-29-1435.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T14:35:11.078444+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297322-1777288505181-108297322-1777171671971-gettyimages-2272606760-AFP_A8Z32A6.jpg?v=1777288518&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Optimism?",
+      "excerpt": "Explore our deep dive into Byline Bancorp Inc (BY) stock, assessing bullish sentiment, financial health, and future outlook to see if BY is a smart buy now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 35,
+      "href": "/blog/by-news-impact-2026-04-29-1435.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T14:35:11.078444+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108214897-17610702982025-10-21t151612z_905678818_rc2eghawmtlb_rtrmadp_0_jpmorgan-new-york.jpeg?v=1761070414&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in Today\u2019s Retail Market?",
+      "excerpt": "AutoNation Inc (AN) shows bullish momentum in the retail sector with promising earnings and industry tailwinds. Explore the key opportunities and risks.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 22,
+      "href": "/blog/an-news-impact-2026-04-29-1435.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T14:35:11.078444+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108298650-1777405282308-gettyimages-2273014172-RESORTS_WORLD_NYC.jpeg?v=1777405439&w=1920&h=1080"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne (TECH) Stock Analysis: Is This Life Sciences Tool Provider a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Bio-Techne's recent bearish trend within the Life Sciences Tools sector, key risks, and whether TECH stock offers value for investors now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 21,
+      "href": "/blog/tech-news-impact-2026-04-29-1435.html",
+      "published_date": "2026-04-29",
+      "generated_at": "2026-04-29T14:35:11.078444+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297691-17773033102026-04-27t152014z_826294931_rc2pxkatwsyl_rtrmadp_0_usa-stocks.jpeg?v=1777303380&w=1920&h=1080"
+    },
     {
       "ticker": "TECH",
       "title": "Bio-Techne Corp (TECH) Stock Analysis: Neutral Outlook Amid Supply Chain Challenges in Life Sciences",
@@ -3287,5 +3359,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-28T21:35:45.497120+00:00"
+  "market_data_as_of": "2026-04-29T14:35:11.078444+00:00"
 }

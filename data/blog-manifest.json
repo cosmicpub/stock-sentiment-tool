@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-29T21:38:06.924452+00:00",
+  "generated_at": "2026-04-30T14:30:35.281249+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) stock in 2026 with our detailed analysis covering valuation, risks, and growth prospects in financial services.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 18,
+      "href": "/blog/say-news-impact-2026-04-30-1430.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T14:30:35.281249+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299302-1777482950039-gettyimages-1502790366-6o6a41124.jpeg?v=1777483003&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Gartner Inc's 2026 stock outlook, key growth drivers, valuation insights, and potential risks. Discover if IT shares hold value for investors now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/it-news-impact-2026-04-30-1430.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T14:30:35.281249+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108257931-1769552835469-gettyimages-2257971791-STARBUCKS_EARNS.jpeg?v=1777478893&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock forecast amid the evolving real estate landscape. Discover key drivers, risks, and whether ARE is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/are-news-impact-2026-04-30-1430.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T14:30:35.281249+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294993-1776806810140-gettyimages-2272449578-_73a9283_thf40opz.jpeg?v=1776806840&w=1920&h=1080"
+    },
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corp (NEXT) Stock Analysis: Is NEXT a Buy Amid Energy Sector Challenges?",
+      "excerpt": "Dive into NextDecade Corp's current standing, growth prospects, and key risks to determine if NEXT stock is worth your portfolio in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/next-news-impact-2026-04-30-1430.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T14:30:35.281249+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports (AS) Stock Analysis: Is This Apparel Giant a Buy Amidst Bearish Sentiment?",
+      "excerpt": "Amer Sports faces bearish headwinds with a -7 sentiment score, but can its strong brand portfolio navigate current market uncertainties? Our deep dive reveals the risks and potential for AS stock.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 131,
+      "href": "/blog/as-news-impact-2026-04-30-1430.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T14:30:35.281249+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Geopolitical Turmoil?",
+      "excerpt": "ON Semiconductor faces bearish sentiment amid global tensions and supply chain concerns. Discover the risks and opportunities in this detailed ON stock forecast.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 100,
+      "href": "/blog/on-news-impact-2026-04-30-1430.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T14:30:35.281249+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299412-1777488412676-108299412-1777488352607-gettyimages-2273134683-POWELL_FOMC.jpg?v=1777488421&w=1920&h=1080"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy in 2026?",
@@ -3647,5 +3719,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-29T21:38:06.924452+00:00"
+  "market_data_as_of": "2026-04-30T14:30:35.281249+00:00"
 }

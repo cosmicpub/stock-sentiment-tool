@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-30T14:30:35.281249+00:00",
+  "generated_at": "2026-04-30T15:59:07.750060+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy Amid Industry Headwinds?",
+      "excerpt": "We dissect Amer Sports Inc's bearish sentiment amid geopolitical tensions and textile sector challenges, evaluating if AS stock offers a compelling buying opportunity.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 132,
+      "href": "/blog/as-news-impact-2026-04-30-1559.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T15:59:07.750060+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294993-1776806810140-gettyimages-2272449578-_73a9283_thf40opz.jpeg?v=1776806840&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is the Bearish Sentiment Justified in 2026?",
+      "excerpt": "Explore ON Semiconductor's current bearish outlook, key risks, and growth prospects amid semiconductor industry shifts and geopolitical uncertainties.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 101,
+      "href": "/blog/on-news-impact-2026-04-30-1559.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T15:59:07.750060+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299412-1777488412676-108299412-1777488352607-gettyimages-2273134683-POWELL_FOMC.jpg?v=1777488421&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Smart Buy in 2026?",
+      "excerpt": "Explore an in-depth analysis of Byline Bancorp Inc (BY) stock, including current bullish sentiment, banking industry insights, and investor risks for 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 34,
+      "href": "/blog/by-news-impact-2026-04-30-1559.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T15:59:07.750060+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108214897-17610702982025-10-21t151612z_905678818_rc2eghawmtlb_rtrmadp_0_jpmorgan-new-york.jpeg?v=1761070414&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in 2026?",
+      "excerpt": "Explore our in-depth AutoNation stock analysis revealing growth drivers, risks, and whether AN shares are a smart buy amid retail sector dynamics.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 31,
+      "href": "/blog/an-news-impact-2026-04-30-1559.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T15:59:07.750060+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Industry Shifts and Market Uncertainty?",
+      "excerpt": "Explore our comprehensive C3.ai stock forecast amid a volatile AI tech landscape, geopolitical tensions, and competitive pressures affecting the $8.90 share.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 29,
+      "href": "/blog/ai-news-impact-2026-04-30-1559.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T15:59:07.750060+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299302-1777482950039-gettyimages-1502790366-6o6a41124.jpeg?v=1777483003&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is This Distributor a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Gold.com Inc's latest stock movements, bearish outlook, and what investors should consider before buying GOLD shares in the current market.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 24,
+      "href": "/blog/gold-news-impact-2026-04-30-1559.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T15:59:07.750060+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
@@ -3719,5 +3791,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-30T14:30:35.281249+00:00"
+  "market_data_as_of": "2026-04-30T15:59:07.750060+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-30T17:49:33.983905+00:00",
+  "generated_at": "2026-04-30T19:55:34.471433+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "COST",
+      "title": "Costco Wholesale Corp (COST) Stock Analysis and Forecast: Is COST a Buy in 2026?",
+      "excerpt": "Explore our comprehensive Costco stock analysis covering current performance, growth prospects, risks, and whether COST is a buy in the retail sector this year.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/cost-news-impact-2026-04-30-1955.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T19:55:34.471433+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294993-1776806810140-gettyimages-2272449578-_73a9283_thf40opz.jpeg?v=1776806840&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Semiconductor Growth?",
+      "excerpt": "Explore ON Semiconductor's strong market position and growth potential in 2026. Our analysis covers valuation, risks, and why investors are bullish on ON stock now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 121,
+      "href": "/blog/on-news-impact-2026-04-30-1955.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T19:55:34.471433+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105377940-1533562033400gettyimages-870546296.jpeg?v=1764953663&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy or Avoid?",
+      "excerpt": "Reviewing Amer Sports Inc's current bearish outlook, industry context, and key risks to determine if AS stock is a buy amid economic headwinds and sector challenges.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 120,
+      "href": "/blog/as-news-impact-2026-04-30-1955.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T19:55:34.471433+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Tech Innovator a Buy Amid AI Market Shifts?",
+      "excerpt": "Explore C3.ai's stock potential as AI market dynamics evolve. We break down key risks, growth drivers, and whether AI stock fits into your portfolio now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 29,
+      "href": "/blog/ai-news-impact-2026-04-30-1955.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T19:55:34.471433+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299302-1777482950039-gettyimages-1502790366-6o6a41124.jpeg?v=1777483003&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amidst Industry Uncertainty?",
+      "excerpt": "Explore Health In Tech Inc's current valuation and future prospects in the insurance sector. Is HIT stock positioned for growth or caution?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 27,
+      "href": "/blog/hit-news-impact-2026-04-30-1955.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T19:55:34.471433+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299412-1777488412676-108299412-1777488352607-gettyimages-2273134683-POWELL_FOMC.jpg?v=1777488421&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis: Is Alexandria Real Estate Equities Inc A Buy in 2026?",
+      "excerpt": "Explore our comprehensive Alexandria Real Estate Equities Inc (ARE) stock analysis for 2026, covering valuation, market position, risks, and long-term outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 26,
+      "href": "/blog/are-news-impact-2026-04-30-1955.html",
+      "published_date": "2026-04-30",
+      "generated_at": "2026-04-30T19:55:34.471433+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295399-1776869935866-gettyimages-2215825730-20250518_dc_105.jpeg?v=1776869954&w=1920&h=1080"
+    },
     {
       "ticker": "BACK",
       "title": "IMAC Holdings (BACK) Stock Analysis: Is This Biotech Stock a Buy Amid Bearish Sentiment?",
@@ -3863,5 +3935,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-30T17:49:33.983905+00:00"
+  "market_data_as_of": "2026-04-30T19:55:34.471433+00:00"
 }

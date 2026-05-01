@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-30T21:31:19.998574+00:00",
+  "generated_at": "2026-05-01T13:58:08.848833+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Hasbro a Buy in 2026?",
+      "excerpt": "Evaluating Hasbro Inc's current positioning in the leisure products sector, this detailed HAS stock analysis explores valuation, risks, and growth outlook for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/has-news-impact-2026-05-01-1358.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T13:58:08.848833+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294846-1776796495861-gettyimages-2271059069-AFP_A83M98C.jpeg?v=1776796580&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy Amid Bearish Sentiment?",
+      "excerpt": "Dive into our comprehensive OUT stock analysis exploring bearish sentiment, valuation challenges, and long-term outlook for OUTFRONT Media Inc in real estate.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/out-news-impact-2026-05-01-1358.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T13:58:08.848833+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108276623-1773236214967-gettyimages-2248465163-nwsllr112225214.jpeg?v=1773236280&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc (AS) stock analysis, assessing bearish signals, sector challenges, and future outlook in textiles and apparel.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 146,
+      "href": "/blog/as-news-impact-2026-05-01-1358.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T13:58:08.848833+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299962-1777558832515-gettyimages-2265310624-225123-yeungphotography-by5_8776.jpeg?v=1777558939&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Rising Semiconductor Demand?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, growth drivers, risks, and valuation to decide if ON stock is a smart buy in the semiconductor sector in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 79,
+      "href": "/blog/on-news-impact-2026-05-01-1358.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T13:58:08.848833+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105377940-1533562033400gettyimages-870546296.jpeg?v=1764953663&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp (BY) Stock Analysis: Is BY a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Dive into our detailed Byline Bancorp (BY) stock analysis revealing key financial insights, valuation factors, and market outlook to decide if BY fits your portfolio today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 37,
+      "href": "/blog/by-news-impact-2026-05-01-1358.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T13:58:08.848833+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Bullish Sentiment in Insurance?",
+      "excerpt": "Explore our detailed HIT stock analysis revealing why Health In Tech Inc could be a promising buy in the insurance sector despite market challenges.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 35,
+      "href": "/blog/hit-news-impact-2026-05-01-1358.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T13:58:08.848833+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299412-1777488412676-108299412-1777488352607-gettyimages-2273134683-POWELL_FOMC.jpg?v=1777488421&w=1920&h=1080"
+    },
     {
       "ticker": "LOAN",
       "title": "Manhattan Bridge Capital Inc (LOAN) Stock Analysis: Is LOAN a Buy in 2026?",
@@ -4007,5 +4079,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-04-30T21:31:19.998574+00:00"
+  "market_data_as_of": "2026-05-01T13:58:08.848833+00:00"
 }

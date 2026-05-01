@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-01T15:31:51.523921+00:00",
+  "generated_at": "2026-05-01T17:31:11.336160+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Apparel Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Discover why Amer Sports Inc (AS) faces bearish headwinds in the textiles and apparel sector and what this means for investors seeking long-term growth.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 158,
+      "href": "/blog/as-news-impact-2026-05-01-1731.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T17:31:11.336160+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296377-17769656712026-04-23t171341z_2015087744_rc22vka7xf3k_rtrmadp_0_usa-airlines-spirit.jpeg?v=1776965685&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore our in-depth ON Semiconductor Corp stock analysis to understand if ON's current bullish sentiment and industry position make it a compelling buy right now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 79,
+      "href": "/blog/on-news-impact-2026-05-01-1731.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T17:31:11.336160+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108300579-1777640424157-gettyimages-2212703696-AFP_44E66E9.jpeg?v=1777640450&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is Now the Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "Dive into our detailed Byline Bancorp Inc (BY) stock analysis exploring current bearish trends, key risks, and whether investors should consider buying now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 40,
+      "href": "/blog/by-news-impact-2026-05-01-1731.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T17:31:11.336160+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Industry Challenges?",
+      "excerpt": "Explore an in-depth Health In Tech Inc (HIT) stock analysis, considering recent insurance sector trends and geopolitical impacts to determine if HIT is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 37,
+      "href": "/blog/hit-news-impact-2026-05-01-1731.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T17:31:11.336160+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108193265-1756835693078-gettyimages-1242585393-AUSTRALIA_EV_SUMMIT.jpeg?v=1773265162&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Strong Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Gartner Inc's (IT) 2026 stock forecast, key growth drivers, risks, and valuation insights to decide if IT is the right tech stock to buy now.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 33,
+      "href": "/blog/it-news-impact-2026-05-01-1731.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T17:31:11.336160+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295399-1776869935866-gettyimages-2215825730-20250518_dc_105.jpeg?v=1776869954&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities Inc (ARE) Stock Analysis and Forecast: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities Inc (ARE) stock outlook, fundamentals, and risks in this in-depth 2026 analysis to determine if ARE is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/are-news-impact-2026-05-01-1731.html",
+      "published_date": "2026-05-01",
+      "generated_at": "2026-05-01T17:31:11.336160+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Bullish Sentiment in Tech?",
@@ -4151,5 +4223,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-01T15:31:51.523921+00:00"
+  "market_data_as_of": "2026-05-01T17:31:11.336160+00:00"
 }

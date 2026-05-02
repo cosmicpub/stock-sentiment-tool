@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-01T21:12:30.147272+00:00",
+  "generated_at": "2026-05-02T13:52:04.502668+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "LOAN",
+      "title": "Manhattan Bridge Capital Inc (LOAN) Stock Analysis: Is LOAN a Strong Buy in Real Estate Lending?",
+      "excerpt": "Explore the bullish outlook for Manhattan Bridge Capital Inc (LOAN) with in-depth analysis on financial health, market position, and key risks in this real estate lender.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 17,
+      "href": "/blog/loan-news-impact-2026-05-02-1352.html",
+      "published_date": "2026-05-02",
+      "generated_at": "2026-05-02T13:52:04.502668+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297781-1777308295201-108297781-1777308210048-gettyimages-2272326273-BIZ-AUTO-RIVIAN-R2-ROADSHOW-TB.jpeg?v=1777308342&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Real Estate Outlook and Investor Insights for 2026",
+      "excerpt": "Discover a balanced analysis of Ucommune International Ltd's current stock performance amid real estate trends and geopolitical headwinds affecting UK factories and housing.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-05-02-1352.html",
+      "published_date": "2026-05-02",
+      "generated_at": "2026-05-02T13:52:04.502668+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Outlook Amid Global Economic Uncertainties",
+      "excerpt": "Explore an in-depth analysis of Amer Sports Inc (AS) stock, assessing its neutral market sentiment against the backdrop of global economic challenges and industry dynamics.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 140,
+      "href": "/blog/as-news-impact-2026-05-02-1352.html",
+      "published_date": "2026-05-02",
+      "generated_at": "2026-05-02T13:52:04.502668+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108289438-1775762935321-gettyimages-2269517561-US_STOCKS.jpeg?v=1777726782&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore ON Semiconductor's latest performance, market position, and risks in this detailed ON stock analysis to decide if it's a strong buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 85,
+      "href": "/blog/on-news-impact-2026-05-02-1352.html",
+      "published_date": "2026-05-02",
+      "generated_at": "2026-05-02T13:52:04.502668+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108185625-1755114289868-gettyimages-2229982940-_73a6547_sevvfeop.jpeg?v=1755114367&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is This Banking Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Byline Bancorp Inc's latest stock dynamics, challenges, and investment outlook amid current bearish trends in the banking sector.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 35,
+      "href": "/blog/by-news-impact-2026-05-02-1352.html",
+      "published_date": "2026-05-02",
+      "generated_at": "2026-05-02T13:52:04.502668+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108300825-1777660323347-img_3179.jpg?v=1777664191&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis 2026: Is HIT a Buy in the Insurance Sector?",
+      "excerpt": "Explore our 2026 analysis of Health In Tech Inc (HIT), focusing on its insurance industry standing, valuation, and key risks to decide if HIT stock is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/hit-news-impact-2026-05-02-1352.html",
+      "published_date": "2026-05-02",
+      "generated_at": "2026-05-02T13:52:04.502668+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108193265-1756835693078-gettyimages-1242585393-AUSTRALIA_EV_SUMMIT.jpeg?v=1773265162&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Bearish Sentiment?",
@@ -4367,5 +4439,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-01T21:12:30.147272+00:00"
+  "market_data_as_of": "2026-05-02T13:52:04.502668+00:00"
 }

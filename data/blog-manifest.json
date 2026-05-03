@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-02T13:52:04.502668+00:00",
+  "generated_at": "2026-05-03T13:52:16.478733+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is This Real Estate Play A Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore OUTFRONT Media Inc's current bearish outlook at $31.72, its key risks, valuation insights, and whether it presents a buying opportunity in real estate.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 30,
+      "href": "/blog/out-news-impact-2026-05-03-1352.html",
+      "published_date": "2026-05-03",
+      "generated_at": "2026-05-03T13:52:16.478733+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108300579-1777640424157-gettyimages-2212703696-AFP_44E66E9.jpeg?v=1777640450&w=1920&h=1080"
+    },
+    {
+      "ticker": "AIR",
+      "title": "AAR Corp (AIR) Stock Analysis: Is AIR a Buy in the Aerospace & Defense Sector?",
+      "excerpt": "Explore AAR Corp's latest performance and outlook in aerospace & defense. Our in-depth AIR stock analysis covers valuation, risks, and growth prospects.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/air-news-impact-2026-05-03-1352.html",
+      "published_date": "2026-05-03",
+      "generated_at": "2026-05-03T13:52:16.478733+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is HAS a Buy Amid Leisure Products Growth?",
+      "excerpt": "Explore Hasbro Inc's bullish outlook with strong product innovation and expanding market share in leisure products. Discover key risks and growth drivers in our latest 2026 stock forecast.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 16,
+      "href": "/blog/has-news-impact-2026-05-03-1352.html",
+      "published_date": "2026-05-03",
+      "generated_at": "2026-05-03T13:52:16.478733+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108193265-1756835693078-gettyimages-1242585393-AUSTRALIA_EV_SUMMIT.jpeg?v=1773265162&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Saratoga Investment Corp's current stock forecast with neutral market signals. This analysis dives into SAY's valuation, risks, and outlook for investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 15,
+      "href": "/blog/say-news-impact-2026-05-03-1352.html",
+      "published_date": "2026-05-03",
+      "generated_at": "2026-05-03T13:52:16.478733+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299302-1777482950039-gettyimages-1502790366-6o6a41124.jpeg?v=1777483003&w=1920&h=1080"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is This Biotech Microcap Worth a Buy in 2026?",
+      "excerpt": "Explore IMAC Holdings Inc (BACK) stock forecast with an in-depth analysis of its biotech prospects, current valuation, and risks. Is BACK a buy now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/back-news-impact-2026-05-03-1352.html",
+      "published_date": "2026-05-03",
+      "generated_at": "2026-05-03T13:52:16.478733+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294883-1776799121651-gettyimages-121526212-ky350063.jpeg?v=1776799191&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy in Textiles & Apparel?",
+      "excerpt": "Explore the latest Amer Sports Inc (AS) stock analysis for 2026, evaluating market position, valuation, and risk factors to decide if AS is a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 125,
+      "href": "/blog/as-news-impact-2026-05-03-1352.html",
+      "published_date": "2026-05-03",
+      "generated_at": "2026-05-03T13:52:16.478733+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107360264-1705501936220-gettyimages-559498287-b81dab4f-503c-42be-a858-f1f1b717a3f6.jpeg?v=1777657774&w=1920&h=1080"
+    },
     {
       "ticker": "LOAN",
       "title": "Manhattan Bridge Capital Inc (LOAN) Stock Analysis: Is LOAN a Strong Buy in Real Estate Lending?",
@@ -4439,5 +4511,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-02T13:52:04.502668+00:00"
+  "market_data_as_of": "2026-05-03T13:52:16.478733+00:00"
 }

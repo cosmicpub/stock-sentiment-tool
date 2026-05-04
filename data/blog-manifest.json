@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-04T14:36:03.025599+00:00",
+  "generated_at": "2026-05-04T16:17:35.006654+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Market Volatility?",
+      "excerpt": "Explore Amer Sports Inc's bullish outlook despite geopolitical tensions impacting the textiles and apparel sector. Should investors buy AS now?",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 119,
+      "href": "/blog/as-news-impact-2026-05-04-1617.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T16:17:35.006654+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy?",
+      "excerpt": "Explore ON Semiconductor's bearish outlook amidst semiconductor industry pressures, valuation challenges, and geopolitical risks in our detailed stock analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 66,
+      "href": "/blog/on-news-impact-2026-05-04-1617.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T16:17:35.006654+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267435-17715197272026-02-18t111630z_1778219502_rc2aojad5g3w_rtrmadp_0_india-ai-google.jpeg?v=1771519754&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Bearish Sentiment Clouds Short-Term Outlook",
+      "excerpt": "Byline Bancorp Inc (BY) faces bearish momentum amid banking sector pressures and geopolitical risks. We analyze key factors impacting BY's stock forecast.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 44,
+      "href": "/blog/by-news-impact-2026-05-04-1617.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T16:17:35.006654+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108255662-1769090582693-bret4.jpg?v=1769090664&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Why the Insurance Sector Name Faces Bearish Headwinds",
+      "excerpt": "Explore why Health In Tech Inc\u2019s (HIT) stock is currently bearish amid geopolitical tensions and economic challenges impacting the insurance industry.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 40,
+      "href": "/blog/hit-news-impact-2026-05-04-1617.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T16:17:35.006654+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities Inc (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Market?",
+      "excerpt": "Explore a comprehensive Alexandria Real Estate Equities (ARE) stock analysis. We break down ARE\u2019s current valuation, risks, growth prospects, and why you should watch this REIT now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/are-news-impact-2026-05-04-1617.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T16:17:35.006654+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid a Bullish Outlook in 2026?",
+      "excerpt": "Explore Hasbro's strong fundamentals, recent earnings, and industry position to determine if HAS stock is a compelling buy opportunity in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 29,
+      "href": "/blog/has-news-impact-2026-05-04-1617.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T16:17:35.006654+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Smart Buy in Real Estate?",
@@ -4583,5 +4655,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-04T14:36:03.025599+00:00"
+  "market_data_as_of": "2026-05-04T16:17:35.006654+00:00"
 }

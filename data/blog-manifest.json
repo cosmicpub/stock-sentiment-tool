@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-03T13:52:16.478733+00:00",
+  "generated_at": "2026-05-04T14:36:03.025599+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Smart Buy in Real Estate?",
+      "excerpt": "Explore our in-depth analysis of Two Harbors Investment Corp (TWO), assessing its bullish outlook, key risks, valuation, and whether it's a compelling buy today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/two-news-impact-2026-05-04-1436.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T14:36:03.025599+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis 2026: Is This Tech Innovator a Buy Now?",
+      "excerpt": "Explore C3.ai's bullish outlook amid rising AI demand, strategic industry moves, and growth potential. We break down risks and opportunities in this tech stock analysis.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/ai-news-impact-2026-05-04-1436.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T14:36:03.025599+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108193265-1756835693078-gettyimages-1242585393-AUSTRALIA_EV_SUMMIT.jpeg?v=1773265162&w=1920&h=1080"
+    },
+    {
+      "ticker": "HELP",
+      "title": "Cybin Inc (HELP) Stock Analysis 2026: Is This Psychedelic Pharma Play a Buy?",
+      "excerpt": "Explore Cybin Inc's latest developments, market position, and risks in our in-depth HELP stock analysis and forecast for 2026 investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/help-news-impact-2026-05-04-1436.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T14:36:03.025599+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108300249-1777651097553-108300249-1777575598972-gettyimages-2273263587-AFP_A9HP7G2.jpg?v=1777651118&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is This Apparel Giant a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore a detailed 2026 stock analysis of Amer Sports Inc (AS) to understand its positioning in the Textiles & Apparel sector, market risks, and investment outlook.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 131,
+      "href": "/blog/as-news-impact-2026-05-04-1436.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T14:36:03.025599+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is This Semiconductor Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's bearish outlook, key risks, and growth prospects in this detailed stock analysis and forecast for 2026 investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 66,
+      "href": "/blog/on-news-impact-2026-05-04-1436.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T14:36:03.025599+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267435-17715197272026-02-18t111630z_1778219502_rc2aojad5g3w_rtrmadp_0_india-ai-google.jpeg?v=1771519754&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our comprehensive BY stock analysis as Byline Bancorp Inc faces bearish sentiment. Discover the risks, valuation, and prospects in our detailed breakdown.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 40,
+      "href": "/blog/by-news-impact-2026-05-04-1436.html",
+      "published_date": "2026-05-04",
+      "generated_at": "2026-05-04T14:36:03.025599+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108080987-1755613115045-108080987-1755610449468-108080987-1735653388433-gettyimages-2191194281-avils-notitle241230_np5bz.jpeg?v=1770839823&w=1920&h=1080"
+    },
     {
       "ticker": "OUT",
       "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is This Real Estate Play A Buy Amid Bearish Sentiment?",
@@ -4511,5 +4583,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-03T13:52:16.478733+00:00"
+  "market_data_as_of": "2026-05-04T14:36:03.025599+00:00"
 }

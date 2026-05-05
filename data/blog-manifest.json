@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-04T21:35:50.865277+00:00",
+  "generated_at": "2026-05-05T14:34:14.400909+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore an in-depth analysis of Saratoga Investment Corp (SAY) stock, evaluating its valuation, risks, and growth potential to decide if it's a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/say-news-impact-2026-05-05-1434.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T14:34:14.400909+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107151864-1668522955332-gettyimages-1350059063-stockpovio-371.jpeg?v=1668529020&w=1920&h=1080"
+    },
+    {
+      "ticker": "DROP",
+      "title": "Fuse Science Inc (DROP) Stock Analysis: Is This Technology Penny Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore why Fuse Science Inc (DROP) trades at pennies with heavy bearish pressure, industry challenges, and cautious outlook for tech investors.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 21,
+      "href": "/blog/drop-news-impact-2026-05-05-1434.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T14:34:14.400909+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings Corp (SHIP) Stock Analysis: Is SHIP a Buy Amid Geopolitical Tensions?",
+      "excerpt": "Explore Seanergy Maritime Holdings' current stock outlook, key risks from geopolitical unrest, and whether SHIP shares present a timely investment opportunity in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/ship-news-impact-2026-05-05-1434.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T14:34:14.400909+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "LEO",
+      "title": "BNY Mellon Strategic Municipals Inc (LEO) Stock Analysis: Is LEO a Buy in 2026?",
+      "excerpt": "Explore our detailed analysis of BNY Mellon Strategic Municipals Inc (LEO). Learn about its current valuation, risks, and whether it's a smart buy for investors in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/leo-news-impact-2026-05-05-1434.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T14:34:14.400909+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in 2026?",
+      "excerpt": "Explore a detailed IMAC Holdings Inc (BACK) stock analysis\u2014assessing its biotech positioning, recent performance, risks, and if it deserves a spot on your portfolio now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/back-news-impact-2026-05-05-1434.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T14:34:14.400909+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108294883-1776799121651-gettyimages-121526212-ky350063.jpeg?v=1776799191&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "Despite a bearish sentiment weighing on Amer Sports Inc (AS), this detailed analysis explores its valuation, risks, and growth prospects in the apparel sector.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 136,
+      "href": "/blog/as-news-impact-2026-05-05-1434.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T14:34:14.400909+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Sector Player a Buy Amid Bearish Sentiment?",
@@ -4871,5 +4943,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-04T21:35:50.865277+00:00"
+  "market_data_as_of": "2026-05-05T14:34:14.400909+00:00"
 }

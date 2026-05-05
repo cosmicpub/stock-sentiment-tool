@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-05T19:56:38.589683+00:00",
+  "generated_at": "2026-05-05T21:33:20.976775+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Apparel Sector in 2026?",
+      "excerpt": "Dive into our detailed Amer Sports Inc stock analysis. Discover the key factors influencing AS shares in 2026 and whether it's a smart buy for apparel investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 138,
+      "href": "/blog/as-news-impact-2026-05-05-2133.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T21:33:20.976775+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108158640-1749752144438-gettyimages-2156590097-AUS_MORGAN_STANLEY_SUMMIT.jpeg?v=1777470812&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis May 2026: Is ON a Buy Amid Semiconductor Market Neutrality?",
+      "excerpt": "Explore ON Semiconductor's position in the semiconductor sector with our detailed May 2026 stock analysis. We'll break down key growth drivers, valuation, and risks.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 79,
+      "href": "/blog/on-news-impact-2026-05-05-2133.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T21:33:20.976775+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108302463-1778005169394-David_Rogier_May_2026_Headshot.png?v=1778006134&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Mixed Sentiment?",
+      "excerpt": "Explore Gartner Inc's current stock outlook, key growth drivers, valuation, industry positioning, and risks shaping its 2026 forecast for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/it-news-impact-2026-05-05-2133.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T21:33:20.976775+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107151864-1668522955332-gettyimages-1350059063-stockpovio-371.jpeg?v=1668529020&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis May 2026: Is BY a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Byline Bancorp Inc's current bearish setup, market factors driving its price, and whether BY stock presents an opportunity in May 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 29,
+      "href": "/blog/by-news-impact-2026-05-05-2133.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T21:33:20.976775+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299219-17774771532026-04-29t153646z_2098091898_rc23zkalxkbx_rtrmadp_0_musk-openai-court.jpeg?v=1777477287&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Reviewing Alexandria Real Estate Equities' current market stance, growth prospects, and risks to determine if ARE stock is a worthwhile buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 26,
+      "href": "/blog/are-news-impact-2026-05-05-2133.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T21:33:20.976775+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108273728-1772650267902-gettyimages-2264789197-6e6a3936_copy_xce48jef.jpeg?v=1772650329&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI-Tech Leader Still a Buy in 2026?",
+      "excerpt": "Explore our in-depth C3.ai stock analysis and forecast amid surging AI interest and tech market rallies. Discover if AI stock remains a strong buy now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 25,
+      "href": "/blog/ai-news-impact-2026-05-05-2133.html",
+      "published_date": "2026-05-05",
+      "generated_at": "2026-05-05T21:33:20.976775+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Market Sentiment?",
@@ -5087,5 +5159,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-05T19:56:38.589683+00:00"
+  "market_data_as_of": "2026-05-05T21:33:20.976775+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-06T20:08:13.515271+00:00",
+  "generated_at": "2026-05-06T21:38:01.647375+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "LNG",
+      "title": "Cheniere Energy Inc (LNG) Stock Analysis: Is LNG a Smart Buy Amid Geopolitical Risks?",
+      "excerpt": "Explore Cheniere Energy's (LNG) current position amid geopolitical tensions affecting LNG supply routes. Our analysis reveals buy potential tempered by risks.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 11,
+      "href": "/blog/lng-news-impact-2026-05-06-2138.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T21:38:01.647375+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Smart Buy in 2026?",
+      "excerpt": "Explore ON Semiconductor Corp's bullish 2026 outlook, key growth drivers, risks, and valuation in our in-depth stock analysis and forecast.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 134,
+      "href": "/blog/on-news-impact-2026-05-06-2138.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T21:38:01.647375+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297714-17773046912026-04-27t154305z_1964669647_rc2rxka9pguy_rtrmadp_0_musk-openai-court.jpeg?v=1777327249&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Giant a Buy at $37.19?",
+      "excerpt": "Explore a bullish outlook on Amer Sports Inc (AS) with key insights on growth, valuation, competitor positioning, and risks shaping its $37.19 stock price.",
+      "sentiment": "Bullish",
+      "score": 11,
+      "impact_score": 105,
+      "href": "/blog/as-news-impact-2026-05-06-2138.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T21:38:01.647375+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108302255-1777989618743-gettyimages-2235601629-AXIOS_MEDIA_TRENDS.jpeg?v=1777989753&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate Investment a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities\u2019 current positioning in the biotech real estate sector, valuation, and key risks to determine if ARE stock is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 41,
+      "href": "/blog/are-news-impact-2026-05-06-2138.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T21:38:01.647375+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in Today's Utility Sector?",
+      "excerpt": "Explore the latest Hawaiian Electric Industries stock outlook, valuation insights, and risks to decide if HE shares are a buy for utility investors in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/he-news-impact-2026-05-06-2138.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T21:38:01.647375+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/103287987-GettyImages-180431493.jpg?v=1452191714&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis 2026: Is Now the Time to Buy in the Retail Auto Sector?",
+      "excerpt": "Explore an in-depth AutoNation stock analysis for 2026, examining key growth drivers, risks, and the retail automotive outlook to decide if AN is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/an-news-impact-2026-05-06-2138.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T21:38:01.647375+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Neutral Market Sentiment?",
@@ -5447,5 +5519,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-06T20:08:13.515271+00:00"
+  "market_data_as_of": "2026-05-06T21:38:01.647375+00:00"
 }

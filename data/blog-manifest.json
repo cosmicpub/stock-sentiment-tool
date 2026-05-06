@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-06T16:13:37.781158+00:00",
+  "generated_at": "2026-05-06T17:57:50.714245+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore key insights on Saratoga Investment Corp (SAY) stock, including valuation, risks, and growth potential in the financial services sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/say-news-impact-2026-05-06-1757.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T17:57:50.714245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107151864-1668522955332-gettyimages-1350059063-stockpovio-371.jpeg?v=1668529020&w=1920&h=1080"
+    },
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings Corp (SHIP) Stock Analysis: Navigating Risks in a Volatile Marine Sector",
+      "excerpt": "Explore Seanergy Maritime Holdings (SHIP) stock analysis amid recent geopolitical tensions near the Strait of Hormuz impacting the marine industry outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/ship-news-impact-2026-05-06-1757.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T17:57:50.714245+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Compelling Buy in 2026?",
+      "excerpt": "Explore why ON Semiconductor's bullish momentum makes it an attractive buy amid semiconductor growth trends and industry dynamics this May 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 137,
+      "href": "/blog/on-news-impact-2026-05-06-1757.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T17:57:50.714245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291206-1776183944732-gettyimages-2270771417-bb1_4776_jjztz8mh.jpeg?v=1776183970&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Bullish Momentum in Textiles & Apparel Sector",
+      "excerpt": "Explore why Amer Sports Inc (AS) shows bullish potential with strong growth catalysts in the textiles and apparel industry, supported by solid fundamentals and market sentiment.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 110,
+      "href": "/blog/as-news-impact-2026-05-06-1757.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T17:57:50.714245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/103287987-GettyImages-180431493.jpg?v=1452191714&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Bearish Sentiment Clouds Banking Sector Outlook",
+      "excerpt": "Byline Bancorp Inc (BY) faces growing investor caution amid geopolitical tensions and bearish outlook, impacting its stock forecast in the banking industry.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 40,
+      "href": "/blog/by-news-impact-2026-05-06-1757.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T17:57:50.714245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299219-17774771532026-04-29t153646z_2098091898_rc23zkalxkbx_rtrmadp_0_musk-openai-court.jpeg?v=1777477287&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore our detailed AutoNation Inc stock analysis, highlighting key risks and opportunities in the retail automotive space and whether AN shares are a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 33,
+      "href": "/blog/an-news-impact-2026-05-06-1757.html",
+      "published_date": "2026-05-06",
+      "generated_at": "2026-05-06T17:57:50.714245+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is This Real Estate REIT a Buy Amid Bearish Sentiment?",
@@ -5303,5 +5375,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-06T16:13:37.781158+00:00"
+  "market_data_as_of": "2026-05-06T17:57:50.714245+00:00"
 }

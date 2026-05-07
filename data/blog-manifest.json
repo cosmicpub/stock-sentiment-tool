@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-07T18:03:14.441364+00:00",
+  "generated_at": "2026-05-07T19:58:05.298016+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amidst Regional Maritime Risks?",
+      "excerpt": "Explore Seanergy Maritime Holdings' outlook as regional tensions near the Strait of Hormuz stir concerns. Detailed stock analysis reveals key risks and opportunities.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/ship-news-impact-2026-05-07-1958.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T19:58:05.298016+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is NOW the Time to Buy This Semiconductor Play?",
+      "excerpt": "Analyzing ON Semiconductor Corp's current valuation, market position, and semiconductor trends to determine if ON is a compelling buy at $100.7.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 126,
+      "href": "/blog/on-news-impact-2026-05-07-1958.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T19:58:05.298016+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256504-17691942812026-01-23t182552z_1555020399_rc2xav9y5ez9_rtrmadp_0_global-metals-silver.jpeg?v=1769194324&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Textile Industry Shifts?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis to see if AS is a buy in 2026, examining industry trends, valuation, and bullish momentum in apparel stocks.",
+      "sentiment": "Bullish",
+      "score": 10,
+      "impact_score": 116,
+      "href": "/blog/as-news-impact-2026-05-07-1958.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T19:58:05.298016+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108300757-17776546812026-05-01t165727z_482912865_rc2g0la2rpaz_rtrmadp_0_usa-trump.jpeg?v=1777654726&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Smart Buy Amid Industry Shifts?",
+      "excerpt": "Explore our detailed analysis of Bloom Energy Corp's stock (BE), evaluating key growth drivers, risks, and market position to determine if BE is a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 30,
+      "href": "/blog/be-news-impact-2026-05-07-1958.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T19:58:05.298016+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Industry Challenges?",
+      "excerpt": "Explore AutoNation Inc's (AN) current market position in retail, growth prospects, key risks, and whether AN stock is a smart buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/an-news-impact-2026-05-07-1958.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T19:58:05.298016+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore our detailed Alexandria Real Estate Equities (ARE) stock analysis, highlighting growth drivers, risks, valuation, and whether ARE is a timely buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 26,
+      "href": "/blog/are-news-impact-2026-05-07-1958.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T19:58:05.298016+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy in 2026?",
@@ -5735,5 +5807,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-07T18:03:14.441364+00:00"
+  "market_data_as_of": "2026-05-07T19:58:05.298016+00:00"
 }

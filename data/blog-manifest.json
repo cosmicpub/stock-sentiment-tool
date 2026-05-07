@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-07T19:58:05.298016+00:00",
+  "generated_at": "2026-05-07T21:29:11.522578+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Strategic Buy in Today's Banking Sector?",
+      "excerpt": "Explore Byline Bancorp Inc's current positioning in banking, risks, and growth prospects to determine if BY stock fits your portfolio in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/by-news-impact-2026-05-07-2129.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T21:29:11.522578+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303881-1778176895109-gettyimages-2271906354-img_1639.jpeg?v=1778177053&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore a detailed ON Semiconductor stock analysis with key insights into its valuation, market position, and risks in the volatile semiconductor sector.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 120,
+      "href": "/blog/on-news-impact-2026-05-07-2129.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T21:29:11.522578+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108167361-1751494714941-gettyimages-2152606581-jung-awssummi240516_nps7g.jpeg?v=1751494762&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Strong Buy in Textiles & Apparel?",
+      "excerpt": "Explore the bullish outlook for Amer Sports Inc (AS) with in-depth analysis on market position, growth potential, risks, and valuation insights for 2026.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 111,
+      "href": "/blog/as-news-impact-2026-05-07-2129.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T21:29:11.522578+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy in 2026?",
+      "excerpt": "Explore our detailed Bloom Energy stock analysis, including growth prospects, risks, and valuation to determine if BE stock is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 30,
+      "href": "/blog/be-news-impact-2026-05-07-2129.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T21:29:11.522578+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108300757-17776546812026-05-01t165727z_482912865_rc2g0la2rpaz_rtrmadp_0_usa-trump.jpeg?v=1777654726&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis 2026: Is This AI Innovator a Buy Amid Industry Surge?",
+      "excerpt": "Explore C3.ai's growth prospects and risks as AI software stocks rally in 2026. Our analysis covers key drivers, competitive landscape, and valuation insights.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 28,
+      "href": "/blog/ai-news-impact-2026-05-07-2129.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T21:29:11.522578+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis and Forecast: Is It Worth Buying at $205?",
+      "excerpt": "Explore AutoNation Inc's current stock outlook with our detailed analysis on key risks, growth prospects, and whether AN stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/an-news-impact-2026-05-07-2129.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T21:29:11.522578+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "SHIP",
       "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amidst Regional Maritime Risks?",
@@ -5807,5 +5879,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-07T19:58:05.298016+00:00"
+  "market_data_as_of": "2026-05-07T21:29:11.522578+00:00"
 }

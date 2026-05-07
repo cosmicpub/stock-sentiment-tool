@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-07T15:09:43.653395+00:00",
+  "generated_at": "2026-05-07T16:21:05.329286+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Current Semiconductor Market?",
+      "excerpt": "Explore ON Semiconductor Corp's latest stock analysis, including valuation, competitive position, risks, and growth prospects amid a neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 133,
+      "href": "/blog/on-news-impact-2026-05-07-1621.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T16:21:05.329286+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256504-17691942812026-01-23t182552z_1555020399_rc2xav9y5ez9_rtrmadp_0_global-metals-silver.jpeg?v=1769194324&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy in Textiles & Apparel?",
+      "excerpt": "Explore why Amer Sports (AS) shows bullish momentum in textiles and apparel. We break down valuation, risks, and growth prospects in this detailed stock forecast.",
+      "sentiment": "Bullish",
+      "score": 10,
+      "impact_score": 110,
+      "href": "/blog/as-news-impact-2026-05-07-1621.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T16:21:05.329286+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy for Real Estate Investors in 2026?",
+      "excerpt": "A comprehensive Alexandria Real Estate Equities stock analysis exploring current valuation, sector dynamics, and growth outlook to help investors decide if ARE is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 38,
+      "href": "/blog/are-news-impact-2026-05-07-1621.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T16:21:05.329286+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amidst Growing AI Industry Buzz?",
+      "excerpt": "Explore C3.ai's latest bullish momentum driven by industry partnerships and AI sector growth in this comprehensive stock forecast and analysis.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 33,
+      "href": "/blog/ai-news-impact-2026-05-07-1621.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T16:21:05.329286+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis 2026: Is AN a Buy Amid Retail Sector Dynamics?",
+      "excerpt": "Explore our in-depth AutoNation Inc stock analysis for 2026. We dissect recent performance, industry trends, risks, and growth catalysts to determine if AN is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/an-news-impact-2026-05-07-1621.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T16:21:05.329286+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is It a Buy Amidst Bearish Sentiment?",
+      "excerpt": "Explore Two Harbors Investment Corp's current bearish outlook, key risks, valuation insights, and what investors should watch in this in-depth stock analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 21,
+      "href": "/blog/two-news-impact-2026-05-07-1621.html",
+      "published_date": "2026-05-07",
+      "generated_at": "2026-05-07T16:21:05.329286+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Surging AI Sector Momentum?",
@@ -5591,5 +5663,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-07T15:09:43.653395+00:00"
+  "market_data_as_of": "2026-05-07T16:21:05.329286+00:00"
 }

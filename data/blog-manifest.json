@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-08T15:56:58.122890+00:00",
+  "generated_at": "2026-05-08T17:50:58.138736+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore Two Harbors Investment Corp's current valuation, market position, and risks to determine if TWO stock is a smart buy for real estate investors in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/two-news-impact-2026-05-08-1750.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T17:50:58.138736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "Is ON Semiconductor Corp (ON) a Buy? In-Depth Stock Analysis and Forecast",
+      "excerpt": "Explore a comprehensive analysis of ON Semiconductor Corp (ON) stock, including its financial snapshot, industry position, risks, and long-term outlook to decide if it's a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 120,
+      "href": "/blog/on-news-impact-2026-05-08-1750.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T17:50:58.138736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303137-1778087605999-gettyimages-864486158-dsc_9182.jpeg?v=1778087629&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's current standing, market position, and growth outlook as we analyze if AS stock is a worthwhile buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 104,
+      "href": "/blog/as-news-impact-2026-05-08-1750.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T17:50:58.138736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108304205-1778238583455-gettyimages-2274348897-AFP_B23M3YY.jpeg?v=1778238601&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore our detailed OUT stock analysis to uncover whether OUTFRONT Media Inc is a smart buy amid evolving real estate trends and market uncertainties.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 30,
+      "href": "/blog/out-news-impact-2026-05-08-1750.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T17:50:58.138736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297714-17773046912026-04-27t154305z_1964669647_rc2rxka9pguy_rtrmadp_0_musk-openai-court.jpeg?v=1777327249&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Retail Sector?",
+      "excerpt": "Explore AutoNation Inc's current stock position, key growth drivers, and risks in this in-depth AN stock analysis. See if AN is a compelling buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/an-news-impact-2026-05-08-1750.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T17:50:58.138736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303746-17781672612026-05-07t151516z_362339104_rc2d4lajy3w5_rtrmadp_0_usa-stocks.jpeg?v=1778167294&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI-Focused Tech Stock A Buy in 2026?",
+      "excerpt": "Explore an in-depth analysis of C3.ai Inc (AI) stock, its current market stance, growth prospects, and key risks shaping its future in the AI tech space.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/ai-news-impact-2026-05-08-1750.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T17:50:58.138736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297268-1777127243816-gettyimages-2272978650-anotherday208771190_4cznzzhg.jpeg?v=1777127293&w=1920&h=1080"
+    },
     {
       "ticker": "GOLD",
       "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Bullish Momentum?",
@@ -6023,5 +6095,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-08T15:56:58.122890+00:00"
+  "market_data_as_of": "2026-05-08T17:50:58.138736+00:00"
 }

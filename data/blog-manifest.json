@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-08T19:52:33.437017+00:00",
+  "generated_at": "2026-05-08T21:32:56.010234+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now the Right Time to Buy?",
+      "excerpt": "Explore our detailed Alexandria Real Estate Equities stock analysis covering growth drivers, risks, valuation, and insights to help determine if ARE is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/are-news-impact-2026-05-08-2132.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T21:32:56.010234+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is This Semiconductor Stock a Buy in 2026?",
+      "excerpt": "Explore ON Semiconductor's current position in the semiconductor space, growth catalysts, risks, and whether ON stock is a buy in 2026 amid shifting AI chip dynamics.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 124,
+      "href": "/blog/on-news-impact-2026-05-08-2132.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T21:32:56.010234+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108302934-1778074131329-LisaSu4.jpg?v=1778074231&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's current bullish outlook with an in-depth stock analysis, valuation insights, and risks investors should monitor in the apparel sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 106,
+      "href": "/blog/as-news-impact-2026-05-08-2132.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T21:32:56.010234+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is This Real Estate Play a Buy in 2026?",
+      "excerpt": "Explore OUTFRONT Media Inc's 2026 outlook, valuation, and key risks to determine if OUT stock is a worthwhile investment in today\u2019s real estate market.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 30,
+      "href": "/blog/out-news-impact-2026-05-08-2132.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T21:32:56.010234+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297714-17773046912026-04-27t154305z_1964669647_rc2rxka9pguy_rtrmadp_0_musk-openai-court.jpeg?v=1777327249&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Software Player a Buy in 2026?",
+      "excerpt": "Explore C3.ai's position in the AI tech race, recent market reactions, and what investors should watch before buying AI stock in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/ai-news-impact-2026-05-08-2132.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T21:32:56.010234+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis and Forecast: Is AN a Buy in 2026?",
+      "excerpt": "Explore our detailed AutoNation Inc stock analysis with insights into industry trends, financial health, and future outlook to decide if AN is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/an-news-impact-2026-05-08-2132.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T21:32:56.010234+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108255964-1769112419128-gettyimages-2257634535-_75a0085_1dhk3ucw.jpeg?v=1777991221&w=1920&h=1080"
+    },
     {
       "ticker": "COST",
       "title": "Costco Wholesale Corp (COST) Stock Analysis: Is COST a Buy in 2026?",
@@ -6167,5 +6239,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-08T19:52:33.437017+00:00"
+  "market_data_as_of": "2026-05-08T21:32:56.010234+00:00"
 }

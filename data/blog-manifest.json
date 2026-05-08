@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-08T14:20:55.073487+00:00",
+  "generated_at": "2026-05-08T15:56:58.122890+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Bullish Momentum?",
+      "excerpt": "Gold.com Inc (GOLD) rallies on US-Iran peace optimism and easing inflation fears. Explore our detailed stock analysis to see if GOLD is a buy now.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 24,
+      "href": "/blog/gold-news-impact-2026-05-08-1556.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T15:56:58.122890+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256504-17691942812026-01-23t182552z_1555020399_rc2xav9y5ez9_rtrmadp_0_global-metals-silver.jpeg?v=1769194324&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Growth?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, growth drivers, valuation insights, and key risks in this detailed ON stock analysis for investors.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 122,
+      "href": "/blog/on-news-impact-2026-05-08-1556.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T15:56:58.122890+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303137-1778087605999-gettyimages-864486158-dsc_9182.jpeg?v=1778087629&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS Stock a Buy in 2026?",
+      "excerpt": "Explore Amer Sports Inc's (AS) valuation, industry positioning, and growth prospects to decide if AS stock is a smart buy amid current market neutrality.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 104,
+      "href": "/blog/as-news-impact-2026-05-08-1556.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T15:56:58.122890+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108304205-1778238583455-gettyimages-2274348897-AFP_B23M3YY.jpeg?v=1778238601&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore OUTFRONT Media's current stock potential, market position, and key risks as we analyze whether OUT is a buy for real estate investors in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 30,
+      "href": "/blog/out-news-impact-2026-05-08-1556.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T15:56:58.122890+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297714-17773046912026-04-27t154305z_1964669647_rc2rxka9pguy_rtrmadp_0_musk-openai-court.jpeg?v=1777327249&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy in Today\u2019s Insurance Market?",
+      "excerpt": "Explore our in-depth Health In Tech Inc (HIT) stock analysis to determine if this under-the-radar insurance company is a buy amidst market uncertainties.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/hit-news-impact-2026-05-08-1556.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T15:56:58.122890+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108274274-17727259532026-03-05t154704z_76296570_rc2eyjaeaas3_rtrmadp_0_iran-crisis-britain-starmer.jpeg?v=1772725972&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Rising Geopolitical Hopes?",
+      "excerpt": "Explore Gold.com Inc's latest price surge driven by US-Iran peace hopes and what it means for investors seeking opportunities in the distributors sector.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 24,
+      "href": "/blog/gold-news-impact-2026-05-08-1556.html",
+      "published_date": "2026-05-08",
+      "generated_at": "2026-05-08T15:56:58.122890+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HE",
       "title": "HE Stock Analysis: Hawaiian Electric Industries Inc Stock Forecast & Outlook \u2014 Is HE a Buy?",
@@ -5951,5 +6023,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-08T14:20:55.073487+00:00"
+  "market_data_as_of": "2026-05-08T15:56:58.122890+00:00"
 }

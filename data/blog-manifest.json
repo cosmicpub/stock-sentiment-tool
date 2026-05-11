@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-10T13:58:44.285905+00:00",
+  "generated_at": "2026-05-11T15:42:35.839681+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amidst Bearish Sentiment?",
+      "excerpt": "Explore the latest Health In Tech Inc (HIT) stock forecast amid bearish market signals. Understand HIT's risks, valuation, and potential in insurance sector.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 26,
+      "href": "/blog/hit-news-impact-2026-05-11-1542.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T15:42:35.839681+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108274274-17727259532026-03-05t154704z_76296570_rc2eyjaeaas3_rtrmadp_0_iran-crisis-britain-starmer.jpeg?v=1772725972&w=1920&h=1080"
+    },
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Navigating Risks in the Marine Sector",
+      "excerpt": "Explore the latest on Seanergy Maritime Holdings (SHIP) amid regional tensions and industry dynamics, and whether it stands as a smart maritime stock buy.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 20,
+      "href": "/blog/ship-news-impact-2026-05-11-1542.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T15:42:35.839681+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108304671-1778334368321-gettyimages-2274698533-HL_JLBULCAO_3154330.jpeg?v=1778334408&w=1920&h=1080"
+    },
+    {
+      "ticker": "LNG",
+      "title": "Cheniere Energy (LNG) Stock Analysis: Is Now the Time to Sell or Hold?",
+      "excerpt": "Explore why Cheniere Energy's (LNG) bearish momentum is intensifying amid geopolitical tensions and softer LNG demand, and what it means for investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/lng-news-impact-2026-05-11-1542.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T15:42:35.839681+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy Amid Persistent Bearish Sentiment?",
+      "excerpt": "Discover why IMAC Holdings Inc (BACK) remains under pressure at $0.038, facing bearish sentiment and what investors should watch before buying.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/back-news-impact-2026-05-11-1542.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T15:42:35.839681+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303746-17781672612026-05-07t151516z_362339104_rc2d4lajy3w5_rtrmadp_0_usa-stocks.jpeg?v=1778167294&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore Gold.com Inc's latest stock outlook as geopolitical tensions and inflation data keep investors cautious. Here's our detailed GOLD stock forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/gold-news-impact-2026-05-11-1542.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T15:42:35.839681+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy Amid Uncertain Market Dynamics?",
+      "excerpt": "Explore Bio-Techne's (TECH) stock outlook in the Life Sciences sector, assessing risks, opportunities, and whether TECH is a buy in today's shifting landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/tech-news-impact-2026-05-11-1542.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T15:42:35.839681+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108301807-17779205862026-05-04t183812z_2067519317_rc2h2lax4fgx_rtrmadp_0_usa-investment-milken.jpeg?v=1777920616&w=1920&h=1080"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy in 2026?",
@@ -6383,5 +6455,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-10T13:58:44.285905+00:00"
+  "market_data_as_of": "2026-05-11T15:42:35.839681+00:00"
 }

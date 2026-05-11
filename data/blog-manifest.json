@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-11T17:07:37.782750+00:00",
+  "generated_at": "2026-05-11T20:13:40.372849+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "LIFE",
+      "title": "Ethos Technologies Inc (LIFE) Stock Analysis: Is LIFE a Buy in 2026?",
+      "excerpt": "Explore Ethos Technologies Inc (LIFE) stock forecast with a balanced view on valuation, growth prospects, and key risks in the evolving insurance sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/life-news-impact-2026-05-11-2013.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T20:13:40.372849+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303952-1778181948384-IMG_7122.jpeg?v=1778182016&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor (ON) shows bearish trends with headwinds in semiconductors. This analysis breaks down its outlook and key risks for investors to consider.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 131,
+      "href": "/blog/on-news-impact-2026-05-11-2013.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T20:13:40.372849+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108220696-1762191413398-Q-OB-Photo-20251103-CC-PRESS-31.jpg?v=1762191680&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is It the Right Buy in Textiles & Apparel?",
+      "excerpt": "Explore a bullish outlook on Amer Sports Inc (AS) stock with an in-depth analysis on growth prospects, industry position, and risks investors must know today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 106,
+      "href": "/blog/as-news-impact-2026-05-11-2013.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T20:13:40.372849+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108251655-1768310306409-gettyimages-2255454909-GM_BARRA.jpeg?v=1769119297&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This Technology Powerhouse a Buy in 2026?",
+      "excerpt": "Explore why bullish sentiment surrounds C3.ai stock amid AI-driven market gains and whether it stands as a compelling buy in today's tech landscape.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 69,
+      "href": "/blog/ai-news-impact-2026-05-11-2013.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T20:13:40.372849+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200472-1677528554272-NUP_200782_00307.jpg?v=1696515962&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore our in-depth Gartner Inc (IT) stock analysis, evaluating growth prospects, risks, and valuation to determine if IT is a buy in today's tech landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 42,
+      "href": "/blog/it-news-impact-2026-05-11-2013.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T20:13:40.372849+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Buy in 2026?",
+      "excerpt": "Explore our detailed Alexandria Real Estate Equities (ARE) stock analysis for 2026, assessing its real estate sector position, valuation, and growth outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/are-news-impact-2026-05-11-2013.html",
+      "published_date": "2026-05-11",
+      "generated_at": "2026-05-11T20:13:40.372849+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108264683-1770843445357-gettyimages-2256809517-DAVOS_WEF_2026.jpeg?v=1770843513&w=1920&h=1080"
+    },
     {
       "ticker": "HE",
       "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
@@ -6527,5 +6599,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-11T17:07:37.782750+00:00"
+  "market_data_as_of": "2026-05-11T20:13:40.372849+00:00"
 }

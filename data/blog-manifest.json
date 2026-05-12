@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-11T21:48:07.309032+00:00",
+  "generated_at": "2026-05-12T15:18:02.667608+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corp (NEXT) Stock Analysis: Is This Energy Play Worth the Risk Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth NextDecade Corp stock analysis highlighting bearish trends, geopolitical risks, and what investors should watch in this volatile energy sector.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/next-news-impact-2026-05-12-1518.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T15:18:02.667608+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108264683-1770843445357-gettyimages-2256809517-DAVOS_WEF_2026.jpeg?v=1770843513&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor's stock faces bearish pressure amid geopolitical strains and market headwinds. We analyze the risks and growth prospects to see if ON is a buy now.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 152,
+      "href": "/blog/on-news-impact-2026-05-12-1518.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T15:18:02.667608+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108062517-1731525740397-IMG_3574.jpg?v=1731525753&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is It Time to Buy or Beware?",
+      "excerpt": "Explore Amer Sports Inc's bearish outlook in textiles and apparel amid geopolitical tensions, valuation challenges, and competitive pressures.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 123,
+      "href": "/blog/as-news-impact-2026-05-12-1518.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T15:18:02.667608+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108305342-1778538473141-GettyImages-1781822205.jpg?v=1778538567&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This Tech Leader a Buy Amid AI Frenzy?",
+      "excerpt": "Explore the bullish outlook on C3.ai stock, its competitive edge in AI software, and key factors shaping its market potential in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 48,
+      "href": "/blog/ai-news-impact-2026-05-12-1518.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T15:18:02.667608+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200472-1677528554272-NUP_200782_00307.jpg?v=1696515962&w=1920&h=1080"
+    },
+    {
+      "ticker": "LIFE",
+      "title": "Ethos Technologies Inc (LIFE) Stock Analysis: Is LIFE a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Discover a comprehensive Ethos Technologies Inc (LIFE) stock analysis exploring its market stance, growth prospects, and key risks shaping investor decisions today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/life-news-impact-2026-05-12-1518.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T15:18:02.667608+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303952-1778181948384-IMG_7122.jpeg?v=1778182016&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "HAS Stock Analysis: Hasbro Inc Stock Forecast & Outlook \u2014 Is HAS a Buy?",
+      "excerpt": "Hasbro Inc (HAS) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 29,
+      "href": "/blog/has-news-impact-2026-05-12-1518.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T15:18:02.667608+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107194669-1676418219433-IMG_7924r.jpg?v=1676418338&w=1920&h=1080"
+    },
     {
       "ticker": "OUT",
       "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today\u2019s Real Estate Market?",
@@ -6671,5 +6743,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-11T21:48:07.309032+00:00"
+  "market_data_as_of": "2026-05-12T15:18:02.667608+00:00"
 }

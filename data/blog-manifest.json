@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-12T16:36:45.241614+00:00",
+  "generated_at": "2026-05-12T20:13:07.243262+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis 2026: Is HERE a Buy in Leisure Products?",
+      "excerpt": "Analyze HERE's current position in leisure products with key insights on valuation, market sentiment, risks, and growth prospects for 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 25,
+      "href": "/blog/here-news-impact-2026-05-12-2013.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T20:13:07.243262+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108208830-17598487452025-10-07t145034z_605503592_rc2j1fasd7go_rtrmadp_0_spirit-aerosystm-m-a-boeing-eu.jpeg?v=1760469694&w=1920&h=1080"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy in the Life Sciences Sector?",
+      "excerpt": "Explore Bio-Techne Corp's (TECH) current market position, growth potential, risks, and whether it\u2019s a smart buy in the competitive Life Sciences Tools & Services industry.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/tech-news-impact-2026-05-12-2013.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T20:13:07.243262+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108305342-1778538473141-GettyImages-1781822205.jpg?v=1778538567&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is This Distributor a Buy Amid Bearish Sentiment?",
+      "excerpt": "Gold.com Inc (GOLD) faces bearish outlook amid macroeconomic headwinds. Discover key factors shaping its stock forecast and whether it\u2019s a buy now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/gold-news-impact-2026-05-12-2013.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T20:13:07.243262+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Bearish Sentiment Amid Geopolitical Uncertainty",
+      "excerpt": "ON Semiconductor (ON) faces headwinds from a bearish sentiment and geopolitical tensions impacting semiconductor markets. Is it a buy or hold?",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 149,
+      "href": "/blog/on-news-impact-2026-05-12-2013.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T20:13:07.243262+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108062517-1731525740397-IMG_3574.jpg?v=1731525753&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bearish outlook on Amer Sports Inc (AS) stock with in-depth analysis, valuation insights, and key risks investors should watch in 2026.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 142,
+      "href": "/blog/as-news-impact-2026-05-12-2013.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T20:13:07.243262+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108305100-1778515613432-Untitled-4.jpg?v=1778515804&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Tech Leader a Buy Amid Industry Optimism?",
+      "excerpt": "Explore our detailed C3.ai (AI) stock analysis amid bullish trends in AI technology, evaluating key growth drivers, risks, and market sentiment for investors.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 57,
+      "href": "/blog/ai-news-impact-2026-05-12-2013.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T20:13:07.243262+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108101915-1739436673937-gettyimages-924759658-dsc_7267.jpeg?v=1759110094&w=1920&h=1080"
+    },
     {
       "ticker": "UK",
       "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Smart Buy in 2026?",
@@ -6815,5 +6887,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-12T16:36:45.241614+00:00"
+  "market_data_as_of": "2026-05-12T20:13:07.243262+00:00"
 }

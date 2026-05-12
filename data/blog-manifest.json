@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-12T20:13:07.243262+00:00",
+  "generated_at": "2026-05-12T21:47:03.401519+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in the Utilities Sector?",
+      "excerpt": "Explore our in-depth Hawaiian Electric Industries (HE) stock analysis to understand its current valuation, growth prospects, and whether it's poised for gains in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/he-news-impact-2026-05-12-2147.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T21:47:03.401519+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108305342-1778538473141-GettyImages-1781822205.jpg?v=1778538567&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor faces bearish headwinds amid geopolitical tensions and sector challenges. Explore our in-depth ON stock forecast and investment verdict.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 155,
+      "href": "/blog/on-news-impact-2026-05-12-2147.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T21:47:03.401519+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108062517-1731525740397-IMG_3574.jpg?v=1731525753&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Discover why Amer Sports Inc (AS) faces bearish sentiment amid geopolitical and market pressures and whether it's a smart buy for investors now.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 146,
+      "href": "/blog/as-news-impact-2026-05-12-2147.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T21:47:03.401519+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108174277-1753058901005-gettyimages-2153542926-dji_0731.jpeg?v=1753058925&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Why This AI Industry Leader Is a Strong Buy Now",
+      "excerpt": "Explore why C3.ai (AI) remains bullish in 2026, fueled by AI adoption trends, solid partnerships, and market optimism. A compelling buy opportunity?",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 48,
+      "href": "/blog/ai-news-impact-2026-05-12-2147.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T21:47:03.401519+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108101915-1739436673937-gettyimages-924759658-dsc_7267.jpeg?v=1759110094&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is This Real Estate Pick Worth Buying Now?",
+      "excerpt": "Dive into our detailed OUT stock analysis to understand recent bearish signals, valuation concerns, and whether OUTFRONT Media is a buy despite sector headwinds.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 26,
+      "href": "/blog/out-news-impact-2026-05-12-2147.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T21:47:03.401519+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "LIFE",
+      "title": "Ethos Technologies Inc (LIFE) Stock Analysis: Is LIFE a Buy in the Competitive Insurance Space?",
+      "excerpt": "Dive into our comprehensive analysis of Ethos Technologies Inc (LIFE), exploring its valuation, market position, and growth prospects to decide if it's a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/life-news-impact-2026-05-12-2147.html",
+      "published_date": "2026-05-12",
+      "generated_at": "2026-05-12T21:47:03.401519+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HERE",
       "title": "Here Group Ltd (HERE) Stock Analysis 2026: Is HERE a Buy in Leisure Products?",
@@ -6887,5 +6959,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-12T20:13:07.243262+00:00"
+  "market_data_as_of": "2026-05-12T21:47:03.401519+00:00"
 }

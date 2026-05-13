@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-13T20:16:23.178430+00:00",
+  "generated_at": "2026-05-13T21:49:59.513101+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today's Financial Services Sector?",
+      "excerpt": "Dive into our detailed Saratoga Investment Corp (SAY) stock analysis for 2026. Discover key insights, risks, and whether SAY is a smart buy right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/say-news-impact-2026-05-13-2149.html",
+      "published_date": "2026-05-13",
+      "generated_at": "2026-05-13T21:49:59.513101+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Is Amer Sports Inc (AS) a Buy? Bearish Sentiment Clouds Short-Term Outlook",
+      "excerpt": "Amer Sports Inc (AS) faces bearish momentum amid sector challenges and geopolitical tensions. Here's a detailed stock analysis and outlook for investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 112,
+      "href": "/blog/as-news-impact-2026-05-13-2149.html",
+      "published_date": "2026-05-13",
+      "generated_at": "2026-05-13T21:49:59.513101+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107308399-1695916881379-alle.jpg?v=1695917442&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore a detailed ON Semiconductor stock analysis covering recent trends, valuation, risks, and the semiconductor landscape to help decide if ON is a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 105,
+      "href": "/blog/on-news-impact-2026-05-13-2149.html",
+      "published_date": "2026-05-13",
+      "generated_at": "2026-05-13T21:49:59.513101+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306435-1778688429730-gettyimages-2271519475-aw1a9316_rfwnujbk.jpeg?v=1778688497&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis 2026: Is This AI Leader a Strong Buy Now?",
+      "excerpt": "Dive into our 2026 analysis of C3.ai Inc (AI) stock amidst bullish AI market trends, competitive outlook, and valuation insights to determine if it's a buy.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 44,
+      "href": "/blog/ai-news-impact-2026-05-13-2149.html",
+      "published_date": "2026-05-13",
+      "generated_at": "2026-05-13T21:49:59.513101+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis 2026: Is BY a Buy Amid Banking Sector Challenges?",
+      "excerpt": "Explore Byline Bancorp's current valuation, industry position, and growth prospects to decide if BY stock is a smart buy in 2026's banking landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/by-news-impact-2026-05-13-2149.html",
+      "published_date": "2026-05-13",
+      "generated_at": "2026-05-13T21:49:59.513101+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108269950-1772036885025-gettyimages-2219186558-dsc06046.jpeg?v=1777391485&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is It Time to Buy or Beware?",
+      "excerpt": "Explore our detailed analysis of OUTFRONT Media Inc's stock, addressing current bearish sentiment, key risks, and what investors should watch in 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 26,
+      "href": "/blog/out-news-impact-2026-05-13-2149.html",
+      "published_date": "2026-05-13",
+      "generated_at": "2026-05-13T21:49:59.513101+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108174277-1753058901005-gettyimages-2153542926-dji_0731.jpeg?v=1753058925&w=1920&h=1080"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro Inc (HAS) Stock Analysis: Is Now the Time to Buy Leisure Products Giant?",
@@ -7175,5 +7247,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-13T20:16:23.178430+00:00"
+  "market_data_as_of": "2026-05-13T21:49:59.513101+00:00"
 }

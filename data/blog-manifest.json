@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-13T21:49:59.513101+00:00",
+  "generated_at": "2026-05-14T15:02:55.399660+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles and Apparel Sector?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis covering recent trends, valuation, and risks involved in this key textiles & apparel player.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 118,
+      "href": "/blog/as-news-impact-2026-05-14-1502.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T15:02:55.399660+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108090588-1737562466455-1U8A1113.JPG?v=1739395915&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Strong Buy in the Booming Semiconductor Sector?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook driven by AI chip demand, industry tailwinds, and strategic positioning. Key risks and valuation insights included.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 103,
+      "href": "/blog/on-news-impact-2026-05-14-1502.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T15:02:55.399660+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Leader a Buy Amid AI Market Surge?",
+      "excerpt": "Explore our in-depth analysis of C3.ai Inc (AI) stock as AI demand surges, with insights on valuation, risks, and market positioning for May 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 53,
+      "href": "/blog/ai-news-impact-2026-05-14-1502.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T15:02:55.399660+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy for 2026?",
+      "excerpt": "Explore our detailed Byline Bancorp Inc (BY) stock analysis for 2026, covering valuation, growth outlook, risks, and whether BY shares are a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/by-news-impact-2026-05-14-1502.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T15:02:55.399660+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107357688-1705008806542-gettyimages-1875453326-untitled-1112.jpeg?v=1778725235&w=1920&h=1080"
+    },
+    {
+      "ticker": "HELP",
+      "title": "Cybin Inc (HELP) Stock Analysis 2026: Is This Psychedelic Pharma Play a Buy Now?",
+      "excerpt": "Explore our 2026 Cybin Inc stock forecast and analysis. We break down the risks and opportunities in this emerging psychedelics pharmaceutical name.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/help-news-impact-2026-05-14-1502.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T15:02:55.399660+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Is Saratoga Investment Corp a Buy in 2026?",
+      "excerpt": "Explore an in-depth analysis of Saratoga Investment Corp (SAY) to understand if it\u2019s a compelling buy as market conditions shift in 2026. Uncover key metrics and outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/say-news-impact-2026-05-14-1502.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T15:02:55.399660+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108200336-1758143906510-gettyimages-2220890473-nw107895.jpeg?v=1775746689&w=1920&h=1080"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today's Financial Services Sector?",
@@ -7247,5 +7319,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-13T21:49:59.513101+00:00"
+  "market_data_as_of": "2026-05-14T15:02:55.399660+00:00"
 }

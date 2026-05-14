@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-14T18:15:05.423582+00:00",
+  "generated_at": "2026-05-14T20:12:06.859444+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "COST",
+      "title": "Costco Wholesale Corp (COST) Stock Analysis: Is COST a Buy in May 2026?",
+      "excerpt": "Explore Costco's current retail market position, growth outlook, and key factors shaping its stock performance in this in-depth COST stock analysis.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 19,
+      "href": "/blog/cost-news-impact-2026-05-14-2012.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T20:12:06.859444+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107308399-1695916881379-alle.jpg?v=1695917442&w=1920&h=1080"
+    },
+    {
+      "ticker": "AIR",
+      "title": "AAR Corp (AIR) Stock Analysis and Outlook: Is AIR a Buy in Aerospace & Defense?",
+      "excerpt": "Explore AAR Corp's latest stock outlook amid industry shifts. We break down the aerospace & defense stock's risks, opportunities, and forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/air-news-impact-2026-05-14-2012.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T20:12:06.859444+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in 2026 Amid Neutral Sentiment?",
+      "excerpt": "Explore the latest stock analysis on Amer Sports Inc (AS), examining its valuation, industry positioning, and whether AS is a buy amid current market neutrality.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 120,
+      "href": "/blog/as-news-impact-2026-05-14-2012.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T20:12:06.859444+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108223784-1762799604979-gettyimages-2245525710-MIRAN_NYSE.jpeg?v=1762799659&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy Amid Bullish Momentum?",
+      "excerpt": "ON Semiconductor's latest bullish trends and semiconductor sector dynamics suggest promising potential. Discover key factors driving ON stock and risks to consider.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 107,
+      "href": "/blog/on-news-impact-2026-05-14-2012.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T20:12:06.859444+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis 2026: Is AI a Strong Buy Amid the Tech AI Boom?",
+      "excerpt": "Explore our 2026 C3.ai stock analysis that evaluates bullish momentum fueled by AI industry growth, key risks, valuation, and why investors are watching closely.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 44,
+      "href": "/blog/ai-news-impact-2026-05-14-2012.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T20:12:06.859444+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108090588-1737562466455-1U8A1113.JPG?v=1739395915&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Economic Uncertainty?",
+      "excerpt": "Explore Byline Bancorp Inc's current positioning in the banking sector, its growth outlook, key risks, and valuation to decide if BY stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 31,
+      "href": "/blog/by-news-impact-2026-05-14-2012.html",
+      "published_date": "2026-05-14",
+      "generated_at": "2026-05-14T20:12:06.859444+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108109106-1740756333280-gettyimages-2201785663-US_JOB_FAIR.jpeg?v=1740756354&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Apparel Sector Today?",
@@ -7463,5 +7535,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-14T18:15:05.423582+00:00"
+  "market_data_as_of": "2026-05-14T20:12:06.859444+00:00"
 }

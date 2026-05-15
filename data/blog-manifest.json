@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-15T19:58:56.111230+00:00",
+  "generated_at": "2026-05-15T21:32:53.432144+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Strong Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our detailed ON Semiconductor stock analysis and forecast. Assess why bullish momentum may make ON a compelling semiconductor stock buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 122,
+      "href": "/blog/on-news-impact-2026-05-15-2132.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T21:32:53.432144+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108275315-17730564772026-03-07t230210z_893106178_rc2wzja8gv7b_rtrmadp_0_usa-trump.jpeg?v=1773056500&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Market Uncertainties?",
+      "excerpt": "Explore Amer Sports Inc\u2019s 2026 outlook amid inflation pressures and market volatility. Our analysis offers a clear verdict and key risks for AS stock investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 108,
+      "href": "/blog/as-news-impact-2026-05-15-2132.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T21:32:53.432144+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296432-17769691342026-04-23t145354z_946964958_rc22vka4lnni_rtrmadp_0_usa-stocks.jpeg?v=1776982682&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Software Leader a Buy in 2026?",
+      "excerpt": "Explore our in-depth C3.ai stock analysis to uncover growth drivers, risks, and whether AI stock remains a buy amid heightened AI market interest.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 44,
+      "href": "/blog/ai-news-impact-2026-05-15-2132.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T21:32:53.432144+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107422916-1717187238834-ENG-Shot-5-uai-1032x1032.jpg?v=1717187302&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Sector?",
+      "excerpt": "Explore Byline Bancorp Inc\u2019s (BY) latest stock analysis, key risks, valuation insights, and why cautious investors might find opportunities in this stable banking player.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 32,
+      "href": "/blog/by-news-impact-2026-05-15-2132.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T21:32:53.432144+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108261395-1770223914290-gettyimages-2259772913-sblx_tue_bowles078.jpeg?v=1770223963&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Explore our detailed Hawaiian Electric Industries stock analysis covering valuation, risks, and outlook to help investors decide if HE shares are a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/he-news-impact-2026-05-15-2132.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T21:32:53.432144+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306886-17787594972026-05-14t051409z_67000638_rc2q8laxia4h_rtrmadp_0_china-usa.jpeg?v=1778759519&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Now the Time to Buy This Leisure Products Leader?",
+      "excerpt": "Explore why Hasbro Inc's recent 10% pullback could present a buying opportunity for investors in the leisure products sector.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 25,
+      "href": "/blog/has-news-impact-2026-05-15-2132.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T21:32:53.432144+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200470-1677528554271-NUP_200782_00237.jpg?v=1697057003&w=1920&h=1080"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is Now the Time to Buy in Retail Auto?",
@@ -7895,5 +7967,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-15T19:58:56.111230+00:00"
+  "market_data_as_of": "2026-05-15T21:32:53.432144+00:00"
 }

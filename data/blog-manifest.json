@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-15T17:58:37.686850+00:00",
+  "generated_at": "2026-05-15T19:58:56.111230+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is Now the Time to Buy in Retail Auto?",
+      "excerpt": "Explore our detailed AutoNation Inc stock analysis with insights on valuation, market trends, and risks. Understand if AN stock is a buy for retail auto investors today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/an-news-impact-2026-05-15-1958.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T19:58:56.111230+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306441-1778688845240-Traders-Photo-20260513-AS-3.jpg?v=1778688944&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Semiconductor Boom?",
+      "excerpt": "Explore ON Semiconductor's 2026 outlook amidst chip industry growth, recent market moves, and competitive pressures to decide if ON stock is a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 122,
+      "href": "/blog/on-news-impact-2026-05-15-1958.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T19:58:56.111230+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108275315-17730564772026-03-07t230210z_893106178_rc2wzja8gv7b_rtrmadp_0_usa-trump.jpeg?v=1773056500&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Inflation and Market Uncertainty?",
+      "excerpt": "Discover an in-depth analysis of Amer Sports Inc's (AS) stock in 2026, evaluating its outlook amid inflation pressures, market risks, and growth opportunities.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 108,
+      "href": "/blog/as-news-impact-2026-05-15-1958.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T19:58:56.111230+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296432-17769691342026-04-23t145354z_946964958_rc22vka4lnni_rtrmadp_0_usa-stocks.jpeg?v=1776982682&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Powerhouse a Buy in 2026?",
+      "excerpt": "Explore C3.ai's bullish outlook amid AI chip competition, volatile market moves, and evolving tech demand. Get our updated 2026 stock forecast and risks.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 44,
+      "href": "/blog/ai-news-impact-2026-05-15-1958.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T19:58:56.111230+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107422916-1717187238834-ENG-Shot-5-uai-1032x1032.jpg?v=1717187302&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Stability?",
+      "excerpt": "Explore our detailed Byline Bancorp Inc stock analysis examining its financial health, market positioning, and whether BY shares present a compelling buy amid neutral sentiment.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 32,
+      "href": "/blog/by-news-impact-2026-05-15-1958.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T19:58:56.111230+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108261395-1770223914290-gettyimages-2259772913-sblx_tue_bowles078.jpeg?v=1770223963&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Explore our latest Hawaiian Electric Industries Inc (HE) stock analysis for 2026. We assess its utilities sector position, recent price action, and growth prospects.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/he-news-impact-2026-05-15-1958.html",
+      "published_date": "2026-05-15",
+      "generated_at": "2026-05-15T19:58:56.111230+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306886-17787594972026-05-14t051409z_67000638_rc2q8laxia4h_rtrmadp_0_china-usa.jpeg?v=1778759519&w=1920&h=1080"
+    },
     {
       "ticker": "HELP",
       "title": "Cybin Inc (HELP) Stock Analysis and Forecast: Is HELP a Buy in 2026?",
@@ -7823,5 +7895,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-15T17:58:37.686850+00:00"
+  "market_data_as_of": "2026-05-15T19:58:56.111230+00:00"
 }

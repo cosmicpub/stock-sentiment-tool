@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-18T21:44:25.842165+00:00",
+  "generated_at": "2026-05-19T15:54:55.569399+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is NOW the Time to Buy in Real Estate?",
+      "excerpt": "Explore our detailed analysis of Two Harbors Investment Corp (TWO) in the real estate sector. Understand risks, valuation, and market sentiment before investing.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/two-news-impact-2026-05-19-1554.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T15:54:55.569399+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303147-1778088015856-gettyimages-2274260652-US_STOCKS.jpeg?v=1778102572&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore our detailed Bloom Energy Corp stock analysis focusing on growth prospects, valuation, and risks to decide if BE is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/be-news-impact-2026-05-19-1554.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T15:54:55.569399+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306550-1778700497897-gettyimages-1397316774-c1370.jpeg?v=1778700584&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy in the Real Estate Sector?",
+      "excerpt": "Dive into the bullish outlook on Ucommune International Ltd (UK) with deep analysis on market position, risks, and growth potential in real estate.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/uk-news-impact-2026-05-19-1554.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T15:54:55.569399+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is This Biotechnology Stock Worth Buying in 2026?",
+      "excerpt": "Explore IMAC Holdings Inc's (BACK) current biotech potential and risks in our detailed stock analysis. Is BACK a smart buy for your portfolio now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/back-news-impact-2026-05-19-1554.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T15:54:55.569399+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is ON a Buy amid Bullish Momentum?",
+      "excerpt": "Explore ON Semiconductor's 2026 outlook with our detailed stock analysis, evaluating growth drivers, risks, and whether ON stock is a smart buy in today's semiconductor market.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 111,
+      "href": "/blog/on-news-impact-2026-05-19-1554.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T15:54:55.569399+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108221821-1762360217252-gettyimages-1212752225-006hacking-010.jpeg?v=1762360234&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Sentiment Amid Industry Headwinds",
+      "excerpt": "Our latest Amer Sports Inc (AS) stock analysis highlights bearish market sentiment driven by external pressures and sector dynamics in textiles and apparel.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 91,
+      "href": "/blog/as-news-impact-2026-05-19-1554.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T15:54:55.569399+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108216297-1761255508947-gettyimages-590778059-zef006943.jpeg?v=1778872231&w=1920&h=1080"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Leisure Product Market Dynamics?",
@@ -8399,5 +8471,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-18T21:44:25.842165+00:00"
+  "market_data_as_of": "2026-05-19T15:54:55.569399+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-19T17:24:16.021362+00:00",
+  "generated_at": "2026-05-19T20:11:34.121800+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Buy in Financial Services?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current valuation, dividend strategy, and market outlook to determine if SAY is a buy in the evolving financial sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/say-news-impact-2026-05-19-2011.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T20:11:34.121800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108305285-1778533304087-gettyimages-2191364916-dsc_3468edit.jpeg?v=1778533321&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile and Apparel Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our comprehensive Amer Sports Inc (AS) stock forecast amid bearish market sentiment. Discover key risks, valuation insights, and growth outlook in textiles and apparel.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 114,
+      "href": "/blog/as-news-impact-2026-05-19-2011.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T20:11:34.121800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108216297-1761255508947-gettyimages-590778059-zef006943.jpeg?v=1778872231&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Bullish Momentum Amid Semiconductor Sector Growth",
+      "excerpt": "Discover why ON Semiconductor's strong fundamentals and industry tailwinds make it a compelling buy in 2026. Our in-depth analysis covers key growth drivers and risks.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 96,
+      "href": "/blog/on-news-impact-2026-05-19-2011.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T20:11:34.121800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108221821-1762360217252-gettyimages-1212752225-006hacking-010.jpeg?v=1762360234&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amidst Steady Tech Sector Performance?",
+      "excerpt": "Explore Gartner's 2026 stock analysis with insights on valuation, market outlook, and risks to determine if IT shares are a buy in the current tech environment.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 42,
+      "href": "/blog/it-news-impact-2026-05-19-2011.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T20:11:34.121800+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now the Time to Buy?",
+      "excerpt": "Explore Alexandria Real Estate Equities' current market position, risks, and valuation in this detailed stock analysis to decide if ARE is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 38,
+      "href": "/blog/are-news-impact-2026-05-19-2011.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T20:11:34.121800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108274794-1772808768984-gettyimages-2264116435-dsc_7802.jpeg?v=1772808791&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in May 2026?",
+      "excerpt": "Assessing Two Harbors Investment Corp's bullish momentum amidst real estate sector shifts. Here\u2019s our detailed TWO stock forecast and risks investors must know.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 26,
+      "href": "/blog/two-news-impact-2026-05-19-2011.html",
+      "published_date": "2026-05-19",
+      "generated_at": "2026-05-19T20:11:34.121800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303147-1778088015856-gettyimages-2274260652-US_STOCKS.jpeg?v=1778102572&w=1920&h=1080"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy at $1.02 in 2026?",
@@ -8543,5 +8615,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-19T17:24:16.021362+00:00"
+  "market_data_as_of": "2026-05-19T20:11:34.121800+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-20T20:33:06.029596+00:00",
+  "generated_at": "2026-05-21T15:54:07.971756+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our detailed Byline Bancorp Inc (BY) stock analysis, evaluating its bullish momentum, financial position, and risks to determine if BY is a buy today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 23,
+      "href": "/blog/by-news-impact-2026-05-21-1554.html",
+      "published_date": "2026-05-21",
+      "generated_at": "2026-05-21T15:54:07.971756+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310417-1779363174700-gettyimages-2270807610-IMF_WORLD_BANK.jpeg?v=1779363216&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis 2026: Is AN a Buy in Today's Retail Market?",
+      "excerpt": "Explore AutoNation Inc's latest stock outlook, industry position, risks, and growth prospects in our detailed 2026 AN stock analysis.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 22,
+      "href": "/blog/an-news-impact-2026-05-21-1554.html",
+      "published_date": "2026-05-21",
+      "generated_at": "2026-05-21T15:54:07.971756+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310581-1779375214716-gettyimages-2275518697-tk052455_iyjybxwe.jpeg?v=1779375230&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is It a Buy Amidst Leisure Sector Stability?",
+      "excerpt": "Explore Hasbro's latest stock analysis focusing on its position in the leisure products market, growth prospects, and key risks investors must monitor in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/has-news-impact-2026-05-21-1554.html",
+      "published_date": "2026-05-21",
+      "generated_at": "2026-05-21T15:54:07.971756+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1920&h=1080"
+    },
+    {
+      "ticker": "FOUR",
+      "title": "Shift4 Payments (FOUR) Stock Analysis: Is FOUR a Buy Amid Financial Sector Neutral Sentiment?",
+      "excerpt": "Explore Shift4 Payments (FOUR) stock analysis, evaluating its current valuation, market position, risks, and whether it represents a buy opportunity in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/four-news-impact-2026-05-21-1554.html",
+      "published_date": "2026-05-21",
+      "generated_at": "2026-05-21T15:54:07.971756+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is This Textiles Sector Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our 2026 analysis of Amer Sports Inc (AS) amidst textile sector challenges and bearish market mood. Discover if AS stock holds value now.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 102,
+      "href": "/blog/as-news-impact-2026-05-21-1554.html",
+      "published_date": "2026-05-21",
+      "generated_at": "2026-05-21T15:54:07.971756+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy Semiconductor Shares?",
+      "excerpt": "Explore ON Semiconductor's latest performance and industry positioning to determine if ON stock is a buy amid semiconductor sector volatility in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 85,
+      "href": "/blog/on-news-impact-2026-05-21-1554.html",
+      "published_date": "2026-05-21",
+      "generated_at": "2026-05-21T15:54:07.971756+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "UK",
       "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK Stock a Buy in 2026?",
@@ -8903,5 +8975,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-20T20:33:06.029596+00:00"
+  "market_data_as_of": "2026-05-21T15:54:07.971756+00:00"
 }

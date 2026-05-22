@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-22T16:40:16.337528+00:00",
+  "generated_at": "2026-05-22T20:16:55.312083+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Good Buy in Leisure Products?",
+      "excerpt": "Explore our detailed analysis of Here Group Ltd (HERE) stock. Uncover key insights, risks, and opportunities shaping this Leisure Products player\u2019s future.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/here-news-impact-2026-05-22-2016.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T20:16:55.312083+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306442-1778688845240-Traders-Photo-20260513-AS-6.jpg?v=1778688944&w=1920&h=1080"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in the Biotechnology Sector?",
+      "excerpt": "Explore an in-depth analysis of IMAC Holdings Inc (BACK) stock, focusing on its biotech prospects, valuation risks, and whether it warrants a buy in today's market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/back-news-impact-2026-05-22-2016.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T20:16:55.312083+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "FOUR",
+      "title": "Shift4 Payments (FOUR) Stock Analysis: Is FOUR a Buy After Recent Market Shifts?",
+      "excerpt": "Explore a comprehensive Shift4 Payments stock analysis focusing on FOUR\u2019s value amid financial sector trends and what investors should watch now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/four-news-impact-2026-05-22-2016.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T20:16:55.312083+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis and Forecast: Is ON a Buy in 2026?",
+      "excerpt": "Discover why ON Semiconductor's bullish momentum is capturing investor attention in 2026 amid semiconductor sector growth and evolving market dynamics.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 93,
+      "href": "/blog/on-news-impact-2026-05-22-2016.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T20:16:55.312083+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108282893-1774451924535-gettyimages-2267715954-ARM_EVERYWHERE.jpeg?v=1774451947&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bearish outlook on Amer Sports Inc (AS) as rising costs and market headwinds challenge growth prospects in the textiles and apparel sector.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 87,
+      "href": "/blog/as-news-impact-2026-05-22-2016.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T20:16:55.312083+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108311245-1779462808955-gettyimages-2275677304-l1081568_nrt22pgj.jpeg?v=1779462892&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This REIT a Buy at $48.37?",
+      "excerpt": "Explore Alexandria Real Estate Equities' latest stock outlook, key growth drivers, risks, and valuation insights to determine if ARE warrants a spot in your portfolio.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 46,
+      "href": "/blog/are-news-impact-2026-05-22-2016.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T20:16:55.312083+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT Poised for a Turnaround in 2026?",
@@ -9335,5 +9407,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-22T16:40:16.337528+00:00"
+  "market_data_as_of": "2026-05-22T20:16:55.312083+00:00"
 }

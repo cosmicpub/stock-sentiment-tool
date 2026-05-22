@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-21T21:55:15.612221+00:00",
+  "generated_at": "2026-05-22T15:28:10.213563+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today's Financial Landscape?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current valuation, dividend allure, and market position to decide if it's a prudent buy for income-focused investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/say-news-impact-2026-05-22-1528.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T15:28:10.213563+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299250-1777479631989-gettyimages-2273121353-US-NEWS-SCI-SPACEX-LAUNCH-OS.jpeg?v=1777479669&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy Semiconductor Shares?",
+      "excerpt": "Explore ON Semiconductor's current positioning in the semiconductor sector, growth prospects, risks, and valuation insights to decide if ON stock is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 97,
+      "href": "/blog/on-news-impact-2026-05-22-1528.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T15:28:10.213563+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is the Bearish Sentiment a Buying Opportunity?",
+      "excerpt": "Amer Sports Inc (AS) is facing bearish pressure amid market headwinds. We dissect the risks, valuation, and outlook to see if AS stock is worth a buy now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 83,
+      "href": "/blog/as-news-impact-2026-05-22-1528.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T15:28:10.213563+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today's Market?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities stock analysis including key valuations, growth drivers, and market risks to decide if ARE is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 39,
+      "href": "/blog/are-news-impact-2026-05-22-1528.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T15:28:10.213563+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108309149-1779205692146-gettyimages-2232601959-_ar_5515_jkhvzp8i.jpeg?v=1779205771&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis 2026: Is This Retail Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed AutoNation Inc (AN) stock analysis. Despite bearish sentiment, uncover key risks and opportunities in this retail auto giant for 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 31,
+      "href": "/blog/an-news-impact-2026-05-22-1528.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T15:28:10.213563+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310783-1779386536849-gettyimages-2156912737-TOM_HALE_INTERVIEW.jpeg?v=1779386657&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Hasbro's current stock outlook with a detailed HAS analysis. Learn key risks, opportunities, and whether this leisure products stock is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/has-news-impact-2026-05-22-1528.html",
+      "published_date": "2026-05-22",
+      "generated_at": "2026-05-22T15:28:10.213563+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107198579-1677121939840-gettyimages-1051853192-775239116LN023_IMAX_Private.jpeg?v=1767986280&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in a Volatile Semiconductor Sector?",
@@ -9191,5 +9263,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-21T21:55:15.612221+00:00"
+  "market_data_as_of": "2026-05-22T15:28:10.213563+00:00"
 }

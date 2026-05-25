@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-24T14:06:02.623016+00:00",
+  "generated_at": "2026-05-25T15:33:31.675657+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp's current valuation, dividend potential, and risks in this detailed 2026 stock analysis to determine if SAY is a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 25,
+      "href": "/blog/say-news-impact-2026-05-25-1533.html",
+      "published_date": "2026-05-25",
+      "generated_at": "2026-05-25T15:33:31.675657+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108311245-1779462808955-gettyimages-2275677304-l1081568_nrt22pgj.jpeg?v=1779462892&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy Amid Bearish Trends?",
+      "excerpt": "Explore our detailed analysis of Ucommune International Ltd's current bearish sentiment, sector challenges, and what investors should watch in the evolving real estate market.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/uk-news-impact-2026-05-25-1533.html",
+      "published_date": "2026-05-25",
+      "generated_at": "2026-05-25T15:33:31.675657+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is This Real Estate Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed analysis of Two Harbors Investment Corp (TWO) as bearish sentiment grips this real estate stock. Discover key risks, valuation insights, and the latest market trends.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/two-news-impact-2026-05-25-1533.html",
+      "published_date": "2026-05-25",
+      "generated_at": "2026-05-25T15:33:31.675657+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis and Forecast: Buy, Hold, or Sell in 2026?",
+      "excerpt": "Explore ON Semiconductor's latest stock analysis, industry position, and risks to determine if ON is a smart buy or hold in the evolving semiconductor landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 118,
+      "href": "/blog/on-news-impact-2026-05-25-1533.html",
+      "published_date": "2026-05-25",
+      "generated_at": "2026-05-25T15:33:31.675657+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108281003-1774024986799-gettyimages-2266738997-AFP_A3UW78X.jpeg?v=1774025083&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Momentum?",
+      "excerpt": "Explore Amer Sports Inc's current bearish trend, key risks, and long-term growth potential in the textiles and apparel sector. Is AS stock a buy now?",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 108,
+      "href": "/blog/as-news-impact-2026-05-25-1533.html",
+      "published_date": "2026-05-25",
+      "generated_at": "2026-05-25T15:33:31.675657+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108300007-1777561389061-gettyimages-2225069509-img_0972.jpeg?v=1777561412&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock forecast, key risks, and growth drivers in 2026. Our detailed analysis reveals if ARE is a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 34,
+      "href": "/blog/are-news-impact-2026-05-25-1533.html",
+      "published_date": "2026-05-25",
+      "generated_at": "2026-05-25T15:33:31.675657+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis 2026: Is BY a Buy in Today\u2019s Banking Market?",
@@ -9623,5 +9695,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-24T14:06:02.623016+00:00"
+  "market_data_as_of": "2026-05-25T15:33:31.675657+00:00"
 }

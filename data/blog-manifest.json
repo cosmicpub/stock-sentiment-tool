@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-26T20:28:40.165355+00:00",
+  "generated_at": "2026-05-26T22:06:06.747480+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current market position, financial strengths, and growth outlook to decide if SAY is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/say-news-impact-2026-05-26-2206.html",
+      "published_date": "2026-05-26",
+      "generated_at": "2026-05-26T22:06:06.747480+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Trends and What Investors Should Know",
+      "excerpt": "Our deep dive into Amer Sports Inc (AS) reveals bearish signals amid apparel industry challenges. Explore key risks, valuation insights, and the stock's outlook.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 99,
+      "href": "/blog/as-news-impact-2026-05-26-2206.html",
+      "published_date": "2026-05-26",
+      "generated_at": "2026-05-26T22:06:06.747480+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306775-1778743817219-gettyimages-2275081487-84582345.jpeg?v=1778743848&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore ON Semiconductor's latest stock outlook, key risks, valuation insights, and what investors should consider before buying. Neutral sentiment keeps eyes cautious.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 87,
+      "href": "/blog/on-news-impact-2026-05-26-2206.html",
+      "published_date": "2026-05-26",
+      "generated_at": "2026-05-26T22:06:06.747480+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI Stock a Buy Amid Renewed AI Optimism?",
+      "excerpt": "Explore the bullish outlook for C3.ai (AI) stock driven by AI sector momentum and key risks investors must consider in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 30,
+      "href": "/blog/ai-news-impact-2026-05-26-2206.html",
+      "published_date": "2026-05-26",
+      "generated_at": "2026-05-26T22:06:06.747480+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108300357-1777584236250-gettyimages-2273930330-l1081118_uyav3njb.jpeg?v=1777657259&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' current outlook amid a challenging rate environment. This in-depth ARE stock analysis highlights key risks and opportunities for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/are-news-impact-2026-05-26-2206.html",
+      "published_date": "2026-05-26",
+      "generated_at": "2026-05-26T22:06:06.747480+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108311846-1779798067816-gettyimages-2240763504-IMF_WORLD_BANK.jpeg?v=1779798133&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is HAS a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Hasbro Inc's 2026 stock outlook with a detailed analysis of current valuation, industry position, and what investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 24,
+      "href": "/blog/has-news-impact-2026-05-26-2206.html",
+      "published_date": "2026-05-26",
+      "generated_at": "2026-05-26T22:06:06.747480+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Signals Cloud Growth Prospects in Apparel Sector",
@@ -10127,5 +10199,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-26T20:28:40.165355+00:00"
+  "market_data_as_of": "2026-05-26T22:06:06.747480+00:00"
 }

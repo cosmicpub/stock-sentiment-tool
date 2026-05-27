@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-26T22:06:06.747480+00:00",
+  "generated_at": "2026-05-27T16:15:20.439538+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Sentiment Amid Geopolitical Headwinds - Is AS a Buy?",
+      "excerpt": "Amer Sports Inc (AS) faces bearish pressure due to geopolitical tensions and market headwinds. Explore the risks, valuation insights, and short vs long-term outlook for AS stock.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 131,
+      "href": "/blog/as-news-impact-2026-05-27-1615.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T16:15:20.439538+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108151210-1748434887862-gettyimages-2182365152-20241104_abercrombie_and_fitch_outernet_006.jpeg?v=1764090024&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 97,
+      "href": "/blog/on-news-impact-2026-05-27-1615.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T16:15:20.439538+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis May 2026: Is This Technology Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Gartner Inc's current bearish sentiment, valuation challenges, and industry positioning to determine if IT stock presents a buying opportunity in May 2026.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 40,
+      "href": "/blog/it-news-impact-2026-05-27-1615.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T16:15:20.439538+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108230176-1764603822722-108230176-17637559702025-11-21t201158z_1546648356_rc261iafo6zz_rtrmadp_0_lilly-stocks.jpg?v=1770233446&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Rising Industry Optimism?",
+      "excerpt": "Explore our detailed C3.ai Inc stock analysis revealing bullish sentiment, growth drivers, and key risks shaping AI's future in the fast-evolving tech landscape.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 39,
+      "href": "/blog/ai-news-impact-2026-05-27-1615.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T16:15:20.439538+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310908-1779396751262-gettyimages-2275815680-dsc02248.jpeg?v=1779396765&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is Hasbro a Buy for Long-Term Investors?",
+      "excerpt": "Explore Hasbro's 2026 stock forecast with a detailed breakdown of its market position, growth potential, and risks to help you decide if HAS stock is a buy now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 29,
+      "href": "/blog/has-news-impact-2026-05-27-1615.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T16:15:20.439538+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108309527-1779255938140-gettyimages-1139073776-20192996-2019-v1_editorial.jpeg?v=1779255952&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate Sector Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bearish outlook on Alexandria Real Estate Equities (ARE) at $49.66 and whether this real estate stock presents a buying opportunity in 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 26,
+      "href": "/blog/are-news-impact-2026-05-27-1615.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T16:15:20.439538+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312227-1779835163872-gettyimages-1296040796-276925final.jpeg?v=1779835273&w=1920&h=1080"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
@@ -10199,5 +10271,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-26T22:06:06.747480+00:00"
+  "market_data_as_of": "2026-05-27T16:15:20.439538+00:00"
 }

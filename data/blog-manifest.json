@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-27T17:39:46.788851+00:00",
+  "generated_at": "2026-05-27T20:36:12.786990+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is Now the Time to Buy Electrical Equipment Leader?",
+      "excerpt": "Explore our in-depth Bloom Energy Corp stock analysis amid bearish sentiment and key industry factors shaping its 2026 outlook.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 24,
+      "href": "/blog/be-news-impact-2026-05-27-2036.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T20:36:12.786990+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312602-17798979782026-05-27t160146z_615041505_rc2rhlas0wij_rtrmadp_0_usa-trump.jpeg?v=1779898004&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amidst Inflation and Rate-Hike Pressures?",
+      "excerpt": "Explore an in-depth analysis of Gold.com Inc (GOLD) as inflation fears and rate hikes impact its market outlook. Discover the risks and opportunities ahead.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/gold-news-impact-2026-05-27-2036.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T20:36:12.786990+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Market Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc (AS) stock analysis for May 2026. We assess growth drivers, sector challenges, and whether AS is a smart buy now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 142,
+      "href": "/blog/as-news-impact-2026-05-27-2036.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T20:36:12.786990+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108151210-1748434887862-gettyimages-2182365152-20241104_abercrombie_and_fitch_outernet_006.jpeg?v=1764090024&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Bearish Sentiment Clouds Outlook Amid Sector Volatility",
+      "excerpt": "ON Semiconductor faces bearish pressure despite solid fundamentals, as geopolitical tensions and sector competition weigh on its stock prospects.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 113,
+      "href": "/blog/on-news-impact-2026-05-27-2036.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T20:36:12.786990+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285743-1774996261703-gettyimages-2269291701-6e6a0136_copy_tqyipzyz.jpeg?v=1774996354&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Top AI Play a Buy in 2026?",
+      "excerpt": "C3.ai Inc (AI) stands out in the booming AI tech space with promising growth potential. Discover why investors remain bullish despite market challenges.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 34,
+      "href": "/blog/ai-news-impact-2026-05-27-2036.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T20:36:12.786990+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200472-1677528554272-NUP_200782_00307.jpg?v=1696515962&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amidst Bearish Sentiment?",
+      "excerpt": "Explore Gartner Inc's current bearish outlook, key risks, and what investors should consider before buying IT shares in this detailed analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 33,
+      "href": "/blog/it-news-impact-2026-05-27-2036.html",
+      "published_date": "2026-05-27",
+      "generated_at": "2026-05-27T20:36:12.786990+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108230176-1764603822722-108230176-17637559702025-11-21t201158z_1546648356_rc261iafo6zz_rtrmadp_0_lilly-stocks.jpg?v=1770233446&w=1920&h=1080"
+    },
     {
       "ticker": "OUT",
       "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today's Real Estate Market?",
@@ -10343,5 +10415,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-27T17:39:46.788851+00:00"
+  "market_data_as_of": "2026-05-27T20:36:12.786990+00:00"
 }

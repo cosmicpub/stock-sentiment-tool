@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-27T20:36:12.786990+00:00",
+  "generated_at": "2026-05-28T16:36:43.353239+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "KEY",
+      "title": "KeyCorp (KEY) Stock Analysis 2026: Is KEY a Buy in Today's Banking Sector?",
+      "excerpt": "Discover our in-depth KeyCorp stock analysis \u2014 assessing KEY's financial health, risks, and long-term outlook amid a neutral market sentiment in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 22,
+      "href": "/blog/key-news-impact-2026-05-28-1636.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T16:36:43.353239+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254607-1768945138416-gettyimages-2223587166-costco2504.jpeg?v=1779904901&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis 2026: Is BY a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore our detailed analysis on Byline Bancorp Inc (BY) stock, examining its bullish outlook, growth prospects, and key risks for investors in 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 21,
+      "href": "/blog/by-news-impact-2026-05-28-1636.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T16:36:43.353239+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108313199-1779978225629-starbucks_afternoons.jpg?v=1779978389&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in 2026?",
+      "excerpt": "Explore if Two Harbors Investment Corp (TWO) stands as a compelling real estate investment in 2026 amid mixed signals and market dynamics in this deep dive.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/two-news-impact-2026-05-28-1636.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T16:36:43.353239+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312001-17798098722026-05-26t151446z_1085097781_rc21hlafapx0_rtrmadp_0_usa-stocks.jpeg?v=1779809957&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore our in-depth analysis of Hawaiian Electric Industries (HE) stock, examining its current valuation, industry positioning, and future outlook to determine if HE shares are worth considering.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/he-news-impact-2026-05-28-1636.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T16:36:43.353239+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310908-1779396751262-gettyimages-2275815680-dsc02248.jpeg?v=1779396765&w=1920&h=1080"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is This Technology Play a Buy at $0.41?",
+      "excerpt": "Explore our detailed Canaan Inc stock analysis as we break down its current valuation, industry position, and market outlook to determine if CAN is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/can-news-impact-2026-05-28-1636.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T16:36:43.353239+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/104349242-GettyImages-158090079.jpg?v=1532563888&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 105,
+      "href": "/blog/on-news-impact-2026-05-28-1636.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T16:36:43.353239+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BE",
       "title": "Bloom Energy Corp (BE) Stock Analysis: Is Now the Time to Buy Electrical Equipment Leader?",
@@ -10415,5 +10487,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-27T20:36:12.786990+00:00"
+  "market_data_as_of": "2026-05-28T16:36:43.353239+00:00"
 }

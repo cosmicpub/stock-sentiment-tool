@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-28T16:36:43.353239+00:00",
+  "generated_at": "2026-05-28T17:48:08.914729+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Mixed Market Signals?",
+      "excerpt": "Evaluating ON Semiconductor's current valuation, industry position, and upcoming catalysts to determine if ON stock is a compelling buy for semiconductor investors right now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 105,
+      "href": "/blog/on-news-impact-2026-05-28-1748.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T17:48:08.914729+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254607-1768945138416-gettyimages-2223587166-costco2504.jpeg?v=1779904901&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Global Inflation and Market Tensions?",
+      "excerpt": "Explore Amer Sports Inc's 2026 outlook with detailed stock analysis, key risks from inflation and geopolitical tensions, and valuation insights for investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 104,
+      "href": "/blog/as-news-impact-2026-05-28-1748.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T17:48:08.914729+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108313199-1779978225629-starbucks_afternoons.jpg?v=1779978389&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis 2026: Is This AI Powerhouse a Buy Now?",
+      "excerpt": "Explore C3.ai's 2026 stock outlook amid booming AI adoption, strong industry tailwinds, and recent market rallies driving investor interest.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 39,
+      "href": "/blog/ai-news-impact-2026-05-28-1748.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T17:48:08.914729+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108206046-1759265547183-Snowflake-CB-Photo-20250930-KK-PRESS-037.jpg?v=1759265883&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Tech Leader a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth Gartner Inc (IT) stock analysis amid a bearish outlook. Discover key risks, valuation insights, and expert perspectives to inform your investment decision.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 27,
+      "href": "/blog/it-news-impact-2026-05-28-1748.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T17:48:08.914729+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108230176-1764603822722-108230176-17637559702025-11-21t201158z_1546648356_rc261iafo6zz_rtrmadp_0_lilly-stocks.jpg?v=1770233446&w=1920&h=1080"
+    },
+    {
+      "ticker": "KEY",
+      "title": "KeyCorp (KEY) Stock Analysis 2026: Is KEY a Buy in Today's Banking Sector?",
+      "excerpt": "Explore our comprehensive KeyCorp stock analysis for 2026. We break down valuation, growth prospects, risks, and whether KEY shares are a smart investment now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 22,
+      "href": "/blog/key-news-impact-2026-05-28-1748.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T17:48:08.914729+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bullish Sentiment in Banking?",
+      "excerpt": "Explore why Byline Bancorp Inc (BY) is attracting bullish investor attention with its solid banking fundamentals and growth potential despite market uncertainties.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 21,
+      "href": "/blog/by-news-impact-2026-05-28-1748.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T17:48:08.914729+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "KEY",
       "title": "KeyCorp (KEY) Stock Analysis 2026: Is KEY a Buy in Today's Banking Sector?",
@@ -10487,5 +10559,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-28T16:36:43.353239+00:00"
+  "market_data_as_of": "2026-05-28T17:48:08.914729+00:00"
 }

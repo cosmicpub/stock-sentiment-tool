@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-28T17:48:08.914729+00:00",
+  "generated_at": "2026-05-28T20:41:02.154019+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Saratoga Investment Corp Stock Forecast & Outlook \u2014 Is SAY a Buy?",
+      "excerpt": "Saratoga Investment Corp (SAY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/say-news-impact-2026-05-28-2041.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T20:41:02.154019+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Current Retail Market?",
+      "excerpt": "Analyzing AutoNation Inc's (AN) stock performance in the retail sector, including key risks, valuation insights, and the long-term outlook for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/an-news-impact-2026-05-28-2041.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T20:41:02.154019+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108282893-1774451924535-gettyimages-2267715954-ARM_EVERYWHERE.jpeg?v=1774451947&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis 2026: Is HIT a Buy in the Insurance Sector?",
+      "excerpt": "Discover why Health In Tech Inc (HIT) is drawing bullish attention in 2026, with a deep dive into its valuation, market position, and growth prospects.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 19,
+      "href": "/blog/hit-news-impact-2026-05-28-2041.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T20:41:02.154019+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Mixed Industry Signals?",
+      "excerpt": "Explore ON Semiconductor Corp's (ON) current neutral stance, growth prospects, risks, and valuation insights to determine if ON is a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 114,
+      "href": "/blog/on-news-impact-2026-05-28-2041.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T20:41:02.154019+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310761-1779385404310-gettyimages-2263166105-iran_us_two_flag_02.jpeg?v=1779385441&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis and Forecast: Is AS a Buy in 2026?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis, highlighting growth drivers, valuation, risks, and the bullish outlook shaping AS shares in 2026.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 108,
+      "href": "/blog/as-news-impact-2026-05-28-2041.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T20:41:02.154019+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108313199-1779978225629-starbucks_afternoons.jpg?v=1779978389&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Powerhouse a Buy Amid the Tech Rally?",
+      "excerpt": "Explore C3.ai's position in the booming AI sector, its bullish outlook, and what investors should watch before buying AI stock at $10.22.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 43,
+      "href": "/blog/ai-news-impact-2026-05-28-2041.html",
+      "published_date": "2026-05-28",
+      "generated_at": "2026-05-28T20:41:02.154019+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108270062-1772046888928-gettyimages-2262982960-SLUG.jpeg?v=1772046973&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Mixed Market Signals?",
@@ -10559,5 +10631,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-28T17:48:08.914729+00:00"
+  "market_data_as_of": "2026-05-28T20:41:02.154019+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-05-30T14:11:27.851281+00:00",
+  "generated_at": "2026-05-31T14:15:24.976676+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "KEY",
+      "title": "KEY Stock Analysis: KeyCorp Stock Forecast & Outlook \u2014 Is KEY a Buy?",
+      "excerpt": "KeyCorp (KEY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/key-news-impact-2026-05-31-1415.html",
+      "published_date": "2026-05-31",
+      "generated_at": "2026-05-31T14:15:24.976676+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314243-1780207068337-gettyimages-2278720246-_ea23511_dfffctpf.jpeg?v=1780207079&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Smart Buy in 2026?",
+      "excerpt": "Explore Gartner Inc's latest stock performance and outlook. Our in-depth IT stock analysis evaluates growth prospects, risks, and valuation for informed investing.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/it-news-impact-2026-05-31-1415.html",
+      "published_date": "2026-05-31",
+      "generated_at": "2026-05-31T14:15:24.976676+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108313930-1780071768308-gettyimages-1658984791-getty_rina_cafe59.jpeg?v=1780071845&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Semiconductor Market Shifts?",
+      "excerpt": "Explore ON Semiconductor's Q2 2026 outlook with our detailed stock analysis. Assess key drivers, risks, and valuation insights to decide if ON shares are a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 130,
+      "href": "/blog/on-news-impact-2026-05-31-1415.html",
+      "published_date": "2026-05-31",
+      "generated_at": "2026-05-31T14:15:24.976676+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314219-1780155905492-gettyimages-1084725258-929_14_voahd-78-830.jpeg?v=1780155914&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amidst Neutral Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis for 2026, assessing valuation, growth prospects, risks, and whether AS shares present a compelling buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 75,
+      "href": "/blog/as-news-impact-2026-05-31-1415.html",
+      "published_date": "2026-05-31",
+      "generated_at": "2026-05-31T14:15:24.976676+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306963-17787662972026-05-14t123110z_470080037_rc2y8lazo1ff_rtrmadp_0_china-usa.jpeg?v=1778766313&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' 2026 outlook with in-depth analysis on growth drivers, risks, and valuation for real estate investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-05-31-1415.html",
+      "published_date": "2026-05-31",
+      "generated_at": "2026-05-31T14:15:24.976676+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108257722-1769536376654-gettyimages-2218632851-dsc8364.jpeg?v=1769536439&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amidst Retail Sector Challenges?",
+      "excerpt": "Explore AutoNation Inc's (AN) current outlook in the retail sector, analyzing key risks, growth catalysts, and valuation to determine if AN stock is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/an-news-impact-2026-05-31-1415.html",
+      "published_date": "2026-05-31",
+      "generated_at": "2026-05-31T14:15:24.976676+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HE",
       "title": "HE Stock Analysis: Is Hawaiian Electric Industries Inc a Buy in 2026?",
@@ -10919,5 +10991,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-05-30T14:11:27.851281+00:00"
+  "market_data_as_of": "2026-05-31T14:15:24.976676+00:00"
 }

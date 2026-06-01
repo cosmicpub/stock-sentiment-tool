@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-01T19:27:34.527762+00:00",
+  "generated_at": "2026-06-01T22:40:02.090169+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Bearish Outlook Amid Semiconductor Cycle Pressures",
+      "excerpt": "ON Semiconductor faces headwinds from industry-wide softness and supply chain challenges, making its stock a cautious watch for investors in 2026.",
+      "sentiment": "Bearish",
+      "score": -11,
+      "impact_score": 141,
+      "href": "/blog/on-news-impact-2026-06-01-2240.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T22:40:02.090169+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108234614-1771889087961-108234614-1764613453502-gettyimages-2248825758-CYBER_MONDAY_2025.jpeg?v=1771889132&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis June 2026: Is It a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Amer Sports Inc (AS) stock forecast for June 2026, analyzing valuation, risks, industry position, and if it\u2019s a buy in today\u2019s market.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 83,
+      "href": "/blog/as-news-impact-2026-06-01-2240.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T22:40:02.090169+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108168915-1751986576833-gettyimages-2224106161-mms14996_rcjwkx4v.jpeg?v=1751986622&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Leader a Smart Buy in 2026?",
+      "excerpt": "Explore our detailed C3.ai stock analysis covering latest trends, valuation, risks, and the future outlook to determine if AI shares merit your portfolio attention this year.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 35,
+      "href": "/blog/ai-news-impact-2026-06-01-2240.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T22:40:02.090169+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106668476-15977683532020-08-18t094644z_966918122_rc29gi95b8sg_rtrmadp_0_usa-spac-wallstreet.jpeg?v=1664533041&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities\u2019 recent performance, risks, and growth prospects in this detailed ARE stock analysis to determine if it's a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/are-news-impact-2026-06-01-2240.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T22:40:02.090169+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/101030400-101030400-83245617.jpg?v=1479392710&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Market Uncertainties?",
+      "excerpt": "Explore Gartner Inc's current stock outlook at $179.59, assessing whether IT shares present a buy opportunity considering neutral market sentiment and tech sector dynamics.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 32,
+      "href": "/blog/it-news-impact-2026-06-01-2240.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T22:40:02.090169+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312595-17798977032026-05-27t155956z_760332035_rc2rhla7jkq6_rtrmadp_0_usa-trump.jpeg?v=1779897750&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Sentiment in Retail?",
+      "excerpt": "AutoNation Inc (AN) trades at $189.02 with neutral sentiment. This detailed analysis explores key growth drivers, risks, valuation, and outlook for this retail auto giant.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/an-news-impact-2026-06-01-2240.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T22:40:02.090169+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Neutral Sentiment?",
@@ -11135,5 +11207,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-01T19:27:34.527762+00:00"
+  "market_data_as_of": "2026-06-01T22:40:02.090169+00:00"
 }

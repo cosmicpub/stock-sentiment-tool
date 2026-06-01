@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-01T18:21:38.813420+00:00",
+  "generated_at": "2026-06-01T19:27:34.527762+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Neutral Sentiment?",
+      "excerpt": "Explore our detailed Byline Bancorp (BY) stock analysis, evaluating current valuation, growth prospects, and industry challenges to determine if BY is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/by-news-impact-2026-06-01-1927.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T19:27:34.527762+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312177-1779827960655-gettyimages-2246982102-NUP_209355_04150JPG.jpeg?v=1780067612&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor faces bearish pressures amid global uncertainties and sector challenges. We analyze key risks, growth drivers, and valuation to guide investors.",
+      "sentiment": "Bearish",
+      "score": -9,
+      "impact_score": 148,
+      "href": "/blog/on-news-impact-2026-06-01-1927.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T19:27:34.527762+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108234614-1771889087961-108234614-1764613453502-gettyimages-2248825758-CYBER_MONDAY_2025.jpeg?v=1771889132&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis June 2026: Neutral Outlook Amid Rising Costs and Geopolitical Risks",
+      "excerpt": "Explore our detailed analysis of Amer Sports Inc (AS) stock, covering cost pressures, geopolitical impact, valuation, and whether it's a buy in June 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 90,
+      "href": "/blog/as-news-impact-2026-06-01-1927.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T19:27:34.527762+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108168915-1751986576833-gettyimages-2224106161-mms14996_rcjwkx4v.jpeg?v=1751986622&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Leader a Buy Amid Market Mixed Signals?",
+      "excerpt": "Explore C3.ai's current stock outlook amid AI sector enthusiasm and cautious investor sentiment. Discover key risks, opportunities, and valuation insights for AI stock.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 35,
+      "href": "/blog/ai-news-impact-2026-06-01-1927.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T19:27:34.527762+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106668476-15977683532020-08-18t094644z_966918122_rc29gi95b8sg_rtrmadp_0_usa-spac-wallstreet.jpeg?v=1664533041&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AutoNation a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore AutoNation Inc's current stock outlook with our detailed analysis, assessing key industry trends, valuation, and risks to help investors decide.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/an-news-impact-2026-06-01-1927.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T19:27:34.527762+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate Investment a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' latest performance and outlook. We break down its fundamentals, market position, and risks to answer: is ARE a buy?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/are-news-impact-2026-06-01-1927.html",
+      "published_date": "2026-06-01",
+      "generated_at": "2026-06-01T19:27:34.527762+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108264378-1770816437743-108264378-1770816236827-gettyimages-2260443049-US_JOBS.jpg?v=1770816446&w=1920&h=1080"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis 2026: Is HIT a Buy in the Insurance Sector?",
@@ -11063,5 +11135,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-01T18:21:38.813420+00:00"
+  "market_data_as_of": "2026-06-01T19:27:34.527762+00:00"
 }

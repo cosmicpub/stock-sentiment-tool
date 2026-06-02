@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-02T16:58:24.343360+00:00",
+  "generated_at": "2026-06-02T18:13:17.683436+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is It a Buy Amidst Market Neutrality?",
+      "excerpt": "Explore our in-depth Two Harbors Investment Corp (TWO) stock analysis revealing key opportunities and risks for investors navigating current real estate sector dynamics.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/two-news-impact-2026-06-02-1813.html",
+      "published_date": "2026-06-02",
+      "generated_at": "2026-06-02T18:13:17.683436+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108303914-1778178939793-gettyimages-2275025925-jr_19173_tzqifexs.jpeg?v=1778178994&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor faces bearish pressure despite strong sector demand. Our analysis digs into risks, valuation, and future outlook for ON stock.",
+      "sentiment": "Bearish",
+      "score": -10,
+      "impact_score": 100,
+      "href": "/blog/on-news-impact-2026-06-02-1813.html",
+      "published_date": "2026-06-02",
+      "generated_at": "2026-06-02T18:13:17.683436+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108196912-1757519281221-gettyimages-2223423631-20090101250708-99-391116.jpeg?v=1775492935&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Trends in Textiles & Apparel?",
+      "excerpt": "Explore Amer Sports Inc's bullish stance, key financial metrics, and industry outlook to determine if AS stock is a compelling buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 89,
+      "href": "/blog/as-news-impact-2026-06-02-1813.html",
+      "published_date": "2026-06-02",
+      "generated_at": "2026-06-02T18:13:17.683436+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314606-1780325202409-gettyimages-2210179497-pi-3188056.jpeg?v=1780325206&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis 2026: Is This AI Leader Still a Buy?",
+      "excerpt": "Explore C3.ai's 2026 stock outlook amid surging AI enthusiasm, recent profit-taking moves, and growth potential. Is AI stock a smart buy now?",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 52,
+      "href": "/blog/ai-news-impact-2026-06-02-1813.html",
+      "published_date": "2026-06-02",
+      "generated_at": "2026-06-02T18:13:17.683436+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Health In Tech Inc's (HIT) prospects in the volatile insurance sector. Our detailed analysis covers recent trends, valuation, risks, and the stock's buy potential.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 30,
+      "href": "/blog/hit-news-impact-2026-06-02-1813.html",
+      "published_date": "2026-06-02",
+      "generated_at": "2026-06-02T18:13:17.683436+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is This Technology Leader a Buy Now?",
+      "excerpt": "Analyze Gartner Inc's latest financials, industry position, and market sentiment for 2026, to see if IT stock presents a buying opportunity in the technology sector.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 24,
+      "href": "/blog/it-news-impact-2026-06-02-1813.html",
+      "published_date": "2026-06-02",
+      "generated_at": "2026-06-02T18:13:17.683436+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105959006-1685552016651-marv2.jpg?v=1692367783&w=1920&h=1080"
+    },
     {
       "ticker": "RUN",
       "title": "Sunrun Inc (RUN) Stock Analysis June 2026: Is RUN a Buy Amid Neutral Sentiment?",
@@ -11279,5 +11351,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-02T16:58:24.343360+00:00"
+  "market_data_as_of": "2026-06-02T18:13:17.683436+00:00"
 }

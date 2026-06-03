@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-03T18:33:52.018864+00:00",
+  "generated_at": "2026-06-03T22:35:24.922326+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "KEY",
+      "title": "KeyCorp (KEY) Stock Analysis: Is This Bank a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore KeyCorp (KEY) stock analysis with a bearish outlook, key risks, valuation insights, and what investors should watch in 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/key-news-impact-2026-06-03-2235.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T22:35:24.922326+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108203934-1758815770806-leslie_4.png?v=1758815894&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy in the Real Estate Sector?",
+      "excerpt": "Explore a detailed analysis of Ucommune International Ltd (UK) stock, examining key risks, valuation, and market outlook. Is UK stock a smart buy?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-06-03-2235.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T22:35:24.922326+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BILL",
+      "title": "BILL Holdings Inc (BILL) Stock Analysis: Is BILL a Buy in 2026?",
+      "excerpt": "Explore BILL Holdings Inc's current stock position, core strengths, challenges, and expert insights to determine if BILL is a buy this year.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/bill-news-impact-2026-06-03-2235.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T22:35:24.922326+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Neutral Sentiment and Industry Shifts?",
+      "excerpt": "Explore ON Semiconductor's current position in the chip sector, recent market moves, and whether ON stock presents a buying opportunity now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 113,
+      "href": "/blog/on-news-impact-2026-06-03-2235.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T22:35:24.922326+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108272992-1772565871862-gettyimages-1243214774-tang-notitle220913_npgjE.jpeg?v=1776201301&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "AS Stock Analysis: Amer Sports Inc Stock Forecast & Outlook \u2014 Is AS a Buy?",
+      "excerpt": "Amer Sports Inc (AS) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 102,
+      "href": "/blog/as-news-impact-2026-06-03-2235.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T22:35:24.922326+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316279-17805152672026-06-03t153815z_1019885991_rc25mlaptmp6_rtrmadp_0_aerospace-honeywell.jpeg?v=1780515367&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Pioneer a Smart Buy in 2026?",
+      "excerpt": "Explore our detailed C3.ai stock analysis\u2014unpacking bullish sentiment, competitive edge, and valuation insights to determine if AI shares are a buy today.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 42,
+      "href": "/blog/ai-news-impact-2026-06-03-2235.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T22:35:24.922326+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108309071-1779200764968-gettyimages-2276550562-AFP_B3CB6BU.jpeg?v=1779200781&w=1920&h=1080"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bullish Sentiment in Banking?",
@@ -11567,5 +11639,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-03T18:33:52.018864+00:00"
+  "market_data_as_of": "2026-06-03T22:35:24.922326+00:00"
 }

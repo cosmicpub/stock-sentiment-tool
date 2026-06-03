@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-02T21:28:38.561658+00:00",
+  "generated_at": "2026-06-03T17:23:37.547658+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy in the Life Sciences Tools Sector?",
+      "excerpt": "Explore Bio-Techne Corp's bullish outlook with a $50.45 stock price, industry positioning, and key risks in this detailed TECH stock forecast for investors.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 28,
+      "href": "/blog/tech-news-impact-2026-06-03-1723.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T17:23:37.547658+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108261646-1770242575552-gettyimages-2259952833-_73a9117_no72theq.jpeg?v=1780419344&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Bearish Signals Amid Middle East Tensions and Currency Fluctuations",
+      "excerpt": "Gold.com Inc (GOLD) faces bearish headwinds as dollar strength, geopolitical risks, and RBI gold sales weigh on the stock. Discover the key risks and outlook.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 24,
+      "href": "/blog/gold-news-impact-2026-06-03-1723.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T17:23:37.547658+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is HAS a Buy Amid Market Stagnation?",
+      "excerpt": "Explore Hasbro Inc's 2026 outlook with an in-depth stock analysis covering performance drivers, risks, and whether HAS stock is a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/has-news-impact-2026-06-03-1723.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T17:23:37.547658+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108137388-1745853553011-gettyimages-2151212544-_h2_9356_exihm4cy.jpeg?v=1745853607&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is the Semiconductor Giant a Buy Amid Current Bearish Sentiment?",
+      "excerpt": "Explore our deep dive into ON Semiconductor Corp stock. Despite bearish vibes and geopolitical risks, the AI boom offers intriguing long-term prospects.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 113,
+      "href": "/blog/on-news-impact-2026-06-03-1723.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T17:23:37.547658+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108309071-1779200764968-gettyimages-2276550562-AFP_B3CB6BU.jpeg?v=1779200781&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Momentum in Textiles & Apparel?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis assessing bullish momentum, industry stance, and what investors need to know before buying AS shares today.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 102,
+      "href": "/blog/as-news-impact-2026-06-03-1723.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T17:23:37.547658+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108304898-1778500062004-gettyimages-2274954602-US_HOME_SALES.jpeg?v=1778500142&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is Now the Time to Buy This Bullish Tech Leader?",
+      "excerpt": "Explore our detailed C3.ai stock analysis revealing why AI is seen as a bullish play in the evolving tech sector and what investors need to know now.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 47,
+      "href": "/blog/ai-news-impact-2026-06-03-1723.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T17:23:37.547658+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BE",
       "title": "Bloom Energy Corp (BE) Stock Analysis and Forecast: Is BE a Buy in 2026?",
@@ -11423,5 +11495,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-02T21:28:38.561658+00:00"
+  "market_data_as_of": "2026-06-03T17:23:37.547658+00:00"
 }

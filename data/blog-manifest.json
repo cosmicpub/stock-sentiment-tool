@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-03T17:23:37.547658+00:00",
+  "generated_at": "2026-06-03T18:33:52.018864+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bullish Sentiment in Banking?",
+      "excerpt": "Discover our in-depth analysis of Byline Bancorp Inc (BY) stock, exploring its bullish outlook, financial health, and risks to help you decide if BY is a smart banking sector buy.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 32,
+      "href": "/blog/by-news-impact-2026-06-03-1833.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T18:33:52.018864+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108261646-1770242575552-gettyimages-2259952833-_73a9117_no72theq.jpeg?v=1780419344&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid AI Chip Boom?",
+      "excerpt": "ON Semiconductor offers key exposure to the AI-driven semiconductor surge. We analyze ON's prospects, risks, and why investors are watching closely.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 101,
+      "href": "/blog/on-news-impact-2026-06-03-1833.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T18:33:52.018864+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108309071-1779200764968-gettyimages-2276550562-AFP_B3CB6BU.jpeg?v=1779200781&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Contender a Strong Buy in 2026?",
+      "excerpt": "Explore our comprehensive Amer Sports Inc stock analysis as we unpack bullish trends, valuation insights, and risks shaping its 2026 outlook.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 90,
+      "href": "/blog/as-news-impact-2026-06-03-1833.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T18:33:52.018864+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108304898-1778500062004-gettyimages-2274954602-US_HOME_SALES.jpeg?v=1778500142&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Leader a Strong Buy in 2026?",
+      "excerpt": "Explore our in-depth C3.ai Inc stock analysis revealing bullish momentum, key risks, and growth outlook amid AI sector excitement in 2026.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 42,
+      "href": "/blog/ai-news-impact-2026-06-03-1833.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T18:33:52.018864+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Smart Buy in the Electrical Equipment Sector?",
+      "excerpt": "Explore Bloom Energy Corp's bullish outlook in the electrical equipment industry with a deep dive into its financials, risks, and growth prospects for 2026.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 37,
+      "href": "/blog/be-news-impact-2026-06-03-1833.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T18:33:52.018864+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315322-1780418958261-pV7cOP_w.jpg?v=1780419037&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Landscape?",
+      "excerpt": "Discover an in-depth analysis of Byline Bancorp Inc\u2019s stock (BY) with insights into its performance, valuation, risks, and bullish outlook in the banking sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 32,
+      "href": "/blog/by-news-impact-2026-06-03-1833.html",
+      "published_date": "2026-06-03",
+      "generated_at": "2026-06-03T18:33:52.018864+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "TECH",
       "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy in the Life Sciences Tools Sector?",
@@ -11495,5 +11567,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-03T17:23:37.547658+00:00"
+  "market_data_as_of": "2026-06-03T18:33:52.018864+00:00"
 }

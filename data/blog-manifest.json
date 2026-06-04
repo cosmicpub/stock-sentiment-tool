@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-03T22:35:24.922326+00:00",
+  "generated_at": "2026-06-04T15:53:48.991874+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "EU",
+      "title": "EnCore Energy Corp (EU) Stock Analysis: Is EU a Buy Amid Rising Energy Market Pressures?",
+      "excerpt": "Explore our detailed EnCore Energy Corp (EU) stock analysis focusing on its bullish outlook, energy sector dynamics, and key risks shaping the investment thesis.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 16,
+      "href": "/blog/eu-news-impact-2026-06-04-1553.html",
+      "published_date": "2026-06-04",
+      "generated_at": "2026-06-04T15:53:48.991874+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108202886-1758649044791-gettyimages-2236481161-AFP_76HU9W6.jpeg?v=1758649071&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis June 2026: Is ON a Buy Amid Semiconductor Sector Strength?",
+      "excerpt": "Explore ON Semiconductor's bullish momentum, key growth drivers, risks, and valuation insights in this comprehensive June 2026 stock analysis.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 126,
+      "href": "/blog/on-news-impact-2026-06-04-1553.html",
+      "published_date": "2026-06-04",
+      "generated_at": "2026-06-04T15:53:48.991874+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316206-1780510493202-MLBPHR_CHAMPS_2025_JD_-9.jpg?v=1780510534&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis June 2026: Is Now the Time to Buy?",
+      "excerpt": "Explore our detailed Amer Sports Inc (AS) stock analysis, examining growth prospects and market sentiment to determine if AS shares are a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 98,
+      "href": "/blog/as-news-impact-2026-06-04-1553.html",
+      "published_date": "2026-06-04",
+      "generated_at": "2026-06-04T15:53:48.991874+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316279-17805152672026-06-03t153815z_1019885991_rc25mlaptmp6_rtrmadp_0_aerospace-honeywell.jpeg?v=1780515367&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Strong Buy Amid Banking Sector Optimism?",
+      "excerpt": "Explore our detailed Byline Bancorp Inc stock analysis to understand why BY stock shows bullish signals, backed by solid fundamentals in the banking industry.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 44,
+      "href": "/blog/by-news-impact-2026-06-04-1553.html",
+      "published_date": "2026-06-04",
+      "generated_at": "2026-06-04T15:53:48.991874+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105018157-RTX4WGMG.jpg?v=1725569568&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Software Leader a Buy in 2026?",
+      "excerpt": "Explore a comprehensive analysis of C3.ai Inc (AI), unpacking its growth prospects, risks, and valuation amidst the AI technology boom in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 25,
+      "href": "/blog/ai-news-impact-2026-06-04-1553.html",
+      "published_date": "2026-06-04",
+      "generated_at": "2026-06-04T15:53:48.991874+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108309071-1779200764968-gettyimages-2276550562-AFP_B3CB6BU.jpeg?v=1779200781&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore our in-depth Hasbro Inc stock analysis revealing bullish signals, growth drivers in leisure products, and key risks investors must consider today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 23,
+      "href": "/blog/has-news-impact-2026-06-04-1553.html",
+      "published_date": "2026-06-04",
+      "generated_at": "2026-06-04T15:53:48.991874+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316189-1780509043661-gettyimages-1167833837-rfx_2659.jpeg?v=1780509061&w=1920&h=1080"
+    },
     {
       "ticker": "KEY",
       "title": "KeyCorp (KEY) Stock Analysis: Is This Bank a Buy Amid Bearish Sentiment?",
@@ -11639,5 +11711,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-03T22:35:24.922326+00:00"
+  "market_data_as_of": "2026-06-04T15:53:48.991874+00:00"
 }

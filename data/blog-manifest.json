@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-05T20:22:13.572559+00:00",
+  "generated_at": "2026-06-05T21:54:35.967984+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Smart Buy in 2026?",
+      "excerpt": "Explore our in-depth ON Semiconductor stock analysis for 2026, uncovering key growth drivers, risks, and valuation insights to decide if ON is a buy today.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 121,
+      "href": "/blog/on-news-impact-2026-06-05-2154.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T21:54:35.967984+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108249633-1767821015699-gettyimages-2254510414-ALASKA_AIRLINES_BOEING.jpeg?v=1769538228&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Sentiment in Apparel Sector?",
+      "excerpt": "Explore our detailed analysis of Amer Sports Inc (AS) stock, considering recent bearish trends, industry challenges, and growth prospects in textiles and apparel.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 92,
+      "href": "/blog/as-news-impact-2026-06-05-2154.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T21:54:35.967984+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107228796-16820124152023-04-20t170239z_662865409_rc2gi0azj08i_rtrmadp_0_procter-gamble-discounts.jpeg?v=1682077018&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis June 2026: Is It a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Gartner Inc's current bearish stance, key risks, and long-term outlook to decide if the IT stock is a smart buy in June 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 38,
+      "href": "/blog/it-news-impact-2026-06-05-2154.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T21:54:35.967984+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312422-1779883666534-gettyimages-2277913349-img_7422.jpeg?v=1779883729&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now the Time to Buy?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities stock analysis to understand key opportunities, risks, and whether ARE is a buy in today's market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/are-news-impact-2026-06-05-2154.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T21:54:35.967984+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250042-1767891900752-Bill5.jpg?v=1780603365&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Sector?",
+      "excerpt": "Explore Byline Bancorp Inc's latest stock analysis, valuation insights, and short- vs long-term outlook in the shifting banking industry landscape.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 20,
+      "href": "/blog/by-news-impact-2026-06-05-2154.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T21:54:35.967984+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105018157-RTX4WGMG.jpg?v=1725569568&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in Today\u2019s Retail Auto Market?",
+      "excerpt": "Explore AutoNation Inc's (AN) stock outlook as we dissect key factors driving its current price, risks to watch, and whether now is the time to buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/an-news-impact-2026-06-05-2154.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T21:54:35.967984+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BILL",
       "title": "BILL Holdings Inc (BILL) Stock Analysis: Is This Technology Stock Worth Buying in 2026?",
@@ -12071,5 +12143,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-05T20:22:13.572559+00:00"
+  "market_data_as_of": "2026-06-05T21:54:35.967984+00:00"
 }

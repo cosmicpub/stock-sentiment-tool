@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-05T15:32:17.985704+00:00",
+  "generated_at": "2026-06-05T16:58:12.590736+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy in 2026?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, industry dynamics, and key growth drivers in our detailed stock analysis, helping investors decide if ON is a smart buy now.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 123,
+      "href": "/blog/on-news-impact-2026-06-05-1658.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T16:58:12.590736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108249633-1767821015699-gettyimages-2254510414-ALASKA_AIRLINES_BOEING.jpeg?v=1769538228&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis June 2026: Is AS a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bearish outlook on Amer Sports Inc (AS) stock at $33.67. Uncover risks, valuation clues, and short-term versus long-term forecast in this in-depth analysis.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 88,
+      "href": "/blog/as-news-impact-2026-06-05-1658.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T16:58:12.590736+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Bearish Sentiment Clouds the Technology Leader's Outlook",
+      "excerpt": "Gartner Inc (IT) faces bearish momentum amid macroeconomic headwinds and geopolitical tensions. This analysis examines key risks, valuation, and future forecasts.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 38,
+      "href": "/blog/it-news-impact-2026-06-05-1658.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T16:58:12.590736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312422-1779883666534-gettyimages-2277913349-img_7422.jpeg?v=1779883729&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Hasbro a Buy Amid Market Neutral Sentiment?",
+      "excerpt": "Explore our detailed Hasbro Inc stock analysis focusing on current valuation, industry position, and risks to determine if HAS is a buy for leisure product investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 27,
+      "href": "/blog/has-news-impact-2026-06-05-1658.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T16:58:12.590736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108125773-1743686287205-gettyimages-2207661834-AFP_38XV22H.jpeg?v=1743686306&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Neutral Sentiment?",
+      "excerpt": "Explore our detailed analysis of Byline Bancorp Inc (BY) stock, examining its current price, industry positioning, and risks to determine if BY is a promising buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 24,
+      "href": "/blog/by-news-impact-2026-06-05-1658.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T16:58:12.590736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105018157-RTX4WGMG.jpg?v=1725569568&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is Now the Time to Buy or Steer Clear?",
+      "excerpt": "A bearish outlook clouds Ucommune International Ltd (UK) amid volatile UK real estate trends influenced by geopolitical and economic pressures.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 23,
+      "href": "/blog/uk-news-impact-2026-06-05-1658.html",
+      "published_date": "2026-06-05",
+      "generated_at": "2026-06-05T16:58:12.590736+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ARE",
       "title": "ARE Stock Analysis: Alexandria Real Estate Equities, Inc Stock Forecast & Outlook \u2014 Is ARE a Buy?",
@@ -11927,5 +11999,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-05T15:32:17.985704+00:00"
+  "market_data_as_of": "2026-06-05T16:58:12.590736+00:00"
 }

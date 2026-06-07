@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-06T14:14:12.635195+00:00",
+  "generated_at": "2026-06-07T14:25:14.845767+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Neutral Outlook Amid Industry Challenges and Opportunities",
+      "excerpt": "Explore why Bloom Energy's stock holds a neutral stance as it navigates the evolving electrical equipment sector, balancing innovation against market risks.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/be-news-impact-2026-06-07-1425.html",
+      "published_date": "2026-06-07",
+      "generated_at": "2026-06-07T14:25:14.845767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316189-1780509043661-gettyimages-1167833837-rfx_2659.jpeg?v=1780509061&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Growing Semiconductor Market?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, growth drivers, risks, and valuation. Find out if ON stock is a smart buy in today's semiconductor landscape.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 102,
+      "href": "/blog/on-news-impact-2026-06-07-1425.html",
+      "published_date": "2026-06-07",
+      "generated_at": "2026-06-07T14:25:14.845767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108249633-1767821015699-gettyimages-2254510414-ALASKA_AIRLINES_BOEING.jpeg?v=1769538228&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Stock a Buy or Bearish Bet?",
+      "excerpt": "Examining Amer Sports Inc's current bearish sentiment and market position in textiles, apparel & luxury goods. Key risks and outlook for AS stock in 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 66,
+      "href": "/blog/as-news-impact-2026-06-07-1425.html",
+      "published_date": "2026-06-07",
+      "generated_at": "2026-06-07T14:25:14.845767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107228796-16820124152023-04-20t170239z_662865409_rc2gi0azj08i_rtrmadp_0_procter-gamble-discounts.jpeg?v=1682077018&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Why the Bearish Sentiment Dominates in June 2026",
+      "excerpt": "Explore why Gartner Inc (IT) is facing bearish pressure despite a solid business model, with insights into recent market dynamics and risks investors must consider.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 32,
+      "href": "/blog/it-news-impact-2026-06-07-1425.html",
+      "published_date": "2026-06-07",
+      "generated_at": "2026-06-07T14:25:14.845767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312422-1779883666534-gettyimages-2277913349-img_7422.jpeg?v=1779883729&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Leisure Products Market Dynamics?",
+      "excerpt": "Explore Hasbro Inc's current stock outlook in the leisure products sector with our in-depth HAS stock analysis, evaluating growth drivers and risks.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 27,
+      "href": "/blog/has-news-impact-2026-06-07-1425.html",
+      "published_date": "2026-06-07",
+      "generated_at": "2026-06-07T14:25:14.845767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108125773-1743686287205-gettyimages-2207661834-AFP_38XV22H.jpeg?v=1743686306&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries Inc (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Explore our comprehensive analysis of Hawaiian Electric Industries Inc (HE) to determine if it's a smart buy in 2026 amid a neutral sentiment and steady price action.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/he-news-impact-2026-06-07-1425.html",
+      "published_date": "2026-06-07",
+      "generated_at": "2026-06-07T14:25:14.845767+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HE",
       "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in June 2026?",
@@ -12215,5 +12287,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-06T14:14:12.635195+00:00"
+  "market_data_as_of": "2026-06-07T14:25:14.845767+00:00"
 }

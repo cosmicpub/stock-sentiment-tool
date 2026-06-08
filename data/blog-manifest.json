@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-08T16:33:10.681308+00:00",
+  "generated_at": "2026-06-08T17:33:17.195460+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Discover why Amer Sports Inc (AS) is drawing bullish attention. We break down its latest performance, market sentiment, risks, and growth prospects in this detailed stock analysis.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 90,
+      "href": "/blog/as-news-impact-2026-06-08-1733.html",
+      "published_date": "2026-06-08",
+      "generated_at": "2026-06-08T17:33:17.195460+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108313254-1779982389070-Traders-Photo-20260528-KK-PRESS-008.jpg?v=1779982579&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Discover why ON Semiconductor Corp (ON) faces bearish pressure despite solid industry potential. We analyze financials, risks, and growth prospects for investors.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 84,
+      "href": "/blog/on-news-impact-2026-06-08-1733.html",
+      "published_date": "2026-06-08",
+      "generated_at": "2026-06-08T17:33:17.195460+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108318123-1780926112237-gettyimages-2279608006-060626newworldscrewwormlapryorgettywfh010.jpeg?v=1780926153&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis June 2026: Is This Technology Leader a Buy Now?",
+      "excerpt": "Explore Gartner Inc's stock outlook amid steady market sentiment and tech industry trends. Our June 2026 analysis covers valuation, risks, and growth potential.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 37,
+      "href": "/blog/it-news-impact-2026-06-08-1733.html",
+      "published_date": "2026-06-08",
+      "generated_at": "2026-06-08T17:33:17.195460+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108249465-1767806149884-gettyimages-1913373628-dsc08660.jpeg?v=1780865988&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Is Saratoga Investment Corp a Buy in Today's Financial Landscape?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) bullish momentum, recent market triggers, valuation insights, and what investors must watch in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 31,
+      "href": "/blog/say-news-impact-2026-06-08-1733.html",
+      "published_date": "2026-06-08",
+      "generated_at": "2026-06-08T17:33:17.195460+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108313900-17800690032026-05-29t153504z_1869537549_rc20jlacez5t_rtrmadp_0_iran-crisis-oman-hormuz.jpeg?v=1780069062&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Analyze Hasbro Inc (HAS) stock potential with a detailed breakdown of financials, market position, and risks to decide if HAS is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/has-news-impact-2026-06-08-1733.html",
+      "published_date": "2026-06-08",
+      "generated_at": "2026-06-08T17:33:17.195460+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108299250-1777479631989-gettyimages-2273121353-US-NEWS-SCI-SPACEX-LAUNCH-OS.jpeg?v=1777479669&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today's Real Estate Market?",
+      "excerpt": "Explore a detailed analysis of Two Harbors Investment Corp (TWO) stock, including valuation insights, risks, and the latest market trends to decide if TWO is a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/two-news-impact-2026-06-08-1733.html",
+      "published_date": "2026-06-08",
+      "generated_at": "2026-06-08T17:33:17.195460+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Leader a Buy Amid Tech Sell-Off?",
@@ -12359,5 +12431,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-08T16:33:10.681308+00:00"
+  "market_data_as_of": "2026-06-08T17:33:17.195460+00:00"
 }

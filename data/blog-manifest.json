@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-09T20:24:17.676255+00:00",
+  "generated_at": "2026-06-09T22:02:36.447244+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Play a Buy at $10.79?",
+      "excerpt": "Explore C3.ai's AI-driven growth prospects amid neutral market sentiment and evolving industry dynamics. Is AI stock poised for a rebound or facing headwinds?",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/ai-news-impact-2026-06-09-2202.html",
+      "published_date": "2026-06-09",
+      "generated_at": "2026-06-09T22:02:36.447244+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108318724-1781007139303-gettyimages-2280595110-img_2222.jpeg?v=1781007160&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Explore a bullish perspective on Amer Sports Inc (AS) stock. We dive into growth drivers, risks, and valuation to assess if AS is the right buy today.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 166,
+      "href": "/blog/as-news-impact-2026-06-09-2202.html",
+      "published_date": "2026-06-09",
+      "generated_at": "2026-06-09T22:02:36.447244+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310579-1779375151055-gettyimages-2275518863-tk052567_wblhuxxi.jpeg?v=1779375172&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Industry Neutral Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current stock dynamics, industry outlook, and key risks. Discover whether ON is a buy in this detailed semiconductor sector analysis.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 81,
+      "href": "/blog/on-news-impact-2026-06-09-2202.html",
+      "published_date": "2026-06-09",
+      "generated_at": "2026-06-09T22:02:36.447244+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108243317-1766011866158-gettyimages-2251801013-FEDEX_EARNS.jpeg?v=1773874188&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Neutral Sentiment Amid Tech Sector Stability",
+      "excerpt": "Explore Gartner Inc's current stock position at $157.4 with a neutral outlook, assessing key factors influencing this technology sector stalwart in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 53,
+      "href": "/blog/it-news-impact-2026-06-09-2202.html",
+      "published_date": "2026-06-09",
+      "generated_at": "2026-06-09T22:02:36.447244+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108260726-17701293492026-02-03t143013z_1378114343_rc22ejaol3xx_rtrmadp_0_singapore-airshow.jpeg?v=1770129367&w=1920&h=1080"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy Amid Life Sciences Growth?",
+      "excerpt": "Analyze Bio-Techne Corp (TECH) stock with our detailed forecast, sector outlook, and key risks for investors considering this life sciences tools player.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 25,
+      "href": "/blog/tech-news-impact-2026-06-09-2202.html",
+      "published_date": "2026-06-09",
+      "generated_at": "2026-06-09T22:02:36.447244+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108282346-1774373773356-gettyimages-2267713643-ARM_EVERYWHERE.jpeg?v=1774373799&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Financial Sector Uncertainties?",
+      "excerpt": "Explore Saratoga Investment Corp's stock outlook with our in-depth SAY stock analysis covering valuation, risks, and future prospects in the financial services sector as of June 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/say-news-impact-2026-06-09-2202.html",
+      "published_date": "2026-06-09",
+      "generated_at": "2026-06-09T22:02:36.447244+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/103345717-GettyImages-471118395.jpg?v=1730312524&w=1920&h=1080"
+    },
     {
       "ticker": "BE",
       "title": "Bloom Energy Corp (BE) Stock Analysis: Evaluating the Buy Potential in Electrical Equipment Sector",
@@ -12719,5 +12791,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-09T20:24:17.676255+00:00"
+  "market_data_as_of": "2026-06-09T22:02:36.447244+00:00"
 }

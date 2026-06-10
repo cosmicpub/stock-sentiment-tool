@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-09T22:02:36.447244+00:00",
+  "generated_at": "2026-06-10T16:12:24.702767+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "GOLD",
+      "title": "GOLD Stock Analysis: Gold.com Inc Stock Forecast & Outlook \u2014 Is GOLD a Buy?",
+      "excerpt": "Gold.com Inc (GOLD) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 28,
+      "href": "/blog/gold-news-impact-2026-06-10-1612.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T16:12:24.702767+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "PAY",
+      "title": "Paymentus Holdings Inc (PAY) Stock Analysis: Is PAY a Buy in 2026?",
+      "excerpt": "Explore Paymentus Holdings Inc's current valuation, growth prospects, and risks to decide if PAY stock is a smart buy amidst a neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/pay-news-impact-2026-06-10-1612.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T16:12:24.702767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108318707-1781005387346-gettyimages-2280060058-AFP_B6FD6QT.jpeg?v=1781005430&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Discover an in-depth Two Harbors Investment Corp (TWO) stock analysis exploring its current position, sector risks, valuation, and investment outlook for 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 19,
+      "href": "/blog/two-news-impact-2026-06-10-1612.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T16:12:24.702767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108318865-1781019283499-Traders-Photo-20260609-KK-PRESS-015.jpg?v=1781019469&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Momentum in Textiles & Apparel?",
+      "excerpt": "Explore Amer Sports Inc's (AS) bullish outlook in the textiles and luxury apparel sector, with insights on growth drivers, risks, and valuation.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 122,
+      "href": "/blog/as-news-impact-2026-06-10-1612.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T16:12:24.702767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310579-1779375151055-gettyimages-2275518863-tk052567_wblhuxxi.jpeg?v=1779375172&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Bearish Signals Amid Semiconductor Industry Volatility",
+      "excerpt": "ON Semiconductor faces bearish momentum as geopolitical tensions and sector headwinds weigh. Explore the latest analysis, risks, and outlook for ON stock.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 113,
+      "href": "/blog/on-news-impact-2026-06-10-1612.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T16:12:24.702767+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy in 2026?",
+      "excerpt": "Explore Gartner Inc's recent performance, market standing, and risks to decide if IT stock is a strategic buy in the evolving tech landscape of 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 39,
+      "href": "/blog/it-news-impact-2026-06-10-1612.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T16:12:24.702767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316819-1780585605520-Traders-Photo-20260604-KK-PRESS-020.jpg?v=1780585765&w=1920&h=1080"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Play a Buy at $10.79?",
@@ -12791,5 +12863,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-09T22:02:36.447244+00:00"
+  "market_data_as_of": "2026-06-10T16:12:24.702767+00:00"
 }

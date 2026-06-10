@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-10T16:12:24.702767+00:00",
+  "generated_at": "2026-06-10T17:40:48.359806+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore Byline Bancorp's current bullish momentum and what it means for investors. Our detailed BY stock analysis covers valuation, industry context, and risks.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 23,
+      "href": "/blog/by-news-impact-2026-06-10-1740.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T17:40:48.359806+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108319442-1781094268111-gettyimages-2280780354-anotherday222777697_3sv9apd1.jpeg?v=1781094300&w=1920&h=1080"
+    },
+    {
+      "ticker": "CASH",
+      "title": "Pathward Financial Inc (CASH) Stock Analysis: Neutral Outlook Amid Market Rotation and Rising Cash Holdings",
+      "excerpt": "Explore Pathward Financial Inc's (CASH) recent stock performance, market positioning, and the implications of rising cash levels amidst sector volatility.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/cash-news-impact-2026-06-10-1740.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T17:40:48.359806+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108177260-1753465600549-gettyimages-2224899181-250712_costco_brands_111.jpeg?v=1779825737&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Inflation Pressures?",
+      "excerpt": "Explore our detailed Amer Sports Inc (AS) stock analysis assessing bullish sentiment, inflation impacts, valuation, and why AS could be a compelling buy now.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 123,
+      "href": "/blog/as-news-impact-2026-06-10-1740.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T17:40:48.359806+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310579-1779375151055-gettyimages-2275518863-tk052567_wblhuxxi.jpeg?v=1779375172&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Market Rotation and Geopolitical Uncertainty?",
+      "excerpt": "Explore ON Semiconductor's recent market performance, industry outlook, and key risks amid geopolitical tensions to determine if ON stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 106,
+      "href": "/blog/on-news-impact-2026-06-10-1740.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T17:40:48.359806+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis June 2026: Is IT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Gartner Inc's (IT) current valuation and sector dynamics in our June 2026 stock analysis, evaluating its buy potential amid flat market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/it-news-impact-2026-06-10-1740.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T17:40:48.359806+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "GOLD Stock Analysis: Is Gold.com Inc a Buy Amid Market Volatility?",
+      "excerpt": "Explore Gold.com Inc (GOLD) stock's bullish momentum despite geopolitical tensions and interest rate fears. Our analysis unpacks risks and key growth factors.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 28,
+      "href": "/blog/gold-news-impact-2026-06-10-1740.html",
+      "published_date": "2026-06-10",
+      "generated_at": "2026-06-10T17:40:48.359806+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "GOLD",
       "title": "GOLD Stock Analysis: Gold.com Inc Stock Forecast & Outlook \u2014 Is GOLD a Buy?",
@@ -12863,5 +12935,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-10T16:12:24.702767+00:00"
+  "market_data_as_of": "2026-06-10T17:40:48.359806+00:00"
 }

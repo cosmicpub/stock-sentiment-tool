@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-11T16:33:04.327228+00:00",
+  "generated_at": "2026-06-11T17:48:52.563001+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Current Retail Landscape?",
+      "excerpt": "Explore our detailed AutoNation Inc (AN) stock analysis focusing on its retail sector prospects, competitive positioning, and valuation insights for 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/an-news-impact-2026-06-11-1748.html",
+      "published_date": "2026-06-11",
+      "generated_at": "2026-06-11T17:48:52.563001+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108013667-1722357693264-gettyimages-2162421428-S_KOGIKU_20072024_IMG_8991.jpeg?v=1723821390&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's current bearish outlook, financial snapshot, and key risks as we analyze whether AS stock offers value for apparel investors.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 109,
+      "href": "/blog/as-news-impact-2026-06-11-1748.html",
+      "published_date": "2026-06-11",
+      "generated_at": "2026-06-11T17:48:52.563001+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316183-17805085522026-03-26t144902z_414507815_rc2ybka2ixxi_rtrmadp_0_spacex-ipo.jpeg?v=1780508593&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Semiconductor Sector?",
+      "excerpt": "Explore our comprehensive ON Semiconductor Corp (ON) stock analysis, assessing key growth drivers, risks, and valuation to help you decide if ON is a buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 101,
+      "href": "/blog/on-news-impact-2026-06-11-1748.html",
+      "published_date": "2026-06-11",
+      "generated_at": "2026-06-11T17:48:52.563001+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107405932-1713984563726-gettyimages-2150017128-01-bb2_1497-_8mvpxvfy.jpeg?v=1774992642&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate Giant a Buy Now?",
+      "excerpt": "Explore why Alexandria Real Estate Equities (ARE) is drawing bullish investor interest amid its strong biotech campus portfolio and robust fundamentals.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 44,
+      "href": "/blog/are-news-impact-2026-06-11-1748.html",
+      "published_date": "2026-06-11",
+      "generated_at": "2026-06-11T17:48:52.563001+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108319193-1781041238434-GettyImages-2226423661.jpg?v=1781041331&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amidst Industry Challenges?",
+      "excerpt": "Health In Tech Inc (HIT) faces bearish sentiment amid geopolitical tensions and rising costs. Explore our in-depth HIT stock analysis to understand risks and outlook.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 32,
+      "href": "/blog/hit-news-impact-2026-06-11-1748.html",
+      "published_date": "2026-06-11",
+      "generated_at": "2026-06-11T17:48:52.563001+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Leisure Products Uncertainty?",
+      "excerpt": "Explore Hasbro's latest stock performance, industry challenges, and growth prospects. Our detailed analysis dives into whether HAS is a smart buy right now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 32,
+      "href": "/blog/has-news-impact-2026-06-11-1748.html",
+      "published_date": "2026-06-11",
+      "generated_at": "2026-06-11T17:48:52.563001+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis June 2026: Is HIT a Buy Amid Market Uncertainty?",
@@ -13079,5 +13151,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-11T16:33:04.327228+00:00"
+  "market_data_as_of": "2026-06-11T17:48:52.563001+00:00"
 }

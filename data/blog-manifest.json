@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-12T17:19:44.585009+00:00",
+  "generated_at": "2026-06-12T20:36:19.903823+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corp (NEXT) Stock Analysis: Is NEXT a Buy for Energy Investors in 2026?",
+      "excerpt": "Explore NextDecade Corp's latest stock analysis, valuation insights, and what energy investors should watch in 2026 before deciding if NEXT is a buy.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 19,
+      "href": "/blog/next-news-impact-2026-06-12-2036.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T20:36:19.903823+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316183-17805085522026-03-26t144902z_414507815_rc2ybka2ixxi_rtrmadp_0_spacex-ipo.jpeg?v=1780508593&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is the Semiconductor Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed ON Semiconductor Corp stock analysis to understand the bearish trend, key risks, valuation insights, and whether ON stock is a buy right now.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 132,
+      "href": "/blog/on-news-impact-2026-06-12-2036.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T20:36:19.903823+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108270394-1772114916036-gettyimages-2263601299-304969final.jpeg?v=1781287800&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Sector Bearish Trend a Buying Opportunity?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis amid bearish sentiment and sector challenges. Understand risks, valuation, and outlook for AS shares.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 100,
+      "href": "/blog/as-news-impact-2026-06-12-2036.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T20:36:19.903823+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108061549-1731426849898-gettyimages-2089837788-UK_KAPUR.jpeg?v=1760723461&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Neutral Outlook Amid Leisure Product Industry Dynamics",
+      "excerpt": "Explore Hasbro Inc's stock (HAS) current market stance, key growth drivers, and industry risks shaping its neutral outlook in leisure products as of June 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 40,
+      "href": "/blog/has-news-impact-2026-06-12-2036.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T20:36:19.903823+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316180-17805083792026-04-23t200549z_1942745949_rc24vkaijt22_rtrmadp_0_spacex-ipo.jpeg?v=1780508425&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities, Inc (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Discover an in-depth Alexandria Real Estate Equities, Inc (ARE) stock analysis for 2026. Explore valuation, risks, and outlook to decide if ARE is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 36,
+      "href": "/blog/are-news-impact-2026-06-12-2036.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T20:36:19.903823+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108319961-1781128443603-gettyimages-2280182727-ama_world_cuppreviews_rjb_005.jpeg?v=1781128536&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis June 2026: Is This Technology Stock a Buy Amidst Bearish Sentiment?",
+      "excerpt": "Explore Gartner Inc's current bearish momentum, valuation, and growth prospects to determine if IT stock presents a smart buy opportunity in 2026.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 30,
+      "href": "/blog/it-news-impact-2026-06-12-2036.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T20:36:19.903823+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321190-1781279662421-gettyimages-2195910812-r5__7003.jpeg?v=1781279896&w=1920&h=1080"
+    },
     {
       "ticker": "BE",
       "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amidst Neutral Market Sentiment?",
@@ -13295,5 +13367,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-12T17:19:44.585009+00:00"
+  "market_data_as_of": "2026-06-12T20:36:19.903823+00:00"
 }

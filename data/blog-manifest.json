@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-11T20:41:33.626972+00:00",
+  "generated_at": "2026-06-12T17:19:44.585009+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amidst Neutral Market Sentiment?",
+      "excerpt": "Explore our detailed Bloom Energy Corp (BE) stock analysis uncovering key industry trends, financials, and risks to determine if BE shares merit a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/be-news-impact-2026-06-12-1719.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T17:19:44.585009+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108319442-1781094268111-gettyimages-2280780354-anotherday222777697_3sv9apd1.jpeg?v=1781094300&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bearish outlook on ON Semiconductor Corp (ON), examining its financial health, industry position, and risks to assess whether it's a buy opportunity now.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 114,
+      "href": "/blog/on-news-impact-2026-06-12-1719.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T17:19:44.585009+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316180-17805083792026-04-23t200549z_1942745949_rc24vkaijt22_rtrmadp_0_spacex-ipo.jpeg?v=1780508425&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our comprehensive Amer Sports Inc stock analysis, highlighting bearish sentiment, valuation concerns, and growth prospects in the textiles sector.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 110,
+      "href": "/blog/as-news-impact-2026-06-12-1719.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T17:19:44.585009+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108061549-1731426849898-gettyimages-2089837788-UK_KAPUR.jpeg?v=1760723461&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is Now the Time to Buy?",
+      "excerpt": "Explore Hasbro Inc's 2026 outlook, industry challenges, valuation, and what investors should watch before deciding if HAS stock is a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 44,
+      "href": "/blog/has-news-impact-2026-06-12-1719.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T17:19:44.585009+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' current valuation, growth prospects, and risks to decide if ARE stock is a worthwhile addition to your portfolio today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 40,
+      "href": "/blog/are-news-impact-2026-06-12-1719.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T17:19:44.585009+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108319961-1781128443603-gettyimages-2280182727-ama_world_cuppreviews_rjb_005.jpeg?v=1781128536&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis 2026: Is BY a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth analysis of Byline Bancorp Inc (BY) stock amid current bearish sentiment. Discover key risks, valuation insights, and what investors should watch.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 30,
+      "href": "/blog/by-news-impact-2026-06-12-1719.html",
+      "published_date": "2026-06-12",
+      "generated_at": "2026-06-12T17:19:44.585009+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai Inc (AI) Stock Analysis: Is AI Stock a Buy Amid Neutral Sentiment?",
@@ -13223,5 +13295,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-11T20:41:33.626972+00:00"
+  "market_data_as_of": "2026-06-12T17:19:44.585009+00:00"
 }

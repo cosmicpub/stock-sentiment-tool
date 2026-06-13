@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-12T20:36:19.903823+00:00",
+  "generated_at": "2026-06-13T14:34:10.228766+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "PM",
+      "title": "Philip Morris International (PM) Stock Analysis: Is PM a Buy Amid Industry Shifts?",
+      "excerpt": "Explore Philip Morris International's current outlook, risks, and market position. Discover if PM stock is a buy given tobacco industry challenges and innovation.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/pm-news-impact-2026-06-13-1434.html",
+      "published_date": "2026-06-13",
+      "generated_at": "2026-06-13T14:34:10.228766+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is This Semiconductor Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Discover why ON Semiconductor stock is facing bearish pressure despite strong fundamentals. Our detailed analysis covers risks, valuation, and growth prospects.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 123,
+      "href": "/blog/on-news-impact-2026-06-13-1434.html",
+      "published_date": "2026-06-13",
+      "generated_at": "2026-06-13T14:34:10.228766+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108318120-1780925705304-MillMeadowOpeningFinals80of250.jpg?v=1780937263&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Apparel Sector?",
+      "excerpt": "Dive into our detailed AS stock analysis to see if Amer Sports Inc offers investors value amid a quiet market and evolving industry dynamics.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 93,
+      "href": "/blog/as-news-impact-2026-06-13-1434.html",
+      "published_date": "2026-06-13",
+      "generated_at": "2026-06-13T14:34:10.228766+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108061549-1731426849898-gettyimages-2089837788-UK_KAPUR.jpeg?v=1760723461&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Buy in 2026?",
+      "excerpt": "Explore our comprehensive Alexandria Real Estate Equities (ARE) stock analysis to uncover key insights, valuation outlook, and whether this real estate giant is a buy today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 45,
+      "href": "/blog/are-news-impact-2026-06-13-1434.html",
+      "published_date": "2026-06-13",
+      "generated_at": "2026-06-13T14:34:10.228766+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108319961-1781128443603-gettyimages-2280182727-ama_world_cuppreviews_rjb_005.jpeg?v=1781128536&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is Now the Time to Buy This Leisure Products Leader?",
+      "excerpt": "Explore Hasbro Inc's bullish momentum in 2026, key growth drivers, competitive position, and risks to determine if HAS stock is a smart buy right now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 37,
+      "href": "/blog/has-news-impact-2026-06-13-1434.html",
+      "published_date": "2026-06-13",
+      "generated_at": "2026-06-13T14:34:10.228766+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316180-17805083792026-04-23t200549z_1942745949_rc24vkaijt22_rtrmadp_0_spacex-ipo.jpeg?v=1780508425&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bear-leaning outlook for Byline Bancorp Inc (BY) stock with key risks, financial snapshot, and what investors should consider in 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 34,
+      "href": "/blog/by-news-impact-2026-06-13-1434.html",
+      "published_date": "2026-06-13",
+      "generated_at": "2026-06-13T14:34:10.228766+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "NEXT",
       "title": "NextDecade Corp (NEXT) Stock Analysis: Is NEXT a Buy for Energy Investors in 2026?",
@@ -13367,5 +13439,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-12T20:36:19.903823+00:00"
+  "market_data_as_of": "2026-06-13T14:34:10.228766+00:00"
 }

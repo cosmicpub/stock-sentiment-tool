@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-15T22:33:01.482572+00:00",
+  "generated_at": "2026-06-16T17:27:45.714398+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today's Real Estate Market?",
+      "excerpt": "Explore OUTFRONT Media Inc\u2019s latest stock analysis, key drivers, risks, and valuation perspective to decide if OUT stock is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/out-news-impact-2026-06-16-1727.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T17:27:45.714398+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "KEY",
+      "title": "KeyCorp (KEY) Stock Analysis 2026: Is KEY a Buy Amid Banking Sector Uncertainty?",
+      "excerpt": "Explore KeyCorp's current valuation, market position, and risks to determine if KEY stock is a buy in 2026's shifting banking landscape.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 15,
+      "href": "/blog/key-news-impact-2026-06-16-1727.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T17:27:45.714398+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108311279-1779465617838-gettyimages-2277685733-0d6a1258_ciyserlj.jpeg?v=1779465642&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is It a Buy Amid Real Estate Market Shifts?",
+      "excerpt": "Explore our detailed Two Harbors Investment Corp (TWO) stock analysis to uncover key risks, valuation insights, and whether this real estate investment trust is a buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 15,
+      "href": "/blog/two-news-impact-2026-06-16-1727.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T17:27:45.714398+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Apparel Industry Player A Buy Amid Bearish Sentiment?",
+      "excerpt": "Amer Sports Inc's stock faces bearish pressure at $35.92 amid market challenges. Our in-depth analysis evaluates risks, valuation, and outlook for investors.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 106,
+      "href": "/blog/as-news-impact-2026-06-16-1727.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T17:27:45.714398+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107130270-1665062045729-gettyimages-1195409503-6w1a1965.jpeg?v=1752085622&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Buy Worth It in 2026?",
+      "excerpt": "Explore ON Semiconductor's current bearish sentiment, valuation concerns, and market outlook in this comprehensive ON stock forecast for 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 83,
+      "href": "/blog/on-news-impact-2026-06-16-1727.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T17:27:45.714398+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108264229-1770776276886-gettyimages-2256811761-DAVOS_WEF_2026.jpeg?v=1770776333&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today\u2019s Real Estate Landscape?",
+      "excerpt": "Explore a detailed analysis of OUTFRONT Media Inc (OUT) stock, assessing its real estate positioning, key risks, and long-term prospects for potential investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/out-news-impact-2026-06-16-1727.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T17:27:45.714398+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy in 2026?",
@@ -13727,5 +13799,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-15T22:33:01.482572+00:00"
+  "market_data_as_of": "2026-06-16T17:27:45.714398+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-16T17:27:45.714398+00:00",
+  "generated_at": "2026-06-16T18:41:58.034710+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy at $143.27?",
+      "excerpt": "Explore Gartner Inc's stock forecast and key factors shaping its future. Discover if IT shares present a compelling investment opportunity amid neutral sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/it-news-impact-2026-06-16-1841.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T18:41:58.034710+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292480-17763467242026-04-16t133226z_1594957697_rc2gc1a3wrpj_rtrmadp_0_russia-energy-revenues.jpeg?v=1780971573&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Sentiment in Apparel Sector?",
+      "excerpt": "Explore Amer Sports Inc's current bearish outlook, key risks, and valuation insights to determine if AS stock presents a buying opportunity in 2026.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 101,
+      "href": "/blog/as-news-impact-2026-06-16-1841.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T18:41:58.034710+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107130270-1665062045729-gettyimages-1195409503-6w1a1965.jpeg?v=1752085622&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Bearish Signals Amid Semiconductor Market Challenges",
+      "excerpt": "Explore why ON Semiconductor's (ON) stock faces bearish pressure in 2026 with key risks, market context, and what investors should consider before buying.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 83,
+      "href": "/blog/on-news-impact-2026-06-16-1841.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T18:41:58.034710+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108264229-1770776276886-gettyimages-2256811761-DAVOS_WEF_2026.jpeg?v=1770776333&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Smart Buy in Real Estate Advertising?",
+      "excerpt": "Analyze OUTFRONT Media Inc's (OUT) latest performance and prospects in the dynamic real estate advertising space. Discover key insights and forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/out-news-impact-2026-06-16-1841.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T18:41:58.034710+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is This Retail Giant a Buy in 2026?",
+      "excerpt": "Discover our in-depth AutoNation Inc (AN) stock analysis, including market outlook, risks, and valuation insights to decide if AN is a buy for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/an-news-impact-2026-06-16-1841.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T18:41:58.034710+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Now the Time to Buy in 2026?",
+      "excerpt": "Explore Hasbro Inc's 2026 stock outlook including growth prospects, competitive challenges, valuation, and key risks to determine if HAS is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/has-news-impact-2026-06-16-1841.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T18:41:58.034710+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107234253-1683053734953-gettyimages-1252540569-AFP_33EA8N2.jpeg?v=1744396729&w=1920&h=1080"
+    },
     {
       "ticker": "OUT",
       "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today's Real Estate Market?",
@@ -13799,5 +13871,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-16T17:27:45.714398+00:00"
+  "market_data_as_of": "2026-06-16T18:41:58.034710+00:00"
 }

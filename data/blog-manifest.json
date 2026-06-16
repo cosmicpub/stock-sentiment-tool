@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-16T18:41:58.034710+00:00",
+  "generated_at": "2026-06-16T22:28:24.596502+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Growing Bearish Sentiment?",
+      "excerpt": "Discover why Amer Sports Inc (AS) faces bearish pressures and what this means for investors looking at the textiles and luxury apparel space.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 109,
+      "href": "/blog/as-news-impact-2026-06-16-2228.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T22:28:24.596502+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321480-1781297227196-gettyimages-2280590450-20090101260612-99-717515.jpeg?v=1781297255&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Neutral Sentiment and What Investors Should Watch in 2026",
+      "excerpt": "ON Semiconductor Corp (ON) trades around $118 with neutral market sentiment in the volatile semiconductor sector. Discover key risks, valuation insights, and outlook.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 81,
+      "href": "/blog/on-news-impact-2026-06-16-2228.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T22:28:24.596502+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Gartner Inc's stock performance, valuation insights, and market outlook as investors weigh the tech firm's potential amidst a cautious trading environment.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 30,
+      "href": "/blog/it-news-impact-2026-06-16-2228.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T22:28:24.596502+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292480-17763467242026-04-16t133226z_1594957697_rc2gc1a3wrpj_rtrmadp_0_russia-energy-revenues.jpeg?v=1780971573&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Current Retail Landscape?",
+      "excerpt": "Explore AutoNation Inc's latest market position, financial snapshot, and expert insights to determine if AN stock is poised for growth amid retail sector shifts.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/an-news-impact-2026-06-16-2228.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T22:28:24.596502+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108305064-1778513442281-Lilly-OB-Photo-20260511-CC-PRESS-13.jpg?v=1778513536&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is This Leisure Products Giant a Buy in Mid-2026?",
+      "excerpt": "Dive into our detailed Hasbro Inc (HAS) stock analysis to uncover valuation insights, growth potentials, risks, and what smart investors are considering in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 26,
+      "href": "/blog/has-news-impact-2026-06-16-2228.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T22:28:24.596502+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321147-1781277050615-IMG_9372.jpg?v=1781278371&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in June 2026?",
+      "excerpt": "Discover an in-depth OUT stock analysis for June 2026, covering key financials, market position, risks, and growth outlook to help investors decide if OUTFRONT Media is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/out-news-impact-2026-06-16-2228.html",
+      "published_date": "2026-06-16",
+      "generated_at": "2026-06-16T22:28:24.596502+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy at $143.27?",
@@ -13871,5 +13943,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-16T18:41:58.034710+00:00"
+  "market_data_as_of": "2026-06-16T22:28:24.596502+00:00"
 }

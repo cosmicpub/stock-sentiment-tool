@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-17T16:09:03.250869+00:00",
+  "generated_at": "2026-06-17T17:27:49.742763+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Discover our comprehensive Hawaiian Electric Industries stock analysis for 2026, including key risks, valuation insights, and long-term outlook for HE shares.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/he-news-impact-2026-06-17-1727.html",
+      "published_date": "2026-06-17",
+      "generated_at": "2026-06-17T17:27:49.742763+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108221204-1762274020755-gettyimages-2230141571-US_STOCKS.jpeg?v=1762274050&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis June 2026: Is This Textile Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Dive into our detailed Amer Sports Inc stock analysis featuring bearish trends, valuation insights, and a comprehensive outlook for AS shares trading at $36.16.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 115,
+      "href": "/blog/as-news-impact-2026-06-17-1727.html",
+      "published_date": "2026-06-17",
+      "generated_at": "2026-06-17T17:27:49.742763+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108217475-1761597488828-gettyimages-2239801720-jr_12387_axftwqfq.jpeg?v=1761597821&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore ON Semiconductor's 2026 stock outlook with an in-depth analysis of its semiconductor industry position, financial snapshot, and key risks to watch.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 89,
+      "href": "/blog/on-news-impact-2026-06-17-1727.html",
+      "published_date": "2026-06-17",
+      "generated_at": "2026-06-17T17:27:49.742763+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108322795-1781641359682-gettyimages-2280043322-Indiana_Fever_v_Washington_Mystics.jpeg?v=1781649872&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Time to Buy This Tech Powerhouse?",
+      "excerpt": "Explore our detailed Gartner Inc stock analysis highlighting key growth drivers, risks, valuation, and if IT stock is a buy in today\u2019s tech landscape.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 39,
+      "href": "/blog/it-news-impact-2026-06-17-1727.html",
+      "published_date": "2026-06-17",
+      "generated_at": "2026-06-17T17:27:49.742763+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore our detailed AutoNation Inc (AN) stock analysis covering valuation, risks, industry outlook, and whether AN is a buy at $192.44 today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 31,
+      "href": "/blog/an-news-impact-2026-06-17-1727.html",
+      "published_date": "2026-06-17",
+      "generated_at": "2026-06-17T17:27:49.742763+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108241656-1765779213966-gettyimages-2217725562-BROADCOM_EARNS.jpeg?v=1775499796&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore our in-depth Bloom Energy Corp stock analysis, examining growth drivers, risks, and valuation to see if BE stock is a compelling buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/be-news-impact-2026-06-17-1727.html",
+      "published_date": "2026-06-17",
+      "generated_at": "2026-06-17T17:27:49.742763+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107090835-1658243303284-NUP_198367_00047_copy.jpg?v=1694379483&w=1920&h=1080"
+    },
     {
       "ticker": "GOLD",
       "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Market Volatility?",
@@ -14015,5 +14087,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-17T16:09:03.250869+00:00"
+  "market_data_as_of": "2026-06-17T17:27:49.742763+00:00"
 }

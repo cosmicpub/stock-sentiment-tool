@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-18T15:58:00.261033+00:00",
+  "generated_at": "2026-06-18T17:39:51.172297+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Sentiment Amid Textiles Sector Stability",
+      "excerpt": "Explore the latest Amer Sports Inc (AS) stock analysis, highlighting steady performance in textiles with a neutral outlook and key risks investors should monitor.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 109,
+      "href": "/blog/as-news-impact-2026-06-18-1739.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T17:39:51.172297+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108065082-17320322592024-11-16t152424z_902207089_rc286basoj28_rtrmadp_0_space-exploration-starship.jpeg?v=1732032291&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor faces bearish momentum in a volatile market. This deep-dive analyzes key risks, valuation, and what cautious investors should watch.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 86,
+      "href": "/blog/on-news-impact-2026-06-18-1739.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T17:39:51.172297+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323802-1781783157198-gettyimages-2282152002-vcg111648900843.jpeg?v=1781783196&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Gartner Inc's (IT) 2026 stock forecast amid bullish momentum, key growth drivers, and market risks shaping this tech industry's outlook.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 48,
+      "href": "/blog/it-news-impact-2026-06-18-1739.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T17:39:51.172297+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323445-1781722202760-gettyimages-2281459476-WARSH_FOMC_NYSE.jpeg?v=1781722227&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock with a bullish outlook, key financial metrics, and growth potential amid evolving market conditions.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 39,
+      "href": "/blog/are-news-impact-2026-06-18-1739.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T17:39:51.172297+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Retail Auto Space?",
+      "excerpt": "Explore AutoNation Inc's (AN) latest stock outlook. We break down key factors influencing its performance and assess if AN is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/an-news-impact-2026-06-18-1739.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T17:39:51.172297+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323429-1781721662404-gettyimages-1481230617-goldengateheadlandsspring.jpeg?v=1781721674&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy Amidst Utilities Sector Uncertainties?",
+      "excerpt": "Explore Hawaiian Electric Industries (HE) stock analysis examining its utilities market position, recent developments, and whether HE is a smart buy for investors now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/he-news-impact-2026-06-18-1739.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T17:39:51.172297+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108221204-1762274020755-gettyimages-2230141571-US_STOCKS.jpeg?v=1762274050&w=1920&h=1080"
+    },
     {
       "ticker": "KEY",
       "title": "KeyCorp (KEY) Stock Analysis: Is KEY a Buy Amid Banking Sector Uncertainty?",
@@ -14231,5 +14303,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-18T15:58:00.261033+00:00"
+  "market_data_as_of": "2026-06-18T17:39:51.172297+00:00"
 }

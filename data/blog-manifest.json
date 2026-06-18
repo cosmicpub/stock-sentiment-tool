@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-17T20:34:18.584797+00:00",
+  "generated_at": "2026-06-18T15:58:00.261033+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "KEY",
+      "title": "KeyCorp (KEY) Stock Analysis: Is KEY a Buy Amid Banking Sector Uncertainty?",
+      "excerpt": "Explore our comprehensive KeyCorp (KEY) stock analysis covering recent performance, risks, valuation, and whether KEY stands out as a buy in today's banking landscape.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 19,
+      "href": "/blog/key-news-impact-2026-06-18-1558.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T15:58:00.261033+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321147-1781277050615-IMG_9372.jpg?v=1781278371&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Leader a Buy Amid Market Bullishness?",
+      "excerpt": "Explore why C3.ai Inc (AI) stock garners bullish sentiment despite AI sector controversy and fierce competition. Our detailed analysis reveals key risks and opportunities.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 17,
+      "href": "/blog/ai-news-impact-2026-06-18-1558.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T15:58:00.261033+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107423445-1717435681246-elon_meta.jpg?v=1717435884&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is Now the Time to Buy in Textiles & Apparel?",
+      "excerpt": "Discover why bullish sentiment around Amer Sports Inc (AS) is shaping up in 2026, amid evolving market conditions in textiles and apparel. Our detailed AS stock forecast examines risks, opportunities, and valuation insights.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 116,
+      "href": "/blog/as-news-impact-2026-06-18-1558.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T15:58:00.261033+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108065082-17320322592024-11-16t152424z_902207089_rc286basoj28_rtrmadp_0_space-exploration-starship.jpeg?v=1732032291&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current neutral outlook, key risks, and growth prospects in semiconductors. Is ON stock a buy in 2026? Here\u2019s the detailed analysis.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 75,
+      "href": "/blog/on-news-impact-2026-06-18-1558.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T15:58:00.261033+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323429-1781721662404-gettyimages-1481230617-goldengateheadlandsspring.jpeg?v=1781721674&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis June 2026: Is IT a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Gartner Inc's bullish momentum at $131.48 with key growth drivers, risks, valuation insights, and expert outlook in our June 2026 IT stock analysis.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 48,
+      "href": "/blog/it-news-impact-2026-06-18-1558.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T15:58:00.261033+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323445-1781722202760-gettyimages-2281459476-WARSH_FOMC_NYSE.jpeg?v=1781722227&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate REIT a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' 2026 outlook with our in-depth stock analysis, covering its bullish momentum, growth drivers, and risk factors.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-06-18-1558.html",
+      "published_date": "2026-06-18",
+      "generated_at": "2026-06-18T15:58:00.261033+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ARE",
       "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Biotech Real Estate Play a Buy in 2026?",
@@ -14159,5 +14231,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-17T20:34:18.584797+00:00"
+  "market_data_as_of": "2026-06-18T15:58:00.261033+00:00"
 }

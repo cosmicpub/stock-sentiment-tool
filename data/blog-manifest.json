@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-19T21:42:09.787880+00:00",
+  "generated_at": "2026-06-20T14:37:41.067765+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis 2026: Is HE a Buy in the Utilities Sector?",
+      "excerpt": "Explore Hawaiian Electric Industries' latest stock forecast amid neutral market sentiment and stable price at $13.03. Discover key risks, opportunities, and valuation insights.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/he-news-impact-2026-06-20-1437.html",
+      "published_date": "2026-06-20",
+      "generated_at": "2026-06-20T14:37:41.067765+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Worthy Investment in the Insurance Sector?",
+      "excerpt": "Explore our in-depth analysis of Health In Tech Inc (HIT) stock, assessing its current position, risks, and growth outlook in the evolving insurance industry.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/hit-news-impact-2026-06-20-1437.html",
+      "published_date": "2026-06-20",
+      "generated_at": "2026-06-20T14:37:41.067765+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323943-1781795437328-gettyimages-2281374098-EconomyLife_CHINA-SHANGHAI-DISNEYLAND-10TH_ANNIVERSARY_CN.jpeg?v=1781812541&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Bullish Tech Momentum?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook in 2026, driven by strong industry trends and solid fundamentals. Is ON Semiconductor stock a smart buy now?",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 93,
+      "href": "/blog/on-news-impact-2026-06-20-1437.html",
+      "published_date": "2026-06-20",
+      "generated_at": "2026-06-20T14:37:41.067765+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323516-1781724683119-gettyimages-2281465619-WARSH_FOMC_NYSE.jpeg?v=1781724751&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore a detailed analysis of Amer Sports Inc (AS) as the stock faces bearish pressures. Discover key risks, valuation insights, and long-term outlook in this comprehensive review.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 93,
+      "href": "/blog/as-news-impact-2026-06-20-1437.html",
+      "published_date": "2026-06-20",
+      "generated_at": "2026-06-20T14:37:41.067765+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108320318-17811897962026-06-11t140954z_1157696795_rc2mrla7snp9_rtrmadp_0_usa-trump-migration-children.jpeg?v=1781189816&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore a detailed Alexandria Real Estate Equities (ARE) stock analysis, including market position, valuation, and outlook to see if ARE is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-06-20-1437.html",
+      "published_date": "2026-06-20",
+      "generated_at": "2026-06-20T14:37:41.067765+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Sector Dynamics?",
+      "excerpt": "Explore Gartner Inc\u2019s latest stock performance analysis, valuation insights, and key risks in the evolving technology landscape. Is IT a buy in 2026?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 34,
+      "href": "/blog/it-news-impact-2026-06-20-1437.html",
+      "published_date": "2026-06-20",
+      "generated_at": "2026-06-20T14:37:41.067765+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy in the Growing Semiconductor Market?",
@@ -14663,5 +14735,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-19T21:42:09.787880+00:00"
+  "market_data_as_of": "2026-06-20T14:37:41.067765+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-20T14:37:41.067765+00:00",
+  "generated_at": "2026-06-21T14:38:07.631130+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore our detailed OUTFRONT Media stock analysis to understand if the current $31.19 price offers a compelling buy opportunity amid real estate uncertainties.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/out-news-impact-2026-06-21-1438.html",
+      "published_date": "2026-06-21",
+      "generated_at": "2026-06-21T14:38:07.631130+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108222477-17624482222025-11-06t165353z_1998999963_rc23rhaf1vzq_rtrmadp_0_usa-shutdown-air-travel.jpeg?v=1762448237&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is Now the Time to Buy This Tech Innovator?",
+      "excerpt": "Explore C3.ai's current stock outlook, key growth drivers, risks, and valuation insights in our detailed AI stock forecast for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/ai-news-impact-2026-06-21-1438.html",
+      "published_date": "2026-06-21",
+      "generated_at": "2026-06-21T14:38:07.631130+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321449-1781295480618-IMG_9692.jpg?v=1781295701&w=1920&h=1080"
+    },
+    {
+      "ticker": "YOU",
+      "title": "Clear Secure Inc (YOU) Stock Analysis: Is YOU a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Clear Secure Inc's current stock outlook, key growth factors, risks, and whether YOU shares present a compelling buy at $51.47.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 11,
+      "href": "/blog/you-news-impact-2026-06-21-1438.html",
+      "published_date": "2026-06-21",
+      "generated_at": "2026-06-21T14:38:07.631130+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108324296-1781820925674-GettyImages-89013126.jpg?v=1781821103&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in June 2026?",
+      "excerpt": "Discover why ON Semiconductor's bullish outlook is capturing investor interest in mid-2026, with rising demand in AI and robust semiconductor trends.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 99,
+      "href": "/blog/on-news-impact-2026-06-21-1438.html",
+      "published_date": "2026-06-21",
+      "generated_at": "2026-06-21T14:38:07.631130+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is This Textile Sector Contender a Buy?",
+      "excerpt": "Explore our June 2026 detailed analysis of Amer Sports Inc (AS) amid a bearish sentiment. We break down its risks, valuation, and market outlook.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 94,
+      "href": "/blog/as-news-impact-2026-06-21-1438.html",
+      "published_date": "2026-06-21",
+      "generated_at": "2026-06-21T14:38:07.631130+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108324518-1781967006230-gettyimages-2261780378-250417_AveloProtest__TRB6637.jpeg?v=1781967137&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Steady Tech Industry Dynamics?",
+      "excerpt": "Explore Gartner Inc's current valuation, market positioning, and future outlook to determine if IT stock is a buy in today's technology sector environment.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 39,
+      "href": "/blog/it-news-impact-2026-06-21-1438.html",
+      "published_date": "2026-06-21",
+      "generated_at": "2026-06-21T14:38:07.631130+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107235739-16832190752023-05-04t163255z_864185726_rc2sr0a3fc7j_rtrmadp_0_usa-wages-congress.jpeg?v=1683219131&w=1920&h=1080"
+    },
     {
       "ticker": "HE",
       "title": "Hawaiian Electric Industries (HE) Stock Analysis 2026: Is HE a Buy in the Utilities Sector?",
@@ -14735,5 +14807,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-20T14:37:41.067765+00:00"
+  "market_data_as_of": "2026-06-21T14:38:07.631130+00:00"
 }

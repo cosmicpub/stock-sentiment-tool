@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-21T14:38:07.631130+00:00",
+  "generated_at": "2026-06-22T17:14:22.299218+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Saratoga Investment Corp Stock Forecast & Outlook \u2014 Is SAY a Buy?",
+      "excerpt": "Saratoga Investment Corp (SAY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 20,
+      "href": "/blog/say-news-impact-2026-06-22-1714.html",
+      "published_date": "2026-06-22",
+      "generated_at": "2026-06-22T17:14:22.299218+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy Amid Life Sciences Growth?",
+      "excerpt": "Explore Bio-Techne's solid growth in life sciences tools and services, bullish sentiment, and key risks to consider in this in-depth TECH stock forecast.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 19,
+      "href": "/blog/tech-news-impact-2026-06-22-1714.html",
+      "published_date": "2026-06-22",
+      "generated_at": "2026-06-22T17:14:22.299218+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323499-1781724253192-mike11.jpg?v=1781724307&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Apparel Sector Stock a Buy in 2026?",
+      "excerpt": "Explore Amer Sports Inc's current bearish trend amid market headwinds and assess if AS stock offers a strategic entry point or demands caution now.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 111,
+      "href": "/blog/as-news-impact-2026-06-22-1714.html",
+      "published_date": "2026-06-22",
+      "generated_at": "2026-06-22T17:14:22.299218+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108324518-1781967006230-gettyimages-2261780378-250417_AveloProtest__TRB6637.jpeg?v=1781967137&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore ON Semiconductor Corp's strong bullish momentum, competitive edge in semiconductors, and key risks shaping its stock forecast right now.",
+      "sentiment": "Bullish",
+      "score": 9,
+      "impact_score": 103,
+      "href": "/blog/on-news-impact-2026-06-22-1714.html",
+      "published_date": "2026-06-22",
+      "generated_at": "2026-06-22T17:14:22.299218+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108322526-1781619585807-gettyimages-2281285195-6k7a6625_eqkrwpss.jpeg?v=1781619683&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Why This Tech Sector Leader Is a Strong Buy in 2026",
+      "excerpt": "Discover why Gartner Inc (IT) is gaining bullish momentum and could be a smart buy amid evolving tech industry dynamics and growing demand for advisory services.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 48,
+      "href": "/blog/it-news-impact-2026-06-22-1714.html",
+      "published_date": "2026-06-22",
+      "generated_at": "2026-06-22T17:14:22.299218+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' key growth drivers, risks, and valuation insights to decide if ARE stock is a smart buy this year.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 26,
+      "href": "/blog/are-news-impact-2026-06-22-1714.html",
+      "published_date": "2026-06-22",
+      "generated_at": "2026-06-22T17:14:22.299218+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108324296-1781820925674-GettyImages-89013126.jpg?v=1781821103&w=1920&h=1080"
+    },
     {
       "ticker": "OUT",
       "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today\u2019s Real Estate Market?",
@@ -14807,5 +14879,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-21T14:38:07.631130+00:00"
+  "market_data_as_of": "2026-06-22T17:14:22.299218+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-22T22:20:17.835653+00:00",
+  "generated_at": "2026-06-23T15:29:16.678245+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Neutral Sentiment in Leisure Products?",
+      "excerpt": "Explore Hasbro Inc's latest stock analysis, balancing its neutral market sentiment with industry outlook and key growth drivers in leisure products.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/has-news-impact-2026-06-23-1529.html",
+      "published_date": "2026-06-23",
+      "generated_at": "2026-06-23T15:29:16.678245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108311222-1779461401333-gettyimages-2273757699-wmr57254_tvvzfawl.jpeg?v=1779461434&w=1920&h=1080"
+    },
+    {
+      "ticker": "OR",
+      "title": "OR Royalties Inc (OR) Stock Analysis: Is OR a Buy in 2026?",
+      "excerpt": "Explore OR Royalties Inc's current valuation, industry position & growth prospects to decide if OR stock is a compelling buy amid metals & mining shifts.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/or-news-impact-2026-06-23-1529.html",
+      "published_date": "2026-06-23",
+      "generated_at": "2026-06-23T15:29:16.678245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108325076-1782159953567-gettyimages-2237092437-dsc_1595t.jpeg?v=1782159988&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Sentiment and Retail Industry Dynamics?",
+      "excerpt": "Explore AutoNation Inc's current stock outlook with our detailed AN stock analysis, uncover potential risks, opportunities, and whether AN is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/an-news-impact-2026-06-23-1529.html",
+      "published_date": "2026-06-23",
+      "generated_at": "2026-06-23T15:29:16.678245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267435-17715197272026-02-18t111630z_1778219502_rc2aojad5g3w_rtrmadp_0_india-ai-google.jpeg?v=1771519754&w=1920&h=1080"
+    },
+    {
+      "ticker": "CAN",
+      "title": "CAN Stock Analysis: Canaan Inc Stock Forecast & Outlook \u2014 Is CAN a Buy?",
+      "excerpt": "Canaan Inc (CAN) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/can-news-impact-2026-06-23-1529.html",
+      "published_date": "2026-06-23",
+      "generated_at": "2026-06-23T15:29:16.678245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108324296-1781820925674-GettyImages-89013126.jpg?v=1781821103&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Bearish Sentiment Justified for 2026?",
+      "excerpt": "Amer Sports Inc (AS) faces a bearish outlook at $35.27 amid textile sector pressures. We break down the key risks, valuation, and whether investors should reconsider now.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 107,
+      "href": "/blog/as-news-impact-2026-06-23-1529.html",
+      "published_date": "2026-06-23",
+      "generated_at": "2026-06-23T15:29:16.678245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108282340-1774373412454-gettyimages-2267713998-ARM_EVERYWHERE.jpeg?v=1774373444&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Discover a detailed ON Semiconductor Corp stock analysis highlighting bullish momentum, key growth drivers, risks, and valuation insights in the semiconductor sector.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 85,
+      "href": "/blog/on-news-impact-2026-06-23-1529.html",
+      "published_date": "2026-06-23",
+      "generated_at": "2026-06-23T15:29:16.678245+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108325096-17821611232026-06-22t201429z_708456495_rc28zla9tpeu_rtrmadp_0_usa-trump.jpeg?v=1782161154&w=1920&h=1080"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Landscape?",
@@ -15023,5 +15095,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-22T22:20:17.835653+00:00"
+  "market_data_as_of": "2026-06-23T15:29:16.678245+00:00"
 }

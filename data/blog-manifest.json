@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-24T20:15:51.601355+00:00",
+  "generated_at": "2026-06-24T21:52:20.490653+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Sentiment but Solid Fundamentals in Apparel Sector",
+      "excerpt": "Explore the current neutral outlook on Amer Sports Inc (AS) in the textiles and apparel sector, with insights into valuation, risks, and growth prospects.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 95,
+      "href": "/blog/as-news-impact-2026-06-24-2152.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T21:52:20.490653+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267427-17715195242026-02-18t144515z_422228575_rc27oja2b4c4_rtrmadp_0_india-ai.jpeg?v=1771519539&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Growth?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, key growth drivers, risks, and valuation insights to decide if ON stock is a smart buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 94,
+      "href": "/blog/on-news-impact-2026-06-24-2152.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T21:52:20.490653+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315144-1780404623798-gettyimages-2273141750-AFP_A9DR89E.jpeg?v=1780404681&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Smart Buy in Today\u2019s Tech Landscape?",
+      "excerpt": "Explore Gartner Inc's bullish outlook, key growth drivers, valuation insights, and risks to decide if IT stock fits your portfolio strategy today.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 55,
+      "href": "/blog/it-news-impact-2026-06-24-2152.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T21:52:20.490653+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106964284-16348615362021-10-21t233844z_1_lynxmpeh9k1cq_rtroptp_0_usa-legal.jpeg?v=1779986538&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Bullish Buy in the Leisure Products Sector?",
+      "excerpt": "Explore Hasbro Inc's (HAS) bullish momentum in the leisure products market, with a detailed stock snapshot, competitive insights, and key risks for investors.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 37,
+      "href": "/blog/has-news-impact-2026-06-24-2152.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T21:52:20.490653+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285956-1775048846885-gettyimages-2269291703-6e6a0089_copy_zhv0gn6f.jpeg?v=1775048926&w=1920&h=1080"
+    },
+    {
+      "ticker": "PM",
+      "title": "Philip Morris International (PM) Stock Analysis: Is PM a Buy in 2026?",
+      "excerpt": "Explore our comprehensive Philip Morris International stock analysis to see if PM is a buy amid evolving tobacco trends and market dynamics in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/pm-news-impact-2026-06-24-2152.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T21:52:20.490653+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in 2026?",
+      "excerpt": "Explore our detailed Two Harbors Investment Corp (TWO) stock analysis for 2026, covering valuation, risks, and market outlook to help you decide if it's a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/two-news-impact-2026-06-24-2152.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T21:52:20.490653+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108226251-17631437432025-11-14t180524z_1034732684_rc2hwhacqqv4_rtrmadp_0_usa-shutdown.jpeg?v=1763143792&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy for 2026?",
@@ -15527,5 +15599,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-24T20:15:51.601355+00:00"
+  "market_data_as_of": "2026-06-24T21:52:20.490653+00:00"
 }

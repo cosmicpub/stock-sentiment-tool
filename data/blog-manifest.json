@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-23T21:58:33.965226+00:00",
+  "generated_at": "2026-06-24T15:15:52.148163+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "PM",
+      "title": "Philip Morris International (PM) Stock Analysis: Is PM a Buy Amid Industry Headwinds?",
+      "excerpt": "Our comprehensive Philip Morris International stock analysis explores whether PM remains a buy despite regulatory challenges and shifting consumer trends in tobacco.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/pm-news-impact-2026-06-24-1515.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T15:15:52.148163+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is This Distributor a Buy Amid Bearish Trends?",
+      "excerpt": "Explore Gold.com Inc's bearish outlook in the distributors sector, key market drivers, valuation insights, and what investors should watch for future moves.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/gold-news-impact-2026-06-24-1515.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T15:15:52.148163+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Discover our comprehensive Two Harbors Investment Corp (TWO) stock analysis, exploring whether TWO is a buy amid its neutral market sentiment and real estate trends.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/two-news-impact-2026-06-24-1515.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T15:15:52.148163+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amidst Electrical Equipment Sector Trends?",
+      "excerpt": "Explore an in-depth analysis of Bloom Energy Corp (BE), assessing its current valuation, market position, and outlook to help you decide if BE is a smart investment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/be-news-impact-2026-06-24-1515.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T15:15:52.148163+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Discover why ON Semiconductor Corp\u2019s bullish momentum and strategic position in the semiconductor sector make ON stock a compelling buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 109,
+      "href": "/blog/on-news-impact-2026-06-24-1515.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T15:15:52.148163+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315144-1780404623798-gettyimages-2273141750-AFP_A9DR89E.jpeg?v=1780404681&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis June 2026: Is AS a Buy in Textiles & Apparel?",
+      "excerpt": "Explore the latest Amer Sports Inc stock analysis for June 2026. Discover key growth drivers, risks, valuation, and see if AS is poised for a buy in the textiles sector.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 85,
+      "href": "/blog/as-news-impact-2026-06-24-1515.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T15:15:52.148163+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267427-17715195242026-02-18t144515z_422228575_rc27oja2b4c4_rtrmadp_0_india-ai.jpeg?v=1771519539&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Right Time to Buy at $34.76?",
@@ -15311,5 +15383,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-23T21:58:33.965226+00:00"
+  "market_data_as_of": "2026-06-24T15:15:52.148163+00:00"
 }

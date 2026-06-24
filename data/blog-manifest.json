@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-24T15:15:52.148163+00:00",
+  "generated_at": "2026-06-24T16:37:03.643615+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis and Forecast: Is BY a Buy in 2026?",
+      "excerpt": "Explore Byline Bancorp Inc's (BY) current neutral stance amidst sector challenges and cyber risks. Get a clear perspective on BY's stock forecast and key investment factors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/by-news-impact-2026-06-24-1637.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T16:37:03.643615+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy Semiconductor Shares?",
+      "excerpt": "Dive into ON Semiconductor Corp's bullish outlook, growth risks, and valuation insights to see if ON stock fits your portfolio strategy today.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 114,
+      "href": "/blog/on-news-impact-2026-06-24-1637.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T16:37:03.643615+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315144-1780404623798-gettyimages-2273141750-AFP_A9DR89E.jpeg?v=1780404681&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Market Uncertainties?",
+      "excerpt": "Explore our nuanced analysis of Amer Sports Inc (AS), evaluating growth prospects, risks, and valuation to determine if AS stock merits a buy at $35.59.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 90,
+      "href": "/blog/as-news-impact-2026-06-24-1637.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T16:37:03.643615+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267427-17715195242026-02-18t144515z_422228575_rc27oja2b4c4_rtrmadp_0_india-ai.jpeg?v=1771519539&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Strong Tech Sector Momentum?",
+      "excerpt": "Explore Gartner Inc's bullish outlook with our detailed IT stock analysis, assessing growth drivers, risks, and valuation as of June 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 59,
+      "href": "/blog/it-news-impact-2026-06-24-1637.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T16:37:03.643615+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106964284-16348615362021-10-21t233844z_1_lynxmpeh9k1cq_rtroptp_0_usa-legal.jpeg?v=1779986538&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is This Leisure Products Giant a Buy in 2026?",
+      "excerpt": "Explore Hasbro's 2026 outlook with a detailed stock analysis. Understand key growth drivers, risks, valuation, and whether HAS shares are a smart buy now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 41,
+      "href": "/blog/has-news-impact-2026-06-24-1637.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T16:37:03.643615+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285956-1775048846885-gettyimages-2269291703-6e6a0089_copy_zhv0gn6f.jpeg?v=1775048926&w=1920&h=1080"
+    },
+    {
+      "ticker": "PM",
+      "title": "Philip Morris International (PM) Stock Analysis: Is PM a Buy in 2026?",
+      "excerpt": "Explore the latest Philip Morris International stock analysis for 2026. We assess PM's industry position, growth outlook, risks, and valuation to guide your investment decision.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/pm-news-impact-2026-06-24-1637.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T16:37:03.643615+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "PM",
       "title": "Philip Morris International (PM) Stock Analysis: Is PM a Buy Amid Industry Headwinds?",
@@ -15383,5 +15455,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-24T15:15:52.148163+00:00"
+  "market_data_as_of": "2026-06-24T16:37:03.643615+00:00"
 }

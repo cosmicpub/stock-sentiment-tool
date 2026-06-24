@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-24T16:37:03.643615+00:00",
+  "generated_at": "2026-06-24T20:15:51.601355+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy for 2026?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook in the semiconductor sector with in-depth analysis on growth drivers, risks, valuation, and future prospects.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 101,
+      "href": "/blog/on-news-impact-2026-06-24-2015.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T20:15:51.601355+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315144-1780404623798-gettyimages-2273141750-AFP_A9DR89E.jpeg?v=1780404681&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis, assessing its current position in textiles & apparel. Is AS a buy as the market holds a neutral stance?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 100,
+      "href": "/blog/as-news-impact-2026-06-24-2015.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T20:15:51.601355+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267427-17715195242026-02-18t144515z_422228575_rc27oja2b4c4_rtrmadp_0_india-ai.jpeg?v=1771519539&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is It the Right Time to Buy?",
+      "excerpt": "Explore Gartner Inc's latest performance, bullish sentiment, and key growth drivers to determine if IT is a compelling buy in 2026 amidst tech sector trends.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 55,
+      "href": "/blog/it-news-impact-2026-06-24-2015.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T20:15:51.601355+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106964284-16348615362021-10-21t233844z_1_lynxmpeh9k1cq_rtroptp_0_usa-legal.jpeg?v=1779986538&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is This Leisure Products Giant a Buy in 2026?",
+      "excerpt": "Explore Hasbro Inc's solid Q2 performance, robust product pipeline, and bullish outlook in our detailed HAS stock analysis. Find out if it's a buy now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 37,
+      "href": "/blog/has-news-impact-2026-06-24-2015.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T20:15:51.601355+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285956-1775048846885-gettyimages-2269291703-6e6a0089_copy_zhv0gn6f.jpeg?v=1775048926&w=1920&h=1080"
+    },
+    {
+      "ticker": "PM",
+      "title": "Philip Morris International (PM) Stock Analysis: Is PM a Buy in 2026?",
+      "excerpt": "Explore our detailed Philip Morris International stock analysis for 2026. Understand key risks, growth prospects, and whether PM shares are a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/pm-news-impact-2026-06-24-2015.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T20:15:51.601355+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Bearish Pressure?",
+      "excerpt": "Gold.com Inc (GOLD) faces bearish sentiment amid rising rate-hike bets and a strong dollar. We analyze key risks, valuation, and future outlook for investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/gold-news-impact-2026-06-24-2015.html",
+      "published_date": "2026-06-24",
+      "generated_at": "2026-06-24T20:15:51.601355+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis and Forecast: Is BY a Buy in 2026?",
@@ -15455,5 +15527,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-24T16:37:03.643615+00:00"
+  "market_data_as_of": "2026-06-24T20:15:51.601355+00:00"
 }

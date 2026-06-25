@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-25T15:21:33.175167+00:00",
+  "generated_at": "2026-06-25T16:39:42.967058+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in Today\u2019s Bullish Retail Market?",
+      "excerpt": "Explore AutoNation Inc's bullish momentum, growth prospects, and key risks in this detailed AN stock analysis and retail sector forecast for 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 19,
+      "href": "/blog/an-news-impact-2026-06-25-1639.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T16:39:42.967058+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108262224-1770325809477-gettyimages-2249021916-AWS_Data_Center.jpeg?v=1770325951&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy in 2026?",
+      "excerpt": "Explore why ON Semiconductor's bullish momentum and AI-driven growth prospects make it an appealing buy, despite industry complexities.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 105,
+      "href": "/blog/on-news-impact-2026-06-25-1639.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T16:39:42.967058+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in 2026 Amid Neutral Sentiment?",
+      "excerpt": "Dive into our detailed Amer Sports Inc stock forecast for 2026. We weigh core strengths, risks, and valuation to reveal if AS is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 80,
+      "href": "/blog/as-news-impact-2026-06-25-1639.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T16:39:42.967058+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267427-17715195242026-02-18t144515z_422228575_rc27oja2b4c4_rtrmadp_0_india-ai.jpeg?v=1771519539&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is It a Buy at $129.15?",
+      "excerpt": "Explore the latest Gartner Inc stock analysis at $129.15. We dissect growth prospects, risks, valuation, and whether IT shares present a compelling buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 57,
+      "href": "/blog/it-news-impact-2026-06-25-1639.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T16:39:42.967058+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108325013-1782152947866-gettyimages-2266472515-omarques_16032026_tech_8_of_12.jpeg?v=1782153013&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro (HAS) Stock Analysis: Is Hasbro a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore Hasbro's bullish outlook supported by solid leisure products demand and industry trends. Is HAS stock set for growth in 2026?",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 43,
+      "href": "/blog/has-news-impact-2026-06-25-1639.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T16:39:42.967058+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is CAN a Buy at $0.30 Amid Bullish Sentiment?",
+      "excerpt": "Explore Canaan Inc's current bullish outlook at $0.30 per share, industry positioning in technology, and key factors influencing its near-term and long-term potential.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 21,
+      "href": "/blog/can-news-impact-2026-06-25-1639.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T16:39:42.967058+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316030-1780499293543-gettyimages-2279621723-_s019257_wlfgzveb.jpeg?v=1780499314&w=1920&h=1080"
+    },
     {
       "ticker": "CAN",
       "title": "Canaan Inc (CAN) Stock Analysis: Is This Technology Play a Buy in June 2026?",
@@ -15671,5 +15743,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-25T15:21:33.175167+00:00"
+  "market_data_as_of": "2026-06-25T16:39:42.967058+00:00"
 }

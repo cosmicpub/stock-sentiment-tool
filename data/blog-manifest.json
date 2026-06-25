@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-25T20:28:37.063991+00:00",
+  "generated_at": "2026-06-25T22:03:43.664939+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is It a Solid Banking Sector Buy in 2026?",
+      "excerpt": "Explore our deep dive into Somerset Trust Holding Co's Q2 2026 outlook, industry challenges, and whether SOME stock presents a promising opportunity in today's banking climate.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/some-news-impact-2026-06-25-2203.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T22:03:43.664939+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108166365-1751380219316-gettyimages-2208901888-MEI-USA-BD-FTRUSC-20250410-030.jpeg?v=1774021520&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is This Semiconductor Leader a Buy Amid Industry Shifts?",
+      "excerpt": "Explore our in-depth ON Semiconductor stock analysis. We assess the bullish sentiment, growth prospects, risks, and valuation to determine if ON is a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 108,
+      "href": "/blog/on-news-impact-2026-06-25-2203.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T22:03:43.664939+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254570-1768941372569-gettyimages-2256658201-AFP_93CP7MK.jpeg?v=1770932753&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Strong Buy in Textiles & Apparel Sector?",
+      "excerpt": "Explore Amer Sports Inc's latest stock analysis, uncover key valuation insights, and understand whether AS stock is a buy amid neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 94,
+      "href": "/blog/as-news-impact-2026-06-25-2203.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T22:03:43.664939+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore our comprehensive Gartner Inc stock analysis covering valuation, market position, risks, and outlook to decide if IT shares are a buy right now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 65,
+      "href": "/blog/it-news-impact-2026-06-25-2203.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T22:03:43.664939+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid the Current Bullish Momentum?",
+      "excerpt": "Explore Hasbro Inc's recent bullish sentiment, key growth drivers, risk factors, and strategic outlook in our detailed HAS stock analysis for informed investors.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 39,
+      "href": "/blog/has-news-impact-2026-06-25-2203.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T22:03:43.664939+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108262224-1770325809477-gettyimages-2249021916-AWS_Data_Center.jpeg?v=1770325951&w=1920&h=1080"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is This Tech Play a Smart Buy in 2026?",
+      "excerpt": "Explore Canaan Inc's bullish momentum within the tech sector, key growth drivers, risks, and whether CAN stock is a compelling buy opportunity today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 29,
+      "href": "/blog/can-news-impact-2026-06-25-2203.html",
+      "published_date": "2026-06-25",
+      "generated_at": "2026-06-25T22:03:43.664939+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "SHIP",
       "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amid Rising Geopolitical Risks?",
@@ -15815,5 +15887,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-25T20:28:37.063991+00:00"
+  "market_data_as_of": "2026-06-25T22:03:43.664939+00:00"
 }

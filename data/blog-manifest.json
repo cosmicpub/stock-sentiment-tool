@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-26T20:16:04.663402+00:00",
+  "generated_at": "2026-06-26T21:46:08.822682+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Optimism?",
+      "excerpt": "Explore the bullish case for ON Semiconductor as it capitalizes on semiconductor demand growth. We analyze key catalysts, risks, and valuation for investors.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 102,
+      "href": "/blog/on-news-impact-2026-06-26-2146.html",
+      "published_date": "2026-06-26",
+      "generated_at": "2026-06-26T21:46:08.822682+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108213143-1760637556613-gettyimages-2236546743-STARGATE_DATA_CENTER.jpeg?v=1782499975&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy in Textiles and Apparel?",
+      "excerpt": "Explore our in-depth analysis of Amer Sports Inc (AS) amid bullish market sentiment. Discover key growth drivers, valuation, and investment risks shaping its outlook.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 94,
+      "href": "/blog/as-news-impact-2026-06-26-2146.html",
+      "published_date": "2026-06-26",
+      "generated_at": "2026-06-26T21:46:08.822682+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy in Today's Tech Landscape?",
+      "excerpt": "Explore Gartner Inc's (IT) current position in the tech sector, recent market sentiment, and whether its stock offers a promising investment opportunity now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 47,
+      "href": "/blog/it-news-impact-2026-06-26-2146.html",
+      "published_date": "2026-06-26",
+      "generated_at": "2026-06-26T21:46:08.822682+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108326976-1782409895280-gettyimages-2282748371-DONCASTERS_IPO.jpeg?v=1782410074&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities\u2019 strong fundamentals, growth prospects, and risks to see why ARE stock looks bullish amid the real estate sector\u2019s evolution.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 36,
+      "href": "/blog/are-news-impact-2026-06-26-2146.html",
+      "published_date": "2026-06-26",
+      "generated_at": "2026-06-26T21:46:08.822682+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis 2026: Is AN a Buy Amid Bullish Retail Trends?",
+      "excerpt": "Explore AutoNation Inc's robust retail performance and bullish outlook at $191.64. Discover if AN stock is a smart buy for 2026 and beyond in our detailed analysis.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 29,
+      "href": "/blog/an-news-impact-2026-06-26-2146.html",
+      "published_date": "2026-06-26",
+      "generated_at": "2026-06-26T21:46:08.822682+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108210811-1760124319181-gettyimages-2239744092-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1760124445&w=1920&h=1080"
+    },
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amid Geopolitical Tensions?",
+      "excerpt": "Explore our in-depth Seanergy Maritime Holdings (SHIP) stock analysis highlighting key risks and opportunities as Strait of Hormuz tensions impact the marine sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/ship-news-impact-2026-06-26-2146.html",
+      "published_date": "2026-06-26",
+      "generated_at": "2026-06-26T21:46:08.822682+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Neutral Market Sentiment?",
@@ -16103,5 +16175,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-26T20:16:04.663402+00:00"
+  "market_data_as_of": "2026-06-26T21:46:08.822682+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-27T14:11:24.154557+00:00",
+  "generated_at": "2026-06-28T14:19:52.489720+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HAS",
+      "title": "HAS Stock Analysis: Hasbro Inc Stock Forecast & Outlook \u2014 Is HAS a Buy?",
+      "excerpt": "Hasbro Inc (HAS) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 19,
+      "href": "/blog/has-news-impact-2026-06-28-1419.html",
+      "published_date": "2026-06-28",
+      "generated_at": "2026-06-28T14:19:52.489720+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108213143-1760637556613-gettyimages-2236546743-STARGATE_DATA_CENTER.jpeg?v=1782499975&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "SOME Stock Analysis: Somerset Trust Holding Co Stock Forecast & Outlook \u2014 Is SOME a Buy?",
+      "excerpt": "Somerset Trust Holding Co (SOME) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/some-news-impact-2026-06-28-1419.html",
+      "published_date": "2026-06-28",
+      "generated_at": "2026-06-28T14:19:52.489720+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108166365-1751380219316-gettyimages-2208901888-MEI-USA-BD-FTRUSC-20250410-030.jpeg?v=1774021520&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is it a Strong Buy Amid Semiconductor Growth?",
+      "excerpt": "Explore ON Semiconductor's bullish momentum, growth drivers, competitive landscape, and risks in this in-depth stock analysis and forecast for 2026.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 92,
+      "href": "/blog/on-news-impact-2026-06-28-1419.html",
+      "published_date": "2026-06-28",
+      "generated_at": "2026-06-28T14:19:52.489720+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108326980-1782409922990-hudson-williams-connor-storrie.jpg?v=1782410226&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is the Technology Leader a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Gartner Inc's current bearish outlook, key risks, and growth prospects in this detailed stock analysis to decide if IT is a smart buy now.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 69,
+      "href": "/blog/it-news-impact-2026-06-28-1419.html",
+      "published_date": "2026-06-28",
+      "generated_at": "2026-06-28T14:19:52.489720+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323488-1781723743127-gettyimages-2282087955-cs019051_9hrckmuw.jpeg?v=1781723821&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Industry Challenges?",
+      "excerpt": "Explore Amer Sports Inc's latest stock performance and forecast in the Textiles, Apparel & Luxury Goods sector. We assess key risks, valuation, and growth prospects.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 65,
+      "href": "/blog/as-news-impact-2026-06-28-1419.html",
+      "published_date": "2026-06-28",
+      "generated_at": "2026-06-28T14:19:52.489720+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore our in-depth analysis of Alexandria Real Estate Equities (ARE). Discover growth drivers, risks, valuation insights, and whether ARE is a compelling buy today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 34,
+      "href": "/blog/are-news-impact-2026-06-28-1419.html",
+      "published_date": "2026-06-28",
+      "generated_at": "2026-06-28T14:19:52.489720+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BE",
       "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Neutral Market Sentiment?",
@@ -16247,5 +16319,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-27T14:11:24.154557+00:00"
+  "market_data_as_of": "2026-06-28T14:19:52.489720+00:00"
 }

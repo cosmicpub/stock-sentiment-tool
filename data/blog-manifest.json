@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-28T14:19:52.489720+00:00",
+  "generated_at": "2026-06-29T16:14:54.378449+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid AI Industry Shifts?",
+      "excerpt": "Explore our in-depth C3.ai Inc stock analysis to understand if AI's current $8.72 price offers a compelling buying opportunity as AI sector dynamics evolve.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 24,
+      "href": "/blog/ai-news-impact-2026-06-29-1614.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T16:14:54.378449+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108263450-1770660021829-gettyimages-2260237949-US_STOCKS.jpeg?v=1775463131&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore a comprehensive Byline Bancorp Inc (BY) stock analysis covering financial health, market positioning, and growth prospects to determine if BY is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/by-news-impact-2026-06-29-1614.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T16:14:54.378449+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Strong Buy in 2026?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook amid semiconductor demand growth, strategic partnerships, and valuation. Discover key risks and why investors are optimistic.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 87,
+      "href": "/blog/on-news-impact-2026-06-29-1614.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T16:14:54.378449+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108325130-1782411735246-gabriel_mariano_danelle_sandoval.png?v=1782412083&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Sentiment and Strategic Outlook for 2026",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis covering current performance, industry outlook, and key investor considerations for 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 82,
+      "href": "/blog/as-news-impact-2026-06-29-1614.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T16:14:54.378449+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108327550-1782492280306-gettyimages-2278151752-dsc00398.jpeg?v=1782492397&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Gartner Inc's current stock outlook with a deep dive into its fundamentals, market challenges, and whether its $134 price point signals a buying opportunity for tech investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 49,
+      "href": "/blog/it-news-impact-2026-06-29-1614.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T16:14:54.378449+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current position in financial services, market risks, valuation insights, and whether this stock is a smart buy right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/say-news-impact-2026-06-29-1614.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T16:14:54.378449+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108326797-1782394198648-American_Dream_illust.png?v=1782394364&w=1920&h=1080"
+    },
     {
       "ticker": "HAS",
       "title": "HAS Stock Analysis: Hasbro Inc Stock Forecast & Outlook \u2014 Is HAS a Buy?",
@@ -16319,5 +16391,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-28T14:19:52.489720+00:00"
+  "market_data_as_of": "2026-06-29T16:14:54.378449+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-29T20:20:28.825441+00:00",
+  "generated_at": "2026-06-29T21:50:01.469083+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our detailed AutoNation Inc (AN) stock analysis as bullish momentum builds. We dive into financials, market positioning, risks, and growth outlook.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 27,
+      "href": "/blog/an-news-impact-2026-06-29-2150.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T21:50:01.469083+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108203218-1758715416422-gettyimages-2236615249-McGregor250923NYCsights09.jpeg?v=1758715472&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy in the Bullish Semiconductor Sector?",
+      "excerpt": "Explore ON Semiconductor's bullish momentum, growth drivers, and risks in this detailed analysis to decide if ON stock is a smart buy for 2026.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 91,
+      "href": "/blog/on-news-impact-2026-06-29-2150.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T21:50:01.469083+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc (AS) stock analysis covering valuation, industry position, and risks to determine if AS is a smart investment in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 77,
+      "href": "/blog/as-news-impact-2026-06-29-2150.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T21:50:01.469083+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108327550-1782492280306-gettyimages-2278151752-dsc00398.jpeg?v=1782492397&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Gartner Inc's stock outlook at $132.79 with current bearish momentum. We unpack key risks, market sentiment, and growth prospects for IT shares.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 49,
+      "href": "/blog/it-news-impact-2026-06-29-2150.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T21:50:01.469083+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108263450-1770660021829-gettyimages-2260237949-US_STOCKS.jpeg?v=1775463131&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Leading Life Sciences REIT a Buy in 2026?",
+      "excerpt": "Discover why Alexandria Real Estate Equities (ARE) stands out in the life science real estate sector, with bullish momentum and growth potential in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 42,
+      "href": "/blog/are-news-impact-2026-06-29-2150.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T21:50:01.469083+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108203002-17586586832025-09-23t201602z_1200746466_rc2oxgauogov_rtrmadp_0_usa-lilly.jpeg?v=1758658848&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amidst Neutral Sentiment?",
+      "excerpt": "Analyze Bloom Energy's (BE) current standing in the electrical equipment sector, with a neutral sentiment and stable price at $275.01. Discover key insights for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/be-news-impact-2026-06-29-2150.html",
+      "published_date": "2026-06-29",
+      "generated_at": "2026-06-29T21:50:01.469083+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291902-1776271938523-gettyimages-2257538298-img_6716.jpeg?v=1776271965&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Strong Buy in the Semiconductor Sector?",
@@ -16535,5 +16607,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-29T20:20:28.825441+00:00"
+  "market_data_as_of": "2026-06-29T21:50:01.469083+00:00"
 }

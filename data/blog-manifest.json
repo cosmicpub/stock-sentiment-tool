@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-30T20:26:12.412011+00:00",
+  "generated_at": "2026-06-30T21:54:05.185001+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment in Textiles & Apparel?",
+      "excerpt": "Explore our deep dive into Amer Sports Inc (AS), a top player in textiles and apparel, analyzing bullish trends and key factors shaping its 2026 outlook.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 90,
+      "href": "/blog/as-news-impact-2026-06-30-2154.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T21:54:05.185001+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328542-1782812691430-gettyimages-2283378045-varittyakkal-flagplaz260629_npSVQ.jpeg?v=1782812722&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is ON a Buy Amid Semiconductor Surge?",
+      "excerpt": "ON Semiconductor shows strong bullish momentum driven by AI demand and market resilience. We dive into the key growth drivers and risks shaping ON stock's outlook.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 67,
+      "href": "/blog/on-news-impact-2026-06-30-2154.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T21:54:05.185001+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is Now the Time to Buy Electrical Equipment Leader?",
+      "excerpt": "Analyzing Bloom Energy Corp (BE) amid a neutral market sentiment with a focus on future growth potential, risks, and valuation metrics in the electrical equipment sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/be-news-impact-2026-06-30-2154.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T21:54:05.185001+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314509-1780318212098-gettyimages-2278510024-TAIWAN_COMPUTEX.jpeg?v=1780318269&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Gartner Inc's current bearish outlook, key risks, and potential opportunities for investors at $129.62. Our deep-dive stock analysis reveals what matters most.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 33,
+      "href": "/blog/it-news-impact-2026-06-30-2154.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T21:54:05.185001+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108327744-1782509587766-gettyimages-2240930724-2025-06-21-laylabird-businessventures-286.jpeg?v=1782509641&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore C3.ai's latest stock performance, challenges, and AI industry dynamics. Discover if AI stock is undervalued or facing headwinds in this deep dive.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 30,
+      "href": "/blog/ai-news-impact-2026-06-30-2154.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T21:54:05.185001+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108203218-1758715416422-gettyimages-2236615249-McGregor250923NYCsights09.jpeg?v=1758715472&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is This Banking Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bearish outlook on Somerset Trust Holding Co (SOME) stock as we dissect its financial health, market sentiment, and risks to determine if it's a worthy buy.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 29,
+      "href": "/blog/some-news-impact-2026-06-30-2154.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T21:54:05.185001+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108302672-1778030248073-260109_cn_30_tech_corning_meta_cleanmp400_00_27_00Still014.jpg?v=1778030337&w=1920&h=1080"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis 2026: Is BY a Buy Amid Bearish Sentiment?",
@@ -16823,5 +16895,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-30T20:26:12.412011+00:00"
+  "market_data_as_of": "2026-06-30T21:54:05.185001+00:00"
 }

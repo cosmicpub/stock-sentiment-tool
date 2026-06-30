@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-30T16:34:49.307586+00:00",
+  "generated_at": "2026-06-30T20:26:12.412011+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis 2026: Is BY a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our 2026 analysis of Byline Bancorp Inc (BY) stock. We dissect bearish trends, valuation, risks, and the banking landscape to help investors decide if BY is a buy now.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 26,
+      "href": "/blog/by-news-impact-2026-06-30-2026.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T20:26:12.412011+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314509-1780318212098-gettyimages-2278510024-TAIWAN_COMPUTEX.jpeg?v=1780318269&w=1920&h=1080"
+    },
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis 2026: Is HERE Stock a Buy Amidst Leisure Industry Challenges?",
+      "excerpt": "Examining Here Group Ltd's 2026 stock outlook, industry position, and potential risks to determine if HERE stock is a buy in the evolving leisure products sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/here-news-impact-2026-06-30-2026.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T20:26:12.412011+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107430642-1718739406371-gettyimages-97829704-is098sv1e.jpeg?v=1718739445&w=1920&h=1080"
+    },
+    {
+      "ticker": "BOOM",
+      "title": "DMC Global Inc (BOOM) Stock Analysis: Bearish Sentiment and What It Means for Investors",
+      "excerpt": "DMC Global Inc (BOOM) faces bearish market sentiment amid global risks. This detailed analysis explores current challenges and future outlook for the energy stock.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/boom-news-impact-2026-06-30-2026.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T20:26:12.412011+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108327550-1782492280306-gettyimages-2278151752-dsc00398.jpeg?v=1782492397&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy in Textiles & Apparel?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis, uncovering bullish signals, key risks, and growth prospects in the textiles and apparel industry.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 90,
+      "href": "/blog/as-news-impact-2026-06-30-2026.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T20:26:12.412011+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328542-1782812691430-gettyimages-2283378045-varittyakkal-flagplaz260629_npSVQ.jpeg?v=1782812722&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Industry Growth and Geopolitical Uncertainty?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, key growth drivers, risks from global tensions, and valuation insights in our detailed stock analysis.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 71,
+      "href": "/blog/on-news-impact-2026-06-30-2026.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T20:26:12.412011+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Neutral Sentiment?",
+      "excerpt": "Analyze Bloom Energy Corp's latest performance, risks, and growth potential in the electrical equipment sector to determine if BE stock is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/be-news-impact-2026-06-30-2026.html",
+      "published_date": "2026-06-30",
+      "generated_at": "2026-06-30T20:26:12.412011+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro Inc (HAS) Stock Analysis and Forecast: Is HAS a Buy in 2026?",
@@ -16751,5 +16823,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-30T16:34:49.307586+00:00"
+  "market_data_as_of": "2026-06-30T20:26:12.412011+00:00"
 }

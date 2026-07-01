@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-30T21:54:05.185001+00:00",
+  "generated_at": "2026-07-01T15:16:55.958489+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Saratoga Investment Corp Stock Forecast & Outlook \u2014 Is SAY a Buy?",
+      "excerpt": "Saratoga Investment Corp (SAY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/say-news-impact-2026-07-01-1516.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T15:16:55.958489+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy Amid Bullish Momentum?",
+      "excerpt": "Bio-Techne Corp (TECH) shows bullish momentum with solid industry positioning in Life Sciences Tools & Services. Explore key catalysts, risks, and valuation in this detailed TECH stock forecast.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 18,
+      "href": "/blog/tech-news-impact-2026-07-01-1516.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T15:16:55.958489+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328138-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-6.jpg?v=1782745808&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Market Volatility?",
+      "excerpt": "Explore Gold.com Inc's latest stock movements, industry position, and market drivers. Get a detailed GOLD stock forecast and insights for investors in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/gold-news-impact-2026-07-01-1516.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T15:16:55.958489+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Ucommune International Ltd's (UK) stock outlook in real estate, analyzing recent economic data and key risks investors should watch.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/uk-news-impact-2026-07-01-1516.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T15:16:55.958489+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105337576-1531924818740gettyimages-1000143314.jpeg?v=1532563616&w=1920&h=1080"
+    },
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corp (NEXT) Stock Analysis: Is NEXT a Buy Amid Energy Sector Uncertainties?",
+      "excerpt": "Explore our in-depth NextDecade Corp (NEXT) stock analysis, examining key risks and opportunities in the energy sector to determine if NEXT is a worthwhile investment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/next-news-impact-2026-07-01-1516.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T15:16:55.958489+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291902-1776271938523-gettyimages-2257538298-img_6716.jpeg?v=1776271965&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile & Apparel Leader a Buy in 2026?",
+      "excerpt": "Explore Amer Sports Inc's bullish outlook amid evolving market dynamics in Textiles and Apparel. Discover key growth drivers and risks in this detailed AS stock forecast.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 90,
+      "href": "/blog/as-news-impact-2026-07-01-1516.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T15:16:55.958489+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment in Textiles & Apparel?",
@@ -16895,5 +16967,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-06-30T21:54:05.185001+00:00"
+  "market_data_as_of": "2026-07-01T15:16:55.958489+00:00"
 }

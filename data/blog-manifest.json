@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T15:16:55.958489+00:00",
+  "generated_at": "2026-07-01T16:42:42.793225+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
@@ -16967,5 +16967,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-01T15:16:55.958489+00:00"
+  "market_data_as_of": "2026-07-01T16:42:42.793225+00:00"
 }

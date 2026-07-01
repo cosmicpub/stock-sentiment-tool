@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-01T20:21:10.303609+00:00",
+  "generated_at": "2026-07-01T21:57:33.186569+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Bullish Semiconductor Trends?",
+      "excerpt": "AN in-depth ON Semiconductor stock analysis reveals bullish momentum driven by semiconductor demand and strategic positioning. Discover key insights and risks.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 85,
+      "href": "/blog/on-news-impact-2026-07-01-2157.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T21:57:33.186569+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108136025-1745498529458-gettyimages-2208380685-IGOS2258.jpeg?v=1745498579&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Sentiment, What Investors Should Watch Next",
+      "excerpt": "Amer Sports Inc's stock trades at $34.11 with a neutral market sentiment. We analyze the textiles and apparel giant\u2019s outlook, valuation, and risks to help investors decide if AS fits their portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 83,
+      "href": "/blog/as-news-impact-2026-07-01-2157.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T21:57:33.186569+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105337576-1531924818740gettyimages-1000143314.jpeg?v=1532563616&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in the Current Banking Landscape?",
+      "excerpt": "Explore the latest analysis on Byline Bancorp Inc (BY) stock, its performance drivers, and whether it presents a buying opportunity amid a neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 44,
+      "href": "/blog/by-news-impact-2026-07-01-2157.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T21:57:33.186569+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321366-1781289964765-gettyimages-2280581172-FIFA_WORLD_CUP.jpeg?v=1781290017&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Neutral Sentiment in Electrical Equipment Sector?",
+      "excerpt": "Explore our in-depth Bloom Energy (BE) stock analysis covering key growth drivers, risks, valuation, and whether BE is a buy for 2026 investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/be-news-impact-2026-07-01-2157.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T21:57:33.186569+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314509-1780318212098-gettyimages-2278510024-TAIWAN_COMPUTEX.jpeg?v=1780318269&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is It a Smart Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Gartner Inc's latest stock analysis as bullish momentum builds. Learn about key growth drivers, valuation, risks, and whether IT is a buy today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 21,
+      "href": "/blog/it-news-impact-2026-07-01-2157.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T21:57:33.186569+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108327744-1782509587766-gettyimages-2240930724-2025-06-21-laylabird-businessventures-286.jpeg?v=1782509641&w=1920&h=1080"
+    },
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corp (NEXT) Stock Analysis: Is NEXT a Buy Amid Energy Sector Uncertainties?",
+      "excerpt": "Explore an in-depth analysis of NextDecade Corp (NEXT) stock, its current valuation, risks, and opportunities in the evolving energy sector as of July 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 19,
+      "href": "/blog/next-news-impact-2026-07-01-2157.html",
+      "published_date": "2026-07-01",
+      "generated_at": "2026-07-01T21:57:33.186569+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254282-1768921600210--vPxrYyo.jpg?v=1768921696&w=1920&h=1080"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Booming Retail Sector?",
@@ -17039,5 +17111,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-01T20:21:10.303609+00:00"
+  "market_data_as_of": "2026-07-01T21:57:33.186569+00:00"
 }

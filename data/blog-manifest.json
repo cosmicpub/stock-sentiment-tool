@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-01T21:57:33.186569+00:00",
+  "generated_at": "2026-07-02T14:34:54.371842+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "DROP",
+      "title": "Fuse Science Inc (DROP) Stock Analysis: Is DROP a Buy Amid Bearish Sentiment?",
+      "excerpt": "Dive into our detailed Fuse Science Inc (DROP) stock analysis for July 2026. Despite bearish signals, uncover if DROP presents any hidden buying opportunities.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 19,
+      "href": "/blog/drop-news-impact-2026-07-02-1434.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T14:34:54.371842+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Trends and Key Risks to Watch in 2026",
+      "excerpt": "Explore why Amer Sports Inc (AS) currently faces bearish sentiment, key risks in textiles and apparel, and what investors should consider before buying.",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 103,
+      "href": "/blog/as-news-impact-2026-07-02-1434.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T14:34:54.371842+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328768-1782834386510-gettyimages-1092451104-11.jpeg?v=1782834602&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Under Pressure a Buy Opportunity?",
+      "excerpt": "ON Semiconductor faces a bearish outlook amid semiconductor sector volatility and auto demand uncertainties, but selective opportunities remain for risk-tolerant investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 76,
+      "href": "/blog/on-news-impact-2026-07-02-1434.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T14:34:54.371842+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329308-1782914504327-6AutoCamp_Catskills_-_Clubhouse_Exterior_-_Courtesy_of_AutoCamp.jpg?v=1782914654&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is This Technology Leader a Buy Right Now?",
+      "excerpt": "Explore Gartner Inc's latest performance, bullish outlook, and what investors should watch in 2026. Comprehensive IT stock forecast and risks unpacked.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 38,
+      "href": "/blog/it-news-impact-2026-07-02-1434.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T14:34:54.371842+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329241-1782910172587-gettyimages-2283591282-AFP_B8WN4XR.jpeg?v=1782910197&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bullish Banking Sector Trends?",
+      "excerpt": "Explore our in-depth Byline Bancorp Inc (BY) stock analysis highlighting bullish sentiment, growth drivers, risks, and valuation insights to guide your investment decision.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 37,
+      "href": "/blog/by-news-impact-2026-07-02-1434.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T14:34:54.371842+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329388-1782919464595-gettyimages-2210278931-trumpstariffscreatestockmarketconfusionandopportunityforsome.jpeg?v=1782919598&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current valuation, market position, and outlook in our detailed 2026 stock analysis to see if it's a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/say-news-impact-2026-07-02-1434.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T14:34:54.371842+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Bullish Semiconductor Trends?",
@@ -17111,5 +17183,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-01T21:57:33.186569+00:00"
+  "market_data_as_of": "2026-07-02T14:34:54.371842+00:00"
 }

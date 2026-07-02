@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-02T14:34:54.371842+00:00",
+  "generated_at": "2026-07-02T16:17:55.128467+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Sentiment Amid Industry Turbulence - Is AS a Buy?",
+      "excerpt": "Amer Sports Inc faces bearish market sentiment at $34.76 amid textiles and luxury goods sector headwinds. Explore key risks, valuation insights, and outlook in our detailed AS stock analysis.",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 103,
+      "href": "/blog/as-news-impact-2026-07-02-1617.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T16:17:55.128467+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328768-1782834386510-gettyimages-1092451104-11.jpeg?v=1782834602&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is the Current Bearish Sentiment a Buying Opportunity?",
+      "excerpt": "Explore ON Semiconductor's stock forecast amid a bearish market mood, key industry trends, and risks investors must weigh for 2026 and beyond.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 76,
+      "href": "/blog/on-news-impact-2026-07-02-1617.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T16:17:55.128467+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329308-1782914504327-6AutoCamp_Catskills_-_Clubhouse_Exterior_-_Courtesy_of_AutoCamp.jpg?v=1782914654&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Tech Leader a Buy in Mid-2026?",
+      "excerpt": "Discover our in-depth Gartner Inc (IT) stock analysis for 2026, exploring bullish sentiment, growth drivers, risks, and whether it\u2019s the right buy today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 38,
+      "href": "/blog/it-news-impact-2026-07-02-1617.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T16:17:55.128467+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329241-1782910172587-gettyimages-2283591282-AFP_B8WN4XR.jpeg?v=1782910197&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Strong Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our in-depth Byline Bancorp Inc (BY) stock analysis revealing bullish trends, key financials, and potential risks to inform your investment decision in 2026.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 37,
+      "href": "/blog/by-news-impact-2026-07-02-1617.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T16:17:55.128467+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329388-1782919464595-gettyimages-2210278931-trumpstariffscreatestockmarketconfusionandopportunityforsome.jpeg?v=1782919598&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Strong Buy in Financial Services?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) stock insights, valuation, and outlook in the evolving financial services sector. Is SAY a buy now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/say-news-impact-2026-07-02-1617.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T16:17:55.128467+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is It a Buy Amid Market Neutrality?",
+      "excerpt": "Explore a detailed Alexandria Real Estate Equities (ARE) stock analysis to uncover growth drivers and risks, helping you decide if ARE is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/are-news-impact-2026-07-02-1617.html",
+      "published_date": "2026-07-02",
+      "generated_at": "2026-07-02T16:17:55.128467+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "DROP",
       "title": "Fuse Science Inc (DROP) Stock Analysis: Is DROP a Buy Amid Bearish Sentiment?",
@@ -17183,5 +17255,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-02T14:34:54.371842+00:00"
+  "market_data_as_of": "2026-07-02T16:17:55.128467+00:00"
 }

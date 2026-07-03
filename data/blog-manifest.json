@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-03T14:37:01.460661+00:00",
+  "generated_at": "2026-07-03T16:05:09.251716+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "DROP",
+      "title": "Is DROP (Fuse Science Inc) a Buy? Detailed Stock Analysis and Forecast for 2026",
+      "excerpt": "Explore our thorough analysis of Fuse Science Inc (DROP), assessing its bearish sentiment, market dynamics, and long-term outlook to guide your investment decisions.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 19,
+      "href": "/blog/drop-news-impact-2026-07-03-1605.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T16:05:09.251716+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is It a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore why Amer Sports Inc (AS) faces a bearish outlook despite its strong market position in textiles and apparel. What should investors expect?",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 116,
+      "href": "/blog/as-news-impact-2026-07-03-1605.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T16:05:09.251716+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329500-1782930439205-Sarah_Wu_wedding.jpg?v=1783006852&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Strong Semiconductor Sector Momentum?",
+      "excerpt": "Explore our detailed ON Semiconductor stock forecast and analysis for July 2026. Learn why bullish sentiment and sector trends make ON a compelling buy right now.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 95,
+      "href": "/blog/on-news-impact-2026-07-03-1605.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T16:05:09.251716+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Time to Buy This Tech Leader?",
+      "excerpt": "Our in-depth Gartner Inc (IT) stock analysis explores recent bullish trends, valuation, and future outlook to determine if IT stock is a wise buy.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 42,
+      "href": "/blog/it-news-impact-2026-07-03-1605.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T16:05:09.251716+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108176344-1753363274481-gettyimages-2225995478-img_9514.jpeg?v=1773056285&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Byline Bancorp Inc's current position in the banking sector, recent performance, and factors influencing its stock outlook in this detailed analysis.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/by-news-impact-2026-07-03-1605.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T16:05:09.251716+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107276661-1690324979810-NUP_202060_00911.jpg?v=1690381544&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Market?",
+      "excerpt": "Explore Alexandria Real Estate Equities\u2019 latest stock outlook, key growth drivers, and risks in this detailed ARE stock analysis for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 31,
+      "href": "/blog/are-news-impact-2026-07-03-1605.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T16:05:09.251716+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108325629-1782237470697-Chase_Sundance.jpg?v=1782238002&w=1920&h=1080"
+    },
     {
       "ticker": "NEXT",
       "title": "NextDecade Corp (NEXT) Stock Analysis: Is This Energy Stock Worth Buying in 2026?",
@@ -17543,5 +17615,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-03T14:37:01.460661+00:00"
+  "market_data_as_of": "2026-07-03T16:05:09.251716+00:00"
 }

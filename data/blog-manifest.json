@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-02T21:41:19.618011+00:00",
+  "generated_at": "2026-07-03T14:37:01.460661+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corp (NEXT) Stock Analysis: Is This Energy Stock Worth Buying in 2026?",
+      "excerpt": "Explore NextDecade Corp's latest stock performance, industry position, and key risks to determine if NEXT is a smart energy sector buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 19,
+      "href": "/blog/next-news-impact-2026-07-03-1437.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T14:37:01.460661+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254282-1768921600210--vPxrYyo.jpg?v=1768921696&w=1920&h=1080"
+    },
+    {
+      "ticker": "COST",
+      "title": "Costco (COST) Stock Analysis: Is It a Buy Amid Steady Retail Growth?",
+      "excerpt": "Explore Costco Wholesale's strong retail position, bullish outlook, and key risks to understand if COST stock is a compelling buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 18,
+      "href": "/blog/cost-news-impact-2026-07-03-1437.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T14:37:01.460661+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108076426-1734367273566-gettyimages-2141953551-BIDEN_STUDENT_LOAN.jpeg?v=1734697802&w=1920&h=1080"
+    },
+    {
+      "ticker": "UBS",
+      "title": "UBS Group AG (UBS) Stock Analysis: Is UBS a Buy Amid Market Gains and Oil Price Shifts?",
+      "excerpt": "Explore UBS Group AG's stock outlook as global wealth surges and oil price forecasts shift. Discover whether UBS is a buy in this evolving financial landscape.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 16,
+      "href": "/blog/ubs-news-impact-2026-07-03-1437.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T14:37:01.460661+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329388-1782919464595-gettyimages-2210278931-trumpstariffscreatestockmarketconfusionandopportunityforsome.jpeg?v=1782919598&w=1920&h=1080"
+    },
+    {
+      "ticker": "WEST",
+      "title": "Westrock Coffee Co (WEST) Stock Analysis: Is It Time to Sell or Buy at $7.08?",
+      "excerpt": "Explore the bearish sentiment around Westrock Coffee Co (NYSE: WEST) at $7.08. Dive into its financial health, market challenges, and whether it's a buy or sell today.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/west-news-impact-2026-07-03-1437.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T14:37:01.460661+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy in Life Sciences Tools & Services?",
+      "excerpt": "Explore Bio-Techne Corp's (TECH) stock forecast amid neutral sentiment and a $70.85 share price. Understand key risks, valuation, and growth outlook in life sciences tools.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/tech-news-impact-2026-07-03-1437.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T14:37:01.460661+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328138-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-6.jpg?v=1782745808&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile & Apparel Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore a detailed analysis of Amer Sports Inc (AS) in the Textiles, Apparel & Luxury Goods sector, assessing bearish signals, valuation, and growth prospects in 2026.",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 116,
+      "href": "/blog/as-news-impact-2026-07-03-1437.html",
+      "published_date": "2026-07-03",
+      "generated_at": "2026-07-03T14:37:01.460661+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329500-1782930439205-Sarah_Wu_wedding.jpg?v=1783006852&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Sentiment Amidst Industry Challenges",
@@ -17471,5 +17543,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-02T21:41:19.618011+00:00"
+  "market_data_as_of": "2026-07-03T14:37:01.460661+00:00"
 }

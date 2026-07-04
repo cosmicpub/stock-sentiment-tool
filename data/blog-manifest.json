@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-03T21:38:32.729312+00:00",
+  "generated_at": "2026-07-04T14:06:15.024606+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "AS Stock Analysis: Amer Sports Inc Stock Forecast & Outlook \u2014 Is AS a Buy?",
+      "excerpt": "Amer Sports Inc (AS) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 104,
+      "href": "/blog/as-news-impact-2026-07-04-1406.html",
+      "published_date": "2026-07-04",
+      "generated_at": "2026-07-04T14:06:15.024606+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329500-1782930439205-Sarah_Wu_wedding.jpg?v=1783006852&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Industry Bullishness?",
+      "excerpt": "Explore ON Semiconductor's 2026 outlook with a bullish market sentiment, key catalysts, valuation insights, and risks. Is ON stock a wise buy now?",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 97,
+      "href": "/blog/on-news-impact-2026-07-04-1406.html",
+      "published_date": "2026-07-04",
+      "generated_at": "2026-07-04T14:06:15.024606+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1776174259&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "BY (Byline Bancorp Inc) Stock Analysis: Is BY a Buy in the Current Banking Landscape?",
+      "excerpt": "Examining Byline Bancorp's opportunities and challenges in 2026, this BY stock analysis explores whether it holds potential for investors amid a neutral market tone.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 39,
+      "href": "/blog/by-news-impact-2026-07-04-1406.html",
+      "published_date": "2026-07-04",
+      "generated_at": "2026-07-04T14:06:15.024606+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107276661-1690324979810-NUP_202060_00911.jpg?v=1690381544&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy in the Current Tech Landscape?",
+      "excerpt": "Explore Gartner Inc's latest stock performance, growth prospects, and risks in our deep-dive analysis to determine if IT is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/it-news-impact-2026-07-04-1406.html",
+      "published_date": "2026-07-04",
+      "generated_at": "2026-07-04T14:06:15.024606+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108176344-1753363274481-gettyimages-2225995478-img_9514.jpeg?v=1773056285&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities\u2019 current standing in the real estate market, growth prospects, and risks in our detailed 2026 stock analysis.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 31,
+      "href": "/blog/are-news-impact-2026-07-04-1406.html",
+      "published_date": "2026-07-04",
+      "generated_at": "2026-07-04T14:06:15.024606+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108325629-1782237470697-Chase_Sundance.jpg?v=1782238002&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services Today?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) latest stock outlook with insights into valuation, market positioning, and key risks for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/say-news-impact-2026-07-04-1406.html",
+      "published_date": "2026-07-04",
+      "generated_at": "2026-07-04T14:06:15.024606+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai Inc (AI) Stock Analysis: Is AI Stock a Buy Amid Tech Industry Shifts?",
@@ -17831,5 +17903,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-03T21:38:32.729312+00:00"
+  "market_data_as_of": "2026-07-04T14:06:15.024606+00:00"
 }

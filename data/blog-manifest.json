@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-05T14:14:03.595053+00:00",
+  "generated_at": "2026-07-06T15:57:51.081291+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in 2026?",
+      "excerpt": "Explore why Two Harbors Investment Corp (TWO) is gaining bullish momentum in the real estate sector, with insights on risk, valuation, and outlook.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 22,
+      "href": "/blog/two-news-impact-2026-07-06-1557.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T15:57:51.081291+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108225091-17629848922025-06-11t142240z_328980464_rc2e0fa4wopj_rtrmadp_0_france-tech.jpeg?v=1762984960&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy Amid Neutral Sentiment?",
+      "excerpt": "Analyze Ucommune International Ltd (UK) stock forecast amid stable $2.07 price and neutral sentiment. Discover key risks, opportunities, and expert insights.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/uk-news-impact-2026-07-06-1557.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T15:57:51.081291+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our comprehensive analysis of Health In Tech Inc (HIT) stock, highlighting key factors driving its bullish momentum and what investors should consider.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 18,
+      "href": "/blog/hit-news-impact-2026-07-06-1557.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T15:57:51.081291+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1776174259&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Semiconductor Market?",
+      "excerpt": "In our latest ON Semiconductor stock analysis, we explore the bullish momentum driving ON shares and what investors should watch before buying.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 90,
+      "href": "/blog/on-news-impact-2026-07-06-1557.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T15:57:51.081291+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328125-1782744966496-gettyimages-2282913457-AFP_B8FU8G4.jpeg?v=1783016379&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is It Time to Buy This Textiles Leader?",
+      "excerpt": "Discover an in-depth analysis of Amer Sports Inc's stock performance and growth prospects in the textiles and apparel sector for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 79,
+      "href": "/blog/as-news-impact-2026-07-06-1557.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T15:57:51.081291+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108326434-1782332921618-gettyimages-2283164895-ah809288_5l6jkg6t.jpeg?v=1782332964&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis: Alexandria Real Estate Equities, Inc Stock Forecast & Outlook \u2014 Is ARE a Buy?",
+      "excerpt": "Alexandria Real Estate Equities, Inc (ARE) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 47,
+      "href": "/blog/are-news-impact-2026-07-06-1557.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T15:57:51.081291+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "UBS",
       "title": "UBS Group AG (UBS) Stock Analysis: Is UBS a Buy Amid Market Volatility?",
@@ -17975,5 +18047,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-05T14:14:03.595053+00:00"
+  "market_data_as_of": "2026-07-06T15:57:51.081291+00:00"
 }

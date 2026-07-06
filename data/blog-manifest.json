@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-06T17:18:56.187660+00:00",
+  "generated_at": "2026-07-06T20:20:30.574251+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 58,
+      "href": "/blog/on-news-impact-2026-07-06-2020.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T20:20:30.574251+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1776174259&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Share a Buy in 2026?",
+      "excerpt": "Explore Amer Sports Inc (AS) with our 2026 stock analysis. We assess fundamentals, market position, risks, and outlook to help investors decide if AS is a smart buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 57,
+      "href": "/blog/as-news-impact-2026-07-06-2020.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T20:20:30.574251+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Tech Sector Trends?",
+      "excerpt": "Discover an in-depth analysis of Gartner Inc (IT) stock, exploring current market sentiment, valuation insights, and why investors are taking a wait-and-see approach in the technology sector.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 29,
+      "href": "/blog/it-news-impact-2026-07-06-2020.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T20:20:30.574251+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore our detailed Alexandria Real Estate Equities stock analysis covering key growth drivers, valuation, risks, and whether ARE is a buy in 2026's real estate sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 27,
+      "href": "/blog/are-news-impact-2026-07-06-2020.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T20:20:30.574251+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108289522-1775773975018-gettyimages-2270634628-_73a8259_j2z9rqz6.jpeg?v=1775774072&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy in 2026?",
+      "excerpt": "Explore Ucommune International Ltd (UK) stock\u2019s 2026 outlook amid neutral sentiment and market developments affecting the real estate sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-07-06-2020.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T20:20:30.574251+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Smart Buy in Real Estate?",
+      "excerpt": "Explore our detailed Two Harbors Investment Corp (TWO) stock analysis, uncovering key valuation insights, risk factors, and long-term outlook for real estate investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/two-news-impact-2026-07-06-2020.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T20:20:30.574251+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HE",
       "title": "Hawaiian Electric Industries Inc (HE) Stock Analysis: Is HE a Buy in 2026?",
@@ -18119,5 +18191,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-06T17:18:56.187660+00:00"
+  "market_data_as_of": "2026-07-06T20:20:30.574251+00:00"
 }

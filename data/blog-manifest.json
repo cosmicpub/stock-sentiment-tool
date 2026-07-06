@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-06T15:57:51.081291+00:00",
+  "generated_at": "2026-07-06T17:18:56.187660+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries Inc (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Explore our comprehensive analysis of Hawaiian Electric Industries (HE) stock, covering valuation, risks, and long-term prospects in the utilities sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/he-news-impact-2026-07-06-1718.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T17:18:56.187660+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in 2026?",
+      "excerpt": "Explore ON Semiconductor's prospects in 2026, examining growth drivers, risks, valuation, and whether ON stock merits a buy in the evolving semiconductor market.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 83,
+      "href": "/blog/on-news-impact-2026-07-06-1718.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T17:18:56.187660+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328125-1782744966496-gettyimages-2282913457-AFP_B8FU8G4.jpeg?v=1783016379&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in 2026?",
+      "excerpt": "Explore Amer Sports Inc (AS) latest stock analysis, industry snapshot, and factors shaping its 2026 outlook. Is AS stock worth buying now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 74,
+      "href": "/blog/as-news-impact-2026-07-06-1718.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T17:18:56.187660+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108326434-1782332921618-gettyimages-2283164895-ah809288_5l6jkg6t.jpeg?v=1782332964&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities\u2019 latest stock outlook in the shifting real estate market, assessing key risks and growth factors for investors in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 40,
+      "href": "/blog/are-news-impact-2026-07-06-1718.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T17:18:56.187660+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is Now the Time to Buy?",
+      "excerpt": "Explore a 2026 Gartner Inc stock forecast, uncover key growth drivers, challenges, and valuation insights to decide if IT stock fits your portfolio.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 34,
+      "href": "/blog/it-news-impact-2026-07-06-1718.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T17:18:56.187660+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Is Saratoga Investment Corp a Smart Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) stock insights, latest market sentiment, valuation, risks, and growth prospects to decide if SAY is a buy this year.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 28,
+      "href": "/blog/say-news-impact-2026-07-06-1718.html",
+      "published_date": "2026-07-06",
+      "generated_at": "2026-07-06T17:18:56.187660+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108330251-1783024013473-gettyimages-2283530371-AFP_B8V32VK.jpeg?v=1783024401&w=1920&h=1080"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in 2026?",
@@ -18047,5 +18119,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-06T15:57:51.081291+00:00"
+  "market_data_as_of": "2026-07-06T17:18:56.187660+00:00"
 }

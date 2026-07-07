@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-06T21:53:20.780099+00:00",
+  "generated_at": "2026-07-07T15:22:36.321315+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "LNG",
+      "title": "Cheniere Energy Inc (LNG) Stock Analysis: Is the Energy Giant a Buy Amid Recent Turmoil?",
+      "excerpt": "Cheniere Energy (LNG) faces bearish headwinds from geopolitical risks and supply chain issues. Discover if LNG stock is a buy in this detailed analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 22,
+      "href": "/blog/lng-news-impact-2026-07-07-1522.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T15:22:36.321315+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Technology Play a Buy in 2026?",
+      "excerpt": "Explore an in-depth analysis of C3.ai's stock (Ticker: AI) as the company navigates AI sector volatility in 2026. Discover key risks, growth factors, and outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/ai-news-impact-2026-07-07-1522.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T15:22:36.321315+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328198-1782749910634-Business_man_listening_to_a_discussion_during_a_me-1458719394-Getty.jpg?v=1782750014&w=1920&h=1080"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in Biotechnology?",
+      "excerpt": "Explore a detailed IMAC Holdings Inc stock analysis and forecast. Discover if BACK is a smart buy amid its bullish biotech sector momentum and key risks.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 16,
+      "href": "/blog/back-news-impact-2026-07-07-1522.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T15:22:36.321315+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108225091-17629848922025-06-11t142240z_328980464_rc2e0fa4wopj_rtrmadp_0_france-tech.jpeg?v=1762984960&w=1920&h=1080"
+    },
+    {
+      "ticker": "PRE",
+      "title": "Prenetics Global Ltd (PRE) Stock Analysis 2026: Is PRE a Buy in Health Care?",
+      "excerpt": "Explore Prenetics Global Ltd (PRE) stock performance, risks, and growth potential in health care. Our in-depth 2026 analysis helps you decide if PRE fits your portfolio.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/pre-news-impact-2026-07-07-1522.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T15:22:36.321315+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy for 2026?",
+      "excerpt": "Explore AutoNation Inc's latest market performance, key risks, and growth prospects in this detailed AN stock analysis. Is it a buy in 2026?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/an-news-impact-2026-07-07-1522.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T15:22:36.321315+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108127872-17440536252025-04-07t191548z_1897652394_rc27tdafs9qc_rtrmadp_0_usa-stocks.jpeg?v=1744053733&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Neutral Sentiment?",
+      "excerpt": "Discover our detailed Amer Sports Inc stock analysis for 2026. We break down key trends, risks, valuation, and whether AS is a buy in the textile and apparel sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 75,
+      "href": "/blog/as-news-impact-2026-07-07-1522.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T15:22:36.321315+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108326434-1782332921618-gettyimages-2283164895-ah809288_5l6jkg6t.jpeg?v=1782332964&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles & Luxury Goods Sector?",
@@ -18263,5 +18335,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-06T21:53:20.780099+00:00"
+  "market_data_as_of": "2026-07-07T15:22:36.321315+00:00"
 }

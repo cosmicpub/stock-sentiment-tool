@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-07T16:43:35.478529+00:00",
+  "generated_at": "2026-07-07T20:22:02.416268+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Byline Bancorp's current market position, risk factors, and growth outlook in this detailed BY stock analysis to decide if it deserves a spot in your portfolio.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 26,
+      "href": "/blog/by-news-impact-2026-07-07-2022.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T20:22:02.416268+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108324773-1782131265368-gettyimages-2282192099-20090101260622-99-815071.jpeg?v=1782131312&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports (AS) Stock Analysis: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Explore the latest on Amer Sports (AS) stock with a detailed analysis of its valuation, industry positioning, risks, and long-term outlook for investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 82,
+      "href": "/blog/as-news-impact-2026-07-07-2022.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T20:22:02.416268+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Sector Headwinds?",
+      "excerpt": "Analyzing ON Semiconductor's position within the volatile chip sector, uncover key insights on whether ON stock is a worthwhile buy in the current market environment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 76,
+      "href": "/blog/on-news-impact-2026-07-07-2022.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T20:22:02.416268+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services?",
+      "excerpt": "Explore why Saratoga Investment Corp (SAY) is seen as a bullish play in financial services with potential growth, risks, and valuation insights in our detailed analysis.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 54,
+      "href": "/blog/say-news-impact-2026-07-07-2022.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T20:22:02.416268+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Byline Bancorp Inc's latest stock dynamics, industry positioning, and what investors should watch before deciding if BY is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 26,
+      "href": "/blog/by-news-impact-2026-07-07-2022.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T20:22:02.416268+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries Inc (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Explore Hawaiian Electric Industries Inc's current valuation, growth prospects, and risks in this comprehensive HE stock analysis to decide if it's a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/he-news-impact-2026-07-07-2022.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T20:22:02.416268+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
@@ -18407,5 +18479,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-07T16:43:35.478529+00:00"
+  "market_data_as_of": "2026-07-07T20:22:02.416268+00:00"
 }

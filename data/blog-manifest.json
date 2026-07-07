@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-07T15:22:36.321315+00:00",
+  "generated_at": "2026-07-07T16:43:35.478529+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our comprehensive ON Semiconductor stock analysis revealing bullish signals, key growth drivers, and critical risks shaping its near-term outlook.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 74,
+      "href": "/blog/on-news-impact-2026-07-07-1643.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T16:43:35.478529+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328125-1782744966496-gettyimages-2282913457-AFP_B8FU8G4.jpeg?v=1783016379&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Outlook in Textiles & Apparel Sector",
+      "excerpt": "Explore a comprehensive Amer Sports Inc stock analysis, examining current valuation, risks, and growth factors to determine if AS is a worthwhile investment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 70,
+      "href": "/blog/as-news-impact-2026-07-07-1643.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T16:43:35.478529+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108326434-1782332921618-gettyimages-2283164895-ah809288_5l6jkg6t.jpeg?v=1782332964&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is Now the Time to Buy Financial Services Firm?",
+      "excerpt": "Explore Saratoga Investment Corp's bullish momentum, key financial metrics, and risks shaping the SAY stock forecast for investors eyeing growth in financial services.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 48,
+      "href": "/blog/say-news-impact-2026-07-07-1643.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T16:43:35.478529+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108330251-1783024013473-gettyimages-2283530371-AFP_B8V32VK.jpeg?v=1783024401&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Tech Sector Neutral Sentiment?",
+      "excerpt": "Explore Gartner Inc's current valuation, industry standing, and future outlook to decide if IT stock is a buy in today\u2019s neutral tech market environment.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 34,
+      "href": "/blog/it-news-impact-2026-07-07-1643.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T16:43:35.478529+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore a detailed analysis of Alexandria Real Estate Equities (ARE) stock, including its growth prospects, market position, and key risks for investors in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 26,
+      "href": "/blog/are-news-impact-2026-07-07-1643.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T16:43:35.478529+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in 2026?",
+      "excerpt": "Explore an in-depth analysis of Two Harbors Investment Corp (TWO) in the real estate sector. Discover whether TWO stock is a buy with our detailed forecast and valuation insights.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/two-news-impact-2026-07-07-1643.html",
+      "published_date": "2026-07-07",
+      "generated_at": "2026-07-07T16:43:35.478529+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108225091-17629848922025-06-11t142240z_328980464_rc2e0fa4wopj_rtrmadp_0_france-tech.jpeg?v=1762984960&w=1920&h=1080"
+    },
     {
       "ticker": "LNG",
       "title": "Cheniere Energy Inc (LNG) Stock Analysis: Is the Energy Giant a Buy Amid Recent Turmoil?",
@@ -18335,5 +18407,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-07T15:22:36.321315+00:00"
+  "market_data_as_of": "2026-07-07T16:43:35.478529+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-08T16:13:21.051699+00:00",
+  "generated_at": "2026-07-08T17:56:41.776312+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Explore our in-depth analysis of Amer Sports Inc (AS) stock, assessing market sentiment, recent performance, and key risks to determine if AS shares are a buy today.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 89,
+      "href": "/blog/as-news-impact-2026-07-08-1756.html",
+      "published_date": "2026-07-08",
+      "generated_at": "2026-07-08T17:56:41.776312+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108330918-1783353172609-American_Dream_community.png?v=1783353615&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Volatility?",
+      "excerpt": "Dive into our detailed ON Semiconductor stock analysis examining key fundamentals, market position, and risks to help decide if ON shares fit your portfolio.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 69,
+      "href": "/blog/on-news-impact-2026-07-08-1756.html",
+      "published_date": "2026-07-08",
+      "generated_at": "2026-07-08T17:56:41.776312+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108322709-1781634060886-gettyimages-2277135777-WARSH_SWEAR_IN.jpeg?v=1781634082&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in the Utilities Sector?",
+      "excerpt": "Explore our in-depth analysis of Hawaiian Electric Industries (HE) stock, assessing its current position and prospects in the utilities industry for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/he-news-impact-2026-07-08-1756.html",
+      "published_date": "2026-07-08",
+      "generated_at": "2026-07-08T17:56:41.776312+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "BY Stock Analysis: Is Byline Bancorp Inc a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Analyze Byline Bancorp (BY) stock with a detailed look into its financial health, competitive landscape, and potential risks to determine if it's a buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 33,
+      "href": "/blog/by-news-impact-2026-07-08-1756.html",
+      "published_date": "2026-07-08",
+      "generated_at": "2026-07-08T17:56:41.776312+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108324773-1782131265368-gettyimages-2282192099-20090101260622-99-815071.jpeg?v=1782131312&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is It Time to Buy or Hold?",
+      "excerpt": "Discover an in-depth Gartner Inc (IT) stock analysis with insights into valuation, growth prospects, and industry position amid a neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 31,
+      "href": "/blog/it-news-impact-2026-07-08-1756.html",
+      "published_date": "2026-07-08",
+      "generated_at": "2026-07-08T17:56:41.776312+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Neutral Sentiment and Market Uncertainties?",
+      "excerpt": "Explore Hasbro's current stock outlook as it navigates neutral sentiment and broader market challenges in the leisure products sector. Is HAS worth buying now?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 22,
+      "href": "/blog/has-news-impact-2026-07-08-1756.html",
+      "published_date": "2026-07-08",
+      "generated_at": "2026-07-08T17:56:41.776312+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Play a Buy Amidst Bearish Sentiment?",
@@ -18695,5 +18767,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-08T16:13:21.051699+00:00"
+  "market_data_as_of": "2026-07-08T17:56:41.776312+00:00"
 }

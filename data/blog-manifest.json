@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-10T19:57:03.035966+00:00",
+  "generated_at": "2026-07-10T21:32:40.458172+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "LNG",
+      "title": "Cheniere Energy (LNG) Stock Analysis: Is LNG a Buy Amid Rising Industry Risks?",
+      "excerpt": "Explore Cheniere Energy's current challenges and prospects as LNG prices soar amid geopolitical tensions. Our detailed LNG stock forecast covers risks and opportunities.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/lng-news-impact-2026-07-10-2132.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T21:32:40.458172+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy in the Current Insurance Landscape?",
+      "excerpt": "Discover whether Health In Tech Inc (HIT) is a smart buy with our deep dive into its recent performance, industry pressures, and growth prospects.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/hit-news-impact-2026-07-10-2132.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T21:32:40.458172+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis 2026: Is It a Smart Buy Amid Banking Sector Stability?",
+      "excerpt": "Explore Byline Bancorp Inc's 2026 stock outlook, assessing financial health, industry position, and risks to decide if BY stock is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/by-news-impact-2026-07-10-2132.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T21:32:40.458172+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is It Time to Buy Amidst Bearish Signals?",
+      "excerpt": "Explore our detailed Amer Sports Inc (AS) stock analysis amid bearish market sentiment. Understand risks, valuation, and what investors should watch.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 135,
+      "href": "/blog/as-news-impact-2026-07-10-2132.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T21:32:40.458172+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108319444-1781094392933-gettyimages-2280774851-l1062155_copy_gnzahb1j.jpeg?v=1781094437&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is Now the Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current bearish sentiment and valuation amid chip sector rallies and geopolitical tensions. Here's our detailed ON stock forecast.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 77,
+      "href": "/blog/on-news-impact-2026-07-10-2132.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T21:32:40.458172+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321995-1781537897825-gettyimages-2281132540-US_STOCKS.jpeg?v=1781537918&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today's Financial Climate?",
+      "excerpt": "Explore Saratoga Investment Corp's current stock position, market risks, and long-term outlook as investors weigh if SAY is a smart buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/say-news-impact-2026-07-10-2132.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T21:32:40.458172+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108332317-1783537477738-gettyimages-2268972383-pruebasgetty-3.jpeg?v=1783537529&w=1920&h=1080"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai (AI) Stock Analysis: Is Now the Time to Buy Into This Tech Company?",
@@ -19415,5 +19487,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-10T19:57:03.035966+00:00"
+  "market_data_as_of": "2026-07-10T21:32:40.458172+00:00"
 }

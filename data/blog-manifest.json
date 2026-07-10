@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-10T15:08:07.541602+00:00",
+  "generated_at": "2026-07-10T16:35:55.891701+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy Amid Biotechnology Uncertainties?",
+      "excerpt": "Explore the latest IMAC Holdings Inc (BACK) stock analysis highlighting key risks, valuation insights, and the biotech growth potential in our detailed forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/back-news-impact-2026-07-10-1635.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T16:35:55.891701+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108319444-1781094392933-gettyimages-2280774851-l1062155_copy_gnzahb1j.jpeg?v=1781094437&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy for Utility Investors in 2026?",
+      "excerpt": "Explore Hawaiian Electric Industries' (HE) latest stock analysis and forecast for 2026. Understand if HE is a buy amid its stable utilities sector position and market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/he-news-impact-2026-07-10-1635.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T16:35:55.891701+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy or Steer Clear?",
+      "excerpt": "Explore our detailed analysis on Amer Sports Inc (AS) amid bearish market signals. Discover key risks, valuation pointers, and long-term outlook.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 149,
+      "href": "/blog/as-news-impact-2026-07-10-1635.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T16:35:55.891701+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108209987-1760019895735-clearwater-forest-chip-fab-52-scaled.jpg?v=1760019984&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is This Semiconductor Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor faces bearish pressures amid geopolitical tensions, but how does its current valuation and industry position impact its stock outlook?",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 73,
+      "href": "/blog/on-news-impact-2026-07-10-1635.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T16:35:55.891701+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321995-1781537897825-gettyimages-2281132540-US_STOCKS.jpeg?v=1781537918&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today's Market?",
+      "excerpt": "Explore a detailed analysis of Saratoga Investment Corp's stock (SAY) and its prospects amid current market conditions and geopolitical tensions.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/say-news-impact-2026-07-10-1635.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T16:35:55.891701+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108332317-1783537477738-gettyimages-2268972383-pruebasgetty-3.jpeg?v=1783537529&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now the Time to Sell or Hold?",
+      "excerpt": "Explore why bearish sentiment clouds Alexandria Real Estate Equities (ARE) despite strong sector trends. Our detailed analysis covers risks, outlook, and valuation.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 29,
+      "href": "/blog/are-news-impact-2026-07-10-1635.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T16:35:55.891701+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "GOLD",
       "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Geopolitical Headwinds?",
@@ -19271,5 +19343,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-10T15:08:07.541602+00:00"
+  "market_data_as_of": "2026-07-10T16:35:55.891701+00:00"
 }

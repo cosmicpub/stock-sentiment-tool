@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-09T21:53:48.230069+00:00",
+  "generated_at": "2026-07-10T15:08:07.541602+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Geopolitical Headwinds?",
+      "excerpt": "Explore Gold.com Inc's (GOLD) stock outlook amid Middle East tensions, interest rate concerns, and market sentiment in this detailed analysis.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/gold-news-impact-2026-07-10-1508.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T15:08:07.541602+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Sector Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth Amer Sports Inc stock analysis amid bearish sentiment and sector challenges. Discover key risks and growth factors impacting AS stock.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 140,
+      "href": "/blog/as-news-impact-2026-07-10-1508.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T15:08:07.541602+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108319444-1781094392933-gettyimages-2280774851-l1062155_copy_gnzahb1j.jpeg?v=1781094437&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is Now the Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor faces bearish market sentiment amid geopolitical tensions and sector headwinds. Explore the risks and potential in this detailed stock analysis.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 80,
+      "href": "/blog/on-news-impact-2026-07-10-1508.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T15:08:07.541602+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321995-1781537897825-gettyimages-2281132540-US_STOCKS.jpeg?v=1781537918&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is It A Buy Amid Mixed Market Signals?",
+      "excerpt": "Explore Saratoga Investment Corp's current valuation, growth prospects, and risks to determine if SAY stock fits your investment portfolio today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/say-news-impact-2026-07-10-1508.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T15:08:07.541602+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108332317-1783537477738-gettyimages-2268972383-pruebasgetty-3.jpeg?v=1783537529&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now the Time to Buy or Beware?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock's current bearish trends, valuation concerns, and long-term outlook amid evolving real estate market dynamics.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 29,
+      "href": "/blog/are-news-impact-2026-07-10-1508.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T15:08:07.541602+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore our detailed OUTFRONT Media Inc (OUT) stock analysis. Understand key growth drivers, risks, and valuation insights to decide if OUT is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/out-news-impact-2026-07-10-1508.html",
+      "published_date": "2026-07-10",
+      "generated_at": "2026-07-10T15:08:07.541602+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amidst Bearish Sentiment?",
@@ -19199,5 +19271,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-09T21:53:48.230069+00:00"
+  "market_data_as_of": "2026-07-10T15:08:07.541602+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-10T21:32:40.458172+00:00",
+  "generated_at": "2026-07-11T13:59:13.641267+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is THIS Banking Stock a Buy in 2026?",
+      "excerpt": "Explore our detailed Somerset Trust Holding Co (SOME) stock analysis for 2026. Understand key banking sector trends, risks, and whether SOME deserves your attention today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/some-news-impact-2026-07-11-1359.html",
+      "published_date": "2026-07-11",
+      "generated_at": "2026-07-11T13:59:13.641267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108333638-1783714207160-riverside_billie_dunlevy_raw-video-cfr_nathaniel_lee_0030mp400_01_31_04Still001.jpg?v=1783714516&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is It Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "Discover why Amer Sports Inc (AS) faces bearish headwinds in the textiles sector, key risks to watch, and whether it offers a buying opportunity now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 140,
+      "href": "/blog/as-news-impact-2026-07-11-1359.html",
+      "published_date": "2026-07-11",
+      "generated_at": "2026-07-11T13:59:13.641267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108288963-1775686307856-gettyimages-2269840031-US_GDP.jpeg?v=1775686355&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is It Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor (ON) faces bearish pressures amid geopolitical risks and semiconductor sector challenges. We analyze key factors shaping its outlook and whether it's a buy now.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 82,
+      "href": "/blog/on-news-impact-2026-07-11-1359.html",
+      "published_date": "2026-07-11",
+      "generated_at": "2026-07-11T13:59:13.641267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321995-1781537897825-gettyimages-2281132540-US_STOCKS.jpeg?v=1781537918&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Financial Sector Optimism?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) stock forecast with a bullish outlook, valuation insights, and risk considerations for investors in financial services.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 37,
+      "href": "/blog/say-news-impact-2026-07-11-1359.html",
+      "published_date": "2026-07-11",
+      "generated_at": "2026-07-11T13:59:13.641267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108332317-1783537477738-gettyimages-2268972383-pruebasgetty-3.jpeg?v=1783537529&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amidst Tech Sector Uncertainty?",
+      "excerpt": "Discover our in-depth Gartner Inc (IT) stock analysis focusing on its neutral sentiment, industry position, and growth risks to help you decide if IT shares fit your portfolio.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 32,
+      "href": "/blog/it-news-impact-2026-07-11-1359.html",
+      "published_date": "2026-07-11",
+      "generated_at": "2026-07-11T13:59:13.641267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108332088-1783519020111-Leslie_Friday_at_the_Wolf_Hill_Garden_Center_CROPPED_16x9.JPG?v=1783519195&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth C3.ai (AI) stock analysis assessing bearish pressures, valuation, and growth prospects in the evolving AI technology sector.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 30,
+      "href": "/blog/ai-news-impact-2026-07-11-1359.html",
+      "published_date": "2026-07-11",
+      "generated_at": "2026-07-11T13:59:13.641267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108137406-17458547422025-03-25t214442z_1404614266_rc2jkda1kvqf_rtrmadp_0_paloalto-stocks.jpeg?v=1753825094&w=1920&h=1080"
+    },
     {
       "ticker": "LNG",
       "title": "Cheniere Energy (LNG) Stock Analysis: Is LNG a Buy Amid Rising Industry Risks?",
@@ -19487,5 +19559,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-10T21:32:40.458172+00:00"
+  "market_data_as_of": "2026-07-11T13:59:13.641267+00:00"
 }

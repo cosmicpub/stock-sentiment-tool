@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-11T13:59:13.641267+00:00",
+  "generated_at": "2026-07-12T14:02:13.311636+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in Today\u2019s Retail Landscape?",
+      "excerpt": "Explore an in-depth AutoNation stock analysis covering recent performance, market positioning, and whether AN shares present a buying opportunity in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/an-news-impact-2026-07-12-1402.html",
+      "published_date": "2026-07-12",
+      "generated_at": "2026-07-12T14:02:13.311636+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108288963-1775686307856-gettyimages-2269840031-US_GDP.jpeg?v=1775686355&w=1920&h=1080"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne (TECH) Stock Analysis 2026: Is It a Buy Amid Life Sciences Growth?",
+      "excerpt": "Explore Bio-Techne (TECH) stock forecast in the life sciences tools sector. Discover key drivers, risks, and whether TECH is a buy for your portfolio in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 20,
+      "href": "/blog/tech-news-impact-2026-07-12-1402.html",
+      "published_date": "2026-07-12",
+      "generated_at": "2026-07-12T14:02:13.311636+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108321995-1781537897825-gettyimages-2281132540-US_STOCKS.jpeg?v=1781537918&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Now the Time to Invest in This Leisure Products Giant?",
+      "excerpt": "Explore Hasbro's current positioning in the leisure products sector, key growth drivers, risks, and whether HAS stock is poised for a bullish run or bearish retreat.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/has-news-impact-2026-07-12-1402.html",
+      "published_date": "2026-07-12",
+      "generated_at": "2026-07-12T14:02:13.311636+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Contender a Buy in 2026?",
+      "excerpt": "Dive into our in-depth Amer Sports Inc (AS) stock analysis for 2026. Explore valuation, growth drivers, risks, and whether this apparel giant merits your portfolio attention now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 120,
+      "href": "/blog/as-news-impact-2026-07-12-1402.html",
+      "published_date": "2026-07-12",
+      "generated_at": "2026-07-12T14:02:13.311636+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108333725-1783818721380-A_happy_young_mother_and_her_excited_little_son_st-2284778747-Getty.jpg?v=1783818805&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Bearish Signals Amid Geopolitical and Tech Sector Challenges",
+      "excerpt": "ON Semiconductor (ON) faces bearish pressures amid semiconductor industry volatility and geopolitical tensions influencing market sentiment and stock outlook.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 90,
+      "href": "/blog/on-news-impact-2026-07-12-1402.html",
+      "published_date": "2026-07-12",
+      "generated_at": "2026-07-12T14:02:13.311636+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is this Technology Giant a Buy Now?",
+      "excerpt": "Explore Gartner Inc's 2026 stock analysis with insights on earnings outlook, geopolitical risks, AI impact, and market sentiment. Is IT a smart buy today?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 42,
+      "href": "/blog/it-news-impact-2026-07-12-1402.html",
+      "published_date": "2026-07-12",
+      "generated_at": "2026-07-12T14:02:13.311636+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108332088-1783519020111-Leslie_Friday_at_the_Wolf_Hill_Garden_Center_CROPPED_16x9.JPG?v=1783519195&w=1920&h=1080"
+    },
     {
       "ticker": "SOME",
       "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is THIS Banking Stock a Buy in 2026?",
@@ -19559,5 +19631,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-11T13:59:13.641267+00:00"
+  "market_data_as_of": "2026-07-12T14:02:13.311636+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-12T14:02:13.311636+00:00",
+  "generated_at": "2026-07-13T15:18:16.587368+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is This Real Estate Trust a Buy Amid Recent Bearish Trends?",
+      "excerpt": "Explore the bearish outlook on Two Harbors Investment Corp (TWO), delving into its financials, market risks, and investment potential in the current real estate climate.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/two-news-impact-2026-07-13-1518.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T15:18:16.587368+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Neutral Sentiment and Geopolitical Risks?",
+      "excerpt": "Explore a detailed Amer Sports Inc stock analysis revealing the impact of neutral market sentiment and regional tensions on AS stock potential.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 136,
+      "href": "/blog/as-news-impact-2026-07-13-1518.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T15:18:16.587368+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108333725-1783818721380-A_happy_young_mother_and_her_excited_little_son_st-2284778747-Getty.jpg?v=1783818805&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Market Uncertainties?",
+      "excerpt": "Explore ON Semiconductor's stock outlook as geopolitical tensions and semiconductor industry dynamics weigh in. We analyze risks, opportunities, and valuation.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 124,
+      "href": "/blog/on-news-impact-2026-07-13-1518.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T15:18:16.587368+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315139-17804039612026-06-02t070118z_611004174_rc2jlla6px5v_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy at $138?",
+      "excerpt": "Explore our in-depth Gartner Inc (IT) stock analysis covering its valuation, industry stance, growth prospects, and risk factors to determine if it\u2019s a buy now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 42,
+      "href": "/blog/it-news-impact-2026-07-13-1518.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T15:18:16.587368+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108332088-1783519020111-Leslie_Friday_at_the_Wolf_Hill_Garden_Center_CROPPED_16x9.JPG?v=1783519195&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Industry Shifts?",
+      "excerpt": "Explore a detailed analysis of Byline Bancorp Inc (BY) stock to uncover its buying potential based on current market stance and banking trends.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 27,
+      "href": "/blog/by-news-impact-2026-07-13-1518.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T15:18:16.587368+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is Now the Time to Buy This AI Tech Play?",
+      "excerpt": "Explore a comprehensive C3.ai (AI) stock analysis assessing its current valuation, growth opportunities, and risks in the rapidly evolving AI sector. Is AI stock a buy?",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 26,
+      "href": "/blog/ai-news-impact-2026-07-13-1518.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T15:18:16.587368+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in Today\u2019s Retail Landscape?",
@@ -19631,5 +19703,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-12T14:02:13.311636+00:00"
+  "market_data_as_of": "2026-07-13T15:18:16.587368+00:00"
 }

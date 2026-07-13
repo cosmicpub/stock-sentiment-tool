@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-13T19:56:00.896831+00:00",
+  "generated_at": "2026-07-13T21:26:46.201786+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amid Maritime Security Risks?",
+      "excerpt": "Explore a detailed Seanergy Maritime Holdings (SHIP) stock analysis highlighting recent geopolitical impacts, industry outlook, and valuation factors shaping the SHIP stock forecast today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/ship-news-impact-2026-07-13-2126.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T21:26:46.201786+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is ON a Smart Buy Amid Semiconductor Sector Strength?",
+      "excerpt": "Explore our 2026 ON Semiconductor stock analysis highlighting bullish sentiment, sector dynamics, recent news impact, and growth prospects for investors.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 127,
+      "href": "/blog/on-news-impact-2026-07-13-2126.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T21:26:46.201786+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108333454-1783696403692-Traders-Photo-20260710-KK-PRESS-023.jpg?v=1783696610&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy in Textiles & Apparel?",
+      "excerpt": "Explore our detailed Amer Sports stock analysis focusing on recent market sentiment, industry position, and key risks to assess if AS is a buy now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 112,
+      "href": "/blog/as-news-impact-2026-07-13-2126.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T21:26:46.201786+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Industry Uncertainty?",
+      "excerpt": "Explore Gartner Inc's 2026 stock forecast as we dissect its growth potential, market positioning, and risks in the evolving technology sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 38,
+      "href": "/blog/it-news-impact-2026-07-13-2126.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T21:26:46.201786+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297767-1777307492105-108297767-1777307359121-gettyimages-2271667195-307029final.jpeg?v=1777307515&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy in 2026?",
+      "excerpt": "Explore Hasbro Inc's current valuation, growth prospects, and risks in our detailed 2026 stock analysis to decide if HAS is the right addition to your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 27,
+      "href": "/blog/has-news-impact-2026-07-13-2126.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T21:26:46.201786+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108330705-17833366872026-07-01t164535z_267159373_rc2kvkadmuk6_rtrmadp_0_global-oil.jpeg?v=1783336748&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is Now the Time to Buy into AI Growth?",
+      "excerpt": "Explore C3.ai's bullish outlook amid AI sector volatility, geopolitical impacts, and recent market shifts. Get our detailed AI stock forecast and verdict.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 21,
+      "href": "/blog/ai-news-impact-2026-07-13-2126.html",
+      "published_date": "2026-07-13",
+      "generated_at": "2026-07-13T21:26:46.201786+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Sentiment and Geopolitical Risks?",
@@ -19847,5 +19919,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-13T19:56:00.896831+00:00"
+  "market_data_as_of": "2026-07-13T21:26:46.201786+00:00"
 }

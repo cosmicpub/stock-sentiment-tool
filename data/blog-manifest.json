@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-14T14:20:57.370369+00:00",
+  "generated_at": "2026-07-14T15:54:11.785719+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Discover our detailed AutoNation Inc stock analysis revealing why the $195 AN shares may offer steady retail sector exposure with a cautious outlook.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/an-news-impact-2026-07-14-1554.html",
+      "published_date": "2026-07-14",
+      "generated_at": "2026-07-14T15:54:11.785719+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108333454-1783696403692-Traders-Photo-20260710-KK-PRESS-023.jpg?v=1783696610&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is ON a Buy Amid Neutral Sentiment and Semiconductor Demand?",
+      "excerpt": "Explore ON Semiconductor's 2026 outlook, evaluating its stock with a deep dive into fundamentals, industry trends, and risks. Is ON a smart buy now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 132,
+      "href": "/blog/on-news-impact-2026-07-14-1554.html",
+      "published_date": "2026-07-14",
+      "generated_at": "2026-07-14T15:54:11.785719+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108334662-1784032857530-A321XLREconomyPlusInterior.jpg?v=1784032923&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc (AS) stock forecast with a deep dive into recent bearish signals, competitive positioning, and risks facing the textile and apparel giant.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 102,
+      "href": "/blog/as-news-impact-2026-07-14-1554.html",
+      "published_date": "2026-07-14",
+      "generated_at": "2026-07-14T15:54:11.785719+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108334364-1783977400560-gettyimages-2281128174-AFP_B73F8JB.jpeg?v=1783977540&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Hasbro Inc (HAS) stock forecast with a balanced view on growth prospects, risks, and valuation in the leisure products space for informed investing.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 37,
+      "href": "/blog/has-news-impact-2026-07-14-1554.html",
+      "published_date": "2026-07-14",
+      "generated_at": "2026-07-14T15:54:11.785719+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108330705-17833366872026-07-01t164535z_267159373_rc2kvkadmuk6_rtrmadp_0_global-oil.jpeg?v=1783336748&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Market Uncertainties?",
+      "excerpt": "Explore Gartner Inc's latest stock outlook with in-depth analysis, valuation insights, and key risks shaping its trajectory in the fast-evolving tech landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/it-news-impact-2026-07-14-1554.html",
+      "published_date": "2026-07-14",
+      "generated_at": "2026-07-14T15:54:11.785719+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297767-1777307492105-108297767-1777307359121-gettyimages-2271667195-307029final.jpeg?v=1777307515&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "BY Stock Analysis: Byline Bancorp Inc Stock Forecast & Outlook \u2014 Is BY a Buy?",
+      "excerpt": "Byline Bancorp Inc (BY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 24,
+      "href": "/blog/by-news-impact-2026-07-14-1554.html",
+      "published_date": "2026-07-14",
+      "generated_at": "2026-07-14T15:54:11.785719+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "OUT",
       "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is This Real Estate Play Worth Buying Now?",
@@ -19991,5 +20063,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-14T14:20:57.370369+00:00"
+  "market_data_as_of": "2026-07-14T15:54:11.785719+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-14T21:28:31.208602+00:00",
+  "generated_at": "2026-07-15T14:17:01.151143+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries Inc (HE) Stock Analysis: Is HE a Buy in the Utilities Sector?",
+      "excerpt": "Explore Hawaiian Electric Industries Inc (HE) stock performance, risks, and growth prospects. Our detailed analysis helps investors decide if HE shares fit their portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/he-news-impact-2026-07-15-1417.html",
+      "published_date": "2026-07-15",
+      "generated_at": "2026-07-15T14:17:01.151143+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108335259-1784117182377-sayZ7yQA.jpg?v=1784117291&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Strong Buy in Real Estate?",
+      "excerpt": "Discover our in-depth Ucommune International Ltd stock analysis revealing bullish momentum, valuation insights, and key risks shaping its real estate prospects.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/uk-news-impact-2026-07-15-1417.html",
+      "published_date": "2026-07-15",
+      "generated_at": "2026-07-15T14:17:01.151143+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BILL",
+      "title": "BILL Stock Analysis: BILL Holdings Inc Stock Forecast & Outlook \u2014 Is BILL a Buy?",
+      "excerpt": "BILL Holdings Inc (BILL) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/bill-news-impact-2026-07-15-1417.html",
+      "published_date": "2026-07-15",
+      "generated_at": "2026-07-15T14:17:01.151143+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Player a Smart Buy in 2026?",
+      "excerpt": "Explore ON Semiconductor's current market position, growth prospects, and risks in this comprehensive 2026 stock analysis to determine if it's a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 122,
+      "href": "/blog/on-news-impact-2026-07-15-1417.html",
+      "published_date": "2026-07-15",
+      "generated_at": "2026-07-15T14:17:01.151143+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Signals and What Investors Should Watch in 2026",
+      "excerpt": "Discover why Amer Sports Inc (AS) faces bearish sentiment amid market uncertainty and geopolitical tensions, and explore key risks and outlooks for investors.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 117,
+      "href": "/blog/as-news-impact-2026-07-15-1417.html",
+      "published_date": "2026-07-15",
+      "generated_at": "2026-07-15T14:17:01.151143+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "IT Stock Analysis: Gartner Inc Stock Forecast & Outlook \u2014 Is IT a Buy?",
+      "excerpt": "Gartner Inc (IT) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 50,
+      "href": "/blog/it-news-impact-2026-07-15-1417.html",
+      "published_date": "2026-07-15",
+      "generated_at": "2026-07-15T14:17:01.151143+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BE",
       "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Market Uncertainties?",
@@ -20279,5 +20351,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-14T21:28:31.208602+00:00"
+  "market_data_as_of": "2026-07-15T14:17:01.151143+00:00"
 }

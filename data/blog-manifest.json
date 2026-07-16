@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-16T17:44:24.753498+00:00",
+  "generated_at": "2026-07-16T19:38:57.497307+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today\u2019s Market?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current valuation, market position, and risks amid a strong small-cap rally to decide if SAY stock is a worthy buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/say-news-impact-2026-07-16-1938.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T19:38:57.497307+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108334782-17840416682026-07-14t145833z_184930879_rc2pdmahxdle_rtrmadp_0_usa-stocks.jpeg?v=1784056309&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Smart Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current position in the semiconductor market, recent news impact, and whether ON stock is poised for growth or caution in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 135,
+      "href": "/blog/on-news-impact-2026-07-16-1938.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T19:38:57.497307+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107090863-1658245353699-NUP_198367_01036_copy.jpg?v=1697057303&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Giant a Sell Amid Bearish Sentiment?",
+      "excerpt": "We dissect Amer Sports Inc's recent bearish trend, industry challenges, and valuation risks to determine if AS stock remains a viable investment.",
+      "sentiment": "Bearish",
+      "score": -9,
+      "impact_score": 79,
+      "href": "/blog/as-news-impact-2026-07-16-1938.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T19:38:57.497307+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108146030-1755268343131-108146030-1747316528172-gettyimages-2210767100-US_STOCKS.jpeg?v=1783017319&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy in 2026?",
+      "excerpt": "Explore Gartner Inc's (IT) current fundamentals, market position, and future outlook to decide if this tech sector stalwart is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/it-news-impact-2026-07-16-1938.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T19:38:57.497307+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108188210-1755631806310-gettyimages-2230998652-l1020379_copy_b9bfqd2q.jpeg?v=1755631877&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Neutral Sentiment in Banking?",
+      "excerpt": "Explore our detailed Byline Bancorp Inc (BY) stock analysis as we dissect current valuation, risks, and prospects to answer: is BY stock a buy today?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/by-news-impact-2026-07-16-1938.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T19:38:57.497307+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106877435-1620063592262-gettyimages-1160943786-2018_09_17_best_ager_j13_1828.jpeg?v=1620063622&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore our in-depth Alexandria Real Estate Equities stock analysis for 2026 \u2014 uncover investment potential, risks, valuation, and latest market trends for ARE.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/are-news-impact-2026-07-16-1938.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T19:38:57.497307+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "CAN",
       "title": "Canaan Inc (CAN) Stock Analysis 2026: Is This Tech Microcap a Buy Amid Market Rally?",
@@ -20855,5 +20927,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-16T17:44:24.753498+00:00"
+  "market_data_as_of": "2026-07-16T19:38:57.497307+00:00"
 }

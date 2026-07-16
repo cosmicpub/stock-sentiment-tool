@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-16T15:53:36.831564+00:00",
+  "generated_at": "2026-07-16T17:44:24.753498+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis 2026: Is This Tech Microcap a Buy Amid Market Rally?",
+      "excerpt": "Explore Canaan Inc's latest stock analysis, assessing its position in the 2026 tech sector and small-cap rally. Is CAN a worthwhile buy? Get insights here.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/can-news-impact-2026-07-16-1744.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T17:44:24.753498+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106877435-1620063592262-gettyimages-1160943786-2018_09_17_best_ager_j13_1828.jpeg?v=1620063622&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Semiconductor Sector Challenges?",
+      "excerpt": "Explore ON Semiconductor's 2026 outlook, industry position, risks, and whether the $86.78 stock price makes it a compelling buy in today's semiconductor market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 136,
+      "href": "/blog/on-news-impact-2026-07-16-1744.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T17:44:24.753498+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Sector Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "Amer Sports Inc (AS) faces bearish headwinds with a sentiment score of -9. Dive into our detailed analysis to see if this textiles and apparel stock has value despite current pressures.",
+      "sentiment": "Bearish",
+      "score": -9,
+      "impact_score": 84,
+      "href": "/blog/as-news-impact-2026-07-16-1744.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T17:44:24.753498+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108146030-1755268343131-108146030-1747316528172-gettyimages-2210767100-US_STOCKS.jpeg?v=1783017319&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Landscape?",
+      "excerpt": "Explore our in-depth analysis of Byline Bancorp Inc. (BY), reviewing its financial snapshot, industry positioning, and outlook to determine if BY stock is a compelling buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/by-news-impact-2026-07-16-1744.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T17:44:24.753498+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Tech Uncertainties?",
+      "excerpt": "Explore Gartner Inc's (IT) current stock outlook, key risks, and growth opportunities as the tech industry navigates a complex market environment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/it-news-impact-2026-07-16-1744.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T17:44:24.753498+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock outlook with our in-depth analysis covering growth prospects, risks, valuation, and market position for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/are-news-impact-2026-07-16-1744.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T17:44:24.753498+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HE",
       "title": "Hawaiian Electric Industries Inc (HE) Stock Analysis: Is HE a Buy Amid Market Uncertainties?",
@@ -20783,5 +20855,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-16T15:53:36.831564+00:00"
+  "market_data_as_of": "2026-07-16T17:44:24.753498+00:00"
 }

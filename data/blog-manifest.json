@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-16T19:38:57.497307+00:00",
+  "generated_at": "2026-07-16T21:30:37.742193+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in Today's Semiconductor Market?",
+      "excerpt": "Explore ON Semiconductor Corp's current market stance, growth prospects, risks, and valuation insights to decide if ON stock is a smart buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 135,
+      "href": "/blog/on-news-impact-2026-07-16-2130.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T21:30:37.742193+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107090863-1658245353699-NUP_198367_01036_copy.jpg?v=1697057303&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Despite Bearish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis for 2026. Despite bearish sentiment, discover key factors influencing AS's outlook and the investment risks to watch.",
+      "sentiment": "Bearish",
+      "score": -11,
+      "impact_score": 86,
+      "href": "/blog/as-news-impact-2026-07-16-2130.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T21:30:37.742193+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108146030-1755268343131-108146030-1747316528172-gettyimages-2210767100-US_STOCKS.jpeg?v=1783017319&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Time to Buy or Wait?",
+      "excerpt": "Explore our in-depth analysis of Gartner Inc (IT) stock, examining key growth drivers, valuation, risks, and the latest market sentiment to decide if IT is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/it-news-impact-2026-07-16-2130.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T21:30:37.742193+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108188210-1755631806310-gettyimages-2230998652-l1020379_copy_b9bfqd2q.jpeg?v=1755631877&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Landscape?",
+      "excerpt": "Explore an in-depth analysis of Byline Bancorp (BY), examining its current valuation, industry position, risks, and growth potential to decide if it\u2019s a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/by-news-impact-2026-07-16-2130.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T21:30:37.742193+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106877435-1620063592262-gettyimages-1160943786-2018_09_17_best_ager_j13_1828.jpeg?v=1620063622&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy for 2026?",
+      "excerpt": "Dive into our detailed Alexandria Real Estate Equities stock analysis for 2026, examining market trends, valuation, and growth prospects to determine if ARE is a strong buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/are-news-impact-2026-07-16-2130.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T21:30:37.742193+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Buy in Financial Services Today?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) latest stock performance, key risks, valuation, and long-term outlook within the booming financial services sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/say-news-impact-2026-07-16-2130.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T21:30:37.742193+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108334782-17840416682026-07-14t145833z_184930879_rc2pdmahxdle_rtrmadp_0_usa-stocks.jpeg?v=1784056309&w=1920&h=1080"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today\u2019s Market?",
@@ -20927,5 +20999,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-16T19:38:57.497307+00:00"
+  "market_data_as_of": "2026-07-16T21:30:37.742193+00:00"
 }

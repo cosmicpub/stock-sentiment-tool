@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-15T21:28:15.235574+00:00",
+  "generated_at": "2026-07-16T14:29:57.889911+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Worthwhile Buy in 2026?",
+      "excerpt": "Discover our detailed ON Semiconductor stock analysis to understand whether ON shares offer value amid industry headwinds and growth prospects in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 123,
+      "href": "/blog/on-news-impact-2026-07-16-1429.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T14:29:57.889911+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108154695-1749059877197-gettyimages-2218620083-img_5063.jpeg?v=1753882185&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is It Time to Buy or Hold?",
+      "excerpt": "Explore our deep dive into Amer Sports Inc (AS) stock, highlighting the bearish market sentiment, industry nuances, and key risks for investors in 2026.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 85,
+      "href": "/blog/as-news-impact-2026-07-16-1429.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T14:29:57.889911+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108146030-1755268343131-108146030-1747316528172-gettyimages-2210767100-US_STOCKS.jpeg?v=1783017319&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Sector?",
+      "excerpt": "Explore an in-depth Byline Bancorp Inc (BY) stock analysis with a focus on its valuation, risks, and outlook in today's dynamic banking environment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 41,
+      "href": "/blog/by-news-impact-2026-07-16-1429.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T14:29:57.889911+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Tech Headwinds?",
+      "excerpt": "Explore Gartner Inc's current stock setup at $136.15 with a neutral market view. This analysis dives into Gartner's outlook, valuation, competitive stance, and key risks.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/it-news-impact-2026-07-16-1429.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T14:29:57.889911+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is NOW the Time to Buy This Leisure Products Leader?",
+      "excerpt": "Explore a detailed Hasbro Inc (HAS) stock analysis to understand whether this Leisure Products giant presents a buying opportunity amid neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/has-news-impact-2026-07-16-1429.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T14:29:57.889911+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108335259-1784117182377-sayZ7yQA.jpg?v=1784117291&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Discover an in-depth Alexandria Real Estate Equities stock analysis covering its fundamentals, growth prospects, valuation, and what investors should watch for now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 26,
+      "href": "/blog/are-news-impact-2026-07-16-1429.html",
+      "published_date": "2026-07-16",
+      "generated_at": "2026-07-16T14:29:57.889911+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1920&h=1080"
+    },
     {
       "ticker": "ARE",
       "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Buy Amid Market Neutrality?",
@@ -20639,5 +20711,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-15T21:28:15.235574+00:00"
+  "market_data_as_of": "2026-07-16T14:29:57.889911+00:00"
 }

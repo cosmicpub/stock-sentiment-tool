@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-17T21:13:03.890481+00:00",
+  "generated_at": "2026-07-18T13:54:39.756756+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Buy Amid Financial Sector Shifts?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock performance, sector outlook, risks, and opportunities in our detailed SAY stock analysis and forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/say-news-impact-2026-07-18-1354.html",
+      "published_date": "2026-07-18",
+      "generated_at": "2026-07-18T13:54:39.756756+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108334782-17840416682026-07-14t145833z_184930879_rc2pdmahxdle_rtrmadp_0_usa-stocks.jpeg?v=1784056309&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Current Retail Market?",
+      "excerpt": "Explore AutoNation Inc's (AN) stock forecast amid retail sector dynamics, valuation insights, and key risks to inform your investment decisions.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 21,
+      "href": "/blog/an-news-impact-2026-07-18-1354.html",
+      "published_date": "2026-07-18",
+      "generated_at": "2026-07-18T13:54:39.756756+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310069-17793063292026-05-20t194305z_1806485342_rc27dla6rwc7_rtrmadp_0_tech-ai-meta-layoffs.jpeg?v=1779306361&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Bearish Market Sentiment?",
+      "excerpt": "Explore the latest bearish outlook on Gold.com Inc amid rising Fed rate hikes and Middle East tensions. Get a detailed GOLD stock forecast and key investment insights.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 20,
+      "href": "/blog/gold-news-impact-2026-07-18-1354.html",
+      "published_date": "2026-07-18",
+      "generated_at": "2026-07-18T13:54:39.756756+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "DROP",
+      "title": "Fuse Science Inc (DROP) Stock Analysis: Near-Term Challenges Cloud Long-Term Outlook",
+      "excerpt": "Dive into our in-depth analysis of Fuse Science Inc (DROP) stock as bearish sentiment drags shares down to 0.24 cents amid tech sector uncertainties in July 2026.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 19,
+      "href": "/blog/drop-news-impact-2026-07-18-1354.html",
+      "published_date": "2026-07-18",
+      "generated_at": "2026-07-18T13:54:39.756756+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is SOME a Buy in Banking Sector?",
+      "excerpt": "Explore a detailed Somerset Trust Holding Co stock analysis to understand whether SOME presents a compelling buy opportunity in today's banking landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/some-news-impact-2026-07-18-1354.html",
+      "published_date": "2026-07-18",
+      "generated_at": "2026-07-18T13:54:39.756756+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor faces headwinds with bearish sentiment and geopolitical risks. Explore our detailed ON stock forecast and key investment considerations.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 148,
+      "href": "/blog/on-news-impact-2026-07-18-1354.html",
+      "published_date": "2026-07-18",
+      "generated_at": "2026-07-18T13:54:39.756756+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Titan a Buy Amid Bearish Sentiment?",
@@ -21359,5 +21431,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-17T21:13:03.890481+00:00"
+  "market_data_as_of": "2026-07-18T13:54:39.756756+00:00"
 }

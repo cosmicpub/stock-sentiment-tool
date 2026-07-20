@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-19T13:58:13.510951+00:00",
+  "generated_at": "2026-07-20T14:36:21.825101+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Sector Bearish Trend a Buy Opportunity?",
+      "excerpt": "Amer Sports Inc (AS) shows bearish momentum amid global market tensions. Explore the stock\u2019s outlook, risks, and whether AS is a buy in the luxury apparel sector.",
+      "sentiment": "Bearish",
+      "score": -9,
+      "impact_score": 126,
+      "href": "/blog/as-news-impact-2026-07-20-1436.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T14:36:21.825101+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108324907-1782141968433-gettyimages-2282767586-3b9a9028_7vj5npod.jpeg?v=1782141991&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Selloff?",
+      "excerpt": "ON Semiconductor faces bearish headwinds with sector-wide struggles and geopolitical risks. Our detailed ON stock forecast weighs short and long term outlooks.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 123,
+      "href": "/blog/on-news-impact-2026-07-20-1436.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T14:36:21.825101+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/104705063-trader.jpg?v=1542823681&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is It a Buy for Technology Investors?",
+      "excerpt": "Explore Gartner Inc's (IT) 2026 stock analysis, weighing its technology sector position, valuation, risks, and growth potential for investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 41,
+      "href": "/blog/it-news-impact-2026-07-20-1436.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T14:36:21.825101+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108212620-1760555667310-251015_CNBC_InvestInAmerica_Rush_028.jpg?v=1760556342&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Real Estate Sector?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities stock analysis. We break down ARE's performance, key risks, and growth prospects to help investors decide if it's a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 30,
+      "href": "/blog/are-news-impact-2026-07-20-1436.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T14:36:21.825101+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108333414-1783694232032-gettyimages-2284861226-SK_HYNIX_IPO.jpeg?v=1783694251&w=1920&h=1080"
+    },
+    {
+      "ticker": "DROP",
+      "title": "Fuse Science Inc (DROP) Stock Analysis: Is DROP a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Fuse Science Inc (DROP) stock forecast amid bearish market sentiment and recent tech selloffs. Learn key risks and outlooks.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 26,
+      "href": "/blog/drop-news-impact-2026-07-20-1436.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T14:36:21.825101+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy Amid Sector Headwinds?",
+      "excerpt": "Explore an in-depth analysis of Two Harbors Investment Corp (TWO), examining current valuation, risks, and outlook within the real estate sector to determine if it\u2019s a solid buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/two-news-impact-2026-07-20-1436.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T14:36:21.825101+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BE",
       "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Neutral Sentiment?",
@@ -21503,5 +21575,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-19T13:58:13.510951+00:00"
+  "market_data_as_of": "2026-07-20T14:36:21.825101+00:00"
 }

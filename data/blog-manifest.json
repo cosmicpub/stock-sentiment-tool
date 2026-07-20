@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-20T18:26:38.812609+00:00",
+  "generated_at": "2026-07-20T20:05:35.122652+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in a Neutral Market Sentiment?",
+      "excerpt": "Explore Byline Bancorp Inc's current financial health, market position, and outlook. Our deep dive analyzes whether BY stock is a buy amid neutral sentiment.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 25,
+      "href": "/blog/by-news-impact-2026-07-20-2005.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T20:05:35.122652+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth Amer Sports Inc stock analysis as bearish sentiment weighs on AS shares. Discover key risks, valuation insights, and the outlook for investors.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 119,
+      "href": "/blog/as-news-impact-2026-07-20-2005.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T20:05:35.122652+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108234335-1764594651992-gettyimages-2248651681-AFP_86MN2H6.jpeg?v=1764594670&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Bearish Trends?",
+      "excerpt": "Explore ON Semiconductor's current bearish sentiment and what investors should consider before buying. Our in-depth ON stock analysis reveals key risks and opportunities.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 99,
+      "href": "/blog/on-news-impact-2026-07-20-2005.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T20:05:35.122652+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/104705063-trader.jpg?v=1542823681&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Tech Giant a Buy at $141?",
+      "excerpt": "Explore Gartner Inc's current stock outlook with a detailed analysis of its valuation, competitive edge, and market sentiment to gauge if IT is a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 36,
+      "href": "/blog/it-news-impact-2026-07-20-2005.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T20:05:35.122652+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108212620-1760555667310-251015_CNBC_InvestInAmerica_Rush_028.jpg?v=1760556342&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock forecast, key risks, and growth outlook within the dynamic real estate sector as of July 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 30,
+      "href": "/blog/are-news-impact-2026-07-20-2005.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T20:05:35.122652+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108333414-1783694232032-gettyimages-2284861226-SK_HYNIX_IPO.jpeg?v=1783694251&w=1920&h=1080"
+    },
+    {
+      "ticker": "DROP",
+      "title": "Fuse Science Inc (DROP) Stock Analysis: Is DROP a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Fuse Science Inc (DROP) stock analysis amid bearish trends, key risks, and market sentiment to decide if DROP is a buy for cautious investors.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 26,
+      "href": "/blog/drop-news-impact-2026-07-20-2005.html",
+      "published_date": "2026-07-20",
+      "generated_at": "2026-07-20T20:05:35.122652+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Stock a Buy Amid Bearish Sentiment?",
@@ -21719,5 +21791,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-20T18:26:38.812609+00:00"
+  "market_data_as_of": "2026-07-20T20:05:35.122652+00:00"
 }

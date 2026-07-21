@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-21T19:58:28.972221+00:00",
+  "generated_at": "2026-07-21T21:37:26.771126+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment in Apparel Sector?",
+      "excerpt": "Discover why Amer Sports Inc (AS) is attracting bullish investor attention in the textiles and apparel industry, with a detailed stock outlook and key risks to watch.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 141,
+      "href": "/blog/as-news-impact-2026-07-21-2137.html",
+      "published_date": "2026-07-21",
+      "generated_at": "2026-07-21T21:37:26.771126+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108318068-1780921564776-gettyimages-2280481266-jr_11057_ghbfkref.jpeg?v=1782929311&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Recovery?",
+      "excerpt": "Explore ON Semiconductor's latest momentum in the recovering chip sector, key growth drivers, risks, and whether ON stock is a compelling buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 71,
+      "href": "/blog/on-news-impact-2026-07-21-2137.html",
+      "published_date": "2026-07-21",
+      "generated_at": "2026-07-21T21:37:26.771126+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108268737-17718758092026-02-23t193751z_1438571584_rc2srja9yemf_rtrmadp_0_health-usa-fda.jpeg?v=1784655402&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is It a Buy Amid Bearish Sentiment?",
+      "excerpt": "Two Harbors Investment Corp faces headwinds with bearish sentiment and geopolitical risks. This detailed TWO stock analysis evaluates whether it's a timely buy opportunity.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 21,
+      "href": "/blog/two-news-impact-2026-07-21-2137.html",
+      "published_date": "2026-07-21",
+      "generated_at": "2026-07-21T21:37:26.771126+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Evaluating Growth Prospects and Risks in 2026",
+      "excerpt": "Explore C3.ai stock's outlook amid AI sector shifts in 2026. We analyze key growth factors, risks, valuation, and what investors should watch now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/ai-news-impact-2026-07-21-2137.html",
+      "published_date": "2026-07-21",
+      "generated_at": "2026-07-21T21:37:26.771126+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108259458-1769775322895-gettyimages-2258412368-cfoto-applesgr260129_npF96.jpeg?v=1769791085&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate Titan a Buy in 2026?",
+      "excerpt": "Explore our latest Alexandria Real Estate Equities (ARE) stock analysis for 2026, diving into market trends, risks, and growth prospects to see if ARE is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/are-news-impact-2026-07-21-2137.html",
+      "published_date": "2026-07-21",
+      "generated_at": "2026-07-21T21:37:26.771126+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106925273-1628683735525-gettyimages-1234610409-VIRUS_VACCINE_US.jpeg?v=1633689525&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries Inc (HE) Stock Analysis: Is HE a Buy Amid Utilities Market Dynamics?",
+      "excerpt": "Explore Hawaiian Electric Industries Inc (HE) stock outlook with a comprehensive analysis covering market position, risks, and valuation insights as of July 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 18,
+      "href": "/blog/he-news-impact-2026-07-21-2137.html",
+      "published_date": "2026-07-21",
+      "generated_at": "2026-07-21T21:37:26.771126+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108305063-1778513442281-Lilly-OB-Photo-20260511-CC-PRESS-10.jpg?v=1778513567&w=1920&h=1080"
+    },
     {
       "ticker": "AIR",
       "title": "AAR Corp (AIR) Stock Analysis 2026: Is AIR a Buy Amid Aerospace Demand Surge?",
@@ -22151,5 +22223,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-21T19:58:28.972221+00:00"
+  "market_data_as_of": "2026-07-21T21:37:26.771126+00:00"
 }

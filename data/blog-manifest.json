@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-22T15:56:30.731829+00:00",
+  "generated_at": "2026-07-22T17:47:21.031139+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current valuation, market position, and risks to determine if this financial services stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/say-news-impact-2026-07-22-1747.html",
+      "published_date": "2026-07-22",
+      "generated_at": "2026-07-22T17:47:21.031139+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108040295-1727453392164-gettyimages-1151567705-dsc_9265-1.jpeg?v=1727453475&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy for Growth in Textiles & Apparel?",
+      "excerpt": "Explore our bullish outlook on Amer Sports Inc (AS) with key insights on valuation, industry trends, and growth potential in textiles and apparel.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 131,
+      "href": "/blog/as-news-impact-2026-07-22-1747.html",
+      "published_date": "2026-07-22",
+      "generated_at": "2026-07-22T17:47:21.031139+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108240031-1765391623150-gettyimages-2244450286-NIKE.jpeg?v=1776268376&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is This Semiconductor Pick a Buy Now?",
+      "excerpt": "Explore ON Semiconductor's current position amid semiconductor sector shifts, recent market signals, and potential growth to decide if ON is a buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 75,
+      "href": "/blog/on-news-impact-2026-07-22-1747.html",
+      "published_date": "2026-07-22",
+      "generated_at": "2026-07-22T17:47:21.031139+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108107708-1740584303156-gettyimages-2201489565-ALEXA_AI_UNVEILING.jpeg?v=1740584383&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy in the Leisure Products Sector?",
+      "excerpt": "Explore Hasbro's current valuation, growth prospects, and risks amid a neutral market sentiment to decide if HAS shares align with your portfolio goals.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 31,
+      "href": "/blog/has-news-impact-2026-07-22-1747.html",
+      "published_date": "2026-07-22",
+      "generated_at": "2026-07-22T17:47:21.031139+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Sector Challenges?",
+      "excerpt": "Explore our in-depth AutoNation Inc (AN) stock analysis covering recent performance, industry trends, risks, and key factors shaping its investment outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/an-news-impact-2026-07-22-1747.html",
+      "published_date": "2026-07-22",
+      "generated_at": "2026-07-22T17:47:21.031139+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107293036-1693279131609-gettyimages-1336037507-vcg111344656561.jpeg?v=1768911438&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is This Real Estate Investment Trust a Buy?",
+      "excerpt": "Explore our detailed Two Harbors Investment Corp (TWO) stock analysis, valuation insights, and outlook to determine whether this real estate investment trust is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/two-news-impact-2026-07-22-1747.html",
+      "published_date": "2026-07-22",
+      "generated_at": "2026-07-22T17:47:21.031139+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "SHIP",
       "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amid Rising Geopolitical Risks?",
@@ -22367,5 +22439,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-22T15:56:30.731829+00:00"
+  "market_data_as_of": "2026-07-22T17:47:21.031139+00:00"
 }

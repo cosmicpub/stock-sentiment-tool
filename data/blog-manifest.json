@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-22T21:34:44.219656+00:00",
+  "generated_at": "2026-07-23T16:06:00.703303+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amidst Energy Sector Shifts?",
+      "excerpt": "Explore Bloom Energy's (BE) stock outlook with in-depth analysis on its market position, risks, and growth potential in the evolving electrical equipment sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/be-news-impact-2026-07-23-1606.html",
+      "published_date": "2026-07-23",
+      "generated_at": "2026-07-23T16:06:00.703303+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108338791-1784750900959-gettyimages-2286590112-AFP_C2WF98P.jpeg?v=1784750930&w=1920&h=1080"
+    },
+    {
+      "ticker": "LNG",
+      "title": "Cheniere Energy (LNG) Stock Analysis: Is LNG a Buy Amid Extended QatarEnergy Force Majeure?",
+      "excerpt": "Cheniere Energy stock faces a complex outlook with QatarEnergy's LNG supply disruptions and evolving buyer demands. Here's a detailed analysis and forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/lng-news-impact-2026-07-23-1606.html",
+      "published_date": "2026-07-23",
+      "generated_at": "2026-07-23T16:06:00.703303+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TECH",
+      "title": "TECH Stock Analysis: Bio-Techne Corp Stock Forecast & Outlook \u2014 Is TECH a Buy?",
+      "excerpt": "Bio-Techne Corp (TECH) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/tech-news-impact-2026-07-23-1606.html",
+      "published_date": "2026-07-23",
+      "generated_at": "2026-07-23T16:06:00.703303+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108338501-1784728643776-Joanna_Stern_Author_Photo_credit_Kenny_Wassus.jpg?v=1784728808&w=1920&h=1080"
+    },
+    {
+      "ticker": "BILL",
+      "title": "BILL Holdings Inc (BILL) Stock Analysis: Is Now the Time to Buy?",
+      "excerpt": "Explore BILL Holdings stock forecast with an in-depth look at financial health, industry position, and growth prospects in today's technology market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/bill-news-impact-2026-07-23-1606.html",
+      "published_date": "2026-07-23",
+      "generated_at": "2026-07-23T16:06:00.703303+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Bearish Trends and Headwinds in the Semiconductor Sector",
+      "excerpt": "ON Semiconductor faces bearish sentiment amid broader tech challenges and geopolitical tensions, raising questions on its near-term prospects.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 112,
+      "href": "/blog/on-news-impact-2026-07-23-1606.html",
+      "published_date": "2026-07-23",
+      "generated_at": "2026-07-23T16:06:00.703303+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108338203-1784672316069-gettyimages-2286485816-ALPHABET_EARNS.jpeg?v=1784672362&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Sell or Hold?",
+      "excerpt": "Amer Sports (AS) stock faces bearish sentiment amid global headwinds in textiles and apparel. We examine risks, valuation, and outlook for investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 105,
+      "href": "/blog/as-news-impact-2026-07-23-1606.html",
+      "published_date": "2026-07-23",
+      "generated_at": "2026-07-23T16:06:00.703303+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108231637-17640767612025-11-25t055315z_712852685_rc2b3iaapy0d_rtrmadp_0_usa-thanksgiving-groceries.jpeg?v=1764076794&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment?",
@@ -22583,5 +22655,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-22T21:34:44.219656+00:00"
+  "market_data_as_of": "2026-07-23T16:06:00.703303+00:00"
 }

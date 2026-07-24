@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-24T14:17:54.717084+00:00",
+  "generated_at": "2026-07-24T15:51:54.376234+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Market Shifts?",
+      "excerpt": "Explore AutoNation Inc's current stock outlook amid neutral sentiment, key retail trends, and what investors should watch before buying AN shares.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 26,
+      "href": "/blog/an-news-impact-2026-07-24-1551.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T15:51:54.376234+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108190198-1756127222367-gettyimages-2225440846-_75a1747_o8nbpad0.jpeg?v=1769178904&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Semiconductor Sector?",
+      "excerpt": "Explore ON Semiconductor's current market position, risks, growth drivers, and whether ON stock is a compelling buy within the volatile semiconductor industry.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 130,
+      "href": "/blog/on-news-impact-2026-07-24-1551.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T15:51:54.376234+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105441701-1536582539351gettyimages-91676247.jpeg?v=1536582578&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy or Hold Off?",
+      "excerpt": "Amer Sports Inc (AS) faces bearish sentiment amid industry headwinds and rising costs. Explore detailed stock analysis, risks, and outlook for investors.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 124,
+      "href": "/blog/as-news-impact-2026-07-24-1551.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T15:51:54.376234+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339488-1784837341781-gettyimages-2264093226-dsc_1828.jpeg?v=1784837389&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Technology Sector Shifts?",
+      "excerpt": "Explore Gartner Inc's current stock outlook, key growth drivers, risks, and valuation insights to decide if IT stock merits your portfolio consideration in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 35,
+      "href": "/blog/it-news-impact-2026-07-24-1551.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T15:51:54.376234+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Market Neutral Sentiment?",
+      "excerpt": "Explore C3.ai's latest position in the AI-driven tech sector with a detailed stock analysis reviewing its valuation, risks, and potential opportunities for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/ai-news-impact-2026-07-24-1551.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T15:51:54.376234+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108278455-1773678841099-gettyimages-2266872486-090a8128_qfezmsqc.jpeg?v=1773678871&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy Amidst Real Estate Market Shifts?",
+      "excerpt": "Explore our detailed analysis of Two Harbors Investment Corp (TWO), spotlighting its current valuation, risks, and opportunities in the real estate sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/two-news-impact-2026-07-24-1551.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T15:51:54.376234+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis and Forecast: Is IT a Buy in 2026?",
@@ -22943,5 +23015,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-24T14:17:54.717084+00:00"
+  "market_data_as_of": "2026-07-24T15:51:54.376234+00:00"
 }

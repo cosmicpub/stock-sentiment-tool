@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-24T15:51:54.376234+00:00",
+  "generated_at": "2026-07-24T17:57:13.250029+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "LNG",
+      "title": "Cheniere Energy Inc (LNG) Stock Analysis: Is LNG a Buy Amid MidEast Shipping Risks?",
+      "excerpt": "Explore Cheniere Energy's stock outlook as geopolitical tensions push LNG prices higher. We analyze key risks, valuation, and where the market stands.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/lng-news-impact-2026-07-24-1757.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T17:57:13.250029+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Electrical Equipment Sector Dynamics?",
+      "excerpt": "Explore our detailed Bloom Energy Corp stock analysis. We assess its market position, growth prospects, and whether BE stock is worth buying now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/be-news-impact-2026-07-24-1757.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T17:57:13.250029+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108338791-1784750900959-gettyimages-2286590112-AFP_C2WF98P.jpeg?v=1784750930&w=1920&h=1080"
+    },
+    {
+      "ticker": "FOUR",
+      "title": "Shift4 Payments (FOUR) Stock Analysis: Is FOUR a Smart Buy in 2026?",
+      "excerpt": "Explore Shift4 Payments' bullish outlook amid industry shifts, growth drivers, and risks. Our in-depth FOUR stock forecast breaks down fundamentals and market sentiment.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 16,
+      "href": "/blog/four-news-impact-2026-07-24-1757.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T17:57:13.250029+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339473-1784836316181-gettyimages-2287358427-l1110466_pvxolbwk.jpeg?v=1784836360&w=1920&h=1080"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy Amidst Biotech Sector Uncertainty?",
+      "excerpt": "Explore IMAC Holdings Inc's (BACK) latest stock analysis as we break down key risk factors, valuation insights, and what investors should watch next in this volatile biotech landscape.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/back-news-impact-2026-07-24-1757.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T17:57:13.250029+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108240031-1765391623150-gettyimages-2244450286-NIKE.jpeg?v=1776268376&w=1920&h=1080"
+    },
+    {
+      "ticker": "BILL",
+      "title": "BILL Holdings Inc (BILL) Stock Analysis: Is BILL a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Analyzing BILL Holdings Inc's current valuation, market position, and the latest industry developments to determine if BILL stock is a buying opportunity right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/bill-news-impact-2026-07-24-1757.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T17:57:13.250029+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108278455-1773678841099-gettyimages-2266872486-090a8128_qfezmsqc.jpeg?v=1773678871&w=1920&h=1080"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy in the Life Sciences Sector?",
+      "excerpt": "Explore Bio-Techne's current valuation, growth prospects, and risks in our latest TECH stock analysis to determine if it's a promising buy in life sciences.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/tech-news-impact-2026-07-24-1757.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T17:57:13.250029+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108338501-1784728643776-Joanna_Stern_Author_Photo_credit_Kenny_Wassus.jpg?v=1784728808&w=1920&h=1080"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Market Shifts?",
@@ -23015,5 +23087,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-24T15:51:54.376234+00:00"
+  "market_data_as_of": "2026-07-24T17:57:13.250029+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-24T19:53:15.449167+00:00",
+  "generated_at": "2026-07-24T21:34:40.145152+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's latest market moves, bearish sentiment, and key factors impacting its stock outlook in this detailed analysis.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 119,
+      "href": "/blog/on-news-impact-2026-07-24-2134.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T21:34:40.145152+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/105441701-1536582539351gettyimages-91676247.jpeg?v=1536582578&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is the Textile Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's (AS) current bearish outlook, industry challenges, and key risks to determine if it's a smart buy in textiles and apparel.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 101,
+      "href": "/blog/as-news-impact-2026-07-24-2134.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T21:34:40.145152+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108270121-1772053836276-gettyimages-2262995543-SLUG.jpeg?v=1772053889&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Tech Industry Trends?",
+      "excerpt": "Explore Gartner Inc's (IT) current stock outlook with a detailed analysis on fundamentals, valuation, risks, and market positioning to inform your investment decision.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 31,
+      "href": "/blog/it-news-impact-2026-07-24-2134.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T21:34:40.145152+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339488-1784837341781-gettyimages-2264093226-dsc_1828.jpeg?v=1784837389&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today\u2019s Real Estate Landscape?",
+      "excerpt": "Explore Two Harbors Investment Corp's current valuation, risks, and growth prospects in real estate. Get a detailed TWO stock analysis and forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/two-news-impact-2026-07-24-2134.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T21:34:40.145152+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid AI Sector Volatility?",
+      "excerpt": "Explore our latest C3.ai (AI) stock analysis, assessing its current valuation, growth prospects, and whether AI shares deserve a spot in your portfolio now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/ai-news-impact-2026-07-24-2134.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T21:34:40.145152+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108278455-1773678841099-gettyimages-2266872486-090a8128_qfezmsqc.jpeg?v=1773678871&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services?",
+      "excerpt": "Explore our in-depth Saratoga Investment Corp (SAY) stock analysis to uncover key insights, valuation, and why SAY might be a compelling buy in Financial Services.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/say-news-impact-2026-07-24-2134.html",
+      "published_date": "2026-07-24",
+      "generated_at": "2026-07-24T21:34:40.145152+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "EU",
       "title": "enCore Energy Corp (EU) Stock Analysis: Why the Bearish Sentiment Persists Amid Energy Sector Volatility",
@@ -23159,5 +23231,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-24T19:53:15.449167+00:00"
+  "market_data_as_of": "2026-07-24T21:34:40.145152+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-26T14:05:30.553558+00:00",
+  "generated_at": "2026-07-27T15:20:18.881929+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Uncertainties?",
+      "excerpt": "Explore ON Semiconductor's current stock outlook, financial snapshot, and key risks in the semiconductor market. Is ON stock a buy now?",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 115,
+      "href": "/blog/on-news-impact-2026-07-27-1520.html",
+      "published_date": "2026-07-27",
+      "generated_at": "2026-07-27T15:20:18.881929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108340060-1784924698527-AD250_Conversations_v4.png?v=1784924801&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis July 2026: Is AS a Buy Amid Bearish Sentiment?",
+      "excerpt": "Discover a detailed analysis of Amer Sports Inc (AS) stock as bearish sentiment grips the apparel sector. Explore key risks, valuation insights, and investment outlooks for July 2026.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 102,
+      "href": "/blog/as-news-impact-2026-07-27-1520.html",
+      "published_date": "2026-07-27",
+      "generated_at": "2026-07-27T15:20:18.881929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1784838050&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis: Alexandria Real Estate Equities, Inc Stock Forecast & Outlook \u2014 Is ARE a Buy?",
+      "excerpt": "Alexandria Real Estate Equities, Inc (ARE) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 42,
+      "href": "/blog/are-news-impact-2026-07-27-1520.html",
+      "published_date": "2026-07-27",
+      "generated_at": "2026-07-27T15:20:18.881929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314425-1780313099259-gettyimages-2278508029-VIRGINIA_DATA_CENTERS.jpeg?v=1781729768&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "IT Stock Analysis: Gartner Inc Stock Forecast & Outlook \u2014 Is IT a Buy?",
+      "excerpt": "Gartner Inc (IT) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 41,
+      "href": "/blog/it-news-impact-2026-07-27-1520.html",
+      "published_date": "2026-07-27",
+      "generated_at": "2026-07-27T15:20:18.881929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108298022-1777328774097-108298022-1777328726130-gettyimages-2272947606-AMAZON_EARNS.jpeg?v=1777328788&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Technology Stock a Buy in 2026?",
+      "excerpt": "Explore our in-depth C3.ai stock analysis, covering key growth drivers, valuation challenges, and market sentiment to help you decide if AI is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 31,
+      "href": "/blog/ai-news-impact-2026-07-27-1520.html",
+      "published_date": "2026-07-27",
+      "generated_at": "2026-07-27T15:20:18.881929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329738-1782973277479-gettyimages-2194585046-2195165799.jpeg?v=1782973363&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Saratoga Investment Corp Stock Forecast & Outlook \u2014 Is SAY a Buy?",
+      "excerpt": "Saratoga Investment Corp (SAY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/say-news-impact-2026-07-27-1520.html",
+      "published_date": "2026-07-27",
+      "generated_at": "2026-07-27T15:20:18.881929+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Steady Banking Sector Outlook?",
@@ -23375,5 +23447,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-26T14:05:30.553558+00:00"
+  "market_data_as_of": "2026-07-27T15:20:18.881929+00:00"
 }

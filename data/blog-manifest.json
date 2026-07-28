@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-28T19:58:50.474682+00:00",
+  "generated_at": "2026-07-28T21:36:07.490572+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Sector Headwinds?",
+      "excerpt": "Explore AutoNation Inc's latest stock performance, retail industry outlook, and key risks to determine if AN stock is a wise buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/an-news-impact-2026-07-28-2136.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T21:36:07.490572+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108051276-1729627797179-gettyimages-2180319214-img_1352_lujsrouk.jpeg?v=1775822997&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Uncertainty?",
+      "excerpt": "Explore ON Semiconductor's current outlook, key growth drivers, risks, and valuation to determine if ON stock is a buy right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 110,
+      "href": "/blog/on-news-impact-2026-07-28-2136.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T21:36:07.490572+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Stock A Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's latest stock analysis amid bearish trends. We break down performance, risks, and long-term outlook for AS in the apparel industry.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 106,
+      "href": "/blog/as-news-impact-2026-07-28-2136.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T21:36:07.490572+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities Inc (ARE) Stock Analysis: Is It Worth Buying at $54?",
+      "excerpt": "Explore a detailed Alexandria Real Estate Equities (ARE) stock analysis with insights on valuation, market position, risks, and growth outlook to see if ARE is a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 50,
+      "href": "/blog/are-news-impact-2026-07-28-2136.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T21:36:07.490572+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108335552-1784140437433-gettyimages-2285620328-warsh_senate_199_071526.jpeg?v=1784140468&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy in Today's Tech Landscape?",
+      "excerpt": "Explore Gartner Inc's (IT) stock outlook with a deep dive into its market position, valuation, and risks to see if it's a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 49,
+      "href": "/blog/it-news-impact-2026-07-28-2136.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T21:36:07.490572+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108210810-1760124319448-gettyimages-2239744009-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1773853623&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Leading AI Technology Stock a Buy in 2026?",
+      "excerpt": "Explore C3.ai's current position in the AI sector, key risks, valuation insights, and what investors should consider before buying AI stock today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 36,
+      "href": "/blog/ai-news-impact-2026-07-28-2136.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T21:36:07.490572+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Industry Shifts?",
@@ -23951,5 +24023,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-28T19:58:50.474682+00:00"
+  "market_data_as_of": "2026-07-28T21:36:07.490572+00:00"
 }

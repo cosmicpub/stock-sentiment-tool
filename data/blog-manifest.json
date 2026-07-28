@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-28T16:17:13.268382+00:00",
+  "generated_at": "2026-07-28T17:50:05.381209+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis as bearish sentiment weighs on shares. Learn key risks, growth prospects, and valuation insights before deciding.",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 105,
+      "href": "/blog/as-news-impact-2026-07-28-1750.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T17:50:05.381209+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306955-17787656602026-05-14t092019z_1259313703_rc2v8layxpwx_rtrmadp_0_china-usa.jpeg?v=1778765680&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Market Neutrality?",
+      "excerpt": "Explore ON Semiconductor's latest stock analysis with insights into its performance, industry outlook, risks, and investment potential in today's semiconductor landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 102,
+      "href": "/blog/on-news-impact-2026-07-28-1750.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T17:50:05.381209+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108340060-1784924698527-AD250_Conversations_v4.png?v=1784924801&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now the Time to Buy in 2026?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities (ARE) stock forecast, key risks, and growth outlook to see if this real estate investment trust fits your portfolio.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 50,
+      "href": "/blog/are-news-impact-2026-07-28-1750.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T17:50:05.381209+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108335552-1784140437433-gettyimages-2285620328-warsh_senate_199_071526.jpeg?v=1784140468&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amidst a Neutral Market Sentiment?",
+      "excerpt": "Explore Gartner Inc's stock forecast as we dissect current valuation, industry position, risks, and investor outlook to determine if IT is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 45,
+      "href": "/blog/it-news-impact-2026-07-28-1750.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T17:50:05.381209+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis and Outlook: Is This AI Play Worth Your Investment?",
+      "excerpt": "Explore C3.ai's current market position, industry challenges, and growth potential with our comprehensive stock analysis and forecast for AI shares.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 37,
+      "href": "/blog/ai-news-impact-2026-07-28-1750.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T17:50:05.381209+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today\u2019s Financial Landscape?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock performance, valuation, risks, and growth potential to determine if SAY is a compelling buy for investors now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/say-news-impact-2026-07-28-1750.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T17:50:05.381209+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HE",
       "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy Amid Sector Neutral Sentiment?",
@@ -23807,5 +23879,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-28T16:17:13.268382+00:00"
+  "market_data_as_of": "2026-07-28T17:50:05.381209+00:00"
 }

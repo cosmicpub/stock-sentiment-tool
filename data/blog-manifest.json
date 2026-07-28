@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-27T21:35:58.700246+00:00",
+  "generated_at": "2026-07-28T14:55:58.448345+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in Leisure Products Sector?",
+      "excerpt": "Explore Here Group Ltd (HERE) stock analysis and forecast. Is HERE stock a buy? We break down its market position, risks, and long-term outlook.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 21,
+      "href": "/blog/here-news-impact-2026-07-28-1455.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T14:55:58.448345+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108337402-17845636522026-07-20t160703z_320739973_rc2phmamt9vv_rtrmadp_0_usa-stocks.jpeg?v=1784563722&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is NOW the Time to Buy Banking's Quiet Contender?",
+      "excerpt": "Dive into our detailed Somerset Trust Holding Co stock analysis, exploring its valuation, risks, and outlook as the banking sector faces mixed signals.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 18,
+      "href": "/blog/some-news-impact-2026-07-28-1455.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T14:55:58.448345+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108338677-1784741729407-gettyimages-2271654767-_04a6709_lptf6aqj.jpeg?v=1784741748&w=1920&h=1080"
+    },
+    {
+      "ticker": "BACK",
+      "title": "BACK Stock Analysis: IMAC Holdings Inc Stock Forecast & Outlook \u2014 Is BACK a Buy?",
+      "excerpt": "IMAC Holdings Inc (BACK) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/back-news-impact-2026-07-28-1455.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T14:55:58.448345+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis with a focus on current bearish trends, market challenges, and whether AS shares present a buying opportunity now.",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 105,
+      "href": "/blog/as-news-impact-2026-07-28-1455.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T14:55:58.448345+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108306955-17787656602026-05-14t092019z_1259313703_rc2v8layxpwx_rtrmadp_0_china-usa.jpeg?v=1778765680&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 102,
+      "href": "/blog/on-news-impact-2026-07-28-1455.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T14:55:58.448345+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108340060-1784924698527-AD250_Conversations_v4.png?v=1784924801&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Analyze ARE's current valuation, growth prospects, and market position to determine if Alexandria Real Estate Equities is a smart buy in the real estate sector this year.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 50,
+      "href": "/blog/are-news-impact-2026-07-28-1455.html",
+      "published_date": "2026-07-28",
+      "generated_at": "2026-07-28T14:55:58.448345+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108335552-1784140437433-gettyimages-2285620328-warsh_senate_199_071526.jpeg?v=1784140468&w=1920&h=1080"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today\u2019s Real Estate Market?",
@@ -23663,5 +23735,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-27T21:35:58.700246+00:00"
+  "market_data_as_of": "2026-07-28T14:55:58.448345+00:00"
 }

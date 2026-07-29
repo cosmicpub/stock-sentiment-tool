@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-28T21:36:07.490572+00:00",
+  "generated_at": "2026-07-29T14:36:59.069024+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amidst Neutral Sentiment?",
+      "excerpt": "Explore our detailed analysis of Health In Tech Inc (HIT) stock, examining current market sentiment, risks, growth drivers, and valuation to determine if HIT is a buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 25,
+      "href": "/blog/hit-news-impact-2026-07-29-1436.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T14:36:59.069024+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1784838050&w=1920&h=1080"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is This Life Sciences Firm a Buy in 2026?",
+      "excerpt": "Explore Bio-Techne Corp's current market stance amid mixed tech sector trends and discover if TECH stock is poised for growth in the life sciences tools industry.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/tech-news-impact-2026-07-29-1436.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T14:36:59.069024+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108340496-1785161547188-gettyimages-2287222043-AFP_C3AX3W8.jpeg?v=1785161570&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is HAS a Buy in the Leisure Products Sector?",
+      "excerpt": "Explore Hasbro's current valuation, growth prospects, and risks in our detailed HAS stock analysis. Understand if this leisure sector player fits your portfolio now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/has-news-impact-2026-07-29-1436.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T14:36:59.069024+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108210810-1760124319448-gettyimages-2239744009-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1773853623&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is This Real Estate Play a Buy or Beware?",
+      "excerpt": "Explore our detailed Two Harbors Investment Corp (TWO) stock analysis, highlighting bearish sentiment and key risks impacting its real estate niche in 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/two-news-impact-2026-07-29-1436.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T14:36:59.069024+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108337404-17845637512026-07-20t160708z_1331384416_rc2phmayntj4_rtrmadp_0_usa-stocks.jpeg?v=1784563809&w=1920&h=1080"
+    },
+    {
+      "ticker": "EL",
+      "title": "Estee Lauder Companies Inc (EL) Stock Analysis: Is EL a Buy in the Consumer Products Sector?",
+      "excerpt": "Explore an in-depth analysis of Estee Lauder Companies Inc (EL) stock with insights on valuation, risks, and growth prospects amid a neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/el-news-impact-2026-07-29-1436.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T14:36:59.069024+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis as we break down valuation, market risks, and outlooks amid bearish investor sentiment in the textiles sector.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 139,
+      "href": "/blog/as-news-impact-2026-07-29-1436.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T14:36:59.069024+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341672-1785328931386-gettyimages-2287298854-img_2575.jpeg?v=1785328962&w=1920&h=1080"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Sector Headwinds?",
@@ -24023,5 +24095,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-28T21:36:07.490572+00:00"
+  "market_data_as_of": "2026-07-29T14:36:59.069024+00:00"
 }

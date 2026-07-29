@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-29T14:36:59.069024+00:00",
+  "generated_at": "2026-07-29T15:59:42.051238+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in the Leisure Products Sector?",
+      "excerpt": "Explore our detailed Here Group Ltd stock analysis focusing on financials, sector trends, and risks to determine if HERE is a smart buy for investors now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 21,
+      "href": "/blog/here-news-impact-2026-07-29-1559.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T15:59:42.051238+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341178-1785255008935-gettyimages-2286953242-2s2a7638_7liqjs1f.jpeg?v=1785255057&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis revealing bearish headwinds and growth prospects in the textiles and apparel sector. Is AS a buy today?",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 139,
+      "href": "/blog/as-news-impact-2026-07-29-1559.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T15:59:42.051238+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341672-1785328931386-gettyimages-2287298854-img_2575.jpeg?v=1785328962&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current bearish outlook, key risks, and potential opportunities. Get a comprehensive stock analysis and forecast for ON at $80.46.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 96,
+      "href": "/blog/on-news-impact-2026-07-29-1559.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T15:59:42.051238+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is This Financial Services Player a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock analysis with a neutral market sentiment, key risks, and long-term outlook. Is SAY stock a smart buy today?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 53,
+      "href": "/blog/say-news-impact-2026-07-29-1559.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T15:59:42.051238+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108335552-1784140437433-gettyimages-2285620328-warsh_senate_199_071526.jpeg?v=1784140468&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Sector Challenges?",
+      "excerpt": "Explore Gartner Inc's (IT) current market position, recent news impact, and detailed stock analysis to decide if IT is a buy right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/it-news-impact-2026-07-29-1559.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T15:59:42.051238+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108210810-1760124319448-gettyimages-2239744009-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1773853623&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth C3.ai stock analysis as bearish signals challenge this AI technology player. Discover key risks, valuation insights, and the latest market moves.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 33,
+      "href": "/blog/ai-news-impact-2026-07-29-1559.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T15:59:42.051238+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108051276-1729627797179-gettyimages-2180319214-img_1352_lujsrouk.jpeg?v=1775822997&w=1920&h=1080"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amidst Neutral Sentiment?",
@@ -24095,5 +24167,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-29T14:36:59.069024+00:00"
+  "market_data_as_of": "2026-07-29T15:59:42.051238+00:00"
 }

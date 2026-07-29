@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-29T15:59:42.051238+00:00",
+  "generated_at": "2026-07-29T17:45:12.544670+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Explore our comprehensive analysis of Hawaiian Electric Industries (HE) stock to determine if it's a smart buy amid evolving energy trends and market conditions in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/he-news-impact-2026-07-29-1745.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T17:45:12.544670+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329738-1782973277479-gettyimages-2194585046-2195165799.jpeg?v=1782973363&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy at $39.17 in 2026?",
+      "excerpt": "Explore an in-depth Byline Bancorp Inc (BY) stock analysis including recent performance, risks, and future outlook to decide if BY is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/by-news-impact-2026-07-29-1745.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T17:45:12.544670+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis. Despite current bearish sentiment, we examine if AS represents a buying opportunity in textiles & apparel.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 117,
+      "href": "/blog/as-news-impact-2026-07-29-1745.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T17:45:12.544670+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341672-1785328931386-gettyimages-2287298854-img_2575.jpeg?v=1785328962&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Slump a Buying Opportunity?",
+      "excerpt": "ON Semiconductor struggles amid bearish sector trends and geopolitical tensions. Dive into the risks, valuation, and what investors should watch now.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 91,
+      "href": "/blog/on-news-impact-2026-07-29-1745.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T17:45:12.544670+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341178-1785255008935-gettyimages-2286953242-2s2a7638_7liqjs1f.jpeg?v=1785255057&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today\u2019s Financial Sector?",
+      "excerpt": "Analyze Saratoga Investment Corp's current valuation, risks, and growth prospects to decide if SAY stock is a compelling buy amid a neutral market backdrop.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 53,
+      "href": "/blog/say-news-impact-2026-07-29-1745.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T17:45:12.544670+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108335552-1784140437433-gettyimages-2285620328-warsh_senate_199_071526.jpeg?v=1784140468&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Tech Sector Shifts?",
+      "excerpt": "Explore an in-depth Gartner Inc (IT) stock analysis highlighting key growth drivers, risks, valuation insight, and the current neutral market outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/it-news-impact-2026-07-29-1745.html",
+      "published_date": "2026-07-29",
+      "generated_at": "2026-07-29T17:45:12.544670+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108210810-1760124319448-gettyimages-2239744009-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1773853623&w=1920&h=1080"
+    },
     {
       "ticker": "HERE",
       "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in the Leisure Products Sector?",
@@ -24167,5 +24239,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-29T15:59:42.051238+00:00"
+  "market_data_as_of": "2026-07-29T17:45:12.544670+00:00"
 }

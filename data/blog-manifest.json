@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-29T21:24:56.153353+00:00",
+  "generated_at": "2026-07-30T14:38:37.308403+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "LNG",
+      "title": "Cheniere Energy Inc (LNG) Stock Analysis: Is LNG a Buy Amid Middle East Supply Concerns?",
+      "excerpt": "Explore the latest Cheniere Energy stock analysis as LNG navigates geopolitical LNG tanker disruptions and market uncertainties in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/lng-news-impact-2026-07-30-1438.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T14:38:37.308403+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is NOW the Time to Buy This Semiconductor Powerhouse?",
+      "excerpt": "Discover why ON Semiconductor (ON) stock shows bullish momentum amid strong industry trends and what investors should watch going forward.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 127,
+      "href": "/blog/on-news-impact-2026-07-30-1438.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T14:38:37.308403+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108259045-17697076772026-01-29t172604z_10150558_rc20bja2ybrx_rtrmadp_0_starbucks-investor-day.jpeg?v=1769707764&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid a Bullish Outlook?",
+      "excerpt": "Discover why Amer Sports Inc (AS) is generating bullish sentiment in the textiles and apparel sector. We analyze the stock fundamentals, valuation, and growth potential.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 125,
+      "href": "/blog/as-news-impact-2026-07-30-1438.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T14:38:37.308403+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342349-1785411757152-2026-07-30T103940Z_722178855_RC2AOMA7T5AG_RTRMADP_3_IRAN-CRISIS-EGYPT-TANKER.JPG?v=1785411816&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid a Neutral Market Sentiment?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock analysis, valuation insights, and what investors should watch in financial services sector dynamics for SAY shares.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 62,
+      "href": "/blog/say-news-impact-2026-07-30-1438.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T14:38:37.308403+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341904-1785348757840-gettyimages-2287521661-WARSH_FOMC_NYSE.jpeg?v=1785348788&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Rising Cybersecurity Concerns?",
+      "excerpt": "Explore Gartner Inc's current neutral sentiment and how escalating cybersecurity threats and industry dynamics shape the IT stock forecast in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 51,
+      "href": "/blog/it-news-impact-2026-07-30-1438.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T14:38:37.308403+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108210810-1760124319448-gettyimages-2239744009-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1773853623&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is It a Buy Amid Rising Market Risks?",
+      "excerpt": "Explore our in-depth analysis of Two Harbors Investment Corp (TWO) stock as geopolitical tensions and bearish sentiment weigh on real estate investment trusts. Is this a good entry point?",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 35,
+      "href": "/blog/two-news-impact-2026-07-30-1438.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T14:38:37.308403+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Why the Bearish Sentiment Matters in 2026",
@@ -24383,5 +24455,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-29T21:24:56.153353+00:00"
+  "market_data_as_of": "2026-07-30T14:38:37.308403+00:00"
 }

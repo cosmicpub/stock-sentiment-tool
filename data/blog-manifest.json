@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-30T17:54:36.395736+00:00",
+  "generated_at": "2026-07-30T19:59:01.005727+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis July 2026: Current Outlook & Key Risks",
+      "excerpt": "Explore the latest Hawaiian Electric Industries (HE) stock analysis for July 2026, including sector trends, valuation, risks, and whether HE is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/he-news-impact-2026-07-30-1959.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T19:59:01.005727+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108311751-1779780936959-FERRARI_LUCE_FRONT_3Q_V2_16X9_RGB_WEB_SOCIALS.jpg?v=1779781083&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish AI Tailwinds?",
+      "excerpt": "Explore our comprehensive ON Semiconductor Corp stock analysis considering AI sector momentum, competitive landscape, and key risks shaping ON's 2026 outlook.",
+      "sentiment": "Bullish",
+      "score": 11,
+      "impact_score": 122,
+      "href": "/blog/on-news-impact-2026-07-30-1959.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T19:59:01.005727+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Momentum in Textiles & Apparel?",
+      "excerpt": "Explore Amer Sports Inc (AS) stock forecast as bullish momentum builds. We analyze key growth drivers, risks, valuation, and whether AS fits your portfolio now.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 108,
+      "href": "/blog/as-news-impact-2026-07-30-1959.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T19:59:01.005727+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339540-1784840429335-CT-47787.jpg?v=1784932847&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today's Financial Landscape?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current market position, key financial indicators, and risks to assess whether SAY stock is a smart addition to your portfolio in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 67,
+      "href": "/blog/say-news-impact-2026-07-30-1959.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T19:59:01.005727+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341904-1785348757840-gettyimages-2287521661-WARSH_FOMC_NYSE.jpeg?v=1785348788&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy at $152?",
+      "excerpt": "Explore Gartner Inc's current stock performance, industry position, valuation, and risks to decide if IT stock deserves a spot in your portfolio today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 47,
+      "href": "/blog/it-news-impact-2026-07-30-1959.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T19:59:01.005727+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108196439-1757446366500-gettyimages-2233946027-AFP_73XQ3G4.jpeg?v=1771956953&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is NOW a Buy in a Bearish Real Estate Market?",
+      "excerpt": "Explore why Two Harbors Investment Corp's bearish outlook and sector challenges raise caution for investors eyeing its $12 stock price.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 35,
+      "href": "/blog/two-news-impact-2026-07-30-1959.html",
+      "published_date": "2026-07-30",
+      "generated_at": "2026-07-30T19:59:01.005727+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342349-1785411757152-2026-07-30T103940Z_722178855_RC2AOMA7T5AG_RTRMADP_3_IRAN-CRISIS-EGYPT-TANKER.JPG?v=1785411816&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is Now the Time to Buy?",
@@ -24599,5 +24671,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-30T17:54:36.395736+00:00"
+  "market_data_as_of": "2026-07-30T19:59:01.005727+00:00"
 }

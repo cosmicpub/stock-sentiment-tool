@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-30T21:39:51.256234+00:00",
+  "generated_at": "2026-07-31T14:44:15.081236+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' latest performance, valuation, and risks to decide if ARE stock is a worthwhile buy this year.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 31,
+      "href": "/blog/are-news-impact-2026-07-31-1444.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T14:44:15.081236+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254538-1770326418274-108254538-1768938695162-CNBC_Stage_01_062.jpg?v=1771351348&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Sector Shifts?",
+      "excerpt": "Explore AutoNation's latest stock outlook with a deep dive into its retail positioning, financial health, and key risks investors should know in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 21,
+      "href": "/blog/an-news-impact-2026-07-31-1444.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T14:44:15.081236+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp (BY) Stock Analysis: Is BY a Smart Buy in 2026?",
+      "excerpt": "Explore our in-depth BY stock analysis revealing Byline Bancorp's current outlook, industry positioning, risks, and growth potential in the banking sector.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/by-news-impact-2026-07-31-1444.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T14:44:15.081236+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is This Real Estate Player a Buy in 2026?",
+      "excerpt": "Explore a comprehensive OUT stock analysis including company snapshot, market positioning, risks, and investment outlook to decide if it's a buy this year.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/out-news-impact-2026-07-31-1444.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T14:44:15.081236+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339540-1784840429335-CT-47787.jpg?v=1784932847&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy in 2026?",
+      "excerpt": "Explore Ucommune International Ltd's current stock dynamics, industry outlook, and key factors shaping its investment potential in the real estate sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-07-31-1444.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T14:44:15.081236+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Strong Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's robust outlook as bullish momentum builds. Our deep dive covers valuation, growth potential, and key risks investors must consider.",
+      "sentiment": "Bullish",
+      "score": 16,
+      "impact_score": 133,
+      "href": "/blog/on-news-impact-2026-07-31-1444.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T14:44:15.081236+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108343046-1785494703819-anduril-shot-1-professional.png?v=1785496170&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish AI Sentiment?",
@@ -24743,5 +24815,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-30T21:39:51.256234+00:00"
+  "market_data_as_of": "2026-07-31T14:44:15.081236+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-31T16:15:16.227206+00:00",
+  "generated_at": "2026-07-31T18:00:22.561267+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy in Today\u2019s Insurance Sector?",
+      "excerpt": "Dive into our detailed analysis of Health In Tech Inc (HIT) stock, evaluating its potential within the insurance industry and current market risks.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/hit-news-impact-2026-07-31-1800.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T18:00:22.561267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342349-1785411757152-2026-07-30T103940Z_722178855_RC2AOMA7T5AG_RTRMADP_3_IRAN-CRISIS-EGYPT-TANKER.JPG?v=1785411816&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Now?",
+      "excerpt": "Explore our deep dive into ON Semiconductor Corp's bullish outlook, growth drivers, valuation, and risks to decide if ON stock deserves a spot in your portfolio today.",
+      "sentiment": "Bullish",
+      "score": 16,
+      "impact_score": 141,
+      "href": "/blog/on-news-impact-2026-07-31-1800.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T18:00:22.561267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107090849-1658244826807-NUP_198367_00848_copy.jpg?v=1698439061&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Why This Bullish Textile Sector Player Could Shine in 2026",
+      "excerpt": "Discover why Amer Sports Inc (AS) is gaining bullish momentum in the textiles and apparel industry, backed by strong sector trends and solid growth prospects.",
+      "sentiment": "Bullish",
+      "score": 11,
+      "impact_score": 109,
+      "href": "/blog/as-news-impact-2026-07-31-1800.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T18:00:22.561267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339540-1784840429335-CT-47787.jpg?v=1784932847&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Buy Amid Financial Sector Shifts?",
+      "excerpt": "Unpacking Saratoga Investment Corp's current positioning, valuation, and sector trends to decide if SAY stock is a compelling buy in today's volatile financial services market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/say-news-impact-2026-07-31-1800.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T18:00:22.561267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341904-1785348757840-gettyimages-2287521661-WARSH_FOMC_NYSE.jpeg?v=1785348788&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Leader a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore why C3.ai Inc (AI) is gaining bullish momentum in the tech sector and if it's poised for growth, with a detailed look at recent developments and risks.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 43,
+      "href": "/blog/ai-news-impact-2026-07-31-1800.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T18:00:22.561267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107420905-1716922517246-1716305392-dbe401096ad9612fc2427852896d5e5b.jpg?v=1716922614&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This REIT a Smart Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock forecast with insights on its real estate fundamentals, risks, and growth outlook for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-07-31-1800.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T18:00:22.561267+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108336282-1784236796440-gettyimages-2262969470-20090101260225-99-646957.jpeg?v=1784237080&w=1920&h=1080"
+    },
     {
       "ticker": "LNG",
       "title": "Cheniere Energy Inc (LNG) Stock Analysis: Is LNG a Buy Amid Energy Market Volatility?",
@@ -24887,5 +24959,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-31T16:15:16.227206+00:00"
+  "market_data_as_of": "2026-07-31T18:00:22.561267+00:00"
 }

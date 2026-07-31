@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-31T14:44:15.081236+00:00",
+  "generated_at": "2026-07-31T16:15:16.227206+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "LNG",
+      "title": "Cheniere Energy Inc (LNG) Stock Analysis: Is LNG a Buy Amid Energy Market Volatility?",
+      "excerpt": "Explore our in-depth Cheniere Energy Inc stock analysis to see if LNG is a smart buy as geopolitical tensions keep LNG prices elevated.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/lng-news-impact-2026-07-31-1615.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T16:15:16.227206+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy in 2026?",
+      "excerpt": "Explore why ON Semiconductor Corp\u2019s bullish sentiment and industry position could make it a compelling buy amid evolving tech trends and AI demand in 2026.",
+      "sentiment": "Bullish",
+      "score": 16,
+      "impact_score": 137,
+      "href": "/blog/on-news-impact-2026-07-31-1615.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T16:15:16.227206+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108327721-1782506902971-gettyimages-2222465373-AFP_64HL3MC.jpeg?v=1782506946&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is This Textile Giant a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore our bullish 2026 stock analysis of Amer Sports Inc (AS) in the textiles and apparel sector \u2014 uncover the growth outlook, risks, and buy potential.",
+      "sentiment": "Bullish",
+      "score": 11,
+      "impact_score": 109,
+      "href": "/blog/as-news-impact-2026-07-31-1615.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T16:15:16.227206+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339540-1784840429335-CT-47787.jpg?v=1784932847&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Stable Financials?",
+      "excerpt": "Explore Saratoga Investment Corp's latest performance, risks, and opportunities to decide if SAY stock is a buy in the evolving financial services sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/say-news-impact-2026-07-31-1615.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T16:15:16.227206+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341904-1785348757840-gettyimages-2287521661-WARSH_FOMC_NYSE.jpeg?v=1785348788&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Why This AI Technology Powerhouse Is a Bullish Buy in 2026",
+      "excerpt": "C3.ai\u2019s stock is gaining momentum amid strong AI demand and strategic enterprise partnerships. Explore why AI remains a compelling buy today.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 43,
+      "href": "/blog/ai-news-impact-2026-07-31-1615.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T16:15:16.227206+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107420905-1716922517246-1716305392-dbe401096ad9612fc2427852896d5e5b.jpg?v=1716922614&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities\u2019 current valuation, sector dynamics, and growth outlook to decide if ARE stock is a buy amid real estate market challenges.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-07-31-1615.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T16:15:16.227206+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108336282-1784236796440-gettyimages-2262969470-20090101260225-99-646957.jpeg?v=1784237080&w=1920&h=1080"
+    },
     {
       "ticker": "ARE",
       "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
@@ -24815,5 +24887,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-31T14:44:15.081236+00:00"
+  "market_data_as_of": "2026-07-31T16:15:16.227206+00:00"
 }

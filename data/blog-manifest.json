@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-31T19:59:50.974228+00:00",
+  "generated_at": "2026-07-31T21:35:27.975737+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our comprehensive ON Semiconductor stock analysis revealing bullish trends, growth catalysts, and risks for investors as of July 31, 2026.",
+      "sentiment": "Bullish",
+      "score": 16,
+      "impact_score": 141,
+      "href": "/blog/on-news-impact-2026-07-31-2135.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T21:35:27.975737+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107090849-1658244826807-NUP_198367_00848_copy.jpg?v=1698439061&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment in 2026?",
+      "excerpt": "Dive into our detailed AS stock analysis to see why Amer Sports Inc is gaining bullish momentum and whether it's a smart buy for your portfolio now.",
+      "sentiment": "Bullish",
+      "score": 11,
+      "impact_score": 103,
+      "href": "/blog/as-news-impact-2026-07-31-2135.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T21:35:27.975737+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108325892-1782269424077-gettyimages-2208582958-TRADERS_CBOE.jpeg?v=1782303324&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today's Financial Landscape?",
+      "excerpt": "Dive into Saratoga Investment Corp (SAY) stock analysis with insights on valuation, portfolio strategy, and risks. Discover if SAY is a buy for your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/say-news-impact-2026-07-31-2135.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T21:35:27.975737+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341904-1785348757840-gettyimages-2287521661-WARSH_FOMC_NYSE.jpeg?v=1785348788&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Powerhouse a Buy in 2026?",
+      "excerpt": "Explore our deep dive into C3.ai's current valuation, AI market positioning, and growth prospects to see if AI stock is a good buy now.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 51,
+      "href": "/blog/ai-news-impact-2026-07-31-2135.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T21:35:27.975737+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108217788-1761657947456-gettyimages-2201505685-ALEXA_AI_UNVEILING.jpeg?v=1770336524&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities stock forecast. We analyze ARE\u2019s current valuation, market position, risks, and long-term outlook for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-07-31-2135.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T21:35:27.975737+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108336282-1784236796440-gettyimages-2262969470-20090101260225-99-646957.jpeg?v=1784237080&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Technology Market Shifts?",
+      "excerpt": "Explore Gartner Inc's current valuation, industry position, and risks in our detailed IT stock forecast to determine if it's a compelling buy for investors today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 26,
+      "href": "/blog/it-news-impact-2026-07-31-2135.html",
+      "published_date": "2026-07-31",
+      "generated_at": "2026-07-31T21:35:27.975737+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HERE",
       "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in 2026?",
@@ -25031,5 +25103,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-07-31T19:59:50.974228+00:00"
+  "market_data_as_of": "2026-07-31T21:35:27.975737+00:00"
 }

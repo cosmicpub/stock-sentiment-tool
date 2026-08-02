@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-01T14:03:51.085444+00:00",
+  "generated_at": "2026-08-02T14:05:18.113653+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore AutoNation Inc (AN) stock's neutral stance with detailed insights on its retail performance, risks, and market outlook for potential investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 34,
+      "href": "/blog/an-news-impact-2026-08-02-1405.html",
+      "published_date": "2026-08-02",
+      "generated_at": "2026-08-02T14:05:18.113653+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342674-1785435901984-gettyimages-2239462901-CHINA_ALIBABA_CLOUD.jpeg?v=1785435924&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Landscape?",
+      "excerpt": "Explore our in-depth Byline Bancorp Inc (BY) stock analysis, assessing its current valuation, growth prospects, and risks to determine if BY is a buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/by-news-impact-2026-08-02-1405.html",
+      "published_date": "2026-08-02",
+      "generated_at": "2026-08-02T14:05:18.113653+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254538-1770326418274-108254538-1768938695162-CNBC_Stage_01_062.jpg?v=1771351348&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is Now the Time to Buy Amid AI and Chip Industry Growth?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook driven by AI demand, semiconductor leadership, and strategic growth\u2014key factors shaping its stock forecast.",
+      "sentiment": "Bullish",
+      "score": 15,
+      "impact_score": 162,
+      "href": "/blog/on-news-impact-2026-08-02-1405.html",
+      "published_date": "2026-08-02",
+      "generated_at": "2026-08-02T14:05:18.113653+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy in Textiles & Apparel Sector?",
+      "excerpt": "Explore our detailed 2026 Amer Sports (AS) stock analysis revealing bullish sentiment, valuation insights, and growth prospects in the luxury apparel market.",
+      "sentiment": "Bullish",
+      "score": 11,
+      "impact_score": 115,
+      "href": "/blog/as-news-impact-2026-08-02-1405.html",
+      "published_date": "2026-08-02",
+      "generated_at": "2026-08-02T14:05:18.113653+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Leader Poised for a Bullish Run?",
+      "excerpt": "Explore C3.ai's position in the AI sector, bullish market sentiment, and key risks shaping its stock forecast in today's fast-evolving tech landscape.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 63,
+      "href": "/blog/ai-news-impact-2026-08-02-1405.html",
+      "published_date": "2026-08-02",
+      "generated_at": "2026-08-02T14:05:18.113653+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Steady Financials?",
+      "excerpt": "Explore our Saratoga Investment Corp (SAY) stock analysis to understand whether this financial services firm deserves a spot in your portfolio today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 42,
+      "href": "/blog/say-news-impact-2026-08-02-1405.html",
+      "published_date": "2026-08-02",
+      "generated_at": "2026-08-02T14:05:18.113653+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341904-1785348757840-gettyimages-2287521661-WARSH_FOMC_NYSE.jpeg?v=1785348788&w=1920&h=1080"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy Amid Market Uncertainties?",
@@ -25175,5 +25247,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-01T14:03:51.085444+00:00"
+  "market_data_as_of": "2026-08-02T14:05:18.113653+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-02T14:05:18.113653+00:00",
+  "generated_at": "2026-08-03T15:22:30.662384+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "MAN",
+      "title": "MAN Stock Analysis: ManpowerGroup Inc Stock Forecast & Outlook \u2014 Is MAN a Buy?",
+      "excerpt": "ManpowerGroup Inc (MAN) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 18,
+      "href": "/blog/man-news-impact-2026-08-03-1522.html",
+      "published_date": "2026-08-03",
+      "generated_at": "2026-08-03T15:22:30.662384+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108343257-1785514864450-spidey_Cropped.png?v=1785514907&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Momentum?",
+      "excerpt": "Explore ON Semiconductor Corp's latest stock dynamics, growth drivers, risks, and whether now is the right time to buy this semiconductor player.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 103,
+      "href": "/blog/on-news-impact-2026-08-03-1522.html",
+      "published_date": "2026-08-03",
+      "generated_at": "2026-08-03T15:22:30.662384+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108317496-1780677508197-gettyimages-2279271508-US_STOCKS.jpeg?v=1780677968&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Strong Buy in the Apparel Sector?",
+      "excerpt": "Explore why Amer Sports Inc (AS) is gaining bullish momentum in 2026 with strong fundamentals and favorable market conditions, plus risks to watch.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 81,
+      "href": "/blog/as-news-impact-2026-08-03-1522.html",
+      "published_date": "2026-08-03",
+      "generated_at": "2026-08-03T15:22:30.662384+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI Stock a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore C3.ai\u2019s current valuation, market position, and key risks in our detailed AI stock forecast to determine if it\u2019s a buy in the evolving tech landscape.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 47,
+      "href": "/blog/ai-news-impact-2026-08-03-1522.html",
+      "published_date": "2026-08-03",
+      "generated_at": "2026-08-03T15:22:30.662384+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108243542-1766065302256-gettyimages-2160458217-kokovlis-notitle240707_npTKI.jpeg?v=1766065329&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is It a Buy in Today's Tech Landscape?",
+      "excerpt": "Discover Gartner Inc's current position in the tech industry, recent developments, and whether its stock at $150.75 presents a promising buy opportunity.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 46,
+      "href": "/blog/it-news-impact-2026-08-03-1522.html",
+      "published_date": "2026-08-03",
+      "generated_at": "2026-08-03T15:22:30.662384+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities stock analysis to decide if ARE is a smart buy amid neutral sentiment and evolving real estate trends.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 44,
+      "href": "/blog/are-news-impact-2026-08-03-1522.html",
+      "published_date": "2026-08-03",
+      "generated_at": "2026-08-03T15:22:30.662384+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Market Sentiment?",
@@ -25247,5 +25319,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-02T14:05:18.113653+00:00"
+  "market_data_as_of": "2026-08-03T15:22:30.662384+00:00"
 }

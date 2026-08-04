@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-03T21:37:13.096935+00:00",
+  "generated_at": "2026-08-04T14:56:48.227338+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ALL",
+      "title": "Allstate Corp (ALL) Stock Analysis: Is This Insurance Powerhouse a Buy in 2026?",
+      "excerpt": "Explore our in-depth Allstate Corp stock analysis for 2026, uncovering bullish momentum, valuation insights, industry dynamics, and what investors need to consider now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 20,
+      "href": "/blog/all-news-impact-2026-08-04-1456.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T14:56:48.227338+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108343257-1785514864450-spidey_Cropped.png?v=1785514907&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is It a Buy Amid Semiconductor Sector Neutrality?",
+      "excerpt": "Reviewing ON Semiconductor Corp's stock outlook in 2026 \u2014 we dive into growth drivers, risks, valuation, and whether now is the time to buy ON stock.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 108,
+      "href": "/blog/on-news-impact-2026-08-04-1456.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T14:56:48.227338+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108340149-1784933757020-Screenshot_2026-07-24_at_35212_PM.png?v=1784933875&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore a detailed analysis of Amer Sports Inc (AS) stock the bearish signals, sector challenges, and whether it holds value for investors now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 79,
+      "href": "/blog/as-news-impact-2026-08-04-1456.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T14:56:48.227338+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108236073-1764783711137-gettyimages-2249765225-mms20780_b44lrkth.jpeg?v=1764783753&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Bullish Sentiment in Leisure Products?",
+      "excerpt": "Explore Hasbro Inc's current bullish momentum, growth prospects, and risks in the leisure products space. Is HAS stock poised for a strong rally?",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 36,
+      "href": "/blog/has-news-impact-2026-08-04-1456.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T14:56:48.227338+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107113453-NUP_198430_00764r.jpg?v=1693609111&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is This Retail Giant a Buy in 2026?",
+      "excerpt": "Explore a comprehensive AutoNation Inc stock analysis to determine if AN shares represent a good buying opportunity amidst evolving retail dynamics.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 34,
+      "href": "/blog/an-news-impact-2026-08-04-1456.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T14:56:48.227338+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344039-1785782779380-gettyimages-2284372354-0d6a7646_lyjidjwg.jpeg?v=1785782803&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Neutral Sentiment Amid Technology Sector Dynamics",
+      "excerpt": "Explore Gartner Inc's current stock position with a neutral market sentiment. We analyze core growth drivers, risks, valuation, and investor outlook in tech's evolving landscape.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 33,
+      "href": "/blog/it-news-impact-2026-08-04-1456.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T14:56:48.227338+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108275393-1773062345769-gettyimages-2264230764-US_STOCKS.jpeg?v=1773062365&w=1920&h=1080"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Bullish Momentum?",
@@ -25463,5 +25535,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-03T21:37:13.096935+00:00"
+  "market_data_as_of": "2026-08-04T14:56:48.227338+00:00"
 }

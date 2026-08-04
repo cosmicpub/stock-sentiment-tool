@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-04T18:09:59.099588+00:00",
+  "generated_at": "2026-08-04T21:46:03.666321+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings Corp (SHIP) Stock Analysis: Is Now the Time to Buy in Marine Sector?",
+      "excerpt": "Explore the latest Seanergy Maritime Holdings Corp (SHIP) stock analysis. See key insights, risks, and what investors should consider before buying.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/ship-news-impact-2026-08-04-2146.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T21:46:03.666321+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Shifts?",
+      "excerpt": "Explore a detailed ON Semiconductor Corp stock analysis as we assess growth prospects, valuation, and risks in the evolving semiconductor market.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 123,
+      "href": "/blog/on-news-impact-2026-08-04-2146.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T21:46:03.666321+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108191456-1756315826414-gettyimages-2148380299-dsc06694.jpeg?v=1774362040&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Market Sentiment?",
+      "excerpt": "Explore an in-depth Amer Sports Inc (AS) stock analysis revealing bearish sentiment amid rising costs and geopolitical tensions. What should investors consider now?",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 71,
+      "href": "/blog/as-news-impact-2026-08-04-2146.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T21:46:03.666321+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108236073-1764783711137-gettyimages-2249765225-mms20780_b44lrkth.jpeg?v=1764783753&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy in 2026 Amidst Leisure Industry Shifts?",
+      "excerpt": "Explore Hasbro Inc's current valuation, growth prospects, and risks in the evolving leisure products sector to decide if HAS stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 43,
+      "href": "/blog/has-news-impact-2026-08-04-2146.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T21:46:03.666321+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis 2026: Is This Retail Giant a Buy Amid Neutral Sentiment?",
+      "excerpt": "AutoNation Inc (AN) holds steady near $215.6 with a neutral market outlook. We dig into key growth drivers, risks, and valuation to see if AN stock makes sense for your portfolio.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 30,
+      "href": "/blog/an-news-impact-2026-08-04-2146.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T21:46:03.666321+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344039-1785782779380-gettyimages-2284372354-0d6a7646_lyjidjwg.jpeg?v=1785782803&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Technology Sector Shifts?",
+      "excerpt": "Explore Gartner Inc's current stock outlook, valuation, and risks to understand if IT shares present a compelling buying opportunity now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 29,
+      "href": "/blog/it-news-impact-2026-08-04-2146.html",
+      "published_date": "2026-08-04",
+      "generated_at": "2026-08-04T21:46:03.666321+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108275393-1773062345769-gettyimages-2264230764-US_STOCKS.jpeg?v=1773062365&w=1920&h=1080"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services?",
@@ -25679,5 +25751,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-04T18:09:59.099588+00:00"
+  "market_data_as_of": "2026-08-04T21:46:03.666321+00:00"
 }

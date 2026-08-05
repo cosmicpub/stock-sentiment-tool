@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-04T21:46:03.666321+00:00",
+  "generated_at": "2026-08-05T14:42:37.773742+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Tech Innovator a Buy Amid AI Market Surge?",
+      "excerpt": "Explore our in-depth C3.ai Inc (AI) stock analysis revealing bullish momentum, key growth drivers, risks, and whether AI is a smart buy in the evolving tech landscape.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 30,
+      "href": "/blog/ai-news-impact-2026-08-05-1442.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T14:42:37.773742+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is This Distributor a Buy Amid Bearish Sentiment?",
+      "excerpt": "Gold.com Inc (GOLD) faces bearish sentiment despite recent gold price peaks. Explore our detailed analysis, risks, and outlook for this distributor's stock.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 21,
+      "href": "/blog/gold-news-impact-2026-08-05-1442.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T14:42:37.773742+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "BY Stock Analysis: Is Byline Bancorp Inc a Buy Amid Banking Sector Shifts?",
+      "excerpt": "Discover Byline Bancorp Inc (BY) stock forecast and key factors shaping its outlook in the evolving banking landscape. Is BY a smart buy now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/by-news-impact-2026-08-05-1442.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T14:42:37.773742+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108345212-1785933947158-Untitled-1.jpg?v=1785934291&w=1920&h=1080"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy in the Evolving Life Sciences Sector?",
+      "excerpt": "Explore Bio-Techne Corp\u2019s current position in the Life Sciences industry, evaluating TECH stock's outlook amidst shifting market dynamics and scientific innovation.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/tech-news-impact-2026-08-05-1442.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T14:42:37.773742+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "FUND",
+      "title": "Sprott Focus Trust (FUND) Stock Analysis: Is FUND a Buy Amid Market Volatility?",
+      "excerpt": "Explore the latest insights on Sprott Focus Trust (FUND) and whether this investment trust presents a compelling opportunity amid broader hedge fund turbulence.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 15,
+      "href": "/blog/fund-news-impact-2026-08-05-1442.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T14:42:37.773742+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Industry Bullishness?",
+      "excerpt": "Explore a detailed ON Semiconductor stock analysis highlighting bullish sentiment, growth drivers, risks, and valuation insights to help investors decide if ON is a buy.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 134,
+      "href": "/blog/on-news-impact-2026-08-05-1442.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T14:42:37.773742+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108191456-1756315826414-gettyimages-2148380299-dsc06694.jpeg?v=1774362040&w=1920&h=1080"
+    },
     {
       "ticker": "SHIP",
       "title": "Seanergy Maritime Holdings Corp (SHIP) Stock Analysis: Is Now the Time to Buy in Marine Sector?",
@@ -25751,5 +25823,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-04T21:46:03.666321+00:00"
+  "market_data_as_of": "2026-08-05T14:42:37.773742+00:00"
 }

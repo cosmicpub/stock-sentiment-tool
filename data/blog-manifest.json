@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-05T16:13:12.528597+00:00",
+  "generated_at": "2026-08-05T18:00:47.060316+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ALL",
+      "title": "Allstate Corp (ALL) Stock Analysis 2026: Is ALL a Strong Buy Amid Bullish Momentum?",
+      "excerpt": "Explore our in-depth Allstate Corp stock analysis for 2026, examining bullish trends, valuation, risks, and long-term outlook to determine if ALL is a buy now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 21,
+      "href": "/blog/all-news-impact-2026-08-05-1800.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T18:00:47.060316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108343257-1785514864450-spidey_Cropped.png?v=1785514907&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Bullishness?",
+      "excerpt": "Explore ON Semiconductor's strong growth prospects and bullish momentum in the semiconductor industry. This analysis reveals if ON stock is a buy now.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 150,
+      "href": "/blog/on-news-impact-2026-08-05-1800.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T18:00:47.060316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bullish Momentum Drives Growth Prospects in Textiles & Apparel",
+      "excerpt": "Explore why Amer Sports Inc (AS) is attracting bullish attention amid robust industry tailwinds and strategic positioning in the textiles and luxury goods sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 61,
+      "href": "/blog/as-news-impact-2026-08-05-1800.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T18:00:47.060316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310789-1779387624790-Rita_Ferro__Upfront_2026.jpg?v=1779462514&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Why Saratoga Investment Corp Faces Bearish Headwinds in 2026",
+      "excerpt": "Explore why Saratoga Investment Corp (SAY) is grappling with bearish sentiment amid geopolitical tensions and market shifts. Here\u2019s our detailed stock analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 46,
+      "href": "/blog/say-news-impact-2026-08-05-1800.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T18:00:47.060316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108191456-1756315826414-gettyimages-2148380299-dsc06694.jpeg?v=1774362040&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Hasbro's current stock position at $92.01 with a neutral outlook, evaluating growth drivers, industry pressures, and investor risks in our detailed analysis.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 38,
+      "href": "/blog/has-news-impact-2026-08-05-1800.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T18:00:47.060316+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis 2026: Is Alexandria Real Estate Equities a Buy in the Current Market?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock analysis for 2026, examining bullish sentiments, growth drivers, risks, and whether ARE is a smart buy now.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 30,
+      "href": "/blog/are-news-impact-2026-08-05-1800.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T18:00:47.060316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344591-17858573062026-08-04t144617z_1985709503_rc2prma7046i_rtrmadp_0_usa-stocks.jpeg?v=1785857332&w=1920&h=1080"
+    },
     {
       "ticker": "ARE",
       "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Real Estate Pick in 2026?",
@@ -25895,5 +25967,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-05T16:13:12.528597+00:00"
+  "market_data_as_of": "2026-08-05T18:00:47.060316+00:00"
 }

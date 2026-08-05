@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-05T20:04:35.059312+00:00",
+  "generated_at": "2026-08-05T21:42:04.281031+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "PRE",
+      "title": "Prenetics Global Ltd (PRE) Stock Analysis: Is PRE a Buy in the Health Care Sector?",
+      "excerpt": "Explore Prenetics Global Ltd's latest stock performance, industry positioning, and expert insights to determine if PRE is a worthwhile buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/pre-news-impact-2026-08-05-2142.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T21:42:04.281031+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344675-1785863877100-Movies.jpg?v=1785864125&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current bullish momentum, key growth drivers, risks, and whether its $76.91 price offers a compelling investment opportunity.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 144,
+      "href": "/blog/on-news-impact-2026-08-05-2142.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T21:42:04.281031+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1770141907&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Strong Buy in Textiles & Apparel?",
+      "excerpt": "Explore our deep dive on Amer Sports Inc (AS) stock forecast, examining bullish momentum, industry positioning, and risks for investors eyeing a buy.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 66,
+      "href": "/blog/as-news-impact-2026-08-05-2142.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T21:42:04.281031+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310789-1779387624790-Rita_Ferro__Upfront_2026.jpg?v=1779462514&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis 2026: Is Saratoga Investment Corp a Buy Amid Bearish Sentiment?",
+      "excerpt": "Discover a detailed analysis of Saratoga Investment Corp (SAY), exploring the bearish market sentiment, key risks, and whether this financial services stock is a prudent buy today.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 50,
+      "href": "/blog/say-news-impact-2026-08-05-2142.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T21:42:04.281031+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis August 2026: Is Now the Time to Buy?",
+      "excerpt": "Explore Hasbro's latest position within the leisure products sector amid bearish sentiment. This analysis dives into risks, valuation, and future outlook for HAS stock.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 40,
+      "href": "/blog/has-news-impact-2026-08-05-2142.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T21:42:04.281031+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108345483-1785950940792-gettyimages-2288109875-img_3996.jpeg?v=1785950964&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Strong Buy in 2026?",
+      "excerpt": "Discover why Alexandria Real Estate Equities (ARE) is gaining bullish momentum, with insights on growth prospects, risks, and investment outlook in 2026.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 30,
+      "href": "/blog/are-news-impact-2026-08-05-2142.html",
+      "published_date": "2026-08-05",
+      "generated_at": "2026-08-05T21:42:04.281031+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344591-17858573062026-08-04t144617z_1985709503_rc2prma7046i_rtrmadp_0_usa-stocks.jpeg?v=1785857332&w=1920&h=1080"
+    },
     {
       "ticker": "DOW",
       "title": "Dow Inc (DOW) Stock Analysis: Is Dow a Buy Amid Record Highs and Bullish Sentiment?",
@@ -26039,5 +26111,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-05T20:04:35.059312+00:00"
+  "market_data_as_of": "2026-08-05T21:42:04.281031+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-05T21:42:04.281031+00:00",
+  "generated_at": "2026-08-06T14:42:56.689520+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis and Forecast: Is IT a Buy at $182.72?",
+      "excerpt": "Explore Gartner Inc's latest performance, industry position, and key risks to determine if IT stock is a buy at its current $182.72 price point in this detailed analysis.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 26,
+      "href": "/blog/it-news-impact-2026-08-06-1442.html",
+      "published_date": "2026-08-06",
+      "generated_at": "2026-08-06T14:42:56.689520+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342722-1785442709903-ErynAndrews.jpg?v=1785442725&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in the Real Estate Sector?",
+      "excerpt": "Explore our comprehensive OUTFRONT Media Inc stock analysis. We break down valuation, market position, risks, and growth prospects to help investors decide if OUT is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/out-news-impact-2026-08-06-1442.html",
+      "published_date": "2026-08-06",
+      "generated_at": "2026-08-06T14:42:56.689520+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107191072-1675864908868-gettyimages-1245729979-dfh221218270746_dal_vs_jax.jpeg?v=1675864931&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Growth?",
+      "excerpt": "Explore ON Semiconductor's recent bullish momentum, growth prospects, and risks in this detailed stock analysis and forecast for investors.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 136,
+      "href": "/blog/on-news-impact-2026-08-06-1442.html",
+      "published_date": "2026-08-06",
+      "generated_at": "2026-08-06T14:42:56.689520+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1770141907&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is Now the Time to Buy?",
+      "excerpt": "Explore our comprehensive Amer Sports (AS) stock analysis for 2026. Discover bullish trends, growth potential, risks, and whether AS is a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 10,
+      "impact_score": 104,
+      "href": "/blog/as-news-impact-2026-08-06-1442.html",
+      "published_date": "2026-08-06",
+      "generated_at": "2026-08-06T14:42:56.689520+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108345319-1785941590745-108345319-1785941114990-gettyimages-1242668845-KPCB_DOERR.jpg?v=1785965075&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is This Financial Services Play a Buy Amid Rising Geopolitical Risks?",
+      "excerpt": "Explore our deep dive into Saratoga Investment Corp (SAY), highlighting bearish sentiment, geopolitical impacts, and what investors must consider now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 51,
+      "href": "/blog/say-news-impact-2026-08-06-1442.html",
+      "published_date": "2026-08-06",
+      "generated_at": "2026-08-06T14:42:56.689520+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344675-1785863877100-Movies.jpg?v=1785864125&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore the bullish outlook on Alexandria Real Estate Equities (ARE) stock with a detailed analysis of its market position, valuation, and growth prospects.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-08-06-1442.html",
+      "published_date": "2026-08-06",
+      "generated_at": "2026-08-06T14:42:56.689520+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "PRE",
       "title": "Prenetics Global Ltd (PRE) Stock Analysis: Is PRE a Buy in the Health Care Sector?",
@@ -26111,5 +26183,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-05T21:42:04.281031+00:00"
+  "market_data_as_of": "2026-08-06T14:42:56.689520+00:00"
 }

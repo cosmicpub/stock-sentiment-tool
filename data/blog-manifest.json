@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-07T00:21:39.009402+00:00",
+  "generated_at": "2026-08-07T13:45:23.406587+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "OR",
+      "title": "OR Royalties Inc (OR) Stock Analysis 2026: Is This Metals & Mining Play a Buy Now?",
+      "excerpt": "Explore our comprehensive OR Royalties Inc stock analysis including latest market sentiment, valuation, industry outlook, and risks to decide if OR is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/or-news-impact-2026-08-07-1345.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T13:45:23.406587+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108346268-1786047169487-gettyimages-2276445040-051925-rtd-met-edu.jpeg?v=1786047224&w=1920&h=1080"
+    },
+    {
+      "ticker": "EYE",
+      "title": "National Vision Holdings Inc (EYE) Stock Analysis: Is EYE a Buy in 2026?",
+      "excerpt": "Explore National Vision Holdings Inc's latest fundamentals, industry positioning, and growth prospects to decide if EYE stock is a strong buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/eye-news-impact-2026-08-07-1345.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T13:45:23.406587+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Strong Buy in Textiles & Apparel Sector?",
+      "excerpt": "Explore our in-depth Amer Sports Inc stock analysis to understand why AS stock looks bullish amid evolving market trends in Textiles, Apparel & Luxury Goods.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 139,
+      "href": "/blog/as-news-impact-2026-08-07-1345.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T13:45:23.406587+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108177776-1753713014078-gettyimages-1393890856-donedsc03683retocada.jpeg?v=1786050295&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy in 2026?",
+      "excerpt": "Explore a bullish stock analysis of ON Semiconductor Corp (ON) in 2026, highlighting growth drivers, risks, and a valuation outlook for investors.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 113,
+      "href": "/blog/on-news-impact-2026-08-07-1345.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T13:45:23.406587+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108346138-1786036806209-gettyimages-2229333969-223a5436_ggov6or1.jpeg?v=1786037071&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) financial snapshot, key industry factors, valuation, and risks to determine if this Financial Services stock is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 44,
+      "href": "/blog/say-news-impact-2026-08-07-1345.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T13:45:23.406587+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344675-1785863877100-Movies.jpg?v=1785864125&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Tech Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore why C3.ai Inc's stock faces bearish pressure despite strong AI demand. Our analysis dives into risks, valuation, and future prospects for AI investors.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 42,
+      "href": "/blog/ai-news-impact-2026-08-07-1345.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T13:45:23.406587+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108074574-1733935737928-gettyimages-2156585537-MICRON_TECHNOLOGY_HQ.jpeg?v=1744134628&w=1920&h=1080"
+    },
     {
       "ticker": "HE",
       "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
@@ -26255,5 +26327,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-07T00:21:39.009402+00:00"
+  "market_data_as_of": "2026-08-07T13:45:23.406587+00:00"
 }

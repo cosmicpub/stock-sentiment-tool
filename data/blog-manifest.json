@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-07T13:45:23.406587+00:00",
+  "generated_at": "2026-08-07T15:21:58.195412+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in 2026?",
+      "excerpt": "Explore our comprehensive Amer Sports Inc (AS) stock analysis for 2026. We break down valuation, growth prospects, risks, and competitive stance to help investors decide if AS is a buy.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 134,
+      "href": "/blog/as-news-impact-2026-08-07-1521.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T15:21:58.195412+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108177776-1753713014078-gettyimages-1393890856-donedsc03683retocada.jpeg?v=1786050295&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Momentum?",
+      "excerpt": "Discover why ON Semiconductor Corp is attracting bullish sentiment with promising growth prospects in the semiconductor space. Our detailed stock analysis explores key factors influencing ON's potential.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 112,
+      "href": "/blog/on-news-impact-2026-08-07-1521.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T15:21:58.195412+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344489-1785850230003-gettyimages-2286239833-1el01847_nh19zon2.jpeg?v=1785850283&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "C3.ai Inc (AI) faces headwinds as bearish sentiment intensifies. Our in-depth analysis examines its outlook, risks, and whether it remains a viable AI investment.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 42,
+      "href": "/blog/ai-news-impact-2026-08-07-1521.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T15:21:58.195412+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108074574-1733935737928-gettyimages-2156585537-MICRON_TECHNOLOGY_HQ.jpeg?v=1744134628&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore our detailed Saratoga Investment Corp stock analysis to uncover if SAY is poised for growth in 2026, with insights on valuation, risks, and outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 39,
+      "href": "/blog/say-news-impact-2026-08-07-1521.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T15:21:58.195412+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344675-1785863877100-Movies.jpg?v=1785864125&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment in Tech Sector?",
+      "excerpt": "Explore Gartner Inc's latest stock outlook with a neutral market stance. This analysis weighs growth prospects, risks, and competitors to help investors decide.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/it-news-impact-2026-08-07-1521.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T15:21:58.195412+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108346138-1786036806209-gettyimages-2229333969-223a5436_ggov6or1.jpeg?v=1786037071&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Discover a comprehensive Alexandria Real Estate Equities (ARE) stock analysis including outlook, risks, valuation, and whether ARE is a buy right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/are-news-impact-2026-08-07-1521.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T15:21:58.195412+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108055242-1730322135532-gettyimages-1243056983-INDIA_ATLASSIAN.jpeg?v=1730322249&w=1920&h=1080"
+    },
     {
       "ticker": "OR",
       "title": "OR Royalties Inc (OR) Stock Analysis 2026: Is This Metals & Mining Play a Buy Now?",
@@ -26327,5 +26399,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-07T13:45:23.406587+00:00"
+  "market_data_as_of": "2026-08-07T15:21:58.195412+00:00"
 }

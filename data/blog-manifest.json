@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-07T15:21:58.195412+00:00",
+  "generated_at": "2026-08-07T17:14:24.327316+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in 2026?",
+      "excerpt": "Discover the bullish factors driving Amer Sports Inc (AS) stock at $36.84. Delve into valuation, market position, and risks to see if AS is a smart buy now.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 128,
+      "href": "/blog/as-news-impact-2026-08-07-1714.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T17:14:24.327316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108346647-1786112854479-gettyimages-2240656304-nebraskavsmaryland1001-gettyf.jpeg?v=1786112883&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis and Forecast: Is ON a Buy Now?",
+      "excerpt": "Explore ON Semiconductor's strong positioning in the semiconductor sector, bullish analyst sentiment, and key risks shaping its near and long-term prospects.",
+      "sentiment": "Bullish",
+      "score": 10,
+      "impact_score": 120,
+      "href": "/blog/on-news-impact-2026-08-07-1714.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T17:14:24.327316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344489-1785850230003-gettyimages-2286239833-1el01847_nh19zon2.jpeg?v=1785850283&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Is Saratoga Investment Corp a Solid Buy in Financial Services?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) stock with this detailed analysis covering market position, valuation, risks, and outlook to inform your investment decision.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 49,
+      "href": "/blog/say-news-impact-2026-08-07-1714.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T17:14:24.327316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344675-1785863877100-Movies.jpg?v=1785864125&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Tech Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore why C3.ai Inc (AI) faces bearish pressure at $10.33. Our in-depth analysis dives into the tech giant's outlook, risks, and growth potential in AI.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 38,
+      "href": "/blog/ai-news-impact-2026-08-07-1714.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T17:14:24.327316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108074574-1733935737928-gettyimages-2156585537-MICRON_TECHNOLOGY_HQ.jpeg?v=1744134628&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Time to Buy This Technology Leader?",
+      "excerpt": "Explore our in-depth Gartner Inc stock analysis, including valuation insights and risks, to determine if IT is a buy in today's neutral market environment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/it-news-impact-2026-08-07-1714.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T17:14:24.327316+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108346138-1786036806209-gettyimages-2229333969-223a5436_ggov6or1.jpeg?v=1786037071&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Explore Hawaiian Electric Industries' current standing, growth prospects, and risks in the evolving utilities market. Our 2026 analysis helps you decide if HE is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/he-news-impact-2026-08-07-1714.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T17:14:24.327316+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in 2026?",
@@ -26399,5 +26471,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-07T15:21:58.195412+00:00"
+  "market_data_as_of": "2026-08-07T17:14:24.327316+00:00"
 }

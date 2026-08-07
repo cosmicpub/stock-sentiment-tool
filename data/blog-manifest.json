@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-06T14:42:56.689520+00:00",
+  "generated_at": "2026-08-07T00:21:39.009402+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Explore Hawaiian Electric Industries (HE) stock analysis with insights on valuation, risks, and long-term prospects amid neutral market sentiment in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/he-news-impact-2026-08-07-0021.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T00:21:39.009402+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Play a Buy Amidst AI Sector Volatility?",
+      "excerpt": "Explore our in-depth C3.ai (AI) stock analysis as we dissect the bearish sentiment, market drivers, and whether this AI technology stock presents value or risk in 2026.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 21,
+      "href": "/blog/ai-news-impact-2026-08-07-0021.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T00:21:39.009402+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1770141907&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Smart Buy in the Current Banking Landscape?",
+      "excerpt": "Explore our detailed Byline Bancorp Inc stock analysis evaluating growth prospects, risks, valuation, and if BY is a buy amid banking sector challenges.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 20,
+      "href": "/blog/by-news-impact-2026-08-07-0021.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T00:21:39.009402+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108345212-1785933947158-Untitled-1.jpg?v=1785934291&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Rising Market Momentum?",
+      "excerpt": "Explore our comprehensive GOLD stock analysis highlighting bullish trends, recent market catalysts, and whether Gold.com Inc is a buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 19,
+      "href": "/blog/gold-news-impact-2026-08-07-0021.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T00:21:39.009402+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Smart Buy in Real Estate?",
+      "excerpt": "Explore our in-depth Two Harbors Investment Corp (TWO) stock analysis featuring key financials, market sentiment, risks, and potential for investors eyeing real estate exposure.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 17,
+      "href": "/blog/two-news-impact-2026-08-07-0021.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T00:21:39.009402+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344591-17858573062026-08-04t144617z_1985709503_rc2prma7046i_rtrmadp_0_usa-stocks.jpeg?v=1785857332&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is This Semiconductor Pick a Buy in 2026?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, growth catalysts, and key risks in our detailed stock analysis to decide if ON is a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 10,
+      "impact_score": 130,
+      "href": "/blog/on-news-impact-2026-08-07-0021.html",
+      "published_date": "2026-08-07",
+      "generated_at": "2026-08-07T00:21:39.009402+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108346268-1786047169487-gettyimages-2276445040-051925-rtd-met-edu.jpeg?v=1786047224&w=1920&h=1080"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis and Forecast: Is IT a Buy at $182.72?",
@@ -26183,5 +26255,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-06T14:42:56.689520+00:00"
+  "market_data_as_of": "2026-08-07T00:21:39.009402+00:00"
 }

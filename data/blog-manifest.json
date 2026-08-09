@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-08T13:24:30.070047+00:00",
+  "generated_at": "2026-08-09T13:28:24.776028+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Industry Growth and Market Optimism?",
+      "excerpt": "Explore Hasbro Inc's bullish outlook in the leisure products sector, analyzing growth drivers, valuation, risks, and whether HAS stock is a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 23,
+      "href": "/blog/has-news-impact-2026-08-09-1328.html",
+      "published_date": "2026-08-09",
+      "generated_at": "2026-08-09T13:28:24.776028+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107427738-17181927622024-06-11t215507z_1740518469_rc2498a9at1q_rtrmadp_0_usa-biden-hunter.jpeg?v=1753132010&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile & Apparel Giant a Buy in 2026?",
+      "excerpt": "Dive into our comprehensive Amer Sports Inc (AS) stock analysis for 2026, exploring bullish sentiments, market position, risks, and growth outlook in apparel sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 135,
+      "href": "/blog/as-news-impact-2026-08-09-1328.html",
+      "published_date": "2026-08-09",
+      "generated_at": "2026-08-09T13:28:24.776028+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339933-1784912434971-Screenshot_2026-07-24_at_122353_PM.png?v=1784913656&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy in the Current Bullish Semiconductor Market?",
+      "excerpt": "Explore ON Semiconductor's strengths, growth drivers, valuation, and risks to decide if ON stock is a buy in 2026's vibrant semiconductor sector.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 125,
+      "href": "/blog/on-news-impact-2026-08-09-1328.html",
+      "published_date": "2026-08-09",
+      "generated_at": "2026-08-09T13:28:24.776028+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344489-1785850230003-gettyimages-2286239833-1el01847_nh19zon2.jpeg?v=1785850283&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is $49.74 a Buy Opportunity?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities (ARE) stock analysis. We break down the fundamentals, risks, and growth outlook to help you decide if ARE is a buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 41,
+      "href": "/blog/are-news-impact-2026-08-09-1328.html",
+      "published_date": "2026-08-09",
+      "generated_at": "2026-08-09T13:28:24.776028+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108225675-1763063273944-gettyimages-2246554747-_73a9943_rypsalje.jpeg?v=1763063392&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today's Financial Landscape?",
+      "excerpt": "Explore a detailed Saratoga Investment Corp (SAY) stock analysis covering current market position, risks, and growth prospects to decide if SAY is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 39,
+      "href": "/blog/say-news-impact-2026-08-09-1328.html",
+      "published_date": "2026-08-09",
+      "generated_at": "2026-08-09T13:28:24.776028+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is This Tech Leader a Strong Buy Now?",
+      "excerpt": "Discover why Gartner Inc (IT) maintains a bullish outlook in 2026. We break down its growth potential, industry standing, risks, and investment outlook for tech investors.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 32,
+      "href": "/blog/it-news-impact-2026-08-09-1328.html",
+      "published_date": "2026-08-09",
+      "generated_at": "2026-08-09T13:28:24.776028+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "GOLD",
       "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Bullish Market Sentiment?",
@@ -26687,5 +26759,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-08T13:24:30.070047+00:00"
+  "market_data_as_of": "2026-08-09T13:28:24.776028+00:00"
 }

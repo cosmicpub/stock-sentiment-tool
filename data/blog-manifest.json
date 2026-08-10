@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-10T19:28:03.418294+00:00",
+  "generated_at": "2026-08-10T21:09:40.688767+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Stagnation?",
+      "excerpt": "Delve into Byline Bancorp Inc's current performance, valuation, and outlook to see if BY stock merits a spot in your portfolio in the evolving banking landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/by-news-impact-2026-08-10-2109.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T21:09:40.688767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108225675-1763063273944-gettyimages-2246554747-_73a9943_rypsalje.jpeg?v=1763063392&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Rising Inflation Concerns?",
+      "excerpt": "Explore Gold.com Inc's bullish momentum as gold prices near seven-week highs. Is GOLD stock a smart buy given inflation fears and market dynamics?",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/gold-news-impact-2026-08-10-2109.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T21:09:40.688767+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "AS Stock Analysis: Is Amer Sports Inc a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore our comprehensive Amer Sports Inc (AS) stock analysis with bullish sentiment, valuation insight, and key risks shaping its outlook in the textiles sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 136,
+      "href": "/blog/as-news-impact-2026-08-10-2109.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T21:09:40.688767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250006-17678891482026-01-08t161359z_617881314_rc24xiap1sl2_rtrmadp_0_usa-health-diet.jpeg?v=1767889168&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "ON Semiconductor stock sees bullish momentum with price near $80. We analyze key factors driving growth, risks to watch, and long-term outlook for investors.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 127,
+      "href": "/blog/on-news-impact-2026-08-10-2109.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T21:09:40.688767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108337520-1784575437411-gettyimages-2286932294-_88a1811_bnlt4id6.jpeg?v=1784575470&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is It a Smart Buy in 2026?",
+      "excerpt": "Explore an in-depth Alexandria Real Estate Equities stock analysis to determine if ARE is a buy amid shifting real estate market dynamics in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 40,
+      "href": "/blog/are-news-impact-2026-08-10-2109.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T21:09:40.688767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107226400-1681752543434-gettyimages-1443301982-bethgifty009.jpeg?v=1786134969&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is This Technology Leader a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore Gartner Inc\u2019s latest stock analysis highlighting bullish sentiment, growth drivers, risks, and what investors should know before buying IT shares in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 34,
+      "href": "/blog/it-news-impact-2026-08-10-2109.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T21:09:40.688767+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107427738-17181927622024-06-11t215507z_1740518469_rc2498a9at1q_rtrmadp_0_usa-biden-hunter.jpeg?v=1753132010&w=1920&h=1080"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Leader a Buy at $10.39?",
@@ -27047,5 +27119,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-10T19:28:03.418294+00:00"
+  "market_data_as_of": "2026-08-10T21:09:40.688767+00:00"
 }

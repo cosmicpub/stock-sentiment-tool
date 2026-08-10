@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-09T13:28:24.776028+00:00",
+  "generated_at": "2026-08-10T13:50:58.348164+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis and Forecast: Is BE a Buy in Electrical Equipment Sector?",
+      "excerpt": "Explore Bloom Energy's current valuation, growth prospects, and risks in this detailed BE stock analysis to decide if it's a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 21,
+      "href": "/blog/be-news-impact-2026-08-10-1350.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T13:50:58.348164+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107226400-1681752543434-gettyimages-1443301982-bethgifty009.jpeg?v=1786134969&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Semiconductor Upswing?",
+      "excerpt": "Explore our in-depth ON Semiconductor (ON) stock analysis for 2026, revealing bullish momentum, growth drivers, risks, and whether ON is a smart buy now.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 129,
+      "href": "/blog/on-news-impact-2026-08-10-1350.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T13:50:58.348164+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108337520-1784575437411-gettyimages-2286932294-_88a1811_bnlt4id6.jpeg?v=1784575470&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore Amer Sports Inc's (AS) bullish outlook with a detailed stock analysis, assessing growth drivers, risks, valuation, and future prospects for investors.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 121,
+      "href": "/blog/as-news-impact-2026-08-10-1350.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T13:50:58.348164+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108339933-1784912434971-Screenshot_2026-07-24_at_122353_PM.png?v=1784913656&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Market?",
+      "excerpt": "Explore Alexandria Real Estate Equities' latest performance, growth drivers, and risks to see if ARE stock is a sound investment at $47.58 today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 40,
+      "href": "/blog/are-news-impact-2026-08-10-1350.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T13:50:58.348164+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) stock fundamentals, key risks, and market outlook to decide if SAY is a buy in 2026's shifting financial landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/say-news-impact-2026-08-10-1350.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T13:50:58.348164+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Tech Sector Optimism?",
+      "excerpt": "Explore Gartner Inc's 2026 stock outlook with a bullish sentiment, key growth drivers, valuation insights, and risks to watch before investing in IT stock.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 29,
+      "href": "/blog/it-news-impact-2026-08-10-1350.html",
+      "published_date": "2026-08-10",
+      "generated_at": "2026-08-10T13:50:58.348164+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107427738-17181927622024-06-11t215507z_1740518469_rc2498a9at1q_rtrmadp_0_usa-biden-hunter.jpeg?v=1753132010&w=1920&h=1080"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Industry Growth and Market Optimism?",
@@ -26759,5 +26831,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-09T13:28:24.776028+00:00"
+  "market_data_as_of": "2026-08-10T13:50:58.348164+00:00"
 }

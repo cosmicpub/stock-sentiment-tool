@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-10T21:09:40.688767+00:00",
+  "generated_at": "2026-08-11T13:50:03.321988+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore our in-depth Two Harbors Investment Corp (TWO) stock analysis for 2026, weighing risks and opportunities to determine if TWO is a smart buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/two-news-impact-2026-08-11-1350.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T13:50:03.321988+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "YOU",
+      "title": "Clear Secure Inc (YOU) Stock Analysis 2026: Is This Tech Stock a Buy Now?",
+      "excerpt": "Explore Clear Secure Inc's latest performance, growth prospects, and risks in our detailed 2026 stock analysis. Is YOU stock a prudent buy at $49.52?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/you-news-impact-2026-08-11-1350.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T13:50:03.321988+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108048666-1729106178223-gettyimages-1465289648-dsc09949-edit-edit.jpeg?v=1729547459&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is It a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis for 2026, uncovering bullish trends, valuation insights, and risks shaping AS shares in the textiles and apparel sector.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 120,
+      "href": "/blog/as-news-impact-2026-08-11-1350.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T13:50:03.321988+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250006-17678891482026-01-08t161359z_617881314_rc24xiap1sl2_rtrmadp_0_usa-health-diet.jpeg?v=1767889168&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 90,
+      "href": "/blog/on-news-impact-2026-08-11-1350.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T13:50:03.321988+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis August 2026: Is IT a Buy Amid Tech Sector Optimism?",
+      "excerpt": "Gartner Inc (IT) bullish sentiment shines as technology evolves. Explore this detailed stock analysis to understand if IT stock is a buy in August 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 39,
+      "href": "/blog/it-news-impact-2026-08-11-1350.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T13:50:03.321988+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Market?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities stock outlook, with a deep dive into key drivers, risks, and whether ARE is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-08-11-1350.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T13:50:03.321988+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107226400-1681752543434-gettyimages-1443301982-bethgifty009.jpeg?v=1786134969&w=1920&h=1080"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Stagnation?",
@@ -27119,5 +27191,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-10T21:09:40.688767+00:00"
+  "market_data_as_of": "2026-08-11T13:50:03.321988+00:00"
 }

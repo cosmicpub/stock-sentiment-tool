@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-11T17:24:33.799091+00:00",
+  "generated_at": "2026-08-11T19:32:20.154999+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore our in-depth Saratoga Investment Corp (SAY) stock analysis for 2026. We break down key valuation, risks, and opportunities to help investors decide if SAY is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/say-news-impact-2026-08-11-1932.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T19:32:20.154999+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108347956-1786463453550-gettyimages-2289373118-TRUMP_VACCINE_EO.jpeg?v=1786463495&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is Now the Time to Buy Electrical Equipment Leader?",
+      "excerpt": "Explore Bloom Energy's latest fundamentals, market position, and risks in our comprehensive BE stock forecast and find out if it's a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/be-news-impact-2026-08-11-1932.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T19:32:20.154999+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107226400-1681752543434-gettyimages-1443301982-bethgifty009.jpeg?v=1786134969&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy at $1.07 Amid Industry Challenges?",
+      "excerpt": "Explore Health In Tech Inc (HIT) stock analysis with a price at $1.07. We break down key outlook factors, risks in the insurance sector, and potential opportunities.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/hit-news-impact-2026-08-11-1932.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T19:32:20.154999+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108346036-1786028392167-gettyimages-2289337999-anotherday258793706_oxehpwvk.jpeg?v=1786028432&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in Textiles & Apparel Sector?",
+      "excerpt": "Explore our latest analysis of Amer Sports Inc (AS) stock, examining bullish sentiment, sector trends, and growth catalysts to determine if AS is a smart buy.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 110,
+      "href": "/blog/as-news-impact-2026-08-11-1932.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T19:32:20.154999+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250006-17678891482026-01-08t161359z_617881314_rc24xiap1sl2_rtrmadp_0_usa-health-diet.jpeg?v=1767889168&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Industry Challenges?",
+      "excerpt": "Dive into ON Semiconductor's stock outlook as we explore its growth prospects, risks, valuation, and competitive position in the dynamic semiconductor landscape.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 96,
+      "href": "/blog/on-news-impact-2026-08-11-1932.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T19:32:20.154999+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108347976-1786466278371-gettyimages-1779889378-HOMES_TANNER.jpeg?v=1786466301&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "IT Stock Analysis: Gartner Inc Stock Forecast & Outlook \u2014 Is IT a Buy?",
+      "excerpt": "Gartner Inc (IT) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 34,
+      "href": "/blog/it-news-impact-2026-08-11-1932.html",
+      "published_date": "2026-08-11",
+      "generated_at": "2026-08-11T19:32:20.154999+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108048666-1729106178223-gettyimages-1465289648-dsc09949-edit-edit.jpeg?v=1729547459&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Why This Textiles & Apparel Leader Is Gaining Momentum",
@@ -27335,5 +27407,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-11T17:24:33.799091+00:00"
+  "market_data_as_of": "2026-08-11T19:32:20.154999+00:00"
 }

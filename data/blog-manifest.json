@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-12T13:53:47.043845+00:00",
+  "generated_at": "2026-08-12T15:27:09.487693+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Market Sentiment?",
+      "excerpt": "Explore a detailed AS stock analysis with a bullish outlook, key growth drivers, valuation insights, risks, and what investors need to watch in 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 118,
+      "href": "/blog/as-news-impact-2026-08-12-1527.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T15:27:09.487693+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348451-1786542135771-gettyimages-2289640398-US-NEW_YORK-STOCK.jpeg?v=1786542190&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Why This Semiconductor Stock Is Poised for Growth",
+      "excerpt": "Discover why ON Semiconductor (ON) offers a bullish opportunity amid strong industry demand, rising revenues, and strategic growth plans in our latest stock analysis.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 89,
+      "href": "/blog/on-news-impact-2026-08-12-1527.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T15:27:09.487693+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107252241-1686089435881-gettyimages-1258489433-RAFAPRESS_06062023-06866.jpeg?v=1726156596&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Tech Play a Buy Amid Market Buzz?",
+      "excerpt": "Explore whether C3.ai Inc (AI) is a compelling buy as investors weigh bullish AI industry prospects against recent stock pressures and competition.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 29,
+      "href": "/blog/ai-news-impact-2026-08-12-1527.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T15:27:09.487693+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108074552-1733934578551-DOV_Image_7.jpg?v=1733934904&w=1920&h=1080"
+    },
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Navigating Risks Amid Geopolitical Tensions",
+      "excerpt": "Analyze Seanergy Maritime Holdings stock amid Red Sea attacks and maritime risks. Understand SHIP's outlook in a volatile marine industry environment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/ship-news-impact-2026-08-12-1527.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T15:27:09.487693+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Industry Shifts in 2026?",
+      "excerpt": "Explore Gartner Inc's stock outlook in 2026, examining key drivers, risks, and how industry changes impact IT's growth and valuation potential.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/it-news-impact-2026-08-12-1527.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T15:27:09.487693+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Now the Time to Buy This Leisure Products Giant?",
+      "excerpt": "Explore Hasbro Inc's current positioning within the leisure products industry, key risks to consider, and whether HAS stock stands as a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 24,
+      "href": "/blog/has-news-impact-2026-08-12-1527.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T15:27:09.487693+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108151651-1748481689555-gettyimages-679015258-CHINA_COMAC_C919.jpeg?v=1748499402&w=1920&h=1080"
+    },
     {
       "ticker": "OR",
       "title": "OR Royalties Inc (OR) Stock Analysis: Is This Metals & Mining Play A Buy in 2026?",
@@ -27551,5 +27623,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-12T13:53:47.043845+00:00"
+  "market_data_as_of": "2026-08-12T15:27:09.487693+00:00"
 }

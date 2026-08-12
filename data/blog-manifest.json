@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-11T21:12:10.435664+00:00",
+  "generated_at": "2026-08-12T13:53:47.043845+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "OR",
+      "title": "OR Royalties Inc (OR) Stock Analysis: Is This Metals & Mining Play A Buy in 2026?",
+      "excerpt": "Explore OR Royalties Inc's latest stock outlook in metals & mining. Understand key risks, valuation, and why investors remain neutral amid sector shifts.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 18,
+      "href": "/blog/or-news-impact-2026-08-12-1353.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T13:53:47.043845+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108048666-1729106178223-gettyimages-1465289648-dsc09949-edit-edit.jpeg?v=1729547459&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Strong Buy Amid Textile Sector Trends?",
+      "excerpt": "Explore our 2026 detailed Amer Sports Inc stock analysis uncovering bullish signals, industry context, valuation insights, and key risks for investors.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 109,
+      "href": "/blog/as-news-impact-2026-08-12-1353.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T13:53:47.043845+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250006-17678891482026-01-08t161359z_617881314_rc24xiap1sl2_rtrmadp_0_usa-health-diet.jpeg?v=1767889168&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Why This Bullish Semiconductor Play Is Gaining Momentum",
+      "excerpt": "ON Semiconductor's solid fundamentals and bullish market sentiment highlight it as a compelling semiconductor buy in 2026. Here's our deep-dive stock analysis.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 99,
+      "href": "/blog/on-news-impact-2026-08-12-1353.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T13:53:47.043845+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107252241-1686089435881-gettyimages-1258489433-RAFAPRESS_06062023-06866.jpeg?v=1726156596&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis 2026: Is This AI Play a Buy Amid Tech Sector Shifts?",
+      "excerpt": "Explore our latest analysis of C3.ai (AI) stock, examining bullish sentiments, recent sector trends, and if this AI company offers a compelling investment opportunity now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 33,
+      "href": "/blog/ai-news-impact-2026-08-12-1353.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T13:53:47.043845+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108074552-1733934578551-DOV_Image_7.jpg?v=1733934904&w=1920&h=1080"
+    },
+    {
+      "ticker": "SHIP",
+      "title": "SHIP Stock Analysis: Seanergy Maritime Holdings Corp Stock Forecast & Outlook \u2014 Is SHIP a Buy?",
+      "excerpt": "Seanergy Maritime Holdings Corp (SHIP) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/ship-news-impact-2026-08-12-1353.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T13:53:47.043845+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is This REIT a Buy at $12.01?",
+      "excerpt": "Explore our in-depth Two Harbors Investment Corp (TWO) stock analysis, assessing its current valuation, risks, and long-term outlook in the volatile real estate sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/two-news-impact-2026-08-12-1353.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T13:53:47.043845+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy in Textiles & Apparel?",
@@ -27479,5 +27551,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-11T21:12:10.435664+00:00"
+  "market_data_as_of": "2026-08-12T13:53:47.043845+00:00"
 }

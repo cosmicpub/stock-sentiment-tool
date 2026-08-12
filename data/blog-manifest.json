@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-12T17:26:02.125540+00:00",
+  "generated_at": "2026-08-12T19:34:24.375093+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Market Volatility?",
+      "excerpt": "Explore Gold.com Inc (GOLD) stock analysis amidst shifting Fed rate hikes and inflation data. Uncover key risks, valuation insights, and if GOLD is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/gold-news-impact-2026-08-12-1934.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T19:34:24.375093+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107387754-1710442603582-Fort-Knox-Gold-Pour.jpg?v=1786545406&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is It a Buy Amid a Bullish Outlook?",
+      "excerpt": "Explore why Amer Sports (AS) enjoys bullish momentum in 2026 despite market volatility. Our detailed analysis covers valuation, industry position, and risks.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 138,
+      "href": "/blog/as-news-impact-2026-08-12-1934.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T19:34:24.375093+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is This Semiconductor Titan a Strong Buy in 2026?",
+      "excerpt": "Discover why ON Semiconductor's bullish momentum, driven by sector growth and strong fundamentals, presents a compelling opportunity for investors in 2026.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 98,
+      "href": "/blog/on-news-impact-2026-08-12-1934.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T19:34:24.375093+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis August 2026: Is Now the Time to Buy?",
+      "excerpt": "Discover our August 2026 Gartner Inc (IT) stock analysis highlighting key growth drivers, valuation insights, and risks investors should weigh before buying.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 34,
+      "href": "/blog/it-news-impact-2026-08-12-1934.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T19:34:24.375093+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Leisure Products Market Dynamics?",
+      "excerpt": "Explore our detailed Hasbro stock analysis covering the company\u2019s current valuation, market position, risks, and growth prospects in the leisure products sector.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 29,
+      "href": "/blog/has-news-impact-2026-08-12-1934.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T19:34:24.375093+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108151651-1748481689555-gettyimages-679015258-CHINA_COMAC_C919.jpeg?v=1748499402&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is Now the Time to Buy This AI Tech Leader?",
+      "excerpt": "Explore why C3.ai's bullish outlook amid AI industry growth makes it a compelling pick despite recent volatility. Our deep dive reveals key risks and opportunities.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 29,
+      "href": "/blog/ai-news-impact-2026-08-12-1934.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T19:34:24.375093+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108074552-1733934578551-DOV_Image_7.jpg?v=1733934904&w=1920&h=1080"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis 2026: Is AN a Buy in Today\u2019s Retail Landscape?",
@@ -27695,5 +27767,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-12T17:26:02.125540+00:00"
+  "market_data_as_of": "2026-08-12T19:34:24.375093+00:00"
 }

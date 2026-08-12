@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-12T19:34:24.375093+00:00",
+  "generated_at": "2026-08-12T21:10:57.874143+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) stock with our 2026 analysis\u2014key financial metrics, risk assessment, and expert insights to decide if SAY is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/say-news-impact-2026-08-12-2110.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T21:10:57.874143+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108347956-1786463453550-gettyimages-2289373118-TRUMP_VACCINE_EO.jpeg?v=1786463495&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Smart Buy Amid Bullish Momentum?",
+      "excerpt": "Explore Health In Tech Inc's current bullish stance, valuation outlook, risks, and whether HIT stock is a compelling investment at $1.02.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 17,
+      "href": "/blog/hit-news-impact-2026-08-12-2110.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T21:10:57.874143+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Strong Buy in 2026?",
+      "excerpt": "Explore our comprehensive 2026 analysis of Amer Sports Inc (AS), assessing growth potential, market challenges, and investor sentiment to decide if AS is a buy.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 135,
+      "href": "/blog/as-news-impact-2026-08-12-2110.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T21:10:57.874143+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107387754-1710442603582-Fort-Knox-Gold-Pour.jpg?v=1786545406&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Momentum?",
+      "excerpt": "Discover a detailed ON Semiconductor stock analysis exploring bullish signals, sector dynamics, valuation insights, and key risks for investors.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 103,
+      "href": "/blog/on-news-impact-2026-08-12-2110.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T21:10:57.874143+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108223839-1762804083127-gettyimages-2206665095-COREWEAVE_IPO.jpeg?v=1776970332&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Time to Buy in the Evolving Tech Landscape?",
+      "excerpt": "Explore Gartner Inc's bullish outlook amid AI growth and tech spending shifts, assessing if its $179 stock price signals a strong buying opportunity today.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 39,
+      "href": "/blog/it-news-impact-2026-08-12-2110.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T21:10:57.874143+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis and Forecast: Is This AI Tech Play a Buy in 2026?",
+      "excerpt": "Explore the bullish outlook for C3.ai (AI) amid strong AI demand and strategic investments. Dive into the latest catalysts, risks, and expert insights for this tech stock.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 35,
+      "href": "/blog/ai-news-impact-2026-08-12-2110.html",
+      "published_date": "2026-08-12",
+      "generated_at": "2026-08-12T21:10:57.874143+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "GOLD",
       "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Market Volatility?",
@@ -27767,5 +27839,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-12T19:34:24.375093+00:00"
+  "market_data_as_of": "2026-08-12T21:10:57.874143+00:00"
 }

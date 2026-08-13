@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-12T21:10:57.874143+00:00",
+  "generated_at": "2026-08-13T13:53:52.182615+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore our in-depth analysis of Byline Bancorp Inc (BY) stock. We break down its current valuation, market position, and potential risks to help you decide if BY is a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 19,
+      "href": "/blog/by-news-impact-2026-08-13-1353.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T13:53:52.182615+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348958-1786612254614-gettyimages-2281481201-710a7647.jpeg?v=1786615618&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' performance, valuation, and risks to determine if ARE stock is a buy in today's real estate market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/are-news-impact-2026-08-13-1353.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T13:53:52.182615+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348733-1786565541551-castle_goat_pic_3.jpg?v=1786565612&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy in 2026?",
+      "excerpt": "Explore our detailed analysis of Ucommune International Ltd (UK) stock, examining its bullish momentum, industry position, risks, and potential growth drivers in real estate.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/uk-news-impact-2026-08-13-1353.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T13:53:52.182615+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "GO",
+      "title": "Grocery Outlet Holding Corp (GO) Stock Analysis: Is GO a Buy in 2026?",
+      "excerpt": "Explore Grocery Outlet Holding Corp (GO) stock analysis with a deep dive into its retail positioning, financial health, and growth prospects for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 12,
+      "href": "/blog/go-news-impact-2026-08-13-1353.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T13:53:52.182615+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Current Bearish Sentiment?",
+      "excerpt": "Explore our latest ON Semiconductor stock analysis focusing on bearish market signals, valuation concerns, and the semiconductor sector outlook to see if ON is a buy right now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 111,
+      "href": "/blog/on-news-impact-2026-08-13-1353.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T13:53:52.182615+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108263391-1770655531107-gettyimages-2256632755-DAVOS_WEF_2026.jpeg?v=1770913120&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore why Amer Sports Inc (AS) enjoys bullish sentiment in 2026. We dive into key catalysts, risks, and valuation insights for investors.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 103,
+      "href": "/blog/as-news-impact-2026-08-13-1353.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T13:53:52.182615+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/100893640-100724438-federal-reserve-clouds_r.jpg?v=1450114758&w=1920&h=1080"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
@@ -27839,5 +27911,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-12T21:10:57.874143+00:00"
+  "market_data_as_of": "2026-08-13T13:53:52.182615+00:00"
 }

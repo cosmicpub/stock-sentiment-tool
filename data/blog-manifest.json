@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-13T19:32:53.990314+00:00",
+  "generated_at": "2026-08-13T21:11:36.941786+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amid Industry Risks?",
+      "excerpt": "Explore our detailed Seanergy Maritime Holdings (SHIP) stock analysis for August 2026, balancing its marine industry outlook and recent geopolitical risks.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/ship-news-impact-2026-08-13-2111.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T21:11:36.941786+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's (AS) stock outlook with a detailed analysis of valuation, risks, and industry position amid a neutral market backdrop.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 115,
+      "href": "/blog/as-news-impact-2026-08-13-2111.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T21:11:36.941786+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348058-1786473829586-smaller_format.png?v=1786474084&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Shifts?",
+      "excerpt": "Explore ON Semiconductor's 2026 outlook, key risks, and valuation insights to see if ON stock is a smart buy amid changing industry dynamics.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 96,
+      "href": "/blog/on-news-impact-2026-08-13-2111.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T21:11:36.941786+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108263391-1770655531107-gettyimages-2256632755-DAVOS_WEF_2026.jpeg?v=1770913120&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Bullish Tech Sentiment?",
+      "excerpt": "Explore Gartner Inc's stock outlook as bullish momentum builds. We break down valuation, growth drivers, and risks to help investors decide if IT is a buy today.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 40,
+      "href": "/blog/it-news-impact-2026-08-13-2111.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T21:11:36.941786+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in 2026?",
+      "excerpt": "Explore the latest Two Harbors Investment Corp (TWO) stock analysis, industry outlook, and key risks to determine if TWO is a smart buy for your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/two-news-impact-2026-08-13-2111.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T21:11:36.941786+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348530-1786547869805-gettyimages-2288749340-golba-dailylif260729_npKTw.jpeg?v=1786547901&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy at $48.42?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock forecast amid a neutral market sentiment. We analyze key growth drivers, risks, valuation, and investor outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/are-news-impact-2026-08-13-2111.html",
+      "published_date": "2026-08-13",
+      "generated_at": "2026-08-13T21:11:36.941786+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348733-1786565541551-castle_goat_pic_3.jpg?v=1786565612&w=1920&h=1080"
+    },
     {
       "ticker": "EU",
       "title": "enCore Energy Corp (EU) Stock Analysis: Is EU a Smart Buy in the Shifting Energy Landscape?",
@@ -28055,5 +28127,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-13T19:32:53.990314+00:00"
+  "market_data_as_of": "2026-08-13T21:11:36.941786+00:00"
 }

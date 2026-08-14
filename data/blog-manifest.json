@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-13T21:11:36.941786+00:00",
+  "generated_at": "2026-08-14T13:49:50.605504+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Inflation and Fed Rate Shifts?",
+      "excerpt": "Explore Gold.com's latest stock forecast with insights on inflation impact, Fed rate expectations, and market sentiment to decide if GOLD shares are a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/gold-news-impact-2026-08-14-1349.html",
+      "published_date": "2026-08-14",
+      "generated_at": "2026-08-14T13:49:50.605504+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107387754-1710442603582-Fort-Knox-Gold-Pour.jpg?v=1786545406&w=1920&h=1080"
+    },
+    {
+      "ticker": "KEY",
+      "title": "KeyCorp (KEY) Stock Analysis: Is KEY a Buy Amid Rising Treasury Yields?",
+      "excerpt": "Analyzing KeyCorp's stock with the backdrop of rising treasury yields and economic headwinds. Discover if KEY stands as a compelling buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/key-news-impact-2026-08-14-1349.html",
+      "published_date": "2026-08-14",
+      "generated_at": "2026-08-14T13:49:50.605504+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108112148-1741283419891-gettyimages-2203008664-AFP_36ZG9WQ.jpeg?v=1741284192&w=1920&h=1080"
+    },
+    {
+      "ticker": "STEP",
+      "title": "StepStone Group Inc (STEP) Stock Analysis: Is STEP a Strong Buy in Financial Services?",
+      "excerpt": "Explore StepStone Group Inc's latest stock analysis, growth prospects, risks, and valuation insights to determine if STEP is a buy in today's market.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/step-news-impact-2026-08-14-1349.html",
+      "published_date": "2026-08-14",
+      "generated_at": "2026-08-14T13:49:50.605504+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corp (NEXT) Stock Analysis: Is NEXT a Buy in Today\u2019s Energy Market?",
+      "excerpt": "Explore a comprehensive analysis of NextDecade Corp (NEXT), focusing on its current valuation, industry dynamics, and investment prospects in the evolving energy sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/next-news-impact-2026-08-14-1349.html",
+      "published_date": "2026-08-14",
+      "generated_at": "2026-08-14T13:49:50.605504+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "WEST",
+      "title": "Westrock Coffee Co (WEST) Stock Analysis: Is WEST a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Westrock Coffee Co's current stock outlook with a detailed analysis of its fundamentals, market positioning, and risks. Is WEST a smart buy now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/west-news-impact-2026-08-14-1349.html",
+      "published_date": "2026-08-14",
+      "generated_at": "2026-08-14T13:49:50.605504+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Apparel Giant Poised for Growth?",
+      "excerpt": "Discover our detailed Amer Sports Inc (AS) stock analysis and forecast. Explore valuation, market position, risks, and why investors remain cautious despite stable fundamentals.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 112,
+      "href": "/blog/as-news-impact-2026-08-14-1349.html",
+      "published_date": "2026-08-14",
+      "generated_at": "2026-08-14T13:49:50.605504+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "SHIP",
       "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amid Industry Risks?",
@@ -28127,5 +28199,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-13T21:11:36.941786+00:00"
+  "market_data_as_of": "2026-08-14T13:49:50.605504+00:00"
 }

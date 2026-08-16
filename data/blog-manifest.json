@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-15T13:04:39.834903+00:00",
+  "generated_at": "2026-08-16T13:06:34.761635+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is This Retail Giant a Buy in 2026?",
+      "excerpt": "Explore our detailed AutoNation stock forecast with key insights on growth prospects, risks, and valuation for investors considering AN shares in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/an-news-impact-2026-08-16-1306.html",
+      "published_date": "2026-08-16",
+      "generated_at": "2026-08-16T13:06:34.761635+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108349571-1786691479170-gettyimages-2275460438-cannabis_BC_021_051326JPG.jpeg?v=1786691530&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Technology Play a Buy in 2026?",
+      "excerpt": "Discover a detailed analysis of C3.ai Inc's (AI) stock to determine its outlook amid the booming AI industry and current market dynamics in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/ai-news-impact-2026-08-16-1306.html",
+      "published_date": "2026-08-16",
+      "generated_at": "2026-08-16T13:06:34.761635+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344539-1785853710278-Traders-Photo-20260803-KK-PRESS-016.jpg?v=1785853829&w=1920&h=1080"
+    },
+    {
+      "ticker": "WEST",
+      "title": "Westrock Coffee Co (WEST) Stock Analysis: Is It A Buy At $8.43?",
+      "excerpt": "Explore Westrock Coffee's current position in the food products sector, evaluating key factors shaping its stock outlook and whether WEST is a buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/west-news-impact-2026-08-16-1306.html",
+      "published_date": "2026-08-16",
+      "generated_at": "2026-08-16T13:06:34.761635+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is This Tech Micro-Cap a Buy Amid AI Surge?",
+      "excerpt": "Explore Canaan Inc's latest outlook as the AI boom reshapes tech stocks. We analyze CAN\u2019s prospects, risks, and valuation to answer: Is CAN a buy now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/can-news-impact-2026-08-16-1306.html",
+      "published_date": "2026-08-16",
+      "generated_at": "2026-08-16T13:06:34.761635+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Why the Bearish Sentiment Could Signal a Key Buying Opportunity",
+      "excerpt": "Discover the reasons behind the bearish outlook on Amer Sports Inc (AS) stock, including valuation insights and risks investors must watch before deciding to buy.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 122,
+      "href": "/blog/as-news-impact-2026-08-16-1306.html",
+      "published_date": "2026-08-16",
+      "generated_at": "2026-08-16T13:06:34.761635+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Current Semiconductor Landscape?",
+      "excerpt": "Explore ON Semiconductor's recent performance, challenges, and growth potential amid semiconductor industry dynamics to determine if ON is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 88,
+      "href": "/blog/on-news-impact-2026-08-16-1306.html",
+      "published_date": "2026-08-16",
+      "generated_at": "2026-08-16T13:06:34.761635+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile & Apparel Stock a Buy Amid Bearish Sentiment?",
@@ -28559,5 +28631,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-15T13:04:39.834903+00:00"
+  "market_data_as_of": "2026-08-16T13:06:34.761635+00:00"
 }

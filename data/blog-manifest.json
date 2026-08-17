@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-17T16:53:17.970782+00:00",
+  "generated_at": "2026-08-17T19:05:57.120049+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis August 2026: Is It a Buy Amid Semiconductor Growth?",
+      "excerpt": "Explore ON Semiconductor's strong fundamentals and bullish outlook in August 2026. We dissect key catalysts, risks, and why investors are optimistic about ON stock.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 120,
+      "href": "/blog/on-news-impact-2026-08-17-1905.html",
+      "published_date": "2026-08-17",
+      "generated_at": "2026-08-17T19:05:57.120049+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108350498-1786986480662-gettyimages-1251765312-20230125ocr-l-dis-worldofcolor-jg-14.jpeg?v=1786986511&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Discover a detailed Amer Sports Inc stock analysis, examining key risks, valuation, and outlook in the textiles and apparel sector amid current bearish trends.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 95,
+      "href": "/blog/as-news-impact-2026-08-17-1905.html",
+      "published_date": "2026-08-17",
+      "generated_at": "2026-08-17T19:05:57.120049+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108230176-1764603822722-108230176-17637559702025-11-21t201158z_1546648356_rc261iafo6zz_rtrmadp_0_lilly-stocks.jpg?v=1779898152&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid a Bearish Outlook?",
+      "excerpt": "Explore our detailed Saratoga Investment Corp (SAY) stock analysis\u2014unpacking its bearish sentiment, market position, risks, and long-term prospects to help investors decide if SAY is a buy.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 36,
+      "href": "/blog/say-news-impact-2026-08-17-1905.html",
+      "published_date": "2026-08-17",
+      "generated_at": "2026-08-17T19:05:57.120049+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316059-1780500480280-gettyimages-2277390163-260523_tohomes_104.jpeg?v=1786660615&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore our in-depth Alexandria Real Estate Equities stock analysis for 2026. We break down ARE\u2019s growth prospects, valuation, risks, and market position to help investors decide.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 27,
+      "href": "/blog/are-news-impact-2026-08-17-1905.html",
+      "published_date": "2026-08-17",
+      "generated_at": "2026-08-17T19:05:57.120049+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108318340-17809408152026-06-08t174532z_2056210661_rc2tplaw4p32_rtrmadp_0_apple-wwdc.jpeg?v=1780940834&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Bullish Outlook in Tech?",
+      "excerpt": "Explore our detailed Gartner Inc stock analysis as we break down the bullish outlook, valuation insights, and growth prospects for IT in the technology sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 25,
+      "href": "/blog/it-news-impact-2026-08-17-1905.html",
+      "published_date": "2026-08-17",
+      "generated_at": "2026-08-17T19:05:57.120049+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348538-1786548860834-108348538-1786548734348-gettyimages-2289681079-LONDIAN_WASON_IPO.jpg?v=1786548870&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our detailed Bloom Energy Corp stock analysis covering BE's bullish momentum, financial snapshot, growth prospects, and key risks to watch in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 20,
+      "href": "/blog/be-news-impact-2026-08-17-1905.html",
+      "published_date": "2026-08-17",
+      "generated_at": "2026-08-17T19:05:57.120049+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Momentum?",
@@ -28847,5 +28919,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-17T16:53:17.970782+00:00"
+  "market_data_as_of": "2026-08-17T19:05:57.120049+00:00"
 }

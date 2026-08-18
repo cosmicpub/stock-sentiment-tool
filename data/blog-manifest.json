@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-18T19:05:39.986127+00:00",
+  "generated_at": "2026-08-18T20:46:40.470600+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy in the Apparel Sector?",
+      "excerpt": "Explore a detailed 2026 outlook on Amer Sports Inc (AS) as we dissect recent trends, valuation, and risks to uncover if it's a compelling buy in textiles and apparel.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 116,
+      "href": "/blog/as-news-impact-2026-08-18-2046.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T20:46:40.470600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108349891-1786726456371-Kristy_Layden.png?v=1786738313&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Booming Semiconductor Sector?",
+      "excerpt": "ON Semiconductor (ON) shows bullish momentum with strong industry tailwinds. Explore our detailed analysis, risks, and stock outlook for smart investing.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 104,
+      "href": "/blog/on-news-impact-2026-08-18-2046.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T20:46:40.470600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/104710479-20170914-9377-2455.jpg?v=1505412635&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is It a Smart Buy in Today's Real Estate Market?",
+      "excerpt": "Explore a detailed Alexandria Real Estate Equities (ARE) stock analysis, its risks, growth drivers, and whether ARE is a buy given current market trends.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 46,
+      "href": "/blog/are-news-impact-2026-08-18-2046.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T20:46:40.470600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108127568-1744034668789-gettyimages-57201457-57195271SO005_Fed_Chairman_.jpeg?v=1784674481&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Geopolitical Risks?",
+      "excerpt": "Discover why Byline Bancorp's stock has pulled back despite positive updates, and what investors should watch in this neutral outlook amid Middle East tensions.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 27,
+      "href": "/blog/by-news-impact-2026-08-18-2046.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T20:46:40.470600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108126999-17437959902025-04-04t194522z_1966743906_rc27rda17sjy_rtrmadp_0_usa-stocks.jpeg?v=1747687355&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Leader a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore C3.ai Inc's current bearish outlook, AI industry trends, and whether this technology stock offers a buying opportunity at $9.87.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 21,
+      "href": "/blog/ai-news-impact-2026-08-18-2046.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T20:46:40.470600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108350628-1786998727283-gettyimages-2233679886-jh_dkgenzonthego_0159.jpeg?v=1786998772&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services?",
+      "excerpt": "Explore our in-depth Saratoga Investment Corp (SAY) stock analysis covering its financial services prospects, risks, and current valuation to help determine if it's a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/say-news-impact-2026-08-18-2046.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T20:46:40.470600+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in 2026?",
@@ -29279,5 +29351,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-18T19:05:39.986127+00:00"
+  "market_data_as_of": "2026-08-18T20:46:40.470600+00:00"
 }

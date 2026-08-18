@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-17T20:50:56.372847+00:00",
+  "generated_at": "2026-08-18T13:15:43.534809+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Landscape?",
+      "excerpt": "Explore Byline Bancorp Inc\u2019s current position and prospects in the banking sector. Our BY stock analysis covers valuation, risks, and what investors should watch now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/by-news-impact-2026-08-18-1315.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T13:15:43.534809+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Gold.com Inc's current bullish outlook, key market drivers, risks, and valuation insights in our comprehensive GOLD stock analysis.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/gold-news-impact-2026-08-18-1315.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T13:15:43.534809+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Insurance Sector Pressures?",
+      "excerpt": "Explore Health In Tech Inc's current stock outlook, key risks, valuation insights, and whether HIT is a buy in today's fluctuating insurance market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/hit-news-impact-2026-08-18-1315.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T13:15:43.534809+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348569-1786550238318-Traders-Photo-20260811-KK-PRESS-008.jpg?v=1786550302&w=1920&h=1080"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in Biotechnology at $0.0005?",
+      "excerpt": "Explore an in-depth analysis of IMAC Holdings Inc (BACK) stock at its current micro-cap price. We examine the biotech outlook, valuation, risks, and growth prospects.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/back-news-impact-2026-08-18-1315.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T13:15:43.534809+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the latest Amer Sports Inc stock analysis focusing on bearish signals, market risks, and growth prospects in the textiles and apparel sector.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 112,
+      "href": "/blog/as-news-impact-2026-08-18-1315.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T13:15:43.534809+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108349787-1786717367785-gettyimages-2272057454-ap1_6013-3124830_fnys7ogm.jpeg?v=1786717392&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Strong Buy in 2026?",
+      "excerpt": "Explore ON Semiconductor's robust growth outlook, latest industry trends, and key risks to determine if ON stock is a smart buy in the semiconductor sector.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 112,
+      "href": "/blog/on-news-impact-2026-08-18-1315.html",
+      "published_date": "2026-08-18",
+      "generated_at": "2026-08-18T13:15:43.534809+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/104710479-20170914-9377-2455.jpg?v=1505412635&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy in the Semiconductor Sector?",
@@ -28991,5 +29063,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-17T20:50:56.372847+00:00"
+  "market_data_as_of": "2026-08-18T13:15:43.534809+00:00"
 }

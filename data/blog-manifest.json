@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-19T19:00:57.739462+00:00",
+  "generated_at": "2026-08-19T20:51:50.185014+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Time to Buy This Technology Leader?",
+      "excerpt": "Explore our comprehensive Gartner Inc (IT) stock analysis with insights on valuation, growth prospects, and risks to decide if it's a smart buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/it-news-impact-2026-08-19-2051.html",
+      "published_date": "2026-08-19",
+      "generated_at": "2026-08-19T20:51:50.185014+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108351665-1787160418089-donatell_thumbnail_2.jpg?v=1787160516&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Giant a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore the latest Amer Sports Inc stock analysis with bullish momentum, valuation insights, and key risks for investors in the textiles and apparel sector.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 123,
+      "href": "/blog/as-news-impact-2026-08-19-2051.html",
+      "published_date": "2026-08-19",
+      "generated_at": "2026-08-19T20:51:50.185014+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348722-1786564713692-gettyimages-2277389286-33a7775_target02_05192026.jpeg?v=1786564745&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Strength?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, key growth drivers, valuation, and risks shaping its stock performance in the dynamic semiconductor industry.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 123,
+      "href": "/blog/on-news-impact-2026-08-19-2051.html",
+      "published_date": "2026-08-19",
+      "generated_at": "2026-08-19T20:51:50.185014+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108317327-1780663281295-gettyimages-2279132019-BLOOMBERG_TECH.jpeg?v=1780663408&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is It a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Alexandria Real Estate Equities stock analysis, including its current valuation, sector outlook, and potential risks to assess if ARE is a worthwhile buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 46,
+      "href": "/blog/are-news-impact-2026-08-19-2051.html",
+      "published_date": "2026-08-19",
+      "generated_at": "2026-08-19T20:51:50.185014+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/44487810-cantor_fitzgerald_sign_200.jpg?v=1349480140&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Now the Time to Buy amid Recent Pullbacks?",
+      "excerpt": "Discover why Hasbro stock (HAS) has retraced recently despite positive momentum, and what investors should watch for in this Leisure Products giant.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/has-news-impact-2026-08-19-2051.html",
+      "published_date": "2026-08-19",
+      "generated_at": "2026-08-19T20:51:50.185014+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108126999-17437959902025-04-04t194522z_1966743906_rc27rda17sjy_rtrmadp_0_usa-stocks.jpeg?v=1747687355&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy in Electrical Equipment Sector?",
+      "excerpt": "Explore Bloom Energy Corp's latest stock forecast with insights into its prospects in the electrical equipment industry and key risks investors should watch.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/be-news-impact-2026-08-19-2051.html",
+      "published_date": "2026-08-19",
+      "generated_at": "2026-08-19T20:51:50.185014+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Bullish Sentiment?",
@@ -29639,5 +29711,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-19T19:00:57.739462+00:00"
+  "market_data_as_of": "2026-08-19T20:51:50.185014+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-21T15:01:10.261027+00:00",
+  "generated_at": "2026-08-21T16:59:16.696359+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy in Today's Insurance Market?",
+      "excerpt": "Dive into our latest Health In Tech Inc stock analysis to uncover if HIT's current $1 price point offers a compelling entry amid a mixed industry backdrop.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 20,
+      "href": "/blog/hit-news-impact-2026-08-21-1659.html",
+      "published_date": "2026-08-21",
+      "generated_at": "2026-08-21T16:59:16.696359+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore why ON Semiconductor stock faces bearish pressure despite solid fundamentals. Get our detailed analysis and short- vs long-term outlook.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 128,
+      "href": "/blog/on-news-impact-2026-08-21-1659.html",
+      "published_date": "2026-08-21",
+      "generated_at": "2026-08-21T16:59:16.696359+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291782-1776264090023-gettyimages-2264127759-campbell-notitle260303_npIOd.jpeg?v=1776264143&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Explore the latest Amer Sports Inc stock analysis with insights into valuation, competitive stance, risks, and the evolving industry outlook for AS shares.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 99,
+      "href": "/blog/as-news-impact-2026-08-21-1659.html",
+      "published_date": "2026-08-21",
+      "generated_at": "2026-08-21T16:59:16.696359+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341785-17853378942026-07-29t150859z_29779515_rc2pnmaq6tsf_rtrmadp_0_usa-stocks.jpeg?v=1785338016&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy Amid Real Estate Stability?",
+      "excerpt": "Explore Alexandria Real Estate Equities' current positioning in real estate, growth prospects, risks, and whether ARE stock stands as a compelling buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 55,
+      "href": "/blog/are-news-impact-2026-08-21-1659.html",
+      "published_date": "2026-08-21",
+      "generated_at": "2026-08-21T16:59:16.696359+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is This Financial Services Play Worth Buying Now?",
+      "excerpt": "Explore the bearish sentiment surrounding Saratoga Investment Corp (SAY) with insights on its valuation, risks, and market outlook for investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 31,
+      "href": "/blog/say-news-impact-2026-08-21-1659.html",
+      "published_date": "2026-08-21",
+      "generated_at": "2026-08-21T16:59:16.696359+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108352136-1787233816159-gettyimages-2253273014-9532512292594_atl_v_lar.jpeg?v=1787237056&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Neutral Sentiment Amid AI Industry Shifts",
+      "excerpt": "Explore Gartner Inc's (IT) current neutral rating as AI impacts the tech sector. We dive into growth prospects, competitive landscape, and key risks for investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 26,
+      "href": "/blog/it-news-impact-2026-08-21-1659.html",
+      "published_date": "2026-08-21",
+      "generated_at": "2026-08-21T16:59:16.696359+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108351829-1787170165769-AI_workplace_drama_v2.png?v=1787170396&w=1920&h=1080"
+    },
     {
       "ticker": "CAN",
       "title": "Canaan Inc (CAN) Stock Analysis 2026: Is This Tech Play Worth Buying Now?",
@@ -30215,5 +30287,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-21T15:01:10.261027+00:00"
+  "market_data_as_of": "2026-08-21T16:59:16.696359+00:00"
 }

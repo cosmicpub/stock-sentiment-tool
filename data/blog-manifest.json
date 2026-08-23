@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-22T13:06:50.742152+00:00",
+  "generated_at": "2026-08-23T13:08:05.622694+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy in the Leisure Products Sector?",
+      "excerpt": "Explore Hasbro Inc's latest stock performance and outlook in leisure products. Discover key drivers, risks, and investment potential for HAS at $93.54.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/has-news-impact-2026-08-23-1308.html",
+      "published_date": "2026-08-23",
+      "generated_at": "2026-08-23T13:08:05.622694+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108350326-1786973662775-gettyimages-2284942155-AFP_B9W49E4.jpeg?v=1786973690&w=1920&h=1080"
+    },
+    {
+      "ticker": "OR",
+      "title": "OR Royalties (OR) Stock Analysis 2026: Is This Metals & Mining Play a Buy?",
+      "excerpt": "Explore OR Royalties Inc's 2026 outlook amid metals & mining trends, valuation insights, and bullish market sentiment. Is OR stock a smart buy?",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 20,
+      "href": "/blog/or-news-impact-2026-08-23-1308.html",
+      "published_date": "2026-08-23",
+      "generated_at": "2026-08-23T13:08:05.622694+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108352958-1787344743741-stav5_2.jpg?v=1787345001&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Debt Crisis Concerns?",
+      "excerpt": "Explore Gold.com Inc's (GOLD) outlook as gold demand rebounds amid debt fears, bond jitters, and a weaker dollar. Is GOLD stock positioned for gains?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/gold-news-impact-2026-08-23-1308.html",
+      "published_date": "2026-08-23",
+      "generated_at": "2026-08-23T13:08:05.622694+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108297862-17773131662026-04-27t163257z_2063345977_rc2rxkaa76sz_rtrmadp_0_usa-stocks.jpeg?v=1777314890&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Bearish Sentiment Clouds Growth Prospects",
+      "excerpt": "ON Semiconductor's stock faces downward pressure amid industry challenges and geopolitical risks. We explore if ON is a buy or a wait-and-see.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 124,
+      "href": "/blog/on-news-impact-2026-08-23-1308.html",
+      "published_date": "2026-08-23",
+      "generated_at": "2026-08-23T13:08:05.622694+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy in the Apparel Sector?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis for 2026, highlighting valuation, risks, and growth prospects in the textiles and apparel industry.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 70,
+      "href": "/blog/as-news-impact-2026-08-23-1308.html",
+      "published_date": "2026-08-23",
+      "generated_at": "2026-08-23T13:08:05.622694+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341785-17853378942026-07-29t150859z_29779515_rc2pnmaq6tsf_rtrmadp_0_usa-stocks.jpeg?v=1785338016&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' 2026 outlook with our deep dive into its financials, market position, and risks to determine if ARE stock is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 64,
+      "href": "/blog/are-news-impact-2026-08-23-1308.html",
+      "published_date": "2026-08-23",
+      "generated_at": "2026-08-23T13:08:05.622694+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108352763-1787324559690-Dr_Ronald_Primas_small_thumbnail.png?v=1787324793&w=1920&h=1080"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai Inc (AI) Stock Analysis 2026: Is This AI Play a Buy Amid Bullish Sentiment?",
@@ -30503,5 +30575,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-22T13:06:50.742152+00:00"
+  "market_data_as_of": "2026-08-23T13:08:05.622694+00:00"
 }

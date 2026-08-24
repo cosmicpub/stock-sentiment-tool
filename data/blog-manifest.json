@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-24T15:07:49.083081+00:00",
+  "generated_at": "2026-08-24T17:03:36.161415+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is This Tech Name a Buy at $0.36?",
+      "excerpt": "Explore Canaan Inc's current position in the tech sector with a detailed stock analysis, valuation insights, and where CAN stands for investors in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/can-news-impact-2026-08-24-1703.html",
+      "published_date": "2026-08-24",
+      "generated_at": "2026-08-24T17:03:36.161415+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108351193-1787086120940-gettyimages-2261672000-dsc00503.jpeg?v=1787086134&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is This Semiconductor Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor Corp's 2026 stock forecast amid industry pressures and bearish sentiment. Is ON stock a compelling opportunity or a risk?",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 143,
+      "href": "/blog/on-news-impact-2026-08-24-1703.html",
+      "published_date": "2026-08-24",
+      "generated_at": "2026-08-24T17:03:36.161415+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our in-depth Amer Sports Inc stock analysis, uncovering key growth drivers, valuation insights, and risks to help you decide if AS stock is a buy today.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 79,
+      "href": "/blog/as-news-impact-2026-08-24-1703.html",
+      "published_date": "2026-08-24",
+      "generated_at": "2026-08-24T17:03:36.161415+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108352965-1787579279135-108352965-1787345577093-gettyimages-2290821906-AFP_C69G2KC.jpeg?v=1787579300&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Data Center Play a Buy Now?",
+      "excerpt": "Dive into our detailed C3.ai stock analysis covering its AI data center exposure, recent market sentiment, and key risks investors should monitor.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 41,
+      "href": "/blog/ai-news-impact-2026-08-24-1703.html",
+      "published_date": "2026-08-24",
+      "generated_at": "2026-08-24T17:03:36.161415+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108229968-1763739290840-gettyimages-2236733569-STARGATE_DATA_CENTER.jpeg?v=1770838644&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Market?",
+      "excerpt": "Explore our comprehensive Alexandria Real Estate Equities (ARE) stock analysis, examining market position, risks, and growth outlook for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 38,
+      "href": "/blog/are-news-impact-2026-08-24-1703.html",
+      "published_date": "2026-08-24",
+      "generated_at": "2026-08-24T17:03:36.161415+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315442-1780426534373-photo_181.jpg?v=1780511397&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy at $200.95 in the Competitive Tech Landscape?",
+      "excerpt": "Explore Gartner Inc's latest stock analysis, current valuation, and key risks to decide if IT stock is a smart buy for your portfolio now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/it-news-impact-2026-08-24-1703.html",
+      "published_date": "2026-08-24",
+      "generated_at": "2026-08-24T17:03:36.161415+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314510-1780318208233-gettyimages-2278510316-TAIWAN_COMPUTEX.jpeg?v=1780318269&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is the Semiconductor Giant a Buy Amid Rising Trade Tensions?",
@@ -30719,5 +30791,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-24T15:07:49.083081+00:00"
+  "market_data_as_of": "2026-08-24T17:03:36.161415+00:00"
 }

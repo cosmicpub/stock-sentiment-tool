@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-25T15:12:29.013749+00:00",
+  "generated_at": "2026-08-25T17:03:43.244157+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy in 2026?",
+      "excerpt": "Explore our comprehensive ON Semiconductor stock analysis including current valuation, growth prospects, industry challenges, and investor risks as of August 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 116,
+      "href": "/blog/on-news-impact-2026-08-25-1703.html",
+      "published_date": "2026-08-25",
+      "generated_at": "2026-08-25T17:03:43.244157+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108266498-1771360417667-gettyimages-2220623510-dsc05609.jpeg?v=1771360560&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore our in-depth Amer Sports Inc stock analysis and find out if AS shares at $31.22 are a smart buy in the textiles and apparel sector amid bullish sentiment.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 93,
+      "href": "/blog/as-news-impact-2026-08-25-1703.html",
+      "published_date": "2026-08-25",
+      "generated_at": "2026-08-25T17:03:43.244157+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This Technology Contender a Buy Amid AI Buzz?",
+      "excerpt": "Explore our detailed C3.ai stock analysis as we assess if this AI-driven tech stock holds promise for investors given recent market moves and earnings cues.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 41,
+      "href": "/blog/ai-news-impact-2026-08-25-1703.html",
+      "published_date": "2026-08-25",
+      "generated_at": "2026-08-25T17:03:43.244157+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in the Current Market?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock analysis, valuation insights, risks, and potential in financial services as of August 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/say-news-impact-2026-08-25-1703.html",
+      "published_date": "2026-08-25",
+      "generated_at": "2026-08-25T17:03:43.244157+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Neutral Sector Sentiment?",
+      "excerpt": "Explore Byline Bancorp's current valuation, sector backdrop, and growth prospects. Our detailed BY stock analysis weighs risks and opportunities for potential investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 22,
+      "href": "/blog/by-news-impact-2026-08-25-1703.html",
+      "published_date": "2026-08-25",
+      "generated_at": "2026-08-25T17:03:43.244157+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108353833-1787661224123-Dominic4.jpg?v=1787661342&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities, Inc (ARE) Stock Analysis and Outlook for 2026",
+      "excerpt": "Explore a detailed Alexandria Real Estate Equities (ARE) stock analysis covering its fundamentals, market position, risks, and growth prospects for investors in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/are-news-impact-2026-08-25-1703.html",
+      "published_date": "2026-08-25",
+      "generated_at": "2026-08-25T17:03:43.244157+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor (ON) Stock Analysis: Neutral Sentiment Amid Semiconductor Sector Dynamics",
@@ -31079,5 +31151,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-25T15:12:29.013749+00:00"
+  "market_data_as_of": "2026-08-25T17:03:43.244157+00:00"
 }

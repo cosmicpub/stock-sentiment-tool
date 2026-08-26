@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-25T20:53:08.367919+00:00",
+  "generated_at": "2026-08-26T13:30:53.735013+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is It a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Gartner Inc's (IT) current stock outlook with a detailed analysis of valuation, risks, market position, and investment potential in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/it-news-impact-2026-08-26-1330.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T13:30:53.735013+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108353938-1787671146970-gettyimages-2285692692-AFP_C2CE4G7.jpeg?v=1787671381&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy in Electrical Equipment Sector?",
+      "excerpt": "Explore our in-depth Bloom Energy Corp stock analysis to uncover if BE shares offer a compelling buy amid neutral sentiment and sector dynamics.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 22,
+      "href": "/blog/be-news-impact-2026-08-26-1330.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T13:30:53.735013+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108176392-1753366011605-gettyimages-94822102-pdir0505Hi_j0094JPG.jpeg?v=1753366045&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore why Two Harbors Investment Corp (TWO) is facing bearish momentum and discover the key risks and outlook for investors in this real estate stock analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/two-news-impact-2026-08-26-1330.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T13:30:53.735013+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings Corp (SHIP) Stock Analysis: Is SHIP a Buy Amid Regional Shipping Risks?",
+      "excerpt": "Explore Seanergy Maritime Holdings' current position in marine shipping. Assess risks from geopolitical tensions and if SHIP stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/ship-news-impact-2026-08-26-1330.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T13:30:53.735013+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy or Avoid?",
+      "excerpt": "Delving into ON Semiconductor's bearish momentum amidst semiconductor sector challenges. Is ON stock a compelling buy or a risk to sidestep?",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 111,
+      "href": "/blog/on-news-impact-2026-08-26-1330.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T13:30:53.735013+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108351786-17871671372026-08-19t191640z_1943226963_rc2v1namf2q3_rtrmadp_0_usa-trump.jpeg?v=1787167215&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Player Worth Buying Now?",
+      "excerpt": "Explore our in-depth Amer Sports Inc stock analysis to understand key risks, growth prospects, and whether AS stock suits your portfolio amid industry challenges.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 96,
+      "href": "/blog/as-news-impact-2026-08-26-1330.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T13:30:53.735013+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Bullish Retail Momentum?",
@@ -31295,5 +31367,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-25T20:53:08.367919+00:00"
+  "market_data_as_of": "2026-08-26T13:30:53.735013+00:00"
 }

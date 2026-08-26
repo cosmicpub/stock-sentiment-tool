@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-26T15:57:39.808638+00:00",
+  "generated_at": "2026-08-26T18:11:51.989525+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in the Leisure Products Sector?",
+      "excerpt": "Explore Here Group Ltd's latest stock analysis, industry outlook, and key factors to decide if HERE is a worthy buy at $1.85 within the Leisure Products market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/here-news-impact-2026-08-26-1811.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T18:11:51.989525+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344711-1785865814969-gettyimages-2266485386-NVIDIA_GTC.jpeg?v=1785865841&w=1920&h=1080"
+    },
+    {
+      "ticker": "BILL",
+      "title": "BILL Holdings Inc (BILL) Stock Analysis: Is BILL a Buy in 2026?",
+      "excerpt": "Explore our in-depth analysis of BILL Holdings Inc stock, uncovering key growth drivers, risks, and whether this technology firm is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 11,
+      "href": "/blog/bill-news-impact-2026-08-26-1811.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T18:11:51.989525+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108354607-1787761416094-gettyimages-2284795836-ALLEN__CO_2026.jpeg?v=1787761430&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Bearish Sentiment Clouds Semiconductor Outlook",
+      "excerpt": "ON Semiconductor (ON) faces bearish pressures amid semiconductor sector challenges and macroeconomic uncertainties. See if ON is a buy right now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 108,
+      "href": "/blog/on-news-impact-2026-08-26-1811.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T18:11:51.989525+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341984-1785352838305-gettyimages-2288190361-wm025301_8kp9qjin.jpeg?v=1785797449&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Explore our in-depth analysis of Amer Sports Inc (AS) stock, including current valuation, industry positioning, and key risks to help investors decide if AS is a buy.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 96,
+      "href": "/blog/as-news-impact-2026-08-26-1811.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T18:11:51.989525+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Alexandria Real Estate Equities' (ARE) current valuation, growth prospects, and risks in this detailed stock analysis to decide if it's a smart investment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/are-news-impact-2026-08-26-1811.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T18:11:51.989525+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108176392-1753366011605-gettyimages-94822102-pdir0505Hi_j0094JPG.jpeg?v=1753366045&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services Sector?",
+      "excerpt": "Explore the latest Saratoga Investment Corp (SAY) stock analysis, uncover key risks, valuation insights, and decide if SAY is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 52,
+      "href": "/blog/say-news-impact-2026-08-26-1811.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T18:11:51.989525+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "GOLD",
       "title": "Gold.com Inc (GOLD) Stock Analysis: Is Now the Time to Buy in 2026?",
@@ -31439,5 +31511,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-26T15:57:39.808638+00:00"
+  "market_data_as_of": "2026-08-26T18:11:51.989525+00:00"
 }

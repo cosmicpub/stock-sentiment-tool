@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-26T13:30:53.735013+00:00",
+  "generated_at": "2026-08-26T15:57:39.808638+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is Now the Time to Buy in 2026?",
+      "excerpt": "Explore our in-depth analysis of Gold.com Inc (GOLD) highlighting bullish trends, market drivers, and risks ahead of pivotal economic events in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/gold-news-impact-2026-08-26-1557.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T15:57:39.808638+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy or Wait?",
+      "excerpt": "Discover a detailed ON Semiconductor stock analysis amid bearish sentiment and semiconductor industry pressures. Explore risks, opportunities, and expert insights.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 116,
+      "href": "/blog/on-news-impact-2026-08-26-1557.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T15:57:39.808638+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108351786-17871671372026-08-19t191640z_1943226963_rc2v1namf2q3_rtrmadp_0_usa-trump.jpeg?v=1787167215&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Bearish Sentiment Clouds Textile Sector Outlook",
+      "excerpt": "Despite a stable price near $30.86, Amer Sports Inc faces bearish pressures amid geopolitical tensions and industry headwinds, challenging its growth trajectory.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 93,
+      "href": "/blog/as-news-impact-2026-08-26-1557.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T15:57:39.808638+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today\u2019s Financial Landscape?",
+      "excerpt": "A comprehensive Saratoga Investment Corp stock analysis assessing its current valuation, dividend appeal, and growth outlook amid neutral sentiment.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 53,
+      "href": "/blog/say-news-impact-2026-08-26-1557.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T15:57:39.808638+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108330224-1783022123157-gettyimages-2271443231-_32a0224copy.jpeg?v=1787678965&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is It a Buy Amid Real Estate Trends?",
+      "excerpt": "Explore a detailed Alexandria Real Estate Equities stock analysis to understand if ARE is a sound investment choice in today's evolving real estate market.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/are-news-impact-2026-08-26-1557.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T15:57:39.808638+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108176392-1753366011605-gettyimages-94822102-pdir0505Hi_j0094JPG.jpeg?v=1753366045&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Recent Market Moves?",
+      "excerpt": "Explore our in-depth C3.ai (AI) stock analysis to understand the bullish sentiment, key risks, and the latest market developments shaping its outlook.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 36,
+      "href": "/blog/ai-news-impact-2026-08-26-1557.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T15:57:39.808638+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis 2026: Is It a Buy Amid Neutral Market Sentiment?",
@@ -31367,5 +31439,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-26T13:30:53.735013+00:00"
+  "market_data_as_of": "2026-08-26T15:57:39.808638+00:00"
 }

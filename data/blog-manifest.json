@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-26T20:26:43.265355+00:00",
+  "generated_at": "2026-08-26T23:56:00.952650+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is HAS a Buy Amid Leisure Products Market Shifts?",
+      "excerpt": "Delve into Hasbro Inc's latest growth drivers, risks, and valuation metrics to determine if HAS stock is a smart addition to your portfolio in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/has-news-impact-2026-08-26-2356.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T23:56:00.952650+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108176392-1753366011605-gettyimages-94822102-pdir0505Hi_j0094JPG.jpeg?v=1753366045&w=1920&h=1080"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Bio-Techne's current bearish outlook, key risks, and growth prospects in the life sciences tools sector in this detailed TECH stock analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/tech-news-impact-2026-08-26-2356.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T23:56:00.952650+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Name a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's bearish outlook in a volatile semiconductor market. We analyze risks, valuation, and what investors should watch next.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 108,
+      "href": "/blog/on-news-impact-2026-08-26-2356.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T23:56:00.952650+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341984-1785352838305-gettyimages-2288190361-wm025301_8kp9qjin.jpeg?v=1785797449&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Apparel Sector?",
+      "excerpt": "Discover a comprehensive analysis of Amer Sports Inc (AS) stock, examining its current valuation, industry position, risks, and growth potential for investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 106,
+      "href": "/blog/as-news-impact-2026-08-26-2356.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T23:56:00.952650+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108190508-1756156470383-gettyimages-2209028660-UK_MCKINNON.jpeg?v=1756156584&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Market?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock analysis focusing on its real estate niche, financial health, and market outlook as of August 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/are-news-impact-2026-08-26-2356.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T23:56:00.952650+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today\u2019s Financial Landscape?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) with our comprehensive stock analysis covering financial health, market positioning, risks, and growth outlook.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 52,
+      "href": "/blog/say-news-impact-2026-08-26-2356.html",
+      "published_date": "2026-08-26",
+      "generated_at": "2026-08-26T23:56:00.952650+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bearish Sentiment?",
@@ -31583,5 +31655,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-26T20:26:43.265355+00:00"
+  "market_data_as_of": "2026-08-26T23:56:00.952650+00:00"
 }

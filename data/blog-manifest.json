@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-27T23:50:57.409682+00:00",
+  "generated_at": "2026-08-28T22:29:35.064861+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is This Biotech Penny Stock a Buy in 2026?",
+      "excerpt": "Explore IMAC Holdings Inc (BACK) stock forecast with a deep dive into its biotech prospects, valuation challenges, and what investors should watch for in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/back-news-impact-2026-08-28-2229.html",
+      "published_date": "2026-08-28",
+      "generated_at": "2026-08-28T22:29:35.064861+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108355110-1787834798214-gettyimages-2292234735-dji_20260826151149_0030_d_ydbryzwk.jpeg?v=1787834843&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore the latest Two Harbors Investment Corp (TWO) stock analysis including valuation, risks, and market outlook to see if TWO deserves a spot in your portfolio.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/two-news-impact-2026-08-28-2229.html",
+      "published_date": "2026-08-28",
+      "generated_at": "2026-08-28T22:29:35.064861+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108355745-1787924027969-Meta_Platforms_Photo_Illustrations-2291623801-Getty.jpg?v=1787924160&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles and Apparel Sector?",
+      "excerpt": "Explore our in-depth Amer Sports Inc stock analysis covering current price, sector outlook, valuation, and risks to see if AS is a buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 127,
+      "href": "/blog/as-news-impact-2026-08-28-2229.html",
+      "published_date": "2026-08-28",
+      "generated_at": "2026-08-28T22:29:35.064861+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108353951-1787671978491-Traders-20260825-AS-PRESS-4.jpg?v=1787672206&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is This Semiconductor Stock a Buy Now?",
+      "excerpt": "Explore ON Semiconductor Corp's current market position, growth drivers, and risks in this detailed 2026 stock analysis to determine if ON is a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 88,
+      "href": "/blog/on-news-impact-2026-08-28-2229.html",
+      "published_date": "2026-08-28",
+      "generated_at": "2026-08-28T22:29:35.064861+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Retail Sector?",
+      "excerpt": "Explore our deep dive into AutoNation Inc's current trading status, industry position, and growth prospects to decide if AN stock is a solid buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/an-news-impact-2026-08-28-2229.html",
+      "published_date": "2026-08-28",
+      "generated_at": "2026-08-28T22:29:35.064861+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108355819-1787935047563-108355819-1787932538588-_05A6269.jpg?v=1787935061&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Technology Stock a Buy in 2026?",
+      "excerpt": "Explore C3.ai Inc's latest performance, key risks, and growth prospects amid a shifting AI landscape. Our detailed AI stock analysis reveals what investors should consider.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 36,
+      "href": "/blog/ai-news-impact-2026-08-28-2229.html",
+      "published_date": "2026-08-28",
+      "generated_at": "2026-08-28T22:29:35.064861+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy at $196.60?",
@@ -31799,5 +31871,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-27T23:50:57.409682+00:00"
+  "market_data_as_of": "2026-08-28T22:29:35.064861+00:00"
 }

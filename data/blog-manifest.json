@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-28T23:35:48.162621+00:00",
+  "generated_at": "2026-08-29T16:48:28.485884+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Neutral Outlook Amid Global Challenges",
+      "excerpt": "Explore our 2026 analysis of Amer Sports Inc (AS), highlighting neutral sentiment driven by geopolitical tensions and industry trends impacting this apparel sector player.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 88,
+      "href": "/blog/as-news-impact-2026-08-29-1648.html",
+      "published_date": "2026-08-29",
+      "generated_at": "2026-08-29T16:48:28.485884+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108353951-1787671978491-Traders-20260825-AS-PRESS-4.jpg?v=1787672206&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Sector Volatility?",
+      "excerpt": "Explore ON Semiconductor's recent performance, industry challenges, and future prospects. Discover if ON stock is a viable buy for semiconductor investors in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 69,
+      "href": "/blog/on-news-impact-2026-08-29-1648.html",
+      "published_date": "2026-08-29",
+      "generated_at": "2026-08-29T16:48:28.485884+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis 2026: Is AN a Buy Amid Retail Sector Uncertainties?",
+      "excerpt": "AutoNation Inc (AN) stock trades near $200 amid a neutral market sentiment. Explore key growth drivers, risks, and valuation insights in this detailed analysis.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 39,
+      "href": "/blog/an-news-impact-2026-08-29-1648.html",
+      "published_date": "2026-08-29",
+      "generated_at": "2026-08-29T16:48:28.485884+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/103100235-GettyImages-462799944.jpg?v=1667936217&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Growth Prospects?",
+      "excerpt": "Gartner Inc (IT) displays steady fundamentals with a neutral market sentiment. Our in-depth analysis explores key growth drivers, risks, and valuation insights for potential investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 39,
+      "href": "/blog/it-news-impact-2026-08-29-1648.html",
+      "published_date": "2026-08-29",
+      "generated_at": "2026-08-29T16:48:28.485884+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108355350-1787855698533-DSCF9533.JPEG?v=1787859686&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Bet Still Worthwhile?",
+      "excerpt": "C3.ai stock faces bearish sentiment amid AI sector shifts. Explore the latest analysis, risks, and outlook for this tech play at $10.53 per share.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 37,
+      "href": "/blog/ai-news-impact-2026-08-29-1648.html",
+      "published_date": "2026-08-29",
+      "generated_at": "2026-08-29T16:48:28.485884+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108351580-1787228224887-108351580-17871510862026-08-19t144330z_988560389_rc2p1naecyjy_rtrmadp_0_usa-stocks.jpeg?v=1787228240&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Leisure Products Market Dynamics?",
+      "excerpt": "Explore the latest Hasbro Inc stock analysis, including growth prospects, valuation, risks, and whether HAS represents a compelling buy in the leisure products sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 36,
+      "href": "/blog/has-news-impact-2026-08-29-1648.html",
+      "published_date": "2026-08-29",
+      "generated_at": "2026-08-29T16:48:28.485884+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Sentiment with Steady Industry Footing",
@@ -31943,5 +32015,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-28T23:35:48.162621+00:00"
+  "market_data_as_of": "2026-08-29T16:48:28.485884+00:00"
 }

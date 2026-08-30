@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-29T16:48:28.485884+00:00",
+  "generated_at": "2026-08-30T16:51:12.793466+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amidst Neutral Market Sentiment?",
+      "excerpt": "Discover the latest Amer Sports Inc (AS) stock analysis with a deep dive into its valuation, industry position, risks, and growth prospects as of August 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 72,
+      "href": "/blog/as-news-impact-2026-08-30-1651.html",
+      "published_date": "2026-08-30",
+      "generated_at": "2026-08-30T16:51:12.793466+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108353951-1787671978491-Traders-20260825-AS-PRESS-4.jpg?v=1787672206&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Semiconductor Space?",
+      "excerpt": "An in-depth look at ON Semiconductor Corp's stock performance, growth drivers, industry challenges, and whether ON stock is a compelling buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 65,
+      "href": "/blog/on-news-impact-2026-08-30-1651.html",
+      "published_date": "2026-08-30",
+      "generated_at": "2026-08-30T16:51:12.793466+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108332979-17836232572026-07-09t182239z_1433587302_rc2hamas5xv4_rtrmadp_0_usa-trump-arch.jpeg?v=1783623291&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Hasbro's current stock outlook, financial snapshot, and key factors influencing its neutral stance. Discover if HAS is a buy for your portfolio in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 53,
+      "href": "/blog/has-news-impact-2026-08-30-1651.html",
+      "published_date": "2026-08-30",
+      "generated_at": "2026-08-30T16:51:12.793466+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/103100235-GettyImages-462799944.jpg?v=1667936217&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Gartner Inc's (IT) current stock outlook, key growth drivers, risks, and whether this tech stalwart offers value for investors navigating 2026 market conditions.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 48,
+      "href": "/blog/it-news-impact-2026-08-30-1651.html",
+      "published_date": "2026-08-30",
+      "generated_at": "2026-08-30T16:51:12.793466+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108272992-1772565871862-gettyimages-1243214774-tang-notitle220913_npgjE.jpeg?v=1776201301&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today's Market?",
+      "excerpt": "Explore Alexandria Real Estate Equities' current valuation, growth prospects, and risks to determine if ARE stock is a smart play for real estate investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 37,
+      "href": "/blog/are-news-impact-2026-08-30-1651.html",
+      "published_date": "2026-08-30",
+      "generated_at": "2026-08-30T16:51:12.793466+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in 2026?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock trends, valuation, and risks as we evaluate if SAY is a compelling buy for investors in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 32,
+      "href": "/blog/say-news-impact-2026-08-30-1651.html",
+      "published_date": "2026-08-30",
+      "generated_at": "2026-08-30T16:51:12.793466+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341956-1785351393922-gettyimages-2288188064-wm024548_95y2ncpt.jpeg?v=1785351532&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis 2026: Neutral Outlook Amid Global Challenges",
@@ -32015,5 +32087,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-29T16:48:28.485884+00:00"
+  "market_data_as_of": "2026-08-30T16:51:12.793466+00:00"
 }

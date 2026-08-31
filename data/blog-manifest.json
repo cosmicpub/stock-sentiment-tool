@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-30T16:51:12.793466+00:00",
+  "generated_at": "2026-08-31T19:10:13.987831+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AIR",
+      "title": "AAR Corp (AIR) Stock Analysis: Is This Aerospace & Defense Player a Buy Amid Geopolitical Risks?",
+      "excerpt": "Explore AAR Corp's (AIR) aerospace & defense outlook amid regional tensions and global defense deals. Discover key risks and growth drivers impacting its stock.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/air-news-impact-2026-08-31-1910.html",
+      "published_date": "2026-08-31",
+      "generated_at": "2026-08-31T19:10:13.987831+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "WEST",
+      "title": "Westrock Coffee Co (WEST) Stock Analysis: Is This Food Products Stock a Buy in 2026?",
+      "excerpt": "Dive into our latest Westrock Coffee Co (WEST) stock analysis covering valuation, industry outlook, competitive positioning, and growth potential in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/west-news-impact-2026-08-31-1910.html",
+      "published_date": "2026-08-31",
+      "generated_at": "2026-08-31T19:10:13.987831+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "Dive into our latest Amer Sports Inc stock analysis exploring bearish trends, valuation, risks, and the impact of global oil price volatility on this textile sector stock.",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 104,
+      "href": "/blog/as-news-impact-2026-08-31-1910.html",
+      "published_date": "2026-08-31",
+      "generated_at": "2026-08-31T19:10:13.987831+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108323584-1781729855424-gettyimages-2281472076-US_HOUSING.jpeg?v=1781730463&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Bearish Trends Signal Caution for Investors",
+      "excerpt": "Analyzing ON Semiconductor Corp's current bearish outlook, challenges from geopolitical tensions, and what investors should watch amid volatile semiconductor sector dynamics.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 96,
+      "href": "/blog/on-news-impact-2026-08-31-1910.html",
+      "published_date": "2026-08-31",
+      "generated_at": "2026-08-31T19:10:13.987831+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108244369-17661755422025-12-19t201810z_1824743728_rc2kjiaoz50f_rtrmadp_0_usa-trump.jpeg?v=1766175565&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Dive into our comprehensive Gartner Inc (IT) stock analysis for 2026, exploring key risks, valuations, and growth prospects to decide if IT shares are worth buying now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 52,
+      "href": "/blog/it-news-impact-2026-08-31-1910.html",
+      "published_date": "2026-08-31",
+      "generated_at": "2026-08-31T19:10:13.987831+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108356095-1788021743068-gettyimages-2292308803-huty4191007.jpeg?v=1788021778&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is HAS a Buy in Today\u2019s Leisure Market?",
+      "excerpt": "Explore Hasbro Inc\u2019s 2026 stock outlook with our in-depth analysis of market position, growth prospects, risks, and valuation. Is HAS a solid buy?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 40,
+      "href": "/blog/has-news-impact-2026-08-31-1910.html",
+      "published_date": "2026-08-31",
+      "generated_at": "2026-08-31T19:10:13.987831+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/103100235-GettyImages-462799944.jpg?v=1667936217&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amidst Neutral Market Sentiment?",
@@ -32087,5 +32159,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-08-30T16:51:12.793466+00:00"
+  "market_data_as_of": "2026-08-31T19:10:13.987831+00:00"
 }

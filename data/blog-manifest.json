@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-01T17:53:41.462781+00:00",
+  "generated_at": "2026-09-01T21:10:48.161057+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Leading AI Player a Buy in 2026?",
+      "excerpt": "Explore our in-depth analysis of C3.ai Inc (AI), evaluating its current bullish momentum, industry positioning, and whether it's a smart buy now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 29,
+      "href": "/blog/ai-news-impact-2026-09-01-2110.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T21:10:48.161057+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316427-1780524884815-gettyimages-2278945689-AFP_B4XB779.jpeg?v=1780524953&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis 2026: Is AN a Buy Amid Neutral Sentiment?",
+      "excerpt": "Analyze AutoNation Inc's (AN) current market position, cash management strategy, and risks to decide if this retail giant is a smart buy for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/an-news-impact-2026-09-01-2110.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T21:10:48.161057+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108196593-1757470544526-gettyimages-1497989532-dolar10.jpeg?v=1757470569&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy (BE) Stock Analysis: Is Now the Time to Buy Electrical Equipment Innovator?",
+      "excerpt": "Explore a detailed Bloom Energy stock analysis focused on key financials, market positioning, and risks to see if BE is a compelling buy in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 18,
+      "href": "/blog/be-news-impact-2026-09-01-2110.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T21:10:48.161057+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Name a Buy Amid Bearish Sentiment?",
+      "excerpt": "Despite recent headwinds weighing on Amer Sports Inc (AS), a deeper dive reveals key factors shaping its future in textiles and apparel. Here's our latest AS stock outlook.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 119,
+      "href": "/blog/as-news-impact-2026-09-01-2110.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T21:10:48.161057+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108356535-1788195885329-gettyimages-2174212954-dsc01606.jpeg?v=1788196121&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor (ON) trades at $72.65 with bearish outlook. We analyze key risks, valuation, and market dynamics shaping its near-term and long-term prospects.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 106,
+      "href": "/blog/on-news-impact-2026-09-01-2110.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T21:10:48.161057+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Why This Tech Leader Remains a Buy in 2026",
+      "excerpt": "Explore why Gartner Inc (IT) stays bullish amid tech sector shifts, with robust growth prospects and industry insights shaping its stock forecast.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 53,
+      "href": "/blog/it-news-impact-2026-09-01-2110.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T21:10:48.161057+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is This Apparel Sector Name a Buy Amid Bearish Sentiment?",
@@ -32375,5 +32447,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-01T17:53:41.462781+00:00"
+  "market_data_as_of": "2026-09-01T21:10:48.161057+00:00"
 }

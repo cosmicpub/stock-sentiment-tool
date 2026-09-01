@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-01T16:47:11.159189+00:00",
+  "generated_at": "2026-09-01T17:53:41.462781+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Apparel Sector Name a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our comprehensive Amer Sports Inc (AS) stock analysis amid bearish market sentiment, sector challenges, and valuation concerns for 2026.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 119,
+      "href": "/blog/as-news-impact-2026-09-01-1753.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T17:53:41.462781+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108356535-1788195885329-gettyimages-2174212954-dsc01606.jpeg?v=1788196121&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore detailed ON Semiconductor stock analysis, current bearish momentum, and key factors investors must consider before deciding if ON is a buy.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 97,
+      "href": "/blog/on-news-impact-2026-09-01-1753.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T17:53:41.462781+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108148762-1747842798708-gettyimages-2215650104-hfc_BC_222_052125JPG.jpeg?v=1747842821&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Technology Leader a Buy at $192?",
+      "excerpt": "Explore Gartner Inc (IT) stock insights, including growth prospects, risks, valuation, and why bullish sentiment supports potential gains in tech sector.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 54,
+      "href": "/blog/it-news-impact-2026-09-01-1753.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T17:53:41.462781+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108356095-1788021743068-gettyimages-2292308803-huty4191007.jpeg?v=1788021778&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy Amid Real Estate Sector Uncertainties?",
+      "excerpt": "Explore Alexandria Real Estate Equities' latest fundamentals, risks, and market positioning to determine if ARE stock merits a buy in today's fluctuating real estate market.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 48,
+      "href": "/blog/are-news-impact-2026-09-01-1753.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T17:53:41.462781+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is HAS a Buy in September 2026?",
+      "excerpt": "Discover the latest Hasbro Inc (HAS) stock analysis highlighting key factors impacting its Leisure Products sector performance and whether HAS is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 39,
+      "href": "/blog/has-news-impact-2026-09-01-1753.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T17:53:41.462781+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108256653-1769211369805-Contour.jpg?v=1769216172&w=1920&h=1080"
+    },
+    {
+      "ticker": "AIR",
+      "title": "AAR Corp (AIR) Stock Analysis: Is AIR a Buy in Aerospace & Defense Sector?",
+      "excerpt": "Explore the latest AAR Corp (AIR) stock analysis with insights on aerospace industry trends, key risks, and growth prospects for 2026 investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/air-news-impact-2026-09-01-1753.html",
+      "published_date": "2026-09-01",
+      "generated_at": "2026-09-01T17:53:41.462781+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy Amid Real Estate Sector Shifts?",
@@ -32303,5 +32375,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-01T16:47:11.159189+00:00"
+  "market_data_as_of": "2026-09-01T17:53:41.462781+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-02T16:42:59.194942+00:00",
+  "generated_at": "2026-09-02T17:57:39.234623+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Sector Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's current bearish outlook at $28.90, key risks, industry challenges, and whether AS stock remains a compelling buy in textiles.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 118,
+      "href": "/blog/as-news-impact-2026-09-02-1757.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T17:57:39.234623+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108356535-1788195885329-gettyimages-2174212954-dsc01606.jpeg?v=1788196121&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy for Semiconductor Investors in 2026?",
+      "excerpt": "Explore ON Semiconductor's current market position, growth prospects, and risks in this detailed ON stock analysis. Find out if ON shares are a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 107,
+      "href": "/blog/on-news-impact-2026-09-02-1757.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T17:57:39.234623+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108356652-1788205530865-gettyimages-2289452853-9g4a1702.jpeg?v=1788205681&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate Giant a Buy in 2026?",
+      "excerpt": "Dive into our detailed Alexandria Real Estate Equities stock analysis to uncover why ARE's bullish momentum could make it a compelling buy despite sector challenges.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 57,
+      "href": "/blog/are-news-impact-2026-09-02-1757.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T17:57:39.234623+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357737-1788357733578-gettyimages-1446218016-026a0803.jpeg?v=1788357818&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Bullish Sentiment in Technology?",
+      "excerpt": "Explore Gartner Inc's latest stock analysis at $188.86. With a bullish outlook and key growth drivers, discover if IT is a smart buy for your portfolio.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 52,
+      "href": "/blog/it-news-impact-2026-09-02-1757.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T17:57:39.234623+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Bullish Sentiment and Strong Cash Position?",
+      "excerpt": "AutoNation Inc (AN) shows bullish momentum backed by a record cash reserve and solid retail fundamentals. We analyze key factors driving the AN stock forecast.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 32,
+      "href": "/blog/an-news-impact-2026-09-02-1757.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T17:57:39.234623+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108196593-1757470544526-gettyimages-1497989532-dolar10.jpeg?v=1757470569&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI Stock a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore C3.ai Inc (AI) stock forecast as investors weigh bullish momentum, AI market moves, and key risks shaping this technology leader's outlook.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 29,
+      "href": "/blog/ai-news-impact-2026-09-02-1757.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T17:57:39.234623+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108345504-1785952760573-gettyimages-2289192477-mms15378_ienmvr1q.jpeg?v=1785953356&w=1920&h=1080"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Financial Sector Nuances?",
@@ -32519,5 +32591,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-02T16:42:59.194942+00:00"
+  "market_data_as_of": "2026-09-02T17:57:39.234623+00:00"
 }

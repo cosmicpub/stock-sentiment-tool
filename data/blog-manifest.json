@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-01T21:10:48.161057+00:00",
+  "generated_at": "2026-09-02T16:42:59.194942+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Financial Sector Nuances?",
+      "excerpt": "Explore a detailed Saratoga Investment Corp stock analysis revealing key growth prospects, risks, and market sentiment to decide if SAY shares are a smart buy now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 25,
+      "href": "/blog/say-news-impact-2026-09-02-1642.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T16:42:59.194942+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy Amid Leisure Sector Dynamics?",
+      "excerpt": "Explore our detailed Here Group Ltd stock analysis for investors seeking clarity on HERE\u2019s position and outlook within the competitive leisure products industry.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/here-news-impact-2026-09-02-1642.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T16:42:59.194942+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108354003-1787676182261-gettyimages-2290721593-zawrzel-economya260810_npMeU.jpeg?v=1787676253&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is SOME a Buy in Today\u2019s Banking Sector?",
+      "excerpt": "Explore our in-depth analysis of Somerset Trust Holding Co (SOME), examining its banking fundamentals, market position, valuation, and risks to decide if SOME is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/some-news-impact-2026-09-02-1642.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T16:42:59.194942+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108356535-1788195885329-gettyimages-2174212954-dsc01606.jpeg?v=1788196121&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bearish outlook on Amer Sports Inc (AS) stock as we break down key risks, market context, and long-term prospects in the textile and apparel sector.",
+      "sentiment": "Bearish",
+      "score": -6,
+      "impact_score": 118,
+      "href": "/blog/as-news-impact-2026-09-02-1642.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T16:42:59.194942+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current stock position with a detailed analysis focusing on its cash reserves, industry dynamics, and near-term risks in semiconductors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 103,
+      "href": "/blog/on-news-impact-2026-09-02-1642.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T16:42:59.194942+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108196593-1757470544526-gettyimages-1497989532-dolar10.jpeg?v=1757470569&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is It a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Dive into our detailed Alexandria Real Estate Equities stock analysis to uncover whether ARE is a smart buy amid shifting real estate dynamics and neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 60,
+      "href": "/blog/are-news-impact-2026-09-02-1642.html",
+      "published_date": "2026-09-02",
+      "generated_at": "2026-09-02T16:42:59.194942+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357737-1788357733578-gettyimages-1446218016-026a0803.jpeg?v=1788357818&w=1920&h=1080"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai Inc (AI) Stock Analysis: Is This Leading AI Player a Buy in 2026?",
@@ -32447,5 +32519,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-01T21:10:48.161057+00:00"
+  "market_data_as_of": "2026-09-02T16:42:59.194942+00:00"
 }

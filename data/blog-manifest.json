@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-02T21:10:39.696036+00:00",
+  "generated_at": "2026-09-03T16:34:08.014410+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is It a Strong Buy in Real Estate?",
+      "excerpt": "Explore Two Harbors Investment Corp's bullish momentum, valuation, sector dynamics, and risks to decide if TWO stock is a wise addition to your portfolio today.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 33,
+      "href": "/blog/two-news-impact-2026-09-03-1634.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T16:34:08.014410+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Optimism?",
+      "excerpt": "Explore our detailed Byline Bancorp stock analysis for September 2026, highlighting key growth drivers, risks, and whether BY stock is a buy right now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 24,
+      "href": "/blog/by-news-impact-2026-09-03-1634.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T16:34:08.014410+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357717-1788356292285-gettyimages-2269974069-ENTERGY_GROUNDBREAKING.jpeg?v=1788356317&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech (HIT) Stock Analysis: Is HIT a Buy in Today's Insurance Market?",
+      "excerpt": "Explore our detailed Health In Tech (HIT) stock analysis to understand if this insurance sector player at $0.9979 is a promising buy amid current market shifts.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 20,
+      "href": "/blog/hit-news-impact-2026-09-03-1634.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T16:34:08.014410+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis 2026: Is This Cryptocurrency Miner a Buy Today?",
+      "excerpt": "Explore our detailed Canaan Inc stock forecast amid mixed market signals, technology sector pressures, and cryptocurrency volatility in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/can-news-impact-2026-09-03-1634.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T16:34:08.014410+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358039-1788379222792-gettyimages-2169995651-workai00_05_46_16still007-enhanced-sr.jpeg?v=1788379318&w=1920&h=1080"
+    },
+    {
+      "ticker": "FOUR",
+      "title": "Shift4 Payments (FOUR) Stock Analysis: Bullish Momentum and Growth Prospects in Financial Services",
+      "excerpt": "Explore why Shift4 Payments (FOUR) is riding a bullish wave with strong growth potential in the financial services sector. Our detailed stock analysis breaks down key drivers, risks, and valuation insights.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 16,
+      "href": "/blog/four-news-impact-2026-09-03-1634.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T16:34:08.014410+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "YOU",
+      "title": "Clear Secure Inc (YOU) Stock Analysis: Is NOW the Time to Buy Clear's Shares?",
+      "excerpt": "Explore our detailed Clear Secure Inc (YOU) stock analysis to understand if this technology company\u2019s current valuation and future prospects make it a smart buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 11,
+      "href": "/blog/you-news-impact-2026-09-03-1634.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T16:34:08.014410+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile & Apparel Play a Buy in 2026?",
@@ -32663,5 +32735,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-02T21:10:39.696036+00:00"
+  "market_data_as_of": "2026-09-03T16:34:08.014410+00:00"
 }

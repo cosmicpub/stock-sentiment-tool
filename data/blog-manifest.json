@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-03T16:34:08.014410+00:00",
+  "generated_at": "2026-09-03T17:56:15.207282+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HAS",
+      "title": "Hasbro (HAS) Stock Analysis: Is Now the Time to Buy This Leisure Products Giant?",
+      "excerpt": "Explore why Hasbro\u2019s bullish outlook in 2026 could signal a compelling buying opportunity amidst evolving market conditions and industry trends.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 23,
+      "href": "/blog/has-news-impact-2026-09-03-1756.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T17:56:15.207282+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/101990015-RTR444Z3.jpg?v=1529451503&w=1920&h=1080"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in 2026?",
+      "excerpt": "Explore our detailed IMAC Holdings stock analysis covering its biotech prospects, current valuation, and whether BACK shares present a viable investment in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/back-news-impact-2026-09-03-1756.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T17:56:15.207282+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107125734-1664374231928-107125734-c_IMG_7443.jpg?v=1715879655&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is It a Buy Amid Industry Momentum?",
+      "excerpt": "Explore ON Semiconductor's 2026 outlook with in-depth analysis of its growth drivers, risks, valuation, and why bullish sentiment is gaining traction.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 115,
+      "href": "/blog/on-news-impact-2026-09-03-1756.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T17:56:15.207282+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358039-1788379222792-gettyimages-2169995651-workai00_05_46_16still007-enhanced-sr.jpeg?v=1788379318&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Apparel Sector?",
+      "excerpt": "Explore our detailed analysis of Amer Sports Inc stock, assessing key growth drivers, risks, and valuation to help you decide if AS is a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 91,
+      "href": "/blog/as-news-impact-2026-09-03-1756.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T17:56:15.207282+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357861-1788367050351-gettyimages-2279132480-BLOOMBERG_TECH.jpeg?v=1788367146&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate REIT a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' (ARE) bullish outlook in 2026 as we analyze its fundamentals, market position, growth prospects, and risks in this detailed stock analysis.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 46,
+      "href": "/blog/are-news-impact-2026-09-03-1756.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T17:56:15.207282+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108333834-1783918441707-gettyimages-2283163436-_DSC4514JPG.jpeg?v=1783918460&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Powerhouse a Buy at $10.95?",
+      "excerpt": "Explore why C3.ai's recent price dip offers a bullish entry point amid evolving AI sector dynamics and cautious investor rotations.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 38,
+      "href": "/blog/ai-news-impact-2026-09-03-1756.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T17:56:15.207282+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108241656-1765779213966-gettyimages-2217725562-BROADCOM_EARNS.jpeg?v=1775499796&w=1920&h=1080"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is It a Strong Buy in Real Estate?",
@@ -32735,5 +32807,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-03T16:34:08.014410+00:00"
+  "market_data_as_of": "2026-09-03T17:56:15.207282+00:00"
 }

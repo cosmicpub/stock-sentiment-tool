@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-03T17:56:15.207282+00:00",
+  "generated_at": "2026-09-03T21:11:01.083298+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Is SHIP a Buy Amid Marine Sector Challenges?",
+      "excerpt": "Explore our in-depth Seanergy Maritime Holdings (SHIP) stock analysis. Understand key drivers, risks, and if SHIP is positioned for growth in the competitive marine industry.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 12,
+      "href": "/blog/ship-news-impact-2026-09-03-2111.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T21:11:01.083298+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore the bullish outlook for ON Semiconductor Corp in 2026, analyzing growth drivers, risks, and valuation to answer: Is ON stock a smart buy today?",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 117,
+      "href": "/blog/on-news-impact-2026-09-03-2111.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T21:11:01.083298+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108212066-1760473027063-gettyimages-2240649632-2025_DREAMFORCE.jpeg?v=1773842656&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore our detailed analysis of Amer Sports Inc (AS) stock, examining its bullish sentiment, market position, and growth prospects for 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 99,
+      "href": "/blog/as-news-impact-2026-09-03-2111.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T21:11:01.083298+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108355107-1787834424220-gettyimages-2291687986-schneider-adobeoff260826_nppiC.jpeg?v=1787834460&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now the Time to Buy in Real Estate Innovation?",
+      "excerpt": "Discover the bullish outlook on Alexandria Real Estate Equities (ARE) with key growth catalysts, risks, valuation insights, and expert perspectives in this in-depth stock analysis.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 52,
+      "href": "/blog/are-news-impact-2026-09-03-2111.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T21:11:01.083298+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108225750-1763069160018-gettyimages-2245970413-CBOE_MARKETS.jpeg?v=1763069191&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Stock a Buy Amid Bullish Sentiment?",
+      "excerpt": "C3.ai Inc (AI) shows bullish momentum with growing investor interest. Explore the latest AI sector shifts and what it means for this tech stock's outlook.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 42,
+      "href": "/blog/ai-news-impact-2026-09-03-2111.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T21:11:01.083298+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our detailed Byline Bancorp Inc (BY) stock analysis. We examine key growth drivers, valuation, risks, and why investor sentiment turns bullish at $38.72.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 29,
+      "href": "/blog/by-news-impact-2026-09-03-2111.html",
+      "published_date": "2026-09-03",
+      "generated_at": "2026-09-03T21:11:01.083298+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HAS",
       "title": "Hasbro (HAS) Stock Analysis: Is Now the Time to Buy This Leisure Products Giant?",
@@ -32807,5 +32879,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-03T17:56:15.207282+00:00"
+  "market_data_as_of": "2026-09-03T21:11:01.083298+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-04T20:53:48.952402+00:00",
+  "generated_at": "2026-09-05T15:22:42.466607+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is SOME a Buy in Today\u2019s Banking Landscape?",
+      "excerpt": "Explore our comprehensive Somerset Trust Holding Co stock analysis to understand if SOME shares are positioned for growth amid a stable banking sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/some-news-impact-2026-09-05-1522.html",
+      "published_date": "2026-09-05",
+      "generated_at": "2026-09-05T15:22:42.466607+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108359022-1788536406075-gettyimages-50716575-854192.jpeg?v=1788536591&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Industry Growth?",
+      "excerpt": "Explore our bullish ON Semiconductor (ON) stock analysis highlighting strong growth prospects, solid fundamentals, and key investment risks.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 109,
+      "href": "/blog/on-news-impact-2026-09-05-1522.html",
+      "published_date": "2026-09-05",
+      "generated_at": "2026-09-05T15:22:42.466607+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358679-17884690152026-09-03t205238z_525073808_rc2vbnaed4tc_rtrmadp_0_tesla-cybercab.jpeg?v=1788469071&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore the bullish case for Amer Sports Inc (AS) in the textiles and apparel sector. We analyze financials, market position, risks, and growth prospects to help you decide if AS is a buy.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 101,
+      "href": "/blog/as-news-impact-2026-09-05-1522.html",
+      "published_date": "2026-09-05",
+      "generated_at": "2026-09-05T15:22:42.466607+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108332776-1783608345852-gettyimages-2285355780-2r1_8159_y4bcdo7i.jpeg?v=1788552518&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is This Banking Sector Contender a Buy in 2026?",
+      "excerpt": "Discover a comprehensive analysis of Byline Bancorp Inc (BY) stock, examining its bullish momentum, financial health, and future outlook in the competitive banking industry.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 52,
+      "href": "/blog/by-news-impact-2026-09-05-1522.html",
+      "published_date": "2026-09-05",
+      "generated_at": "2026-09-05T15:22:42.466607+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108225750-1763069160018-gettyimages-2245970413-CBOE_MARKETS.jpeg?v=1763069191&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Insurance Sector Dynamics?",
+      "excerpt": "Explore our in-depth Health In Tech Inc (HIT) stock analysis, evaluating its bullish outlook and key risks in the evolving insurance industry landscape.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 48,
+      "href": "/blog/hit-news-impact-2026-09-05-1522.html",
+      "published_date": "2026-09-05",
+      "generated_at": "2026-09-05T15:22:42.466607+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357992-1788375690734-gettyimages-519234496-g_dsc5455_6_7_8_9_tonemapped.jpeg?v=1788375859&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Discover why Alexandria Real Estate Equities (ARE) is capturing bullish investor sentiment amid promising real estate trends and what risks to consider before buying.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 46,
+      "href": "/blog/are-news-impact-2026-09-05-1522.html",
+      "published_date": "2026-09-05",
+      "generated_at": "2026-09-05T15:22:42.466607+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today\u2019s Financial Landscape?",
@@ -32951,5 +33023,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-04T20:53:48.952402+00:00"
+  "market_data_as_of": "2026-09-05T15:22:42.466607+00:00"
 }

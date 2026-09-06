@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-05T15:22:42.466607+00:00",
+  "generated_at": "2026-09-06T15:35:41.453922+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AIR",
+      "title": "AAR Corp (AIR) Stock Analysis 2026: Is This Aerospace & Defense Stock a Smart Buy?",
+      "excerpt": "Explore AAR Corp's latest performance in aerospace & defense, its neutral market sentiment, and what investors should consider before buying AIR stock in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/air-news-impact-2026-09-06-1535.html",
+      "published_date": "2026-09-06",
+      "generated_at": "2026-09-06T15:35:41.453922+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is IT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Gartner Inc's 2026 stock analysis, weighing its tech industry position and neutral market sentiment to decide if IT stock is a prudent buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/it-news-impact-2026-09-06-1535.html",
+      "published_date": "2026-09-06",
+      "generated_at": "2026-09-06T15:35:41.453922+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is It a Buy Amid Bullish Sentiment?",
+      "excerpt": "ON Semiconductor shares trade at $74.38 with strong bullish momentum. Explore the latest analysis, growth drivers, risks, and whether ON is a good buy now.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 101,
+      "href": "/blog/on-news-impact-2026-09-06-1535.html",
+      "published_date": "2026-09-06",
+      "generated_at": "2026-09-06T15:35:41.453922+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358679-17884690152026-09-03t205238z_525073808_rc2vbnaed4tc_rtrmadp_0_tesla-cybercab.jpeg?v=1788469071&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Giant a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore Amer Sports Inc's latest stock developments, bullish sentiment, and growth potential in the textiles and apparel sector. Is AS a buy now?",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 98,
+      "href": "/blog/as-news-impact-2026-09-06-1535.html",
+      "published_date": "2026-09-06",
+      "generated_at": "2026-09-06T15:35:41.453922+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108354712-1787768514226-gettyimages-2292182187-dji_20260826130903_0048_d_q8u6ngun.jpeg?v=1787768547&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities' bullish outlook, key growth drivers in life science real estate, and what investors should watch in 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 49,
+      "href": "/blog/are-news-impact-2026-09-06-1535.html",
+      "published_date": "2026-09-06",
+      "generated_at": "2026-09-06T15:35:41.453922+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108359193-1788550868025-gettyimages-2247827936-dsc07223.jpeg?v=1788551009&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Rising Insurance Sector Optimism?",
+      "excerpt": "Discover why Health In Tech Inc (HIT) is attracting bullish attention in the insurance industry, with a deep dive into its financials, risks, and growth outlook.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 45,
+      "href": "/blog/hit-news-impact-2026-09-06-1535.html",
+      "published_date": "2026-09-06",
+      "generated_at": "2026-09-06T15:35:41.453922+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357992-1788375690734-gettyimages-519234496-g_dsc5455_6_7_8_9_tonemapped.jpeg?v=1788375859&w=1920&h=1080"
+    },
     {
       "ticker": "SOME",
       "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is SOME a Buy in Today\u2019s Banking Landscape?",
@@ -33023,5 +33095,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-05T15:22:42.466607+00:00"
+  "market_data_as_of": "2026-09-06T15:35:41.453922+00:00"
 }

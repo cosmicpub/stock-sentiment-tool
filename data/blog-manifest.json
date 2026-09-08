@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-08T17:58:55.817476+00:00",
+  "generated_at": "2026-09-08T21:17:32.476309+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is This Tech Leader a Buy Right Now?",
+      "excerpt": "Explore our in-depth Gartner Inc (IT) stock analysis for 2026. We break down the key drivers, risks, valuation, and whether IT shares offer a strong buy opportunity.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 18,
+      "href": "/blog/it-news-impact-2026-09-08-2117.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T21:17:32.476309+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108359867-1788884409382-gettyimages-50370116-1173267.jpeg?v=1788884483&w=1920&h=1080"
+    },
+    {
+      "ticker": "AIR",
+      "title": "AAR Corp (AIR) Stock Analysis: Is AIR a Buy in Today\u2019s Aerospace Landscape?",
+      "excerpt": "Explore AAR Corp's stock outlook amid recent aerospace incidents and a neutral market stance. Is AIR positioned for growth or facing headwinds?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/air-news-impact-2026-09-08-2117.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T21:17:32.476309+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is It Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis amid bearish sentiment and industry challenges, uncovering key risks and potential opportunities.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 94,
+      "href": "/blog/as-news-impact-2026-09-08-2117.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T21:17:32.476309+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358689-1788469880413-gettyimages-2206674974-dji_0367-1copy.jpeg?v=1788469941&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in Today\u2019s Semiconductor Market?",
+      "excerpt": "Explore ON Semiconductor\u2019s performance, risks, and growth prospects amid semiconductor industry dynamics. Is ON stock a strong buy for 2026?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 73,
+      "href": "/blog/on-news-impact-2026-09-08-2117.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T21:17:32.476309+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357829-1788364301706-Traders-OB-20260902-ACJ-PRESS-2.jpg?v=1788364539&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy Amid Real Estate Market Shifts?",
+      "excerpt": "Explore our comprehensive Alexandria Real Estate Equities stock analysis to understand if ARE is positioned for growth in the evolving real estate sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 53,
+      "href": "/blog/are-news-impact-2026-09-08-2117.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T21:17:32.476309+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357832-1788364301709-Traders-OB-20260902-ACJ-PRESS-7.jpg?v=1788364539&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Sector Headwinds?",
+      "excerpt": "Explore a detailed analysis of Byline Bancorp Inc (BY) stock, assessing risks and opportunities in banking's shifting landscape amid bearish sentiment.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 39,
+      "href": "/blog/by-news-impact-2026-09-08-2117.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T21:17:32.476309+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "FIVE",
       "title": "Five Below Inc (FIVE) Stock Analysis 2026: Is This Retail Growth Stock a Buy Today?",
@@ -33455,5 +33527,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-08T17:58:55.817476+00:00"
+  "market_data_as_of": "2026-09-08T21:17:32.476309+00:00"
 }

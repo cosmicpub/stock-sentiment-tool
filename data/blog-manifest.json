@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-07T22:56:01.042136+00:00",
+  "generated_at": "2026-09-08T16:45:38.138397+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Inflation and Fed Moves?",
+      "excerpt": "Explore Gold.com Inc's stock potential as inflation data and Fed rate shifts stir the market. We dissect GOLD\u2019s bullish momentum and what investors should consider now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/gold-news-impact-2026-09-08-1645.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T16:45:38.138397+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "WEST",
+      "title": "Westrock Coffee Co (WEST) Stock Analysis: Is WEST a Buy in the Current Food Products Sector?",
+      "excerpt": "Explore Westrock Coffee Co's (WEST) current valuation, industry outlook, and risks to decide if this food products stock is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/west-news-impact-2026-09-08-1645.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T16:45:38.138397+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Ucommune International Ltd's latest stock analysis, key risks, and growth outlook in the real estate sector to decide if 'UK' stock is a buy now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-09-08-1645.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T16:45:38.138397+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108000265-1719841882166-gettyimages-2158994421-pbn21819.jpeg?v=1732893832&w=1920&h=1080"
+    },
+    {
+      "ticker": "MAN",
+      "title": "ManpowerGroup Inc (MAN) Stock Analysis 2026: Is MAN a Buy in the Professional Services Sector?",
+      "excerpt": "Explore ManpowerGroup's 2026 stock outlook with in-depth analysis on its financial performance, industry stance, and growth prospects. Is MAN a buy now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/man-news-impact-2026-09-08-1645.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T16:45:38.138397+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108359039-1788537746903-Tim_Millard_2.jpeg?v=1788537917&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the latest bearish outlook on Amer Sports Inc (AS) stock with in-depth analysis of company fundamentals, market sentiment, and key risks for investors.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 103,
+      "href": "/blog/as-news-impact-2026-09-08-1645.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T16:45:38.138397+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358689-1788469880413-gettyimages-2206674974-dji_0367-1copy.jpeg?v=1788469941&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Challenges?",
+      "excerpt": "Explore ON Semiconductor's current outlook with a detailed stock analysis covering valuation, risks, industry context, and whether ON is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 73,
+      "href": "/blog/on-news-impact-2026-09-08-1645.html",
+      "published_date": "2026-09-08",
+      "generated_at": "2026-09-08T16:45:38.138397+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357829-1788364301706-Traders-OB-20260902-ACJ-PRESS-2.jpg?v=1788364539&w=1920&h=1080"
+    },
     {
       "ticker": "AI",
       "title": "AI Stock Analysis: C3.ai Inc Stock Forecast & Outlook \u2014 Is AI a Buy?",
@@ -33311,5 +33383,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-07T22:56:01.042136+00:00"
+  "market_data_as_of": "2026-09-08T16:45:38.138397+00:00"
 }

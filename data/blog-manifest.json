@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-09T17:53:15.493256+00:00",
+  "generated_at": "2026-09-09T21:02:50.387498+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is This Biotechnology Penny Stock a Buy in 2026?",
+      "excerpt": "Explore IMAC Holdings Inc's current position in biotech, its stock prospects at $0.0006, and whether BACK shares offer value for risk-tolerant investors now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/back-news-impact-2026-09-09-2102.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T21:02:50.387498+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357832-1788364301709-Traders-OB-20260902-ACJ-PRESS-7.jpg?v=1788364539&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Leader a Buy in 2026?",
+      "excerpt": "Dive into our comprehensive C3.ai stock forecast. Explore the company\u2019s outlook, industry trends, and key risks to decide if AI stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 16,
+      "href": "/blog/ai-news-impact-2026-09-09-2102.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T21:02:50.387498+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357829-1788364301706-Traders-OB-20260902-ACJ-PRESS-2.jpg?v=1788364539&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Outlook Amid Global Instability and Industry Challenges",
+      "excerpt": "Our detailed analysis of Amer Sports Inc (AS) points to a cautious stance as geopolitical tensions and industry headwinds weigh on the stock's near-term potential.",
+      "sentiment": "Bearish",
+      "score": -10,
+      "impact_score": 126,
+      "href": "/blog/as-news-impact-2026-09-09-2102.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T21:02:50.387498+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357001-1788269524270-gettyimages-2291336318-AA_24082026_2926684.jpeg?v=1788269600&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Neutral Sentiment and What Investors Should Watch Now",
+      "excerpt": "Explore Gartner Inc's current stock standing at $169.69 with neutral market sentiment. Dive into key growth drivers, risks, and valuation insights in this detailed analysis.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 54,
+      "href": "/blog/it-news-impact-2026-09-09-2102.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T21:02:50.387498+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Uncertainty?",
+      "excerpt": "Explore ON Semiconductor Corp's current stock outlook, key growth drivers, risks, and valuation insights in this detailed ON stock analysis for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 48,
+      "href": "/blog/on-news-impact-2026-09-09-2102.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T21:02:50.387498+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108360313-1788952577436-gettyimages-2293673409-AFP_C7P283A.jpeg?v=1788952667&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock forecast with a bullish outlook, key risks, valuation insights, and why investors are optimistic about this real estate leader.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 40,
+      "href": "/blog/are-news-impact-2026-09-09-2102.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T21:02:50.387498+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108359893-1788886789392-gettyimages-1460822334-pi-2761515.jpeg?v=1788886803&w=1920&h=1080"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amidst Insurance Sector Dynamics?",
@@ -33671,5 +33743,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-09T17:53:15.493256+00:00"
+  "market_data_as_of": "2026-09-09T21:02:50.387498+00:00"
 }

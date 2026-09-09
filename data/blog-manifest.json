@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-08T21:17:32.476309+00:00",
+  "generated_at": "2026-09-09T16:47:33.446667+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in the Leisure Products Sector?",
+      "excerpt": "Explore our detailed analysis of Here Group Ltd (HERE) stock, its current performance, industry context, and whether it stands as a promising buy in leisure products.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/here-news-impact-2026-09-09-1647.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T16:47:33.446667+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108217759-1761656513846-gettyimages-2235448475-META_CONNECT.jpeg?v=1769640322&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Player a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bearish factors affecting Amer Sports Inc's stock (AS) and whether it presents a buying opportunity in the textiles and apparel sector as of September 2026.",
+      "sentiment": "Bearish",
+      "score": -10,
+      "impact_score": 121,
+      "href": "/blog/as-news-impact-2026-09-09-1647.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T16:47:33.446667+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357001-1788269524270-gettyimages-2291336318-AA_24082026_2926684.jpeg?v=1788269600&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Dynamics?",
+      "excerpt": "Explore a detailed ON Semiconductor (ON) stock analysis covering recent market trends, risks, growth potential, and whether ON is a smart buy in today's semiconductor landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 58,
+      "href": "/blog/on-news-impact-2026-09-09-1647.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T16:47:33.446667+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108360313-1788952577436-gettyimages-2293673409-AFP_C7P283A.jpeg?v=1788952667&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Industry Trends?",
+      "excerpt": "Explore Gartner Inc's (IT) current stock position, industry outlook, and key factors shaping its near-term and long-term prospects in the technology sector.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 54,
+      "href": "/blog/it-news-impact-2026-09-09-1647.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T16:47:33.446667+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis: Alexandria Real Estate Equities, Inc Stock Forecast & Outlook \u2014 Is ARE a Buy?",
+      "excerpt": "Alexandria Real Estate Equities, Inc (ARE) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 44,
+      "href": "/blog/are-news-impact-2026-09-09-1647.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T16:47:33.446667+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "UK",
+      "title": "UK Stock Analysis: Ucommune International Ltd Stock Forecast & Outlook \u2014 Is UK a Buy?",
+      "excerpt": "Ucommune International Ltd (UK) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 35,
+      "href": "/blog/uk-news-impact-2026-09-09-1647.html",
+      "published_date": "2026-09-09",
+      "generated_at": "2026-09-09T16:47:33.446667+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108000265-1719841882166-gettyimages-2158994421-pbn21819.jpeg?v=1732893832&w=1920&h=1080"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis 2026: Is This Tech Leader a Buy Right Now?",
@@ -33527,5 +33599,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-08T21:17:32.476309+00:00"
+  "market_data_as_of": "2026-09-09T16:47:33.446667+00:00"
 }

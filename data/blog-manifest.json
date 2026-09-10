@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-09T21:02:50.387498+00:00",
+  "generated_at": "2026-09-10T16:33:23.380006+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today's Market?",
+      "excerpt": "Explore our in-depth Two Harbors Investment Corp (TWO) stock analysis for 2026. We break down valuation, risks, and the latest market outlook to guide your investment decisions.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/two-news-impact-2026-09-10-1633.html",
+      "published_date": "2026-09-10",
+      "generated_at": "2026-09-10T16:33:23.380006+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy Amidst Utilities Sector Stability?",
+      "excerpt": "Explore our in-depth Hawaiian Electric Industries stock analysis exploring valuation, risks, and prospects to decide if HE is a buy for your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/he-news-impact-2026-09-10-1633.html",
+      "published_date": "2026-09-10",
+      "generated_at": "2026-09-10T16:33:23.380006+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108259045-17697076772026-01-29t172604z_10150558_rc20bja2ybrx_rtrmadp_0_starbucks-investor-day.jpeg?v=1769707764&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Apparel Giant Worth Buying Now?",
+      "excerpt": "Dive into the latest Amer Sports Inc stock analysis to see if AS offers promising growth in the textiles and apparel sector amid moderate market pressures.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 121,
+      "href": "/blog/as-news-impact-2026-09-10-1633.html",
+      "published_date": "2026-09-10",
+      "generated_at": "2026-09-10T16:33:23.380006+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358943-1788527323525-ottava_arms_deployed__2__720.jpg?v=1788527506&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is NOW the Time to Buy in Semiconductors?",
+      "excerpt": "ON Semiconductor (ON) shows bullish momentum amid semiconductor sector growth. We analyze its fundamentals, risks, and outlook to answer: is ON a buy right now?",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 72,
+      "href": "/blog/on-news-impact-2026-09-10-1633.html",
+      "published_date": "2026-09-10",
+      "generated_at": "2026-09-10T16:33:23.380006+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy at $170.65 Amid Neutral Sentiment?",
+      "excerpt": "Explore Gartner Inc's latest stock outlook with a $170.65 price tag, neutral market sentiment, and key factors shaping its near-term and long-term potential.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 27,
+      "href": "/blog/it-news-impact-2026-09-10-1633.html",
+      "published_date": "2026-09-10",
+      "generated_at": "2026-09-10T16:33:23.380006+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348677-1786560865437-gettyimages-2289704306-US_STOCKS.jpeg?v=1786560938&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in the Current Banking Landscape?",
+      "excerpt": "Explore Byline Bancorp Inc's current valuation, industry position, and future prospects to determine if BY stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/by-news-impact-2026-09-10-1633.html",
+      "published_date": "2026-09-10",
+      "generated_at": "2026-09-10T16:33:23.380006+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108360540-1788969565779-Untitled-2.jpg?v=1788969632&w=1920&h=1080"
+    },
     {
       "ticker": "BACK",
       "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is This Biotechnology Penny Stock a Buy in 2026?",
@@ -33743,5 +33815,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-09T21:02:50.387498+00:00"
+  "market_data_as_of": "2026-09-10T16:33:23.380006+00:00"
 }

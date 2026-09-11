@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-10T21:01:45.081767+00:00",
+  "generated_at": "2026-09-11T16:37:59.249288+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Is Saratoga Investment Corp a Buy in 2026 Financial Services Market?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock outlook, financial snapshot, and expert insights to decide if SAY is a buy for your portfolio now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/say-news-impact-2026-09-11-1637.html",
+      "published_date": "2026-09-11",
+      "generated_at": "2026-09-11T16:37:59.249288+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&w=1920&h=1080"
+    },
+    {
+      "ticker": "KEY",
+      "title": "KeyCorp (KEY) Stock Analysis: Is This Banking Giant a Buy Amid Rising Treasury Yields?",
+      "excerpt": "Explore our detailed KeyCorp stock analysis amid shifting Treasury yields and banking sector trends. Discover if KEY stock is poised for growth or caution in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 19,
+      "href": "/blog/key-news-impact-2026-09-11-1637.html",
+      "published_date": "2026-09-11",
+      "generated_at": "2026-09-11T16:37:59.249288+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107109968-NUP_198430_00193r.jpg?v=1696632386&w=1920&h=1080"
+    },
+    {
+      "ticker": "EL",
+      "title": "Estee Lauder Companies Inc (EL) Stock Analysis: Is EL a Buy in 2026?",
+      "excerpt": "Discover whether Estee Lauder Companies (EL) stock is a buy today with a detailed analysis of recent performance, industry dynamics, and valuation insights.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/el-news-impact-2026-09-11-1637.html",
+      "published_date": "2026-09-11",
+      "generated_at": "2026-09-11T16:37:59.249288+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Discover an in-depth ON Semiconductor Corp stock analysis. We explore bullish trends, risks, valuation insights, and whether ON is a smart buy in the semiconductor sector today.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 121,
+      "href": "/blog/on-news-impact-2026-09-11-1637.html",
+      "published_date": "2026-09-11",
+      "generated_at": "2026-09-11T16:37:59.249288+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285956-1775048846885-gettyimages-2269291703-6e6a0089_copy_zhv0gn6f.jpeg?v=1775048926&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Strong Buy in Textiles & Apparel?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock forecast for 2026. We analyze AS's bullish momentum, market position, risks, and growth outlook in textiles and apparel.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 89,
+      "href": "/blog/as-news-impact-2026-09-11-1637.html",
+      "published_date": "2026-09-11",
+      "generated_at": "2026-09-11T16:37:59.249288+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108361428-1789068418534-tom7.jpg?v=1789138515&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy in Today\u2019s Tech Landscape?",
+      "excerpt": "Explore Gartner's latest growth prospects, valuation, competitive edge, and risks to determine if IT stock is a smart buy amid current tech industry shifts.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 36,
+      "href": "/blog/it-news-impact-2026-09-11-1637.html",
+      "published_date": "2026-09-11",
+      "generated_at": "2026-09-11T16:37:59.249288+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357880-1788368526390-gettyimages-2292619592-AFP_C76Z6NG.jpeg?v=1788368563&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Competitive Apparel Sector?",
@@ -33959,5 +34031,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-10T21:01:45.081767+00:00"
+  "market_data_as_of": "2026-09-11T16:37:59.249288+00:00"
 }

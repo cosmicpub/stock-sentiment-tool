@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-11T21:06:28.710212+00:00",
+  "generated_at": "2026-09-12T15:39:43.681947+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in the Biotechnology Sector?",
+      "excerpt": "Explore IMAC Holdings Inc's current position in biotech with our detailed BACK stock analysis, covering prospects, risks, valuation, and market outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/back-news-impact-2026-09-12-1539.html",
+      "published_date": "2026-09-12",
+      "generated_at": "2026-09-12T15:39:43.681947+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108284017-1774615135525-gettyimages-2268007114-AFP_A4VU6NZ.jpeg?v=1774615226&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Why This Insurance Stock Is Gaining Investor Confidence",
+      "excerpt": "Discover the factors behind Health In Tech Inc's bullish momentum, industry context, and key risks. Is HIT a smart buy for 2026 investors?",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 16,
+      "href": "/blog/hit-news-impact-2026-09-12-1539.html",
+      "published_date": "2026-09-12",
+      "generated_at": "2026-09-12T15:39:43.681947+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108360816-1788985691180-IMG_3751.jpg?v=1789068361&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore the bullish case for ON Semiconductor Corp (ON) stock as rising semiconductor demand and strong industry trends position it for growth. Is ON a buy now?",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 137,
+      "href": "/blog/on-news-impact-2026-09-12-1539.html",
+      "published_date": "2026-09-12",
+      "generated_at": "2026-09-12T15:39:43.681947+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Textile Sector Bullish Momentum?",
+      "excerpt": "Discover a detailed analysis of Amer Sports Inc (AS) stock, exploring bullish trends, sector positioning, and risks to consider in this market outlook.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 76,
+      "href": "/blog/as-news-impact-2026-09-12-1539.html",
+      "published_date": "2026-09-12",
+      "generated_at": "2026-09-12T15:39:43.681947+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108361428-1789068418534-tom7.jpg?v=1789138515&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Buy in Financial Services?",
+      "excerpt": "Discover a detailed Saratoga Investment Corp (SAY) stock analysis highlighting key risks, opportunities, and what investors should watch in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 44,
+      "href": "/blog/say-news-impact-2026-09-12-1539.html",
+      "published_date": "2026-09-12",
+      "generated_at": "2026-09-12T15:39:43.681947+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Time to Buy This Tech Leader?",
+      "excerpt": "Explore Gartner Inc's latest performance, industry standing, and key risks to decide if IT stock is a compelling buy in today's tech landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/it-news-impact-2026-09-12-1539.html",
+      "published_date": "2026-09-12",
+      "generated_at": "2026-09-12T15:39:43.681947+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358942-1788527323551-or_staff_around_ottava__1_.jpg?v=1788527484&w=1920&h=1080"
+    },
     {
       "ticker": "FIVE",
       "title": "Five Below Inc (FIVE) Stock Analysis 2026: Is FIVE a Buy in Today\u2019s Retail Landscape?",
@@ -34175,5 +34247,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-11T21:06:28.710212+00:00"
+  "market_data_as_of": "2026-09-12T15:39:43.681947+00:00"
 }

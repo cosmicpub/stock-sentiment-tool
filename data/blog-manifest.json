@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-12T15:39:43.681947+00:00",
+  "generated_at": "2026-09-13T16:31:21.512522+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Market Shifts in 2026?",
+      "excerpt": "Explore our detailed analysis of C3.ai Inc (AI) stock, assessing its growth potential, risks, and valuation as AI reshapes the tech landscape in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 24,
+      "href": "/blog/ai-news-impact-2026-09-13-1631.html",
+      "published_date": "2026-09-13",
+      "generated_at": "2026-09-13T16:31:21.512522+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108229968-1763739290840-gettyimages-2236733569-STARGATE_DATA_CENTER.jpeg?v=1770838644&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Optimism?",
+      "excerpt": "Analyzing ON Semiconductor's bullish momentum, key growth drivers, valuation, and risks to assess if ON stock is a compelling buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 129,
+      "href": "/blog/on-news-impact-2026-09-13-1631.html",
+      "published_date": "2026-09-13",
+      "generated_at": "2026-09-13T16:31:21.512522+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108284017-1774615135525-gettyimages-2268007114-AFP_A4VU6NZ.jpeg?v=1774615226&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Industry Headwinds?",
+      "excerpt": "Analyzing Amer Sports Inc's (AS) stock performance and prospects within the textiles and luxury goods sector, this report evaluates whether AS is a compelling buy right now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 80,
+      "href": "/blog/as-news-impact-2026-09-13-1631.html",
+      "published_date": "2026-09-13",
+      "generated_at": "2026-09-13T16:31:21.512522+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108361428-1789068418534-tom7.jpg?v=1789138515&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Gartner Inc's (IT) current stock status, industry positioning, and future outlook with a detailed analysis amid a neutral market sentiment environment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/it-news-impact-2026-09-13-1631.html",
+      "published_date": "2026-09-13",
+      "generated_at": "2026-09-13T16:31:21.512522+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108361821-1789135715135-CNBC_Illo_Morning_Routines_PINK_EDITED80.jpg?v=1789135821&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock performance, key metrics, and market outlook to determine if SAY is a wise investment for your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 39,
+      "href": "/blog/say-news-impact-2026-09-13-1631.html",
+      "published_date": "2026-09-13",
+      "generated_at": "2026-09-13T16:31:21.512522+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate REIT A Buy in 2026?",
+      "excerpt": "Explore our comprehensive Alexandria Real Estate Equities (ARE) stock analysis \u2014 we break down key factors shaping its 2026 outlook and investment case.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 26,
+      "href": "/blog/are-news-impact-2026-09-13-1631.html",
+      "published_date": "2026-09-13",
+      "generated_at": "2026-09-13T16:31:21.512522+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108360056-1788900673044-gettyimages-2293685599-NH_PRIMARY.jpeg?v=1788900736&w=1920&h=1080"
+    },
     {
       "ticker": "BACK",
       "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in the Biotechnology Sector?",
@@ -34247,5 +34319,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-12T15:39:43.681947+00:00"
+  "market_data_as_of": "2026-09-13T16:31:21.512522+00:00"
 }

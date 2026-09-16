@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-16T17:09:57.437311+00:00",
+  "generated_at": "2026-09-16T18:16:23.463483+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Bearish Signals Amid Industry Challenges",
+      "excerpt": "Explore why Amer Sports Inc's (AS) bearish sentiment and sector headwinds suggest caution for investors eyeing this textiles and apparel stock.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 112,
+      "href": "/blog/as-news-impact-2026-09-16-1816.html",
+      "published_date": "2026-09-16",
+      "generated_at": "2026-09-16T18:16:23.463483+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357863-17883671652026-09-02t163658z_411623910_rc2szmaoo2wm_rtrmadp_0_american-airline-premium-seats.jpeg?v=1788367198&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Momentum?",
+      "excerpt": "ON Semiconductor (ON) shows bullish momentum with promising semiconductor industry trends. Our analysis dives into financials, risks, and growth prospects.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 109,
+      "href": "/blog/on-news-impact-2026-09-16-1816.html",
+      "published_date": "2026-09-16",
+      "generated_at": "2026-09-16T18:16:23.463483+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108091527-1737655605682-1U8A1982.JPG?v=1737655721&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Bearish Sentiment and What Investors Should Know in 2026",
+      "excerpt": "C3.ai Inc (AI) faces bearish trends amid rising AI regulation debates and safety concerns. Our detailed analysis explores the risks investors must watch.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 52,
+      "href": "/blog/ai-news-impact-2026-09-16-1816.html",
+      "published_date": "2026-09-16",
+      "generated_at": "2026-09-16T18:16:23.463483+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108362069-1789159095041-AI_interview_confusion.png?v=1789160307&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Tech Sector Shifts?",
+      "excerpt": "Dive into Gartner Inc's latest stock analysis as we examine valuation, sector performance, and key risks to determine if IT stock is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 39,
+      "href": "/blog/it-news-impact-2026-09-16-1816.html",
+      "published_date": "2026-09-16",
+      "generated_at": "2026-09-16T18:16:23.463483+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis: Is Alexandria Real Estate Equities, Inc a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock outlook amid steady fundamentals and sector headwinds. Is ARE a buy for your portfolio?",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 36,
+      "href": "/blog/are-news-impact-2026-09-16-1816.html",
+      "published_date": "2026-09-16",
+      "generated_at": "2026-09-16T18:16:23.463483+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is This Leisure Products Leader a Buy in 2026?",
+      "excerpt": "Explore Hasbro's stock forecast amid a neutral outlook and sector rebound potentials. See key risks, valuation insights, and whether HAS is a compelling buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 27,
+      "href": "/blog/has-news-impact-2026-09-16-1816.html",
+      "published_date": "2026-09-16",
+      "generated_at": "2026-09-16T18:16:23.463483+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in the Current Retail Climate?",
@@ -34823,5 +34895,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-16T17:09:57.437311+00:00"
+  "market_data_as_of": "2026-09-16T18:16:23.463483+00:00"
 }

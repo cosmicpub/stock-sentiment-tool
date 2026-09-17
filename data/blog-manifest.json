@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-16T21:29:30.224446+00:00",
+  "generated_at": "2026-09-17T17:09:58.953910+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Buy Now?",
+      "excerpt": "Explore Saratoga Investment Corp\u2019s current valuation, dividend appeal, and growth prospects in this detailed SAY stock analysis for September 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/say-news-impact-2026-09-17-1709.html",
+      "published_date": "2026-09-17",
+      "generated_at": "2026-09-17T17:09:58.953910+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108363826-1789579623582-gettyimages-573107485-bld167417.jpeg?v=1789579706&w=1920&h=1080"
+    },
+    {
+      "ticker": "JOB",
+      "title": "GEE Group Inc (JOB) Stock Analysis: Is This Professional Services Stock a Buy in 2026?",
+      "excerpt": "Explore the latest GEE Group Inc (JOB) stock forecast amid evolving AI-driven hiring trends. Discover key risks, opportunities, and what investors should know.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 11,
+      "href": "/blog/job-news-impact-2026-09-17-1709.html",
+      "published_date": "2026-09-17",
+      "generated_at": "2026-09-17T17:09:58.953910+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108362069-1789159095041-AI_interview_confusion.png?v=1789160307&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth Amer Sports Inc stock analysis, examining bearish sentiment, valuation concerns, and growth prospects in the textiles sector.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 111,
+      "href": "/blog/as-news-impact-2026-09-17-1709.html",
+      "published_date": "2026-09-17",
+      "generated_at": "2026-09-17T17:09:58.953910+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357863-17883671652026-09-02t163658z_411623910_rc2szmaoo2wm_rtrmadp_0_american-airline-premium-seats.jpeg?v=1788367198&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore why ON Semiconductor's shares are under pressure with a bearish outlook and what investors should watch in this detailed stock analysis.",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 94,
+      "href": "/blog/on-news-impact-2026-09-17-1709.html",
+      "published_date": "2026-09-17",
+      "generated_at": "2026-09-17T17:09:58.953910+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108355817-1787935170986-108355817-1787932538588-_05A6238-1.jpg?v=1787943832&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in the Real Estate Sector?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities (ARE) stock analysis, including valuation, growth prospects, and key risks shaping the real estate market outlook.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 45,
+      "href": "/blog/are-news-impact-2026-09-17-1709.html",
+      "published_date": "2026-09-17",
+      "generated_at": "2026-09-17T17:09:58.953910+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108309527-1779255938140-gettyimages-1139073776-20192996-2019-v1_editorial.jpeg?v=1779255952&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Technology Sector Shifts?",
+      "excerpt": "Explore a detailed Gartner Inc stock analysis examining the company's position, valuation, and prospects amid a cautiously rebounding tech sector.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 40,
+      "href": "/blog/it-news-impact-2026-09-17-1709.html",
+      "published_date": "2026-09-17",
+      "generated_at": "2026-09-17T17:09:58.953910+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Growth?",
@@ -34967,5 +35039,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-16T21:29:30.224446+00:00"
+  "market_data_as_of": "2026-09-17T17:09:58.953910+00:00"
 }

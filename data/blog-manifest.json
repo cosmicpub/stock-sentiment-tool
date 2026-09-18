@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-17T21:33:56.728460+00:00",
+  "generated_at": "2026-09-18T16:34:48.950032+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corp (NEXT) Stock Analysis: Is NEXT a Buy in Today\u2019s Energy Market?",
+      "excerpt": "Explore NextDecade Corp\u2019s (NEXT) latest stock analysis, industry positioning, risks, and long-term outlook to determine if it\u2019s a compelling energy sector buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/next-news-impact-2026-09-18-1634.html",
+      "published_date": "2026-09-18",
+      "generated_at": "2026-09-18T16:34:48.950032+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108178664-1753818860296-gettyimages-2207715090-_sg21245_vu0ywyck.jpeg?v=1753819028&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Apparel Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth Amer Sports Inc stock analysis as bearish sentiment looms. We break down risks, valuation, and market outlook for AS shares.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 103,
+      "href": "/blog/as-news-impact-2026-09-18-1634.html",
+      "published_date": "2026-09-18",
+      "generated_at": "2026-09-18T16:34:48.950032+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108345400-1785946057932-gettyimages-2284310409-TFSPI_05072026-6085.jpeg?v=1785946084&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor a Buy Amid Bearish Sentiment?",
+      "excerpt": "ON Semiconductor stock faces bearish pressure despite potential long-term catalysts. Explore key risks, outlook, and whether ON is a buy today.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 88,
+      "href": "/blog/on-news-impact-2026-09-18-1634.html",
+      "published_date": "2026-09-18",
+      "generated_at": "2026-09-18T16:34:48.950032+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108220762-1762198495342-gettyimages-2244833483-l1066929_qhb4dq4e.jpeg?v=1771535830&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore why Alexandria Real Estate Equities (ARE) shows bullish momentum in 2026, backed by strong fundamentals and attractive valuation in the real estate sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 51,
+      "href": "/blog/are-news-impact-2026-09-18-1634.html",
+      "published_date": "2026-09-18",
+      "generated_at": "2026-09-18T16:34:48.950032+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108364556-1789668251957-108364556-1789668204365-gettyimages-2292279246-AFP_C6VB6HD.jpg?v=1789668262&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Time to Buy This Tech Giant?",
+      "excerpt": "Explore our in-depth Gartner Inc (IT) stock analysis covering recent trends, risks, valuation, and whether this technology leader is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 45,
+      "href": "/blog/it-news-impact-2026-09-18-1634.html",
+      "published_date": "2026-09-18",
+      "generated_at": "2026-09-18T16:34:48.950032+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Sector Challenges?",
+      "excerpt": "Explore AutoNation Inc's current stock position at $169.85 amid sector uncertainty. Is AN a buy? Our in-depth analysis covers risks, opportunities, and valuation.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/an-news-impact-2026-09-18-1634.html",
+      "published_date": "2026-09-18",
+      "generated_at": "2026-09-18T16:34:48.950032+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BACK",
       "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in Biotechnology?",
@@ -35183,5 +35255,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-17T21:33:56.728460+00:00"
+  "market_data_as_of": "2026-09-18T16:34:48.950032+00:00"
 }

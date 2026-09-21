@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-21T19:37:39.016725+00:00",
+  "generated_at": "2026-09-21T23:26:37.776532+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy in Textiles & Apparel?",
+      "excerpt": "Explore our detailed Amer Sports Inc (AS) stock analysis covering valuation, industry position, and growth outlook to determine if AS is a smart buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 89,
+      "href": "/blog/as-news-impact-2026-09-21-2326.html",
+      "published_date": "2026-09-21",
+      "generated_at": "2026-09-21T23:26:37.776532+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Smart Buy Amid Semiconductor Rally?",
+      "excerpt": "Explore the bullish outlook on ON Semiconductor Corp stock, key growth drivers, valuation insights, and risks shaping the semiconductor sector in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 86,
+      "href": "/blog/on-news-impact-2026-09-21-2326.html",
+      "published_date": "2026-09-21",
+      "generated_at": "2026-09-21T23:26:37.776532+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Strong Tech Sector Momentum?",
+      "excerpt": "Explore Gartner Inc's (IT) bullish outlook driven by its tech leadership, robust growth prospects, and market trends in our latest stock analysis.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 38,
+      "href": "/blog/it-news-impact-2026-09-21-2326.html",
+      "published_date": "2026-09-21",
+      "generated_at": "2026-09-21T23:26:37.776532+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now the Time to Buy in 2026?",
+      "excerpt": "Explore our in-depth Alexandria Real Estate Equities stock analysis, evaluating market position, risks, and growth potential to determine if ARE is a buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 34,
+      "href": "/blog/are-news-impact-2026-09-21-2326.html",
+      "published_date": "2026-09-21",
+      "generated_at": "2026-09-21T23:26:37.776532+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108364966-1789745761141-gettyimages-2093939320-1w3a3962.jpeg?v=1789745801&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services?",
+      "excerpt": "Explore Saratoga Investment Corp's recent performance, valuation, and outlook in the financial services sector to determine if SAY stock is a worthwhile buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/say-news-impact-2026-09-21-2326.html",
+      "published_date": "2026-09-21",
+      "generated_at": "2026-09-21T23:26:37.776532+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108348691-1786561873482-Lifeguard_Duty-1048717344-Getty.jpg?v=1786561964&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Technology Stock a Buy in 2026?",
+      "excerpt": "Explore our in-depth C3.ai stock analysis to uncover key growth drivers, risks, and valuation insights. Is AI stock a worthwhile buy amid evolving tech trends?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/ai-news-impact-2026-09-21-2326.html",
+      "published_date": "2026-09-21",
+      "generated_at": "2026-09-21T23:26:37.776532+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Outlook Amid Industry Challenges and Opportunities",
@@ -35615,5 +35687,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-21T19:37:39.016725+00:00"
+  "market_data_as_of": "2026-09-21T23:26:37.776532+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-22T17:05:59.744663+00:00",
+  "generated_at": "2026-09-22T18:10:59.731445+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is This Life Sciences Stock a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Bio-Techne Corp's latest stock outlook with bullish momentum, sector trends, and key risks to watch in the evolving Life Sciences Tools & Services market.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 18,
+      "href": "/blog/tech-news-impact-2026-09-22-1810.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T18:10:59.731445+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108032622-1726069235911-gettyimages-2171353745-september11482605_lcbogmju.jpeg?v=1731607610&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Evaluating Amer Sports Inc's current market stance, financials, and industry dynamics to determine if AS stock is a strategic buy amid neutral sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 95,
+      "href": "/blog/as-news-impact-2026-09-22-1810.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T18:10:59.731445+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108272809-17725528062026-03-03t153158z_1980154696_rc22xjad02v7_rtrmadp_0_usa-election-north-carolina.jpeg?v=1772552824&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Bullish Momentum?",
+      "excerpt": "Explore ON Semiconductor\u2019s latest bullish momentum, key growth drivers, valuation, and risks in our comprehensive ON stock analysis and forecast.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 93,
+      "href": "/blog/on-news-impact-2026-09-22-1810.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T18:10:59.731445+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Buy in Financial Services?",
+      "excerpt": "Explore Saratoga Investment Corp's current financial health, market positioning, and risks to determine if SAY stock fits your portfolio strategy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/say-news-impact-2026-09-22-1810.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T18:10:59.731445+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108202762-1758637947920-gettyimages-2236454967-AFP_76H98R4.jpeg?v=1758638007&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Tech Stock a Buy at $10.85?",
+      "excerpt": "C3.ai Inc (AI) holds steady amid broader AI sector optimism. We dissect its growth outlook, risks, valuation, and recent market moves to guide your investment decision.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/ai-news-impact-2026-09-22-1810.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T18:10:59.731445+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108289505-1775770640643-gettyimages-2269982757-boivin-notitle260409_npl4s.jpeg?v=1775770761&w=1920&h=1080"
+    },
+    {
+      "ticker": "FUND",
+      "title": "Sprott Focus Trust Inc (FUND) Stock Analysis: Is FUND a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore the latest analysis of Sprott Focus Trust Inc (FUND), offering insight into its current price action, market position, and potential investment merits.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/fund-news-impact-2026-09-22-1810.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T18:10:59.731445+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HE",
       "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
@@ -35759,5 +35831,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-22T17:05:59.744663+00:00"
+  "market_data_as_of": "2026-09-22T18:10:59.731445+00:00"
 }

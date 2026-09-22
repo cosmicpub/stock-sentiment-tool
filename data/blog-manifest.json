@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-21T23:26:37.776532+00:00",
+  "generated_at": "2026-09-22T17:05:59.744663+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in 2026?",
+      "excerpt": "Explore our 2026 Hawaiian Electric Industries stock analysis, evaluating HE's valuation, risks, and growth outlook within the utilities sector to decide if it's a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/he-news-impact-2026-09-22-1705.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T17:05:59.744663+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108364588-1789672238364-2293250011.jpg?v=1789675881&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles and Apparel Sector?",
+      "excerpt": "Discover our detailed Amer Sports Inc stock analysis covering valuation, industry trends, risks, and growth prospects to determine if AS is a compelling buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 95,
+      "href": "/blog/as-news-impact-2026-09-22-1705.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T17:05:59.744663+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108272809-17725528062026-03-03t153158z_1980154696_rc22xjad02v7_rtrmadp_0_usa-election-north-carolina.jpeg?v=1772552824&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Strong Buy Amid Semiconductor Growth?",
+      "excerpt": "Explore our comprehensive ON Semiconductor stock analysis, unveiling why bullish sentiment and industry trends make ON a compelling buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 93,
+      "href": "/blog/on-news-impact-2026-09-22-1705.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T17:05:59.744663+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108032622-1726069235911-gettyimages-2171353745-september11482605_lcbogmju.jpeg?v=1731607610&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis and Forecast: Is AI a Buy in 2026?",
+      "excerpt": "Explore C3.ai Inc's current positioning in the AI-driven tech sector. This detailed analysis covers risks, opportunities, and what investors need to consider before buying AI stock today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 33,
+      "href": "/blog/ai-news-impact-2026-09-22-1705.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T17:05:59.744663+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108289505-1775770640643-gettyimages-2269982757-boivin-notitle260409_npl4s.jpeg?v=1775770761&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services?",
+      "excerpt": "Explore our detailed analysis of Saratoga Investment Corp (SAY) stock, assessing whether current price levels present a buying opportunity amid neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/say-news-impact-2026-09-22-1705.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T17:05:59.744663+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108202762-1758637947920-gettyimages-2236454967-AFP_76H98R4.jpeg?v=1758638007&w=1920&h=1080"
+    },
+    {
+      "ticker": "FUND",
+      "title": "FUND Stock Analysis: Is Sprott Focus Trust Inc a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore our in-depth FUND stock analysis, assessing Sprott Focus Trust Inc\u2019s valuation, risks, and potential. Find out if FUND shares are poised for growth or caution.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/fund-news-impact-2026-09-22-1705.html",
+      "published_date": "2026-09-22",
+      "generated_at": "2026-09-22T17:05:59.744663+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy in Textiles & Apparel?",
@@ -35687,5 +35759,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-21T23:26:37.776532+00:00"
+  "market_data_as_of": "2026-09-22T17:05:59.744663+00:00"
 }

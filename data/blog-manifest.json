@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-23T21:41:07.489109+00:00",
+  "generated_at": "2026-09-24T17:23:54.720421+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "META",
+      "title": "META Stock Analysis: Is Meta Platforms Inc a Buy Amid AI-Driven Momentum?",
+      "excerpt": "Explore Meta Platforms' stock outlook as its AI innovation with Muse sparks renewed investor interest, pushing shares near yearly highs. Is META a buy?",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/meta-news-impact-2026-09-24-1723.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T17:23:54.720421+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108367420-1790256219071-gettyimages-2296215783-META_CONNECT.jpeg?v=1790256353&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in Today's Utility Market?",
+      "excerpt": "Explore a comprehensive Hawaiian Electric Industries (HE) stock analysis with insights on valuation, risks, and growth outlook. Is HE a buy for utility investors?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/he-news-impact-2026-09-24-1723.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T17:23:54.720421+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore AutoNation's latest stock performance, market outlook, and key factors shaping its future. Is AN stock a buy in today's retail environment?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/an-news-impact-2026-09-24-1723.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T17:23:54.720421+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108366468-CURRY-Simplecast-Still002.png?v=1790107132&w=1920&h=1080"
+    },
+    {
+      "ticker": "VIA",
+      "title": "Via Transportation Inc (VIA) Stock Analysis: Is VIA a Buy in the Shifting Tech Landscape?",
+      "excerpt": "Explore Via Transportation Inc's current market stance, growth prospects, and risks to determine if VIA stock presents a compelling investment opportunity in tech.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/via-news-impact-2026-09-24-1723.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T17:23:54.720421+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is This Textile Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's current challenges, bearish sentiment, and whether its $27 stock price offers a buying opportunity in the textiles and luxury goods sector.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 107,
+      "href": "/blog/as-news-impact-2026-09-24-1723.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T17:23:54.720421+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Current Semiconductor Cycle?",
+      "excerpt": "Explore our in-depth ON Semiconductor stock analysis, covering key growth drivers, market positioning, and risks shaping its 2026 outlook.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 95,
+      "href": "/blog/on-news-impact-2026-09-24-1723.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T17:23:54.720421+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108180088-1753998328790-gettyimages-2227936760-bb1_5426_gu9nuyiv.jpeg?v=1753998357&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Outlook Amid Industry Headwinds",
@@ -36119,5 +36191,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-23T21:41:07.489109+00:00"
+  "market_data_as_of": "2026-09-24T17:23:54.720421+00:00"
 }

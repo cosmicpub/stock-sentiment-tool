@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-24T17:23:54.720421+00:00",
+  "generated_at": "2026-09-24T18:30:24.182899+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis 2026: Is TECH a Buy in Life Sciences Tools?",
+      "excerpt": "Explore our comprehensive Bio-Techne (TECH) stock analysis highlighting bullish trends, valuation insights, and what life sciences investors need to know in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 20,
+      "href": "/blog/tech-news-impact-2026-09-24-1830.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T18:30:24.182899+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108367086-1790191953634-gettyimages-2296171253-UNGA_2026.jpeg?v=1790192037&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis highlighting bearish sentiment, key risks, and valuation insights in the textiles and apparel sector.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 117,
+      "href": "/blog/as-news-impact-2026-09-24-1830.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T18:30:24.182899+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108367420-1790256219071-gettyimages-2296215783-META_CONNECT.jpeg?v=1790256353&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Strength?",
+      "excerpt": "Explore ON Semiconductor\u2019s bullish outlook, growth drivers, valuation, and risks in our detailed 2026 stock analysis to see if ON is a smart buy now.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 95,
+      "href": "/blog/on-news-impact-2026-09-24-1830.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T18:30:24.182899+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108180088-1753998328790-gettyimages-2227936760-bb1_5426_gu9nuyiv.jpeg?v=1753998357&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Bearish Sentiment Clouds Growth Prospects Amid Economic Uncertainty",
+      "excerpt": "Gartner Inc faces a bearish outlook as rising interest rates and competitive pressures challenge its growth. We analyze the risks and what investors should watch.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 42,
+      "href": "/blog/it-news-impact-2026-09-24-1830.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T18:30:24.182899+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108287977-1775572555121-gettyimages-2269656389-WILLIAMS_INTERVIEW.jpeg?v=1775572583&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Play Worth Buying Now?",
+      "excerpt": "Explore our detailed C3.ai stock analysis to understand if this tech stock in the booming AI space represents a smart buy amid rising competition and innovation.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/ai-news-impact-2026-09-24-1830.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T18:30:24.182899+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now the Right Time to Buy?",
+      "excerpt": "Explore the latest Alexandria Real Estate Equities stock analysis, including valuation, risks, and market position to decide if ARE is a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 31,
+      "href": "/blog/are-news-impact-2026-09-24-1830.html",
+      "published_date": "2026-09-24",
+      "generated_at": "2026-09-24T18:30:24.182899+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "META",
       "title": "META Stock Analysis: Is Meta Platforms Inc a Buy Amid AI-Driven Momentum?",
@@ -36191,5 +36263,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-24T17:23:54.720421+00:00"
+  "market_data_as_of": "2026-09-24T18:30:24.182899+00:00"
 }

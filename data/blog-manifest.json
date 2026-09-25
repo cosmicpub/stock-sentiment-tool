@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-24T23:16:38.478681+00:00",
+  "generated_at": "2026-09-25T17:22:53.111729+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis 2026: Is BY a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore a comprehensive Byline Bancorp Inc (BY) stock analysis with bullish outlook, key financial metrics, risks, and what investors should watch now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 30,
+      "href": "/blog/by-news-impact-2026-09-25-1722.html",
+      "published_date": "2026-09-25",
+      "generated_at": "2026-09-25T17:22:53.111729+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108367018-1790186203157-gettyimages-2207777061-uuf14702.jpeg?v=1790189741&w=1920&h=1080"
+    },
+    {
+      "ticker": "GOLD",
+      "title": "Gold.com Inc (GOLD) Stock Analysis: Is GOLD a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Gold.com Inc's latest stock analysis as price holds steady near $44. We dissect fundamentals, industry trends, and what investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/gold-news-impact-2026-09-25-1722.html",
+      "published_date": "2026-09-25",
+      "generated_at": "2026-09-25T17:22:53.111729+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today's Real Estate Market?",
+      "excerpt": "Explore our in-depth analysis of Two Harbors Investment Corp (TWO) stock, assessing its current market position, risks, and growth potential in real estate investments.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 15,
+      "href": "/blog/two-news-impact-2026-09-25-1722.html",
+      "published_date": "2026-09-25",
+      "generated_at": "2026-09-25T17:22:53.111729+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108214824-1761063419016-gettyimages-2242400164-mms28717_rvtf4mdp.jpeg?v=1761063455&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Giant a Buy Amid Bearish Trends?",
+      "excerpt": "Explore Amer Sports Inc's current bearish sentiment and detailed stock analysis. Is AS poised for recovery or further decline in the textile sector?",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 130,
+      "href": "/blog/as-news-impact-2026-09-25-1722.html",
+      "published_date": "2026-09-25",
+      "generated_at": "2026-09-25T17:22:53.111729+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106993739-1640610359787-gettyimages-1237413027-HOLIDAY_TRAVEL.jpeg?v=1776684852&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Market Uncertainty?",
+      "excerpt": "Explore ON Semiconductor's current standing, growth prospects, and risks in this detailed ON stock analysis to decide if it\u2019s a smart buy for investors today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 80,
+      "href": "/blog/on-news-impact-2026-09-25-1722.html",
+      "published_date": "2026-09-25",
+      "generated_at": "2026-09-25T17:22:53.111729+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108279913-1773864085826-gettyimages-2260914806-64393_48_ms_4337.jpeg?v=1773864352&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Buy in 2026?",
+      "excerpt": "Dive into our in-depth Alexandria Real Estate Equities (ARE) stock analysis to understand its current valuation, risks, and growth potential amid a neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 41,
+      "href": "/blog/are-news-impact-2026-09-25-1722.html",
+      "published_date": "2026-09-25",
+      "generated_at": "2026-09-25T17:22:53.111729+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108364365-1789650502211-gettyimages-2294401911-AA_12092026_2948754.jpeg?v=1789650540&w=1920&h=1080"
+    },
     {
       "ticker": "OUT",
       "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy Amidst Real Estate Sector Flux?",
@@ -36335,5 +36407,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-24T23:16:38.478681+00:00"
+  "market_data_as_of": "2026-09-25T17:22:53.111729+00:00"
 }

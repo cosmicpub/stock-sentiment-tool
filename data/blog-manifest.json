@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-27T17:06:04.755175+00:00",
+  "generated_at": "2026-09-28T19:45:14.357013+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore AutoNation Inc's current valuation, industry position, and risks to determine if AN stock is a worthwhile investment in today's retail landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/an-news-impact-2026-09-28-1945.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T19:45:14.357013+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316343-1780518921561-gettyimages-2243418927-NVIDIA_AI_KEYNOTE.jpeg?v=1780519019&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is THIS Banking Stock a Buy in 2026?",
+      "excerpt": "Explore our in-depth Somerset Trust Holding Co (SOME) stock analysis \u2014 uncover key banking sector insights, recent price action, and long-term outlook before investing.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/some-news-impact-2026-09-28-1945.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T19:45:14.357013+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/104534224-1790354840846-John_mackey.png?v=1790354868&w=1920&h=1080"
+    },
+    {
+      "ticker": "EU",
+      "title": "enCore Energy Corp (EU) Stock Analysis: Is EU a Buy Amid Energy Market Volatility?",
+      "excerpt": "Explore enCore Energy Corp's latest performance, industry outlook, and key risks to decide if EU stock is positioned for growth in today\u2019s shifting energy landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/eu-news-impact-2026-09-28-1945.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T19:45:14.357013+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bearish Market Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current bearish outlook, key risks, and growth prospects in this detailed stock analysis to determine if ON is a strategic buy in 2026.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 108,
+      "href": "/blog/on-news-impact-2026-09-28-1945.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T19:45:14.357013+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Right Time to Buy?",
+      "excerpt": "Examining Amer Sports Inc's current neutral stance, market position, and growth potential to determine if AS stock is a buy for long-term investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 71,
+      "href": "/blog/as-news-impact-2026-09-28-1945.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T19:45:14.357013+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107116506-1662762534450-gettyimages-1243031526-pinocchio310150.jpeg?v=1693994401&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Gartner Inc (IT) stock analysis with a neutral market stance, valuation insights, and its growth prospects in the evolving tech landscape for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 45,
+      "href": "/blog/it-news-impact-2026-09-28-1945.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T19:45:14.357013+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315203-1780408967315-gettyimages-2278723586-sm1_5165.jpeg?v=1780409020&w=1920&h=1080"
+    },
     {
       "ticker": "UK",
       "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Sell in 2026?",
@@ -36695,5 +36767,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-27T17:06:04.755175+00:00"
+  "market_data_as_of": "2026-09-28T19:45:14.357013+00:00"
 }

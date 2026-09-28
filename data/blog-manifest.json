@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-28T19:45:14.357013+00:00",
+  "generated_at": "2026-09-28T20:38:32.142051+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in the Current Utilities Landscape?",
+      "excerpt": "Explore Hawaiian Electric Industries Inc's stock potential, analyzing its market position, growth prospects, and investment risks in the evolving utilities sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/he-news-impact-2026-09-28-2038.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T20:38:32.142051+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108367419-1790258260358-108367419-1790256216366-gettyimages-2296215540-20090101260924-99-741349.jpg?v=1790258272&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is Now the Time to Buy in the Semiconductor Sector?",
+      "excerpt": "Explore our comprehensive ON Semiconductor Corp stock analysis to understand if ON is positioned for growth amid industry headwinds and tech sector shifts.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 114,
+      "href": "/blog/on-news-impact-2026-09-28-2038.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T20:38:32.142051+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment in Textiles & Apparel?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis, revealing key factors behind the bullish outlook and what investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 74,
+      "href": "/blog/as-news-impact-2026-09-28-2038.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T20:38:32.142051+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107116506-1662762534450-gettyimages-1243031526-pinocchio310150.jpeg?v=1693994401&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is This Technology Sector Leader a Buy Now?",
+      "excerpt": "Explore Gartner Inc's (IT) latest stock outlook with a balanced view on growth drivers, risks, valuation, and AI sector impacts for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 45,
+      "href": "/blog/it-news-impact-2026-09-28-2038.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T20:38:32.142051+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108315203-1780408967315-gettyimages-2278723586-sm1_5165.jpeg?v=1780409020&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp (BY) Stock Analysis: Is BY a Buy Amid Bullish Sentiment in Banking?",
+      "excerpt": "Discover why Byline Bancorp (BY) is attracting bullish investor interest in the current banking landscape, with a detailed stock analysis and outlook.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 38,
+      "href": "/blog/by-news-impact-2026-09-28-2038.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T20:38:32.142051+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis 2026: Is UK a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore a comprehensive analysis of Ucommune International Ltd's (UK) stock in 2026, examining bullish factors, risks, and valuation insights to guide investors.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 37,
+      "href": "/blog/uk-news-impact-2026-09-28-2038.html",
+      "published_date": "2026-09-28",
+      "generated_at": "2026-09-28T20:38:32.142051+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Neutral Market Sentiment?",
@@ -36767,5 +36839,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-28T19:45:14.357013+00:00"
+  "market_data_as_of": "2026-09-28T20:38:32.142051+00:00"
 }

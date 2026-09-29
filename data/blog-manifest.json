@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-29T18:09:19.486156+00:00",
+  "generated_at": "2026-09-29T19:30:52.488614+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is This Financial Services Firm a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Saratoga Investment Corp's latest bearish trends, valuation insights, and risks. Get a detailed SAY stock forecast and key investor considerations.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 39,
+      "href": "/blog/say-news-impact-2026-09-29-1930.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T19:30:52.488614+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108368882-1790613237947-Longevity_care_spending_v2.png?v=1790613346&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Industry Contender a Buy in 2026?",
+      "excerpt": "Explore a detailed analysis of Amer Sports Inc (AS) stock, its performance in the textiles and apparel sector, and key factors influencing its 2026 outlook.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 81,
+      "href": "/blog/as-news-impact-2026-09-29-1930.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T19:30:52.488614+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107116506-1662762534450-gettyimages-1243031526-pinocchio310150.jpeg?v=1693994401&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Bearish Signals Amid Semiconductor Sector Challenges",
+      "excerpt": "ON Semiconductor (ON) faces bearish momentum as industry headwinds and valuation pressures cloud its near-term outlook. Investors should weigh risks carefully.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 70,
+      "href": "/blog/on-news-impact-2026-09-29-1930.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T19:30:52.488614+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108255732-1769094884456-JogLU8aw.jpg?v=1769094964&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy in Real Estate Sector?",
+      "excerpt": "An in-depth look at Ucommune International Ltd's (UK) stock performance, market positioning, and future outlook in the real estate sector. Explore if UK is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/uk-news-impact-2026-09-29-1930.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T19:30:52.488614+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is This Financial Services Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Saratoga Investment Corp (SAY) stock analysis, assessing bearish trends and key risks in this financial services firm\u2019s outlook.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 39,
+      "href": "/blog/say-news-impact-2026-09-29-1930.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T19:30:52.488614+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid AI-Driven Industry Shifts?",
+      "excerpt": "Explore Gartner Inc's latest stock analysis, as AI advancements fuel bullish sentiment. Is IT a strong buy in today\u2019s technology landscape?",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 36,
+      "href": "/blog/it-news-impact-2026-09-29-1930.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T19:30:52.488614+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108368771-1790604797543-gettyimages-1756958183-ln1_9011.jpeg?v=1790604839&w=1920&h=1080"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is This Real Estate REIT a Buy Amid Bearish Sentiment?",
@@ -36911,5 +36983,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-29T18:09:19.486156+00:00"
+  "market_data_as_of": "2026-09-29T19:30:52.488614+00:00"
 }

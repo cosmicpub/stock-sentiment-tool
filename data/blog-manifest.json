@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-29T19:30:52.488614+00:00",
+  "generated_at": "2026-09-29T23:51:09.591034+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Explore our deep dive into Amer Sports Inc's (AS) stock, assessing bullish indicators, valuation, and competitive stance in the textiles and apparel industry.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 80,
+      "href": "/blog/as-news-impact-2026-09-29-2351.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T23:51:09.591034+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108369799-1790711959824-Waldron_Solomon.jpg?v=1790712098&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Analyzing ON Semiconductor Corp's current neutral stance with a $75.95 price tag: growth prospects, industry dynamics, risks, and valuation insights for investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 73,
+      "href": "/blog/on-news-impact-2026-09-29-2351.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T23:51:09.591034+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108255732-1769094884456-JogLU8aw.jpg?v=1769094964&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis and Forecast: Is It a Buy in 2026?",
+      "excerpt": "Explore the latest Ucommune International Ltd (UK) stock analysis. We assess current valuation, risks, and growth potential to determine if UK is a buy.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/uk-news-impact-2026-09-29-2351.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T23:51:09.591034+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Is Saratoga Investment Corp a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Saratoga Investment Corp's latest bearish trend, valuation insights, and risks to decide if SAY stock is a buy in the current financial climate.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 39,
+      "href": "/blog/say-news-impact-2026-09-29-2351.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T23:51:09.591034+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108368882-1790613237947-Longevity_care_spending_v2.png?v=1790613346&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Bullish AI Market Trends?",
+      "excerpt": "Explore Gartner Inc's strong bullish momentum driven by AI demand, key risks in technology sector, and expert insights shaping IT stock forecast today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 32,
+      "href": "/blog/it-news-impact-2026-09-29-2351.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T23:51:09.591034+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108368771-1790604797543-gettyimages-1756958183-ln1_9011.jpeg?v=1790604839&w=1920&h=1080"
+    },
+    {
+      "ticker": "TWO",
+      "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the bearish outlook on Two Harbors Investment Corp (TWO), its key risks, valuation, and whether it presents a buying opportunity in the real estate sector.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 27,
+      "href": "/blog/two-news-impact-2026-09-29-2351.html",
+      "published_date": "2026-09-29",
+      "generated_at": "2026-09-29T23:51:09.591034+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "SAY",
       "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is This Financial Services Firm a Buy Amid Bearish Sentiment?",
@@ -36983,5 +37055,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-29T19:30:52.488614+00:00"
+  "market_data_as_of": "2026-09-29T23:51:09.591034+00:00"
 }

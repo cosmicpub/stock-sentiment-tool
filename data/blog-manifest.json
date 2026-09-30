@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-30T18:02:06.070254+00:00",
+  "generated_at": "2026-09-30T19:32:01.103272+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Sector Shifts?",
+      "excerpt": "Explore AutoNation Inc's latest performance, market position, and outlook in our detailed AN stock analysis to see if it fits your portfolio.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 33,
+      "href": "/blog/an-news-impact-2026-09-30-1932.html",
+      "published_date": "2026-09-30",
+      "generated_at": "2026-09-30T19:32:01.103272+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108305065-1778513442281-Lilly-OB-Photo-20260511-CC-PRESS-23.jpg?v=1778513536&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Discover our detailed stock analysis of OUTFRONT Media Inc (OUT) as we assess its current valuation, risks, and growth potential in the real estate sector.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/out-news-impact-2026-09-30-1932.html",
+      "published_date": "2026-09-30",
+      "generated_at": "2026-09-30T19:32:01.103272+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Strong Buy in Textiles & Apparel?",
+      "excerpt": "Explore why Amer Sports Inc (AS) is generating bullish sentiment with a $27.36 share price and what investors need to know before buying.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 84,
+      "href": "/blog/as-news-impact-2026-09-30-1932.html",
+      "published_date": "2026-09-30",
+      "generated_at": "2026-09-30T19:32:01.103272+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108370391-1790785186759-gettyimages-2293221029-_d3_7368_1dvlqgrn.jpeg?v=1790785290&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Smart Buy Amid Semiconductor Market Shifts?",
+      "excerpt": "Explore ON Semiconductor Corp's current positioning in the semiconductor industry, its growth prospects, risks, and whether ON stock is a buy right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 63,
+      "href": "/blog/on-news-impact-2026-09-30-1932.html",
+      "published_date": "2026-09-30",
+      "generated_at": "2026-09-30T19:32:01.103272+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy in 2026?",
+      "excerpt": "Discover the latest insights on Ucommune International Ltd (UK) stock, including valuation, performance, and risks shaping its 2026 outlook for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/uk-news-impact-2026-09-30-1932.html",
+      "published_date": "2026-09-30",
+      "generated_at": "2026-09-30T19:32:01.103272+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Market?",
+      "excerpt": "Explore our deep dive into Alexandria Real Estate Equities (ARE). Understand the bullish outlook amidst rising interest rates, real estate trends, and what investors should watch.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 38,
+      "href": "/blog/are-news-impact-2026-09-30-1932.html",
+      "published_date": "2026-09-30",
+      "generated_at": "2026-09-30T19:32:01.103272+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ARE",
       "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy Amid Rising Interest Rates?",
@@ -37127,5 +37199,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-30T18:02:06.070254+00:00"
+  "market_data_as_of": "2026-09-30T19:32:01.103272+00:00"
 }

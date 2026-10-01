@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-30T19:32:01.103272+00:00",
+  "generated_at": "2026-10-01T00:00:44.911153+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "BY Stock Analysis: Byline Bancorp Inc Stock Forecast & Outlook \u2014 Is BY a Buy?",
+      "excerpt": "Byline Bancorp Inc (BY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 38,
+      "href": "/blog/by-news-impact-2026-10-01-0000.html",
+      "published_date": "2026-10-01",
+      "generated_at": "2026-10-01T00:00:44.911153+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108367739-1790282022471-gettyimages-1408834057-1w3a0239.jpeg?v=1790282046&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "HE Stock Analysis: Hawaiian Electric Industries Inc Stock Forecast & Outlook \u2014 Is HE a Buy?",
+      "excerpt": "Hawaiian Electric Industries Inc (HE) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/he-news-impact-2026-10-01-0000.html",
+      "published_date": "2026-10-01",
+      "generated_at": "2026-10-01T00:00:44.911153+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108231762-1764085435434-108231762-1764085364402-gettyimages-498540380-88290117.jpg?v=1769446729&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "AS Stock Analysis: Amer Sports Inc Stock Forecast & Outlook \u2014 Is AS a Buy?",
+      "excerpt": "Amer Sports Inc (AS) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 89,
+      "href": "/blog/as-news-impact-2026-10-01-0000.html",
+      "published_date": "2026-10-01",
+      "generated_at": "2026-10-01T00:00:44.911153+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108370391-1790785186759-gettyimages-2293221029-_d3_7368_1dvlqgrn.jpeg?v=1790785290&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 58,
+      "href": "/blog/on-news-impact-2026-10-01-0000.html",
+      "published_date": "2026-10-01",
+      "generated_at": "2026-10-01T00:00:44.911153+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis: Alexandria Real Estate Equities, Inc Stock Forecast & Outlook \u2014 Is ARE a Buy?",
+      "excerpt": "Alexandria Real Estate Equities, Inc (ARE) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 42,
+      "href": "/blog/are-news-impact-2026-10-01-0000.html",
+      "published_date": "2026-10-01",
+      "generated_at": "2026-10-01T00:00:44.911153+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108217748-1761656021426-gettyimages-2241309075-251017_la_016.jpeg?v=1761656060&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "BY Stock Analysis: Byline Bancorp Inc Stock Forecast & Outlook \u2014 Is BY a Buy?",
+      "excerpt": "Byline Bancorp Inc (BY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 38,
+      "href": "/blog/by-news-impact-2026-10-01-0000.html",
+      "published_date": "2026-10-01",
+      "generated_at": "2026-10-01T00:00:44.911153+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Sector Shifts?",
@@ -37199,5 +37271,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-09-30T19:32:01.103272+00:00"
+  "market_data_as_of": "2026-10-01T00:00:44.911153+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-01T23:59:52.898050+00:00",
+  "generated_at": "2026-10-02T17:56:15.657522+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BE",
+      "title": "BE Stock Analysis: Bloom Energy Corp Stock Forecast & Outlook \u2014 Is BE a Buy?",
+      "excerpt": "Bloom Energy Corp (BE) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 26,
+      "href": "/blog/be-news-impact-2026-10-02-1756.html",
+      "published_date": "2026-10-02",
+      "generated_at": "2026-10-02T17:56:15.657522+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108370318-1790781020672-Traders-Photo-20260929-KK-PRESS-002.jpg?v=1790781195&w=1920&h=1080"
+    },
+    {
+      "ticker": "EU",
+      "title": "EU Stock Analysis: enCore Energy Corp Stock Forecast & Outlook \u2014 Is EU a Buy?",
+      "excerpt": "enCore Energy Corp (EU) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/eu-news-impact-2026-10-02-1756.html",
+      "published_date": "2026-10-02",
+      "generated_at": "2026-10-02T17:56:15.657522+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 109,
+      "href": "/blog/on-news-impact-2026-10-02-1756.html",
+      "published_date": "2026-10-02",
+      "generated_at": "2026-10-02T17:56:15.657522+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "AS Stock Analysis: Amer Sports Inc Stock Forecast & Outlook \u2014 Is AS a Buy?",
+      "excerpt": "Amer Sports Inc (AS) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 68,
+      "href": "/blog/as-news-impact-2026-10-02-1756.html",
+      "published_date": "2026-10-02",
+      "generated_at": "2026-10-02T17:56:15.657522+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108370409-1790787032054-gettyimages-2175282412-3j3a9640.jpeg?v=1790787055&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Saratoga Investment Corp Stock Forecast & Outlook \u2014 Is SAY a Buy?",
+      "excerpt": "Saratoga Investment Corp (SAY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 45,
+      "href": "/blog/say-news-impact-2026-10-02-1756.html",
+      "published_date": "2026-10-02",
+      "generated_at": "2026-10-02T17:56:15.657522+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis: Alexandria Real Estate Equities, Inc Stock Forecast & Outlook \u2014 Is ARE a Buy?",
+      "excerpt": "Alexandria Real Estate Equities, Inc (ARE) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-10-02-1756.html",
+      "published_date": "2026-10-02",
+      "generated_at": "2026-10-02T17:56:15.657522+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "TWO",
       "title": "TWO Stock Analysis: Two Harbors Investment Corp Stock Forecast & Outlook \u2014 Is TWO a Buy?",
@@ -37487,5 +37559,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-01T23:59:52.898050+00:00"
+  "market_data_as_of": "2026-10-02T17:56:15.657522+00:00"
 }

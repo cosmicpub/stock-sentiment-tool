@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-02T23:54:00.700770+00:00",
+  "generated_at": "2026-10-03T16:33:03.258658+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "CAN",
+      "title": "CAN Stock Analysis: Canaan Inc Stock Forecast & Outlook \u2014 Is CAN a Buy?",
+      "excerpt": "Canaan Inc (CAN) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 20,
+      "href": "/blog/can-news-impact-2026-10-03-1633.html",
+      "published_date": "2026-10-03",
+      "generated_at": "2026-10-03T16:33:03.258658+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108371281-1790880196159-gettyimages-1400704404-ma93692.jpeg?v=1790880233&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 101,
+      "href": "/blog/on-news-impact-2026-10-03-1633.html",
+      "published_date": "2026-10-03",
+      "generated_at": "2026-10-03T16:33:03.258658+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "AS Stock Analysis: Amer Sports Inc Stock Forecast & Outlook \u2014 Is AS a Buy?",
+      "excerpt": "Amer Sports Inc (AS) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 73,
+      "href": "/blog/as-news-impact-2026-10-03-1633.html",
+      "published_date": "2026-10-03",
+      "generated_at": "2026-10-03T16:33:03.258658+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108205995-1759261923403-gettyimages-2238378832-6m0a3111_rxohgsms.jpeg?v=1790960712&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "ARE Stock Analysis: Alexandria Real Estate Equities, Inc Stock Forecast & Outlook \u2014 Is ARE a Buy?",
+      "excerpt": "Alexandria Real Estate Equities, Inc (ARE) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/are-news-impact-2026-10-03-1633.html",
+      "published_date": "2026-10-03",
+      "generated_at": "2026-10-03T16:33:03.258658+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AN Stock Analysis: AutoNation Inc Stock Forecast & Outlook \u2014 Is AN a Buy?",
+      "excerpt": "AutoNation Inc (AN) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 36,
+      "href": "/blog/an-news-impact-2026-10-03-1633.html",
+      "published_date": "2026-10-03",
+      "generated_at": "2026-10-03T16:33:03.258658+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106804480-1606847609757-gettyimages-1227127675-GERMANY_HYDROGEN.jpeg?v=1775153464&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "UK Stock Analysis: Ucommune International Ltd Stock Forecast & Outlook \u2014 Is UK a Buy?",
+      "excerpt": "Ucommune International Ltd (UK) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/uk-news-impact-2026-10-03-1633.html",
+      "published_date": "2026-10-03",
+      "generated_at": "2026-10-03T16:33:03.258658+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BY",
       "title": "BY Stock Analysis: Byline Bancorp Inc Stock Forecast & Outlook \u2014 Is BY a Buy?",
@@ -37703,5 +37775,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-02T23:54:00.700770+00:00"
+  "market_data_as_of": "2026-10-03T16:33:03.258658+00:00"
 }

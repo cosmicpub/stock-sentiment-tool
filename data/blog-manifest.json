@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-04T16:54:50.960190+00:00",
+  "generated_at": "2026-10-05T21:32:45.553600+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "HE Stock Analysis: Hawaiian Electric Industries Inc Stock Forecast & Outlook \u2014 Is HE a Buy?",
+      "excerpt": "Hawaiian Electric Industries Inc (HE) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/he-news-impact-2026-10-05-2132.html",
+      "published_date": "2026-10-05",
+      "generated_at": "2026-10-05T21:32:45.553600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108126887-1743790425897-gettyimages-2207863979-776305461sb01.jpeg?v=1747159112&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "SOME Stock Analysis: Somerset Trust Holding Co Stock Forecast & Outlook \u2014 Is SOME a Buy?",
+      "excerpt": "Somerset Trust Holding Co (SOME) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 20,
+      "href": "/blog/some-news-impact-2026-10-05-2132.html",
+      "published_date": "2026-10-05",
+      "generated_at": "2026-10-05T21:32:45.553600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1787834344&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "AI Stock Analysis: C3.ai Inc Stock Forecast & Outlook \u2014 Is AI a Buy?",
+      "excerpt": "C3.ai Inc (AI) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/ai-news-impact-2026-10-05-2132.html",
+      "published_date": "2026-10-05",
+      "generated_at": "2026-10-05T21:32:45.553600+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TWO",
+      "title": "TWO Stock Analysis: Two Harbors Investment Corp Stock Forecast & Outlook \u2014 Is TWO a Buy?",
+      "excerpt": "Two Harbors Investment Corp (TWO) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/two-news-impact-2026-10-05-2132.html",
+      "published_date": "2026-10-05",
+      "generated_at": "2026-10-05T21:32:45.553600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108371053-1790865244210-website_lil_thumbnail.png?v=1790865335&w=1920&h=1080"
+    },
+    {
+      "ticker": "HIT",
+      "title": "HIT Stock Analysis: Health In Tech Inc Stock Forecast & Outlook \u2014 Is HIT a Buy?",
+      "excerpt": "Health In Tech Inc (HIT) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/hit-news-impact-2026-10-05-2132.html",
+      "published_date": "2026-10-05",
+      "generated_at": "2026-10-05T21:32:45.553600+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 87,
+      "href": "/blog/on-news-impact-2026-10-05-2132.html",
+      "published_date": "2026-10-05",
+      "generated_at": "2026-10-05T21:32:45.553600+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080"
+    },
     {
       "ticker": "HERE",
       "title": "HERE Stock Analysis: Here Group Ltd Stock Forecast & Outlook \u2014 Is HERE a Buy?",
@@ -37847,5 +37919,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-04T16:54:50.960190+00:00"
+  "market_data_as_of": "2026-10-05T21:32:45.553600+00:00"
 }

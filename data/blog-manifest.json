@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-06T23:56:09.187881+00:00",
+  "generated_at": "2026-10-07T19:00:03.188928+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "UK",
+      "title": "UK Stock Analysis: Ucommune International Ltd Stock Forecast & Outlook \u2014 Is UK a Buy?",
+      "excerpt": "Ucommune International Ltd (UK) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/uk-news-impact-2026-10-07-1900.html",
+      "published_date": "2026-10-07",
+      "generated_at": "2026-10-07T19:00:03.188928+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HELP",
+      "title": "HELP Stock Analysis: Cybin Inc Stock Forecast & Outlook \u2014 Is HELP a Buy?",
+      "excerpt": "Cybin Inc (HELP) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/help-news-impact-2026-10-07-1900.html",
+      "published_date": "2026-10-07",
+      "generated_at": "2026-10-07T19:00:03.188928+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "EU",
+      "title": "EU Stock Analysis: enCore Energy Corp Stock Forecast & Outlook \u2014 Is EU a Buy?",
+      "excerpt": "enCore Energy Corp (EU) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/eu-news-impact-2026-10-07-1900.html",
+      "published_date": "2026-10-07",
+      "generated_at": "2026-10-07T19:00:03.188928+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
+      "excerpt": "ON Semiconductor Corp (ON) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 105,
+      "href": "/blog/on-news-impact-2026-10-07-1900.html",
+      "published_date": "2026-10-07",
+      "generated_at": "2026-10-07T19:00:03.188928+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285956-1775048846885-gettyimages-2269291703-6e6a0089_copy_zhv0gn6f.jpeg?v=1775048926&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "AS Stock Analysis: Amer Sports Inc Stock Forecast & Outlook \u2014 Is AS a Buy?",
+      "excerpt": "Amer Sports Inc (AS) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 79,
+      "href": "/blog/as-news-impact-2026-10-07-1900.html",
+      "published_date": "2026-10-07",
+      "generated_at": "2026-10-07T19:00:03.188928+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108373796-1791360823662-gettyimages-2297901439-AFP_C9W887L.jpeg?v=1791360836&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Saratoga Investment Corp Stock Forecast & Outlook \u2014 Is SAY a Buy?",
+      "excerpt": "Saratoga Investment Corp (SAY) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 39,
+      "href": "/blog/say-news-impact-2026-10-07-1900.html",
+      "published_date": "2026-10-07",
+      "generated_at": "2026-10-07T19:00:03.188928+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "ON",
       "title": "ON Stock Analysis: ON Semiconductor Corp Stock Forecast & Outlook \u2014 Is ON a Buy?",
@@ -38135,5 +38207,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-06T23:56:09.187881+00:00"
+  "market_data_as_of": "2026-10-07T19:00:03.188928+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-08T00:17:15.854356+00:00",
+  "generated_at": "2026-10-08T18:55:46.362098+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Gartner Inc's current stock outlook with an in-depth analysis on valuation, growth prospects, risks, and whether IT stock fits your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/it-news-impact-2026-10-08-1855.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T18:55:46.362098+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108370318-1790781020672-Traders-Photo-20260929-KK-PRESS-002.jpg?v=1790781195&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Headwinds?",
+      "excerpt": "Explore Byline Bancorp Inc (BY) stock analysis, uncovering key risks and opportunities as the banking sector navigates economic uncertainties in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 18,
+      "href": "/blog/by-news-impact-2026-10-08-1855.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T18:55:46.362098+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358098-1788382413399-gettyimages-2247820034-bls_9738_1_daxsjpxc.jpeg?v=1788382616&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in the Utilities Sector?",
+      "excerpt": "Analyzing Hawaiian Electric Industries' stable position in utilities with neutral sentiment and a current price of $8.79. Explore growth prospects and risks.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 16,
+      "href": "/blog/he-news-impact-2026-10-08-1855.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T18:55:46.362098+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107090850-1658245078529-NUP_198367_01021_copy.jpg?v=1683819634&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is OUT a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore our detailed OUT stock analysis examining valuation, growth prospects, risks, and whether OUTFRONT Media Inc is a purchase-worthy pick in the current real estate sector.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 15,
+      "href": "/blog/out-news-impact-2026-10-08-1855.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T18:55:46.362098+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore a detailed Bloom Energy (BE) stock analysis assessing growth prospects, valuation, risks, and whether investors should consider buying at $270.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/be-news-impact-2026-10-08-1855.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T18:55:46.362098+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is This Insurance Stock a Buy Ahead of Catalysts?",
+      "excerpt": "Explore Health In Tech Inc (HIT) stock prospects with a deep dive into recent price action, sector context, and forthcoming catalysts influencing this insurance player.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/hit-news-impact-2026-10-08-1855.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T18:55:46.362098+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108345305-1785940332475-gettyimages-2289192391-mms15217_uigmz8mz.jpeg?v=1786046482&w=1920&h=1080"
+    },
     {
       "ticker": "BOOM",
       "title": "BOOM Stock Analysis: DMC Global Inc Stock Forecast & Outlook \u2014 Is BOOM a Buy?",
@@ -38351,5 +38423,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-08T00:17:15.854356+00:00"
+  "market_data_as_of": "2026-10-08T18:55:46.362098+00:00"
 }

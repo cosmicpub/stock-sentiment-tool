@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-08T18:55:46.362098+00:00",
+  "generated_at": "2026-10-08T20:00:48.756892+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in Today\u2019s Retail Market?",
+      "excerpt": "Explore AutoNation Inc's latest stock dynamics, industry position, and future outlook to decide if AN is a smart buy amid a neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/an-news-impact-2026-10-08-2000.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T20:00:48.756892+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108259665-1769793014040-gettyimages-2258480012-NICCOL_INTERVIEW.jpeg?v=1769793046&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis as bullish momentum builds. Discover AS stock forecast, investment risks, and growth outlook in apparel sector.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 111,
+      "href": "/blog/as-news-impact-2026-10-08-2000.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T20:00:48.756892+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108368838-17906098212026-09-28t153558z_1880052576_rc2dsna90i4d_rtrmadp_0_usa-stocks.jpeg?v=1790609915&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Ahead of Key Catalysts?",
+      "excerpt": "Discover why ON Semiconductor stock is drawing bullish sentiment before pivotal catalysts, and what investors should watch in this detailed analysis.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 68,
+      "href": "/blog/on-news-impact-2026-10-08-2000.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T20:00:48.756892+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108345305-1785940332475-gettyimages-2289192391-mms15217_uigmz8mz.jpeg?v=1786046482&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Assessing the Bearish Sentiment and Future Outlook",
+      "excerpt": "Explore why Saratoga Investment Corp (SAY) is under bearish pressure with a sentiment score of -2, and what investors should watch for in this financial services stock.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 52,
+      "href": "/blog/say-news-impact-2026-10-08-2000.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T20:00:48.756892+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore why Alexandria Real Estate Equities (ARE) is drawing bullish investor interest. This in-depth analysis examines key drivers and risks for ARE stock.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 28,
+      "href": "/blog/are-news-impact-2026-10-08-2000.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T20:00:48.756892+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107090850-1658245078529-NUP_198367_01021_copy.jpg?v=1683819634&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This Tech Leader a Smart Buy Amid AI Boom?",
+      "excerpt": "Explore C3.ai (AI) stock prospects as AI industry growth lifts technology stocks. We analyze fundamentals, risks, and growth potential in this detailed review.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 27,
+      "href": "/blog/ai-news-impact-2026-10-08-2000.html",
+      "published_date": "2026-10-08",
+      "generated_at": "2026-10-08T20:00:48.756892+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment?",
@@ -38423,5 +38495,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-08T18:55:46.362098+00:00"
+  "market_data_as_of": "2026-10-08T20:00:48.756892+00:00"
 }

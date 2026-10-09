@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-08T20:00:48.756892+00:00",
+  "generated_at": "2026-10-09T00:31:08.358166+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Why Now Is a Bullish Opportunity in Textiles & Apparel",
+      "excerpt": "Explore why Amer Sports Inc (AS) is attracting bullish sentiment amid market volatility, with strong fundamentals supporting a promising textiles & apparel outlook.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 98,
+      "href": "/blog/as-news-impact-2026-10-09-0031.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T00:31:08.358166+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108368838-17906098212026-09-28t153558z_1880052576_rc2dsna90i4d_rtrmadp_0_usa-stocks.jpeg?v=1790609915&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: A Bullish Outlook Amid Semiconductor Sector Momentum",
+      "excerpt": "Explore why ON Semiconductor's stock is catching bullish momentum in 2026, with strong industry dynamics and key catalysts supporting its upward trajectory.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 73,
+      "href": "/blog/on-news-impact-2026-10-09-0031.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T00:31:08.358166+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108345305-1785940332475-gettyimages-2289192391-mms15217_uigmz8mz.jpeg?v=1786046482&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is This Financial Services Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Dive into our detailed Saratoga Investment Corp (SAY) stock analysis. We explore the financial outlook, market sentiment, and key risks for potential investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 52,
+      "href": "/blog/say-news-impact-2026-10-09-0031.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T00:31:08.358166+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis 2026: Is ARE a Buy Amid Rising Treasury Yields?",
+      "excerpt": "Explore Alexandria Real Estate Equities' current bullish outlook, valuation, and growth prospects amid shifting treasury yields and real estate market dynamics.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 37,
+      "href": "/blog/are-news-impact-2026-10-09-0031.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T00:31:08.358166+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis 2026: Is This AI Powerhouse a Buy Now?",
+      "excerpt": "Explore why C3.ai (AI) stock is catching bullish momentum amid the booming AI sector and what risks investors should weigh before buying.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 27,
+      "href": "/blog/ai-news-impact-2026-10-09-0031.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T00:31:08.358166+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080"
+    },
+    {
+      "ticker": "BOOM",
+      "title": "DMC Global Inc (BOOM) Stock Analysis: Is BOOM a Buy Amid Energy Sector Shifts?",
+      "excerpt": "Explore our in-depth DMC Global Inc (BOOM) stock analysis and forecast. Discover key risks, opportunities, and whether BOOM is a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 23,
+      "href": "/blog/boom-news-impact-2026-10-09-0031.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T00:31:08.358166+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy in Today\u2019s Retail Market?",
@@ -38495,5 +38567,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-08T20:00:48.756892+00:00"
+  "market_data_as_of": "2026-10-09T00:31:08.358166+00:00"
 }

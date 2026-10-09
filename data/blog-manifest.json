@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-09T18:26:16.045654+00:00",
+  "generated_at": "2026-10-09T19:35:54.751331+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis: Is Now the Right Time to Buy Leisure Products Leader?",
+      "excerpt": "Examining Hasbro Inc\u2019s bearish momentum amid market headwinds, we assess key risks and growth prospects to determine if HAS is a buy for long-term investors.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 20,
+      "href": "/blog/has-news-impact-2026-10-09-1935.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T19:35:54.751331+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108373477-1791306984350-gettyimages-2298289676-ag_lumen_03.jpeg?v=1791307007&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Volatility?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, recent price action at $77.60, and key growth drivers shaping its semiconductor future in 2026.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 116,
+      "href": "/blog/on-news-impact-2026-10-09-1935.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T19:35:54.751331+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310210-17793162171779316215-46072347407-1080pnbcnews.jpg?v=1779316216&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "AS Stock Analysis: Amer Sports Inc Stock Forecast & Outlook \u2014 Is AS a Buy?",
+      "excerpt": "Amer Sports Inc (AS) sentiment update with bull/bear scenarios, risk analysis, and the key signals investors should watch next.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 101,
+      "href": "/blog/as-news-impact-2026-10-09-1935.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T19:35:54.751331+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108365128-1789759496314-gettyimages-2295295597-APPLE_IPHONE_18.jpeg?v=1789759546&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Buy in 2026?",
+      "excerpt": "Explore why Alexandria Real Estate Equities (ARE) is attracting bullish sentiment in 2026. We dive into its growth prospects, risks, and valuation to see if ARE is a buy today.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 46,
+      "href": "/blog/are-news-impact-2026-10-09-1935.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T19:35:54.751331+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Bearish Sentiment?",
+      "excerpt": "Saratoga Investment Corp (SAY) faces bearish market sentiment with a -2 score. Explore the stock snapshot, recent news, and risks before deciding if SAY is a buy.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 32,
+      "href": "/blog/say-news-impact-2026-10-09-1935.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T19:35:54.751331+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Right Time to Buy?",
+      "excerpt": "Explore Gartner Inc's current stock positioning, growth prospects, valuation, and risks to determine if IT shares represent a smart buy in today's tech landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 31,
+      "href": "/blog/it-news-impact-2026-10-09-1935.html",
+      "published_date": "2026-10-09",
+      "generated_at": "2026-10-09T19:35:54.751331+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108220768-17621989382025-11-03t194123z_673089177_rc27phaed40k_rtrmadp_0_usa-fed-cook.jpeg?v=1762198958&w=1920&h=1080"
+    },
     {
       "ticker": "HELP",
       "title": "Cybin Inc (HELP) Stock Analysis: What Investors Should Know Before Buying",
@@ -38639,5 +38711,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-09T18:26:16.045654+00:00"
+  "market_data_as_of": "2026-10-09T19:35:54.751331+00:00"
 }

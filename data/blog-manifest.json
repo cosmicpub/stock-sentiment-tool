@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-10T00:09:21.917811+00:00",
+  "generated_at": "2026-10-10T17:24:02.427891+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is This Real Estate Play a Buy Now?",
+      "excerpt": "Analyzing OUTFRONT Media Inc's current positioning in the real estate sector, valuation, and risks to determine whether OUT stock is a compelling buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 28,
+      "href": "/blog/out-news-impact-2026-10-10-1724.html",
+      "published_date": "2026-10-10",
+      "generated_at": "2026-10-10T17:24:02.427891+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108369491-17906967662026-09-29t153734z_497028916_rc21tnamiqla_rtrmadp_0_usa-stocks.jpeg?v=1790696808&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Bearish Sentiment Clouds Electrical Equipment Sector Outlook",
+      "excerpt": "Bloom Energy (BE) trades at $280.50 amid bearish investor sentiment. Explore key risks, valuation insight, and market dynamics shaping this electrical equipment stock.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 22,
+      "href": "/blog/be-news-impact-2026-10-10-1724.html",
+      "published_date": "2026-10-10",
+      "generated_at": "2026-10-10T17:24:02.427891+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108382932-1791575616350-260910_Friendship_v3.png?v=1791576241&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy Amidst Utility Sector Stability?",
+      "excerpt": "Explore Hawaiian Electric Industries Inc (HE) stock forecast with an in-depth look at financials, risks, and growth potential in the evolving utilities landscape.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 19,
+      "href": "/blog/he-news-impact-2026-10-10-1724.html",
+      "published_date": "2026-10-10",
+      "generated_at": "2026-10-10T17:24:02.427891+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108381913-AdmaSilver-Carbon.jpg?v=1791556531&w=1920&h=1080"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is This Tech Stock a Buy at $0.30?",
+      "excerpt": "Explore Canaan Inc's latest performance and technology market position to decide if CAN is a strong buy or holds potential risks at current price levels.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/can-news-impact-2026-10-10-1724.html",
+      "published_date": "2026-10-10",
+      "generated_at": "2026-10-10T17:24:02.427891+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108270250-1772079984382-gettyimages-2201091471-dsc_8137_xsrbtovh.jpeg?v=1791475607&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Smart Buy Amid Banking Sector Growth?",
+      "excerpt": "Explore Byline Bancorp Inc's bullish outlook, key risks, valuation insights, and whether BY stock stands out as a compelling buy in today's banking sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 16,
+      "href": "/blog/by-news-impact-2026-10-10-1724.html",
+      "published_date": "2026-10-10",
+      "generated_at": "2026-10-10T17:24:02.427891+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108358098-1788382413399-gettyimages-2247820034-bls_9738_1_daxsjpxc.jpeg?v=1788382616&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Neutral Stance Amid Steady Performance and Market Challenges",
+      "excerpt": "Amer Sports Inc (AS) trades at $28.14 with a neutral outlook. We analyze recent developments, competitive positioning, and risks to help investors navigate this textiles and apparel stock.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 114,
+      "href": "/blog/as-news-impact-2026-10-10-1724.html",
+      "published_date": "2026-10-10",
+      "generated_at": "2026-10-10T17:24:02.427891+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108145983-17473124852025-05-13t090246z_1804573252_rc2py8a5uc89_rtrmadp_0_usa-court-trump-birthright.jpeg?v=1758569831&w=1920&h=1080"
+    },
     {
       "ticker": "TWO",
       "title": "Two Harbors Investment Corp (TWO) Stock Analysis: Is TWO a Buy in Today's Real Estate Market?",
@@ -38783,5 +38855,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-10T00:09:21.917811+00:00"
+  "market_data_as_of": "2026-10-10T17:24:02.427891+00:00"
 }

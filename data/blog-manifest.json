@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-12T21:20:04.289675+00:00",
+  "generated_at": "2026-10-12T22:10:51.094761+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is the Textile Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis as bearish sentiment clouds prospects in the textile and apparel sector. Is now the right time to buy AS?",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 114,
+      "href": "/blog/as-news-impact-2026-10-12-2210.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T22:10:51.094761+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108397996-1791806689582-2026-10-11T224410Z_1659588386_RC241OAGCJLV_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG?v=1791806787&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Strength?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook with strong fundamentals and industry tailwinds. Our detailed ON stock forecast covers growth drivers, risks, and valuation.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 94,
+      "href": "/blog/on-news-impact-2026-10-12-2210.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T22:10:51.094761+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108145983-17473124852025-05-13t090246z_1804573252_rc2py8a5uc89_rtrmadp_0_usa-court-trump-birthright.jpeg?v=1758569831&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy in Today\u2019s Tech Landscape?",
+      "excerpt": "Explore Gartner Inc's (IT) current market position, growth catalysts, risk factors, and valuation insights to decide if it's a savvy tech stock purchase now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 46,
+      "href": "/blog/it-news-impact-2026-10-12-2210.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T22:10:51.094761+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108378239-1791490446819-Father_walking_with_his_son_in_a_city-1492599153-Getty.jpg?v=1791490657&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today's Real Estate Market?",
+      "excerpt": "Analyze Alexandria Real Estate Equities (ARE) stock fundamentals, market positioning, and risks to decide if ARE is a smart buy for investors eyeing real estate.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 31,
+      "href": "/blog/are-news-impact-2026-10-12-2210.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T22:10:51.094761+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108363089-1789485723223-gettyimages-2294922441-train0827.jpeg?v=1789485827&w=1920&h=1080"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is CAN a Buy Amid Neutral Sentiment and Tech Sector Challenges?",
+      "excerpt": "Dive into our detailed Canaan Inc stock analysis exploring whether CAN is a buy. We assess valuation, risks, and recent headlines shaping this tech stock's outlook.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 29,
+      "href": "/blog/can-news-impact-2026-10-12-2210.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T22:10:51.094761+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108363432-1789526330296-gettyimages-1384219104-stock-chart-haze.jpeg?v=1789532031&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Ucommune International Ltd's latest stock analysis with a bearish outlook, real estate sector insights, and key risks investors must consider for UK stock.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 27,
+      "href": "/blog/uk-news-impact-2026-10-12-2210.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T22:10:51.094761+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "UK",
       "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy Amid Bearish Sentiment?",
@@ -38999,5 +39071,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-12T21:20:04.289675+00:00"
+  "market_data_as_of": "2026-10-12T22:10:51.094761+00:00"
 }

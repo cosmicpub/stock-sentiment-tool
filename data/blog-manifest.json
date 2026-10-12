@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-11T17:43:23.103454+00:00",
+  "generated_at": "2026-10-12T21:20:04.289675+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our detailed Ucommune International Ltd (UK) stock analysis as bearish pressures weigh on this real estate firm. Is the current price an opportunity or a warning?",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 27,
+      "href": "/blog/uk-news-impact-2026-10-12-2120.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T21:20:04.289675+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy in Life Sciences Tools & Services?",
+      "excerpt": "Explore Bio-Techne Corp's current position in the life sciences tools sector, key growth drivers, risks, and why TECH stock might deserve investor attention now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/tech-news-impact-2026-10-12-2120.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T21:20:04.289675+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108378239-1791490446819-Father_walking_with_his_son_in_a_city-1492599153-Getty.jpg?v=1791490657&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Market Volatility?",
+      "excerpt": "Explore C3.ai's AI-driven growth potential, current valuation challenges, and key risks in this detailed October 2026 stock analysis.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 20,
+      "href": "/blog/ai-news-impact-2026-10-12-2120.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T21:20:04.289675+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108374078-1791384246790-gettyimages-2263413931-5d1_0020.jpeg?v=1791386619&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Apparel Stock a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's latest stock analysis amid bearish trends, industry pressures, and market risks. Find out if AS stock offers value now or ahead.",
+      "sentiment": "Bearish",
+      "score": -8,
+      "impact_score": 118,
+      "href": "/blog/as-news-impact-2026-10-12-2120.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T21:20:04.289675+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108397996-1791806689582-2026-10-11T224410Z_1659588386_RC241OAGCJLV_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG?v=1791806787&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Industry Volatility?",
+      "excerpt": "Explore ON Semiconductor Corp's growth prospects, risks, and valuation in this detailed stock analysis to determine if ON is a buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 98,
+      "href": "/blog/on-news-impact-2026-10-12-2120.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T21:20:04.289675+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108145983-17473124852025-05-13t090246z_1804573252_rc2py8a5uc89_rtrmadp_0_usa-court-trump-birthright.jpeg?v=1758569831&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Neutral Sentiment and Stable Growth?",
+      "excerpt": "Explore Gartner Inc's current stock outlook. Despite neutral market sentiment at $194.10, key growth drivers and risks shape IT's investment potential in tech.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 46,
+      "href": "/blog/it-news-impact-2026-10-12-2120.html",
+      "published_date": "2026-10-12",
+      "generated_at": "2026-10-12T21:20:04.289675+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation Inc (AN) Stock Analysis: Is AN a Buy Amid Retail Sector Shifts?",
@@ -38927,5 +38999,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-11T17:43:23.103454+00:00"
+  "market_data_as_of": "2026-10-12T21:20:04.289675+00:00"
 }

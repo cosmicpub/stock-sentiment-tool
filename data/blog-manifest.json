@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-13T19:23:22.733958+00:00",
+  "generated_at": "2026-10-13T20:17:30.121493+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Giant a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the latest Amer Sports Inc (AS) stock analysis amid bearish pressures. Assess risks, valuation, and future prospects in the textiles and apparel sector.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 114,
+      "href": "/blog/as-news-impact-2026-10-13-2017.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T20:17:30.121493+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108367425-1790256588355-gettyimages-2296215551-META_CONNECT.jpeg?v=1790256610&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Bullish Market Sentiment?",
+      "excerpt": "Discover why ON Semiconductor's strong fundamentals and positive market trends make it a compelling buy, despite inherent semiconductor sector risks.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 68,
+      "href": "/blog/on-news-impact-2026-10-13-2017.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T20:17:30.121493+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108394823-1791749516867-gettyimages-2203815134-jsrf03375.jpeg?v=1791749651&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Ucommune International Ltd (UK) stock analysis amid bearish trends. Uncover key risks, valuation insights, and what investors should watch in this real estate contender.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 47,
+      "href": "/blog/uk-news-impact-2026-10-13-2017.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T20:17:30.121493+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is It a Strong Buy in the Tech Sector in 2026?",
+      "excerpt": "Explore a detailed Gartner Inc (IT) stock analysis revealing why this tech giant remains bullish amid industry shifts, valuation insights, and long-term outlook.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 40,
+      "href": "/blog/it-news-impact-2026-10-13-2017.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T20:17:30.121493+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108398587-1791817200941-gettyimages-2299319676-AA_12102026_2989970.jpeg?v=1791817236&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities, Inc (ARE) Stock Analysis: Is ARE a Buy Amid Market Challenges?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock's latest performance, risks, and growth prospects to decide if it's a smart investment in today's real estate landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 36,
+      "href": "/blog/are-news-impact-2026-10-13-2017.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T20:17:30.121493+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108397995-1791806689582-2026-10-11T224221Z_763263390_RC2A1OA3IBMC_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG?v=1791806787&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Leader a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore the bullish sentiment behind C3.ai's AI-powered tech stock, its growth prospects, risks, and how the latest market trends shape its outlook.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 36,
+      "href": "/blog/ai-news-impact-2026-10-13-2017.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T20:17:30.121493+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HERE",
       "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in Leisure Products?",
@@ -39143,5 +39215,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-13T19:23:22.733958+00:00"
+  "market_data_as_of": "2026-10-13T20:17:30.121493+00:00"
 }

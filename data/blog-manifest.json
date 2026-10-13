@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-12T22:10:51.094761+00:00",
+  "generated_at": "2026-10-13T19:23:22.733958+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in Leisure Products?",
+      "excerpt": "Explore our detailed Here Group Ltd (HERE) stock analysis, including company snapshot, valuation insights, risks, and why investors remain cautious at this price point.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/here-news-impact-2026-10-13-1923.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T19:23:22.733958+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108394823-1791749516867-gettyimages-2203815134-jsrf03375.jpeg?v=1791749651&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Sector Pick a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the latest Amer Sports Inc stock analysis as bearish cues challenge its $29.37 price. We dissect risks, opportunities, and valuation in textiles.",
+      "sentiment": "Bearish",
+      "score": -7,
+      "impact_score": 114,
+      "href": "/blog/as-news-impact-2026-10-13-1923.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T19:23:22.733958+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108367425-1790256588355-gettyimages-2296215551-META_CONNECT.jpeg?v=1790256610&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our comprehensive ON Semiconductor stock analysis with a bullish outlook. Discover key analysis, valuation insight, and risks for investors eyeing potential growth.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 73,
+      "href": "/blog/on-news-impact-2026-10-13-1923.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T19:23:22.733958+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore a detailed stock analysis of Ucommune International Ltd (UK) with insights into its bearish outlook, key risks, valuation, and future prospects.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 47,
+      "href": "/blog/uk-news-impact-2026-10-13-1923.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T19:23:22.733958+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is This Tech Leader a Buy in 2026?",
+      "excerpt": "Explore Gartner Inc's bullish momentum, valuation insights, and growth prospects in this detailed IT stock analysis for 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 40,
+      "href": "/blog/it-news-impact-2026-10-13-1923.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T19:23:22.733958+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108398587-1791817200941-gettyimages-2299319676-AA_12102026_2989970.jpeg?v=1791817236&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today's Market?",
+      "excerpt": "Explore a detailed Alexandria Real Estate Equities stock analysis focused on ARE's valuation, growth prospects, and risks in the evolving real estate landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 36,
+      "href": "/blog/are-news-impact-2026-10-13-1923.html",
+      "published_date": "2026-10-13",
+      "generated_at": "2026-10-13T19:23:22.733958+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108397995-1791806689582-2026-10-11T224221Z_763263390_RC2A1OA3IBMC_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG?v=1791806787&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is the Textile Giant a Buy Amid Bearish Sentiment?",
@@ -39071,5 +39143,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-12T22:10:51.094761+00:00"
+  "market_data_as_of": "2026-10-13T19:23:22.733958+00:00"
 }

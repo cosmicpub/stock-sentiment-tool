@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-13T23:46:55.221221+00:00",
+  "generated_at": "2026-10-14T17:23:24.954294+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services?",
+      "excerpt": "Unpacking Saratoga Investment Corp's (SAY) current stock position amid a neutral sentiment. Explore key risks and opportunities in this detailed stock forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/say-news-impact-2026-10-14-1723.html",
+      "published_date": "2026-10-14",
+      "generated_at": "2026-10-14T17:23:24.954294+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Industry Challenges?",
+      "excerpt": "Explore a detailed analysis of Health In Tech Inc (HIT), an insurance stock trading at $0.69. Assess the current market stance, risks, and future prospects to determine if HIT is worth buying now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/hit-news-impact-2026-10-14-1723.html",
+      "published_date": "2026-10-14",
+      "generated_at": "2026-10-14T17:23:24.954294+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108408701-1791985702018-gettyimages-1354285436-1062_14_k_-110-.jpeg?v=1791985749&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries Inc (HE) Stock Analysis: Is Now a Good Time to Buy?",
+      "excerpt": "Explore a detailed analysis of Hawaiian Electric Industries Inc (HE) stock to determine if it's a buy given current market conditions and utility sector trends.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/he-news-impact-2026-10-14-1723.html",
+      "published_date": "2026-10-14",
+      "generated_at": "2026-10-14T17:23:24.954294+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is NOW the Time to Buy in 2026?",
+      "excerpt": "Explore our detailed ON Semiconductor stock analysis covering recent performance, growth prospects, risks, and whether ON stock is a buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 90,
+      "href": "/blog/on-news-impact-2026-10-14-1723.html",
+      "published_date": "2026-10-14",
+      "generated_at": "2026-10-14T17:23:24.954294+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108394823-1791749516867-gettyimages-2203815134-jsrf03375.jpeg?v=1791749651&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Explore Amer Sports Inc's bullish outlook as we analyze its market position, growth drivers, and risks to determine if AS stock is a smart buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 73,
+      "href": "/blog/as-news-impact-2026-10-14-1723.html",
+      "published_date": "2026-10-14",
+      "generated_at": "2026-10-14T17:23:24.954294+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108366089-1790076340431-gettyimages-2289770510-mg_4540_nwk08_08082026.jpeg?v=1790076374&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis 2026: Is This AI Leader a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our C3.ai stock analysis for 2026, unpacking bullish momentum, growth prospects, risks, and why AI shares at $11.77 could intrigue investors.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 41,
+      "href": "/blog/ai-news-impact-2026-10-14-1723.html",
+      "published_date": "2026-10-14",
+      "generated_at": "2026-10-14T17:23:24.954294+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108409495-1791997080235-qnity_screen1_1024.jpg?v=1791997136&w=1920&h=1080"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Challenges?",
@@ -39287,5 +39359,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-13T23:46:55.221221+00:00"
+  "market_data_as_of": "2026-10-14T17:23:24.954294+00:00"
 }

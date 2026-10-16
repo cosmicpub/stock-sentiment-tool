@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-15T21:37:00.588334+00:00",
+  "generated_at": "2026-10-16T16:49:04.955042+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corp (BE) Stock Analysis: Is BE a Buy Amid Bearish Sentiment?",
+      "excerpt": "Bloom Energy (BE) faces bearish momentum despite innovations in clean energy. We analyze risks and growth prospects to determine if it's a buy now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 20,
+      "href": "/blog/be-news-impact-2026-10-16-1649.html",
+      "published_date": "2026-10-16",
+      "generated_at": "2026-10-16T16:49:04.955042+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108335413-1784129206979-gettyimages-2286232250-dsc07925_tzjm86ts.jpeg?v=1784129229&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in the Utilities Sector?",
+      "excerpt": "Explore an in-depth analysis of Hawaiian Electric Industries (HE) stock, examining its valuation, risks, and future outlook in the utilities industry as of October 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 18,
+      "href": "/blog/he-news-impact-2026-10-16-1649.html",
+      "published_date": "2026-10-16",
+      "generated_at": "2026-10-16T16:49:04.955042+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108417409-1792116879637-gettyimages-2299704894-THAILAND_IMF_WORLD_BANK.jpeg?v=1792116944&w=1920&h=1080"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis 2026: Is CAN a Buy Amid Industry Challenges?",
+      "excerpt": "Explore our detailed Canaan Inc stock analysis for 2026, evaluating the technology firm's outlook, risks, and potential opportunities in a volatile market environment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/can-news-impact-2026-10-16-1649.html",
+      "published_date": "2026-10-16",
+      "generated_at": "2026-10-16T16:49:04.955042+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108414832-1792079784425-gettyimages-2252191655-mage27207.jpeg?v=1792079818&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is Now the Time to Buy?",
+      "excerpt": "Explore Ucommune International Ltd's current market position, real estate industry outlook, and investment potential in our comprehensive UK stock forecast.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-10-16-1649.html",
+      "published_date": "2026-10-16",
+      "generated_at": "2026-10-16T16:49:04.955042+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is SOMETHING Brewing in Banking?",
+      "excerpt": "Explore Somerset Trust Holding Co's latest stock analysis, valuation insights, and whether SOME is a buy in today's shifting banking landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/some-news-impact-2026-10-16-1649.html",
+      "published_date": "2026-10-16",
+      "generated_at": "2026-10-16T16:49:04.955042+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Why This Semiconductor Stock Is Poised to Rise",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, key growth drivers, competitive positioning, and risks shaping the semiconductor giant's stock forecast.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 113,
+      "href": "/blog/on-news-impact-2026-10-16-1649.html",
+      "published_date": "2026-10-16",
+      "generated_at": "2026-10-16T16:49:04.955042+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis 2026: Is Now the Time to Buy in Technology?",
@@ -39719,5 +39791,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-15T21:37:00.588334+00:00"
+  "market_data_as_of": "2026-10-16T16:49:04.955042+00:00"
 }

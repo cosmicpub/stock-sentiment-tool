@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-16T21:27:24.988436+00:00",
+  "generated_at": "2026-10-17T15:45:58.902118+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ALL",
+      "title": "Allstate Corp (ALL) Stock Analysis 2026: Is Now the Time to Buy This Insurance Leader?",
+      "excerpt": "Explore Allstate Corp's latest financials, market position, and risks to determine if ALL stock is a smart buy in 2026's insurance sector landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/all-news-impact-2026-10-17-1545.html",
+      "published_date": "2026-10-17",
+      "generated_at": "2026-10-17T15:45:58.902118+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108414832-1792079784425-gettyimages-2252191655-mage27207.jpeg?v=1792079818&w=1920&h=1080"
+    },
+    {
+      "ticker": "YOU",
+      "title": "Clear Secure Inc (YOU) Stock Analysis: Is YOU a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Clear Secure Inc (YOU) stock forecast with a deep dive into its technology positioning, recent developments, and key investment risks as of October 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/you-news-impact-2026-10-17-1545.html",
+      "published_date": "2026-10-17",
+      "generated_at": "2026-10-17T15:45:58.902118+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's current bullish outlook, valuation insights, and market position to determine if AS stock is a buy in October 2026.",
+      "sentiment": "Bullish",
+      "score": 15,
+      "impact_score": 104,
+      "href": "/blog/as-news-impact-2026-10-17-1545.html",
+      "published_date": "2026-10-17",
+      "generated_at": "2026-10-17T15:45:58.902118+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108172056-1752584137888-gettyimages-2213626542-COREWEAVE_DEBT_DEAL.jpeg?v=1776976781&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is This Semiconductor Stock a Buy?",
+      "excerpt": "Explore our detailed ON Semiconductor stock analysis and forecast for 2026 to determine if now is the time to invest in this key semiconductor player.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 80,
+      "href": "/blog/on-news-impact-2026-10-17-1545.html",
+      "published_date": "2026-10-17",
+      "generated_at": "2026-10-17T15:45:58.902118+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108420547-1792169925516-gettyimages-2269662093-2026_nba_0331_pistonsvsraptors_05.jpeg?v=1792169966&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Technology Play a Buy Amid Bearish Sentiment?",
+      "excerpt": "C3.ai shares trade at $11.32 amid a bearish market mood. This analysis explores the risks, opportunities, and outlook for AI stock in a volatile tech environment.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 52,
+      "href": "/blog/ai-news-impact-2026-10-17-1545.html",
+      "published_date": "2026-10-17",
+      "generated_at": "2026-10-17T15:45:58.902118+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108408957-1791988869652-gettyimages-2300173631-mms15477_dpxylhl3.jpeg?v=1791989017&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis October 2026: Is Now the Time to Buy or Hold?",
+      "excerpt": "Analyzing Gartner Inc's bearish sentiment and $205 stock price amid tech sector volatility. Explore key risks, valuation, and long-term outlook in our latest IT stock forecast.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 45,
+      "href": "/blog/it-news-impact-2026-10-17-1545.html",
+      "published_date": "2026-10-17",
+      "generated_at": "2026-10-17T15:45:58.902118+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108420368-1792166542544-picking_out_pumpkins.jpg?v=1792168563&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Industry Shifts in 2026?",
@@ -39935,5 +40007,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-16T21:27:24.988436+00:00"
+  "market_data_as_of": "2026-10-17T15:45:58.902118+00:00"
 }

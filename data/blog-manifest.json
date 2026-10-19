@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-19T18:45:57.991299+00:00",
+  "generated_at": "2026-10-19T20:01:31.964057+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is Now a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Ucommune International Ltd's current bearish outlook, key risks, and potential opportunities in the volatile real estate market.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 22,
+      "href": "/blog/uk-news-impact-2026-10-19-2001.html",
+      "published_date": "2026-10-19",
+      "generated_at": "2026-10-19T20:01:31.964057+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is This Banking Stock a Buy Now?",
+      "excerpt": "Explore our latest Somerset Trust Holding Co (SOME) stock forecast. We break down key financials, risks, and opportunities in this detailed banking sector analysis.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/some-news-impact-2026-10-19-2001.html",
+      "published_date": "2026-10-19",
+      "generated_at": "2026-10-19T20:01:31.964057+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Momentum?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis, examining bullish trends, valuation, risks, and growth outlook in the textiles and apparel sector.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 78,
+      "href": "/blog/as-news-impact-2026-10-19-2001.html",
+      "published_date": "2026-10-19",
+      "generated_at": "2026-10-19T20:01:31.964057+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108377698-1791481689116-108377698-1791481637714-gettyimages-2298602315-SKYDANCE_NYSE.jpg?v=1791481698&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Neutral Outlook Amid Industry Dynamics",
+      "excerpt": "Explore ON Semiconductor's 2026 stock outlook with a balanced view on growth potential and risks in the evolving semiconductor sector.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 68,
+      "href": "/blog/on-news-impact-2026-10-19-2001.html",
+      "published_date": "2026-10-19",
+      "generated_at": "2026-10-19T20:01:31.964057+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108305064-1778513442281-Lilly-OB-Photo-20260511-CC-PRESS-13.jpg?v=1778513536&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Recent Market Volatility?",
+      "excerpt": "Explore C3.ai's prospects amidst AI sector headwinds and macro concerns. Our detailed analysis covers valuation, risks, and potential growth ahead.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 42,
+      "href": "/blog/ai-news-impact-2026-10-19-2001.html",
+      "published_date": "2026-10-19",
+      "generated_at": "2026-10-19T20:01:31.964057+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108421217-1792178785944-oracle_5_yr_cds_sync_1016.png?v=1792178819&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock analysis as bullish sentiment builds. Understand SAY's financial snapshot, risks, and investment outlook for 2026.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 34,
+      "href": "/blog/say-news-impact-2026-10-19-2001.html",
+      "published_date": "2026-10-19",
+      "generated_at": "2026-10-19T20:01:31.964057+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Smart Buy Amid Bullish Momentum?",
@@ -40151,5 +40223,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-19T18:45:57.991299+00:00"
+  "market_data_as_of": "2026-10-19T20:01:31.964057+00:00"
 }

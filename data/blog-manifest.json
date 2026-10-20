@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-19T23:49:52.313458+00:00",
+  "generated_at": "2026-10-20T17:23:00.519557+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy Amid Mixed Tech Sentiment?",
+      "excerpt": "Explore Bio-Techne Corp's current position in the Life Sciences sector, dissect recent market sentiment, and evaluate if TECH stock holds value for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/tech-news-impact-2026-10-20-1723.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T17:23:00.519557+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108414314-1792071553946-gettyimages-2245498483-raa-coreweav251110_npnHA.jpeg?v=1792071586&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "HE Stock Analysis: Is Hawaiian Electric Industries Inc a Buy at $8.93?",
+      "excerpt": "Explore HE stock forecast with an in-depth look at Hawaiian Electric Industries\u2019 utilities sector position, risks, and growth prospects for investors in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 17,
+      "href": "/blog/he-news-impact-2026-10-20-1723.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T17:23:00.519557+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108432771-1792420713935-gettyimages-2300899125-es2_6954_csisntth.jpeg?v=1792420777&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis 2026: Is AN a Buy in Today's Retail Landscape?",
+      "excerpt": "Explore our in-depth AutoNation Inc stock analysis and forecast for 2026. Discover whether AN shares are a smart buy amid evolving retail dynamics and market neutrality.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/an-news-impact-2026-10-20-1723.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T17:23:00.519557+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108432898-1792422851484-Traders-OB-20261019-ACJ-042-PRESS-7.jpg?v=1792423170&w=1920&h=1080"
+    },
+    {
+      "ticker": "FOUR",
+      "title": "Shift4 Payments (FOUR) Stock Analysis: Is FOUR a Buy in Financial Services?",
+      "excerpt": "Explore our comprehensive analysis of Shift4 Payments (FOUR), evaluating its stock potential amid neutral sentiment and key market factors influencing its future.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/four-news-impact-2026-10-20-1723.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T17:23:00.519557+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore ON Semiconductor's stock forecast with a deep dive into its financials, market position, and industry outlook to weigh if it's a buy right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 97,
+      "href": "/blog/on-news-impact-2026-10-20-1723.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T17:23:00.519557+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our 2026 Amer Sports Inc (AS) stock analysis. Discover why bullish trends might make AS an attractive buy in the textiles and apparel sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 88,
+      "href": "/blog/as-news-impact-2026-10-20-1723.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T17:23:00.519557+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "OUT",
       "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is This Real Estate Play Worth Buying Now?",
@@ -40295,5 +40367,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-19T23:49:52.313458+00:00"
+  "market_data_as_of": "2026-10-20T17:23:00.519557+00:00"
 }

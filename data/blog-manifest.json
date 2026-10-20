@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-20T17:23:00.519557+00:00",
+  "generated_at": "2026-10-20T18:34:20.763824+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment in Textiles & Apparel?",
+      "excerpt": "Explore our detailed analysis of Amer Sports Inc (AS) stock, examining bullish trends, valuation, risks, and market positioning in the textiles and apparel sector.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 110,
+      "href": "/blog/as-news-impact-2026-10-20-1834.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T18:34:20.763824+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108414314-1792071553946-gettyimages-2245498483-raa-coreweav251110_npnHA.jpeg?v=1792071586&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is ON a Buy Amid Industry Headwinds?",
+      "excerpt": "Explore ON Semiconductor's current position in the semiconductor sector, uncover key risks and opportunities, and see if ON stock is a buy right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 92,
+      "href": "/blog/on-news-impact-2026-10-20-1834.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T18:34:20.763824+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Dive into our comprehensive Alexandria Real Estate Equities (ARE) stock analysis covering current price action, sector dynamics, risks, and growth outlook for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-10-20-1834.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T18:34:20.763824+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108433655-1792434926199-gettyimages-2278385049-yanow-netflix260529_npZGP.jpeg?v=1792519748&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation Inc (AN) Stock Analysis: Is Now the Time to Buy in the Retail Auto Sector?",
+      "excerpt": "Explore AutoNation's current valuation, competitive positioning, and market outlook to decide if AN stock is a buy given its recent performance and retail auto trends.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 27,
+      "href": "/blog/an-news-impact-2026-10-20-1834.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T18:34:20.763824+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy in Today\u2019s Tech Market?",
+      "excerpt": "Explore Gartner Inc's (IT) latest stock analysis to uncover whether this leading tech company remains a solid buy amid market uncertainties and evolving industry trends.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 22,
+      "href": "/blog/it-news-impact-2026-10-20-1834.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T18:34:20.763824+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy in the Shifting Life Sciences Sector?",
+      "excerpt": "Explore an in-depth analysis of Bio-Techne Corp (TECH) stock amid a mixed tech sentiment, uncovering key growth drivers and potential risks in life sciences.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/tech-news-impact-2026-10-20-1834.html",
+      "published_date": "2026-10-20",
+      "generated_at": "2026-10-20T18:34:20.763824+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "TECH",
       "title": "Bio-Techne Corp (TECH) Stock Analysis: Is TECH a Buy Amid Mixed Tech Sentiment?",
@@ -40367,5 +40439,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-20T17:23:00.519557+00:00"
+  "market_data_as_of": "2026-10-20T18:34:20.763824+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-21T18:47:24.251542+00:00",
+  "generated_at": "2026-10-21T23:29:02.288427+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Powerhouse a Buy Amid Bullish Momentum?",
+      "excerpt": "C3.ai (AI) rides the AI wave with bullish sentiment and growing demand. Discover if this tech stock's current $11.79 price point signals a lucrative buy.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 24,
+      "href": "/blog/ai-news-impact-2026-10-21-2329.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T23:29:02.288427+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108291439-1776202127048-gettyimages-2217198328-MEMPHISMUSK.jpeg?v=1776202200&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc (OUT) Stock Analysis: Is This Real Estate Play Worth Your Investment in 2026?",
+      "excerpt": "Explore our latest analysis on OUTFRONT Media Inc's stock. Understand the real estate sector dynamics, valuation insights, and key risks to assess if OUT is a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 23,
+      "href": "/blog/out-news-impact-2026-10-21-2329.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T23:29:02.288427+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108369620-1790703036232-gettyimages-2297209357-20090101260929-99-803103.jpeg?v=1792535657&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Apparel Sector?",
+      "excerpt": "Explore our bullish assessment of Amer Sports Inc (AS) stock, including key growth drivers, valuation insights, and risk factors for investors.",
+      "sentiment": "Bullish",
+      "score": 18,
+      "impact_score": 123,
+      "href": "/blog/as-news-impact-2026-10-21-2329.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T23:29:02.288427+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108433876-17924383682026-10-19t193214z_904828289_rc2j6oamh4pl_rtrmadp_0_usa-trump.jpeg?v=1792438396&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment in Semiconductors?",
+      "excerpt": "Discover why ON Semiconductor (ON) is gaining bullish momentum in the semiconductor sector. Our detailed analysis covers valuation, growth drivers, and risks.",
+      "sentiment": "Bullish",
+      "score": 10,
+      "impact_score": 95,
+      "href": "/blog/on-news-impact-2026-10-21-2329.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T23:29:02.288427+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108313063-1779968970407-gettyimages-2277877363-260527_san_137.jpeg?v=1792016572&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Market?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock forecast with a detailed analysis of its real estate portfolio, financial health, and investment outlook in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/are-news-impact-2026-10-21-2329.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T23:29:02.288427+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore a detailed analysis of Ucommune International Ltd's stock (UK) amid bullish market sentiment, inflation concerns, and real estate opportunities.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 36,
+      "href": "/blog/uk-news-impact-2026-10-21-2329.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T23:29:02.288427+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Why This Apparel Giant Looks Bullish Now",
@@ -40655,5 +40727,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-21T18:47:24.251542+00:00"
+  "market_data_as_of": "2026-10-21T23:29:02.288427+00:00"
 }

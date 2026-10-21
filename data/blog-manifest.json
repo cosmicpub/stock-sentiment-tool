@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-20T23:15:59.806770+00:00",
+  "generated_at": "2026-10-21T17:26:10.412037+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corp (NEXT) Stock Analysis: Is NEXT a Buy in Today\u2019s Energy Market?",
+      "excerpt": "Explore our in-depth NextDecade Corp stock analysis to uncover key risks, growth drivers, and whether NEXT deserves a spot in your portfolio now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/next-news-impact-2026-10-21-1726.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T17:26:10.412037+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108283570-17745429042026-03-26t163339z_1972272553_rc2dcka2eeqm_rtrmadp_0_novo-nordisk.jpeg?v=1774542953&w=1920&h=1080"
+    },
+    {
+      "ticker": "RACE",
+      "title": "Ferrari NV (RACE) Stock Analysis 2026: Is This Luxury Automaker a Buy Now?",
+      "excerpt": "Discover the latest Ferrari NV (RACE) stock analysis, highlighting key growth drivers, risks, and valuation insights to decide if RACE is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/race-news-impact-2026-10-21-1726.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T17:26:10.412037+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Momentum in Textiles & Apparel?",
+      "excerpt": "Explore why Amer Sports Inc (AS) is attracting bullish investor attention in the textiles and apparel sector, with key growth drivers and risks analyzed.",
+      "sentiment": "Bullish",
+      "score": 14,
+      "impact_score": 144,
+      "href": "/blog/as-news-impact-2026-10-21-1726.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T17:26:10.412037+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108419554-1792155211042-gettyimages-2083481345-dsc_40411.jpeg?v=1792155242&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Industry Momentum?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, growth drivers, risks, and valuation insights in this detailed stock analysis for prospective investors.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 79,
+      "href": "/blog/on-news-impact-2026-10-21-1726.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T17:26:10.412037+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107413230-1715341560534-gettyimages-2150881892-img_8194_hpgrkh8s.jpeg?v=1715341589&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities, Inc (ARE) Stock Analysis: Is ARE a Buy Amid Real Estate Sector Dynamics?",
+      "excerpt": "Explore our detailed Alexandria Real Estate Equities (ARE) stock analysis, evaluating its current position and future outlook in the evolving real estate sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 48,
+      "href": "/blog/are-news-impact-2026-10-21-1726.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T17:26:10.412037+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Stock a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore Ucommune International Ltd's recent performance and prospects in our detailed stock analysis focusing on its real estate sector position and market risks.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/uk-news-impact-2026-10-21-1726.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T17:26:10.412037+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is This Textiles & Apparel Stock a Buy Now?",
@@ -40511,5 +40583,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-20T23:15:59.806770+00:00"
+  "market_data_as_of": "2026-10-21T17:26:10.412037+00:00"
 }

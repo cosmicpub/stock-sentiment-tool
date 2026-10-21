@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-21T17:26:10.412037+00:00",
+  "generated_at": "2026-10-21T18:47:24.251542+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Why This Apparel Giant Looks Bullish Now",
+      "excerpt": "Analyzing Amer Sports Inc's bullish momentum at $29.94 amidst strong industry trends and growth prospects in textiles and luxury goods.",
+      "sentiment": "Bullish",
+      "score": 20,
+      "impact_score": 139,
+      "href": "/blog/as-news-impact-2026-10-21-1847.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T18:47:24.251542+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108433876-17924383682026-10-19t193214z_904828289_rc2j6oamh4pl_rtrmadp_0_usa-trump.jpeg?v=1792438396&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is ON a Strong Buy Amid Semiconductor Growth?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook in 2026, key growth drivers, risks, and valuation insights. Is ON stock a smart buy today?",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 103,
+      "href": "/blog/on-news-impact-2026-10-21-1847.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T18:47:24.251542+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107413230-1715341560534-gettyimages-2150881892-img_8194_hpgrkh8s.jpeg?v=1715341589&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities, Inc (ARE) Stock Analysis: Is ARE a Buy in Today's Market?",
+      "excerpt": "Explore our comprehensive Alexandria Real Estate Equities stock analysis revealing valuation, growth potential, and key risks to consider for ARE investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/are-news-impact-2026-10-21-1847.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T18:47:24.251542+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy Amid Bullish Real Estate Trends?",
+      "excerpt": "Explore Ucommune International Ltd\u2019s promising outlook in real estate with bullish momentum, valuation insights, and key risks for investors.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 36,
+      "href": "/blog/uk-news-impact-2026-10-21-1847.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T18:47:24.251542+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is Now the Time to Buy in Technology?",
+      "excerpt": "Explore Gartner Inc's current position in the tech sector, key growth drivers, potential risks, and whether IT stock is a buy in today's market.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 28,
+      "href": "/blog/it-news-impact-2026-10-21-1847.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T18:47:24.251542+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108251462-17682578362026-01-12t224212z_492453221_rc2uzia2zith_rtrmadp_0_retail-nrf-conference.jpeg?v=1768257931&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis and Forecast: Is SAY a Buy in 2026?",
+      "excerpt": "Discover an in-depth analysis of Saratoga Investment Corp (SAY) stock, uncovering key growth drivers and risks to help decide if SAY is a buy this year.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 27,
+      "href": "/blog/say-news-impact-2026-10-21-1847.html",
+      "published_date": "2026-10-21",
+      "generated_at": "2026-10-21T18:47:24.251542+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "NEXT",
       "title": "NextDecade Corp (NEXT) Stock Analysis: Is NEXT a Buy in Today\u2019s Energy Market?",
@@ -40583,5 +40655,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-21T17:26:10.412037+00:00"
+  "market_data_as_of": "2026-10-21T18:47:24.251542+00:00"
 }

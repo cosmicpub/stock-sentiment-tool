@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-21T23:29:02.288427+00:00",
+  "generated_at": "2026-10-22T17:24:45.733000+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis 2026: Is BACK a Buy Amidst Biotechnology Sector Challenges?",
+      "excerpt": "Explore our in-depth IMAC Holdings (BACK) stock analysis covering valuation, risks, and growth potential in the evolving biotech landscape for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 11,
+      "href": "/blog/back-news-impact-2026-10-22-1724.html",
+      "published_date": "2026-10-22",
+      "generated_at": "2026-10-22T17:24:45.733000+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108251462-17682578362026-01-12t224212z_492453221_rc2uzia2zith_rtrmadp_0_retail-nrf-conference.jpeg?v=1768257931&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis October 2026: Is AS a Buy Amid Textiles Sector Growth?",
+      "excerpt": "Explore why Amer Sports Inc (AS) is gaining bullish momentum in the textiles and apparel sector, with key growth drivers and risks analyzed.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 126,
+      "href": "/blog/as-news-impact-2026-10-22-1724.html",
+      "published_date": "2026-10-22",
+      "generated_at": "2026-10-22T17:24:45.733000+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/104965972-GettyImages-823212518.jpg?v=1619192738&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Semiconductor Trends?",
+      "excerpt": "Explore ON Semiconductor Corp's latest performance, growth prospects, and risks in this detailed stock analysis to decide if ON is a buy for your portfolio.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 84,
+      "href": "/blog/on-news-impact-2026-10-22-1724.html",
+      "published_date": "2026-10-22",
+      "generated_at": "2026-10-22T17:24:45.733000+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108443495-1792615370024-IMG_5675.jpg?v=1792615535&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis: Is AI a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore C3.ai's stock outlook amid AI sector volatility, rising competition, and strategic moves. Is AI stock a smart buy now?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 51,
+      "href": "/blog/ai-news-impact-2026-10-22-1724.html",
+      "published_date": "2026-10-22",
+      "generated_at": "2026-10-22T17:24:45.733000+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore Alexandria Real Estate Equities\u2019 current stock potential, risks, and outlook in our detailed 2026 analysis to decide if ARE fits your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 34,
+      "href": "/blog/are-news-impact-2026-10-22-1724.html",
+      "published_date": "2026-10-22",
+      "generated_at": "2026-10-22T17:24:45.733000+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108200613-1758197176145-gettyimages-2235448391-META_CONNECT.jpeg?v=1764692125&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis 2026: Is This Tech Giant a Smart Buy Now?",
+      "excerpt": "Explore Gartner Inc's current market position, key growth drivers, and risks to determine if IT stock is a compelling investment in today's tech landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/it-news-impact-2026-10-22-1724.html",
+      "published_date": "2026-10-22",
+      "generated_at": "2026-10-22T17:24:45.733000+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AI",
       "title": "C3.ai Inc (AI) Stock Analysis: Is This AI Powerhouse a Buy Amid Bullish Momentum?",
@@ -40727,5 +40799,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-21T23:29:02.288427+00:00"
+  "market_data_as_of": "2026-10-22T17:24:45.733000+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-23T17:19:10.819743+00:00",
+  "generated_at": "2026-10-23T18:33:38.277692+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore our detailed Amer Sports Inc stock analysis leveraging current bullish sentiment to see if AS is poised for sustainable growth in apparel and luxury goods.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 108,
+      "href": "/blog/as-news-impact-2026-10-23-1833.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T18:33:38.277692+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108127588-1744035702007-gettyimages-2208435872-AFP_39EE9AF.jpeg?v=1752747996&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Smart Buy Amid Semiconductor Sector Momentum?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, growth drivers, valuation, and risks in the evolving semiconductor market. Discover if ON stock fits your portfolio.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 72,
+      "href": "/blog/on-news-impact-2026-10-23-1833.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T18:33:38.277692+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis and Forecast: Neutral Sentiment Amid AI Industry Shifts",
+      "excerpt": "Explore C3.ai's current stock outlook, industry positioning, and market sentiment amid evolving AI trends and recent sector headlines.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 68,
+      "href": "/blog/ai-news-impact-2026-10-23-1833.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T18:33:38.277692+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107226486-1681757677012-gettyimages-1482879204-0j5a6393_hz7tjqkp.jpeg?v=1784920798&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Financial Services Buy Today?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock outlook, key valuation insights, and risks for investors eyeing this financial services player.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 43,
+      "href": "/blog/say-news-impact-2026-10-23-1833.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T18:33:38.277692+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore a detailed Alexandria Real Estate Equities stock analysis covering its current valuation, market position, and whether ARE presents a buying opportunity in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-10-23-1833.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T18:33:38.277692+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108432899-1792422851485-Traders-OB-20261019-ACJ-043-PRESS-8.jpg?v=1792423170&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner Inc (IT) Stock Analysis: Is IT a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore Gartner Inc's current stock outlook, market position, and key risks to decide if IT stock is a smart buy in today's volatile tech sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 26,
+      "href": "/blog/it-news-impact-2026-10-23-1833.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T18:33:38.277692+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/104965972-GettyImages-823212518.jpg?v=1619192738&w=1920&h=1080"
+    },
     {
       "ticker": "ALL",
       "title": "Allstate Corp (ALL) Stock Analysis: Is ALL a Buy Amid Current Market Neutrality?",
@@ -41015,5 +41087,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-23T17:19:10.819743+00:00"
+  "market_data_as_of": "2026-10-23T18:33:38.277692+00:00"
 }

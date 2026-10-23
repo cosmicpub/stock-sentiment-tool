@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-22T23:28:42.945203+00:00",
+  "generated_at": "2026-10-23T17:19:10.819743+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ALL",
+      "title": "Allstate Corp (ALL) Stock Analysis: Is ALL a Buy Amid Current Market Neutrality?",
+      "excerpt": "Explore Allstate Corp's latest stock outlook with a detailed analysis on risks, valuation, and why ALL stock might be poised for stability or growth.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/all-news-impact-2026-10-23-1719.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T17:19:10.819743+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108370343-1790783062486-gettyimages-2297724134-kbd14743_rhxmkc0e.jpeg?v=1790803464&w=1920&h=1080"
+    },
+    {
+      "ticker": "FIVE",
+      "title": "Five Below Inc (FIVE) Stock Analysis: Is FIVE a Buy in Retail's Changing Landscape?",
+      "excerpt": "Discover a detailed Five Below Inc stock forecast amid retail shifts. We analyze FIVE's growth, valuation, risks, and long-term prospects to guide investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/five-news-impact-2026-10-23-1719.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T17:19:10.819743+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Strong Buy in Textiles & Apparel Sector?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis covering financial health, industry trends, opportunities, and risks. Is AS a bullish buy now?",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 112,
+      "href": "/blog/as-news-impact-2026-10-23-1719.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T17:19:10.819743+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108127588-1744035702007-gettyimages-2208435872-AFP_39EE9AF.jpeg?v=1752747996&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis 2026: Is ON a Buy Amid Strong Industry Tailwinds?",
+      "excerpt": "Discover why ON Semiconductor's bullish momentum is capturing investor interest in 2026. We analyze growth drivers, risks, valuation, and outlook for ON stock.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 77,
+      "href": "/blog/on-news-impact-2026-10-23-1719.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T17:19:10.819743+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai Inc (AI) Stock Analysis 2026: Is This Tech Innovator a Buy Amid AI Market Flux?",
+      "excerpt": "Dive into our detailed C3.ai stock analysis to understand the tech giant's positioning in AI, short-term challenges, and long-term growth potential for investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 68,
+      "href": "/blog/ai-news-impact-2026-10-23-1719.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T17:19:10.819743+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107226486-1681757677012-gettyimages-1482879204-0j5a6393_hz7tjqkp.jpeg?v=1784920798&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is This Financial Services Stock a Buy Now?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock analysis, uncover valuation insights, and find out if SAY is a compelling buy in today's financial services sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 38,
+      "href": "/blog/say-news-impact-2026-10-23-1719.html",
+      "published_date": "2026-10-23",
+      "generated_at": "2026-10-23T17:19:10.819743+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "META",
       "title": "META Stock Analysis: Is Meta Platforms Inc a Buy After Recent Earnings Dip?",
@@ -40943,5 +41015,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-22T23:28:42.945203+00:00"
+  "market_data_as_of": "2026-10-23T17:19:10.819743+00:00"
 }

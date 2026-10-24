@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-23T23:16:48.149716+00:00",
+  "generated_at": "2026-10-24T16:07:51.012005+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "FOUR",
+      "title": "Shift4 Payments (FOUR) Stock Analysis: Is FOUR a Buy in the Shifting Payments Landscape?",
+      "excerpt": "Explore our deep dive into Shift4 Payments (FOUR) to uncover if the current $38.79 price offers a compelling buying opportunity amid financial services shifts.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/four-news-impact-2026-10-24-1607.html",
+      "published_date": "2026-10-24",
+      "generated_at": "2026-10-24T16:07:51.012005+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro Inc (HAS) Stock Analysis 2026: Is HAS a Smart Buy Amid Mixed Signals?",
+      "excerpt": "Explore Hasbro's 2026 stock outlook, focusing on its current performance, industry position, and risks. Is HAS ready for growth, or should investors stay cautious?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/has-news-impact-2026-10-24-1607.html",
+      "published_date": "2026-10-24",
+      "generated_at": "2026-10-24T16:07:51.012005+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108366911-1790177426791-Charlie_Harker.jpeg?v=1790177524&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Navigating Bearish Sentiment in Textiles and Apparel",
+      "excerpt": "Amer Sports Inc faces bearish trends amid market headwinds. Explore key factors influencing AS stock and whether it merits investor attention now.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 96,
+      "href": "/blog/as-news-impact-2026-10-24-1607.html",
+      "published_date": "2026-10-24",
+      "generated_at": "2026-10-24T16:07:51.012005+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108419903-1792160474880-261016_Dog_Walker_03.png?v=1792780609&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current stock outlook, key growth drivers, risks, and whether ON stock deserves a place in your portfolio in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 87,
+      "href": "/blog/on-news-impact-2026-10-24-1607.html",
+      "published_date": "2026-10-24",
+      "generated_at": "2026-10-24T16:07:51.012005+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108453365-1792793633822-gettyimages-2300178554-AA_17102026_2998635.jpeg?v=1792793674&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today\u2019s Financial Services Market?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) stock potential with our in-depth analysis, covering recent trends, valuation, risks, and outlook for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 48,
+      "href": "/blog/say-news-impact-2026-10-24-1607.html",
+      "published_date": "2026-10-24",
+      "generated_at": "2026-10-24T16:07:51.012005+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107226486-1681757677012-gettyimages-1482879204-0j5a6393_hz7tjqkp.jpeg?v=1784920798&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Discover a balanced analysis of Alexandria Real Estate Equities, Inc. (ARE) stock with key insights, valuation, risks, and growth potential to decide if ARE is a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 45,
+      "href": "/blog/are-news-impact-2026-10-24-1607.html",
+      "published_date": "2026-10-24",
+      "generated_at": "2026-10-24T16:07:51.012005+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108189764-1755882133114-gettyimages-2219563082-genz_19.jpeg?v=1780603911&w=1920&h=1080"
+    },
     {
       "ticker": "UK",
       "title": "Ucommune International Ltd (UK) Stock Analysis 2026: Is This Real Estate Play a Buy?",
@@ -41159,5 +41231,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-23T23:16:48.149716+00:00"
+  "market_data_as_of": "2026-10-24T16:07:51.012005+00:00"
 }

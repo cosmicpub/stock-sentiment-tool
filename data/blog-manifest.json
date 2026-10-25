@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-24T16:07:51.012005+00:00",
+  "generated_at": "2026-10-25T16:37:43.832143+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore the latest Here Group Ltd stock analysis, valuation insights, and key investor considerations as HERE trades quietly at $1.48 with neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/here-news-impact-2026-10-25-1637.html",
+      "published_date": "2026-10-25",
+      "generated_at": "2026-10-25T16:37:43.832143+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108373638-1791320679046-gettyimages-2298340629-AMAZON_PRIME.jpeg?v=1791320784&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Rising Rate Environment?",
+      "excerpt": "Explore our BY stock analysis as Byline Bancorp navigates a challenging banking landscape with rising rates. Discover key risks and opportunities ahead.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 15,
+      "href": "/blog/by-news-impact-2026-10-25-1637.html",
+      "published_date": "2026-10-25",
+      "generated_at": "2026-10-25T16:37:43.832143+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108189764-1755882133114-gettyimages-2219563082-genz_19.jpeg?v=1780603911&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore Amer Sports Inc (AS) stock analysis focusing on recent performance, industry outlook, valuation, and risks to decide if AS is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 73,
+      "href": "/blog/as-news-impact-2026-10-25-1637.html",
+      "published_date": "2026-10-25",
+      "generated_at": "2026-10-25T16:37:43.832143+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108419903-1792160474880-261016_Dog_Walker_03.png?v=1792780609&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Market Pressure?",
+      "excerpt": "Explore ON Semiconductor's current valuation, industry challenges, and growth prospects to determine if ON stock is a smart buy in today's semiconductor market.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 65,
+      "href": "/blog/on-news-impact-2026-10-25-1637.html",
+      "published_date": "2026-10-25",
+      "generated_at": "2026-10-25T16:37:43.832143+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108453365-1792793633822-gettyimages-2300178554-AA_17102026_2998635.jpeg?v=1792793674&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Smart Buy in Financial Services?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current market positioning, risks, and opportunities in financial services. Is SAY a buy for your portfolio?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 52,
+      "href": "/blog/say-news-impact-2026-10-25-1637.html",
+      "published_date": "2026-10-25",
+      "generated_at": "2026-10-25T16:37:43.832143+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108452647-1792779252338-gettyimages-2042539291-jh_travelbuds_0009.jpeg?v=1792779385&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities, Inc (ARE) Stock Analysis: Evaluating Its Long-Term Potential",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock with a focus on its current valuation, growth prospects, and notable risks in the real estate sector.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 51,
+      "href": "/blog/are-news-impact-2026-10-25-1637.html",
+      "published_date": "2026-10-25",
+      "generated_at": "2026-10-25T16:37:43.832143+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "FOUR",
       "title": "Shift4 Payments (FOUR) Stock Analysis: Is FOUR a Buy in the Shifting Payments Landscape?",
@@ -41231,5 +41303,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-24T16:07:51.012005+00:00"
+  "market_data_as_of": "2026-10-25T16:37:43.832143+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-26T23:57:42.270634+00:00",
+  "generated_at": "2026-10-27T18:07:22.581163+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is It a Buy in 2026?",
+      "excerpt": "Dive into our detailed 2026 analysis of Ucommune International Ltd (UK), exploring its real estate prospects, valuation, and growth potential.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/uk-news-impact-2026-10-27-1807.html",
+      "published_date": "2026-10-27",
+      "generated_at": "2026-10-27T18:07:22.581163+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corporation (BE) Stock Analysis: Is BE a Buy in Electrical Equipment Sector?",
+      "excerpt": "Explore Bloom Energy (BE) stock forecast amidst steady price action, sector outlook, and growth prospects. Discover if BE is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/be-news-impact-2026-10-27-1807.html",
+      "published_date": "2026-10-27",
+      "generated_at": "2026-10-27T18:07:22.581163+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Industry Momentum?",
+      "excerpt": "Explore ON Semiconductor's latest stock outlook, industry position, and whether its bullish trend justifies a buy in 2026's semiconductor landscape.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 85,
+      "href": "/blog/on-news-impact-2026-10-27-1807.html",
+      "published_date": "2026-10-27",
+      "generated_at": "2026-10-27T18:07:22.581163+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Right Time to Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore the key factors behind Amer Sports Inc's bearish sentiment, stock snapshot, risks, and long-term prospects in this detailed AS stock analysis.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 57,
+      "href": "/blog/as-news-impact-2026-10-27-1807.html",
+      "published_date": "2026-10-27",
+      "generated_at": "2026-10-27T18:07:22.581163+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108270067-1772047070205-gettyimages-2246539844-aw1a5644_zhw13cew.jpeg?v=1772047118&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis 2026: Is This AI Play a Buy Amid Market Volatility?",
+      "excerpt": "Explore the latest C3.ai stock forecast and analysis as AI sector dynamics shift. We assess risks, growth potential, and whether AI is a buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 41,
+      "href": "/blog/ai-news-impact-2026-10-27-1807.html",
+      "published_date": "2026-10-27",
+      "generated_at": "2026-10-27T18:07:22.581163+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108464743-1793031638506-gettyimages-2301669760-US_STOCKS.jpeg?v=1793031756&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Ucommune International Ltd (UK) stock forecast with a detailed analysis of its real estate positioning and neutral market sentiment as of October 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 25,
+      "href": "/blog/uk-news-impact-2026-10-27-1807.html",
+      "published_date": "2026-10-27",
+      "generated_at": "2026-10-27T18:07:22.581163+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "IT",
       "title": "Gartner Inc (IT) Stock Analysis: Neutral Sentiment in a Tech Landscape Shaped by AI Uncertainty",
@@ -41519,5 +41591,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-26T23:57:42.270634+00:00"
+  "market_data_as_of": "2026-10-27T18:07:22.581163+00:00"
 }

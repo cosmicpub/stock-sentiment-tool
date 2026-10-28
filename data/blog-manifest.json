@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-27T23:53:01.832149+00:00",
+  "generated_at": "2026-10-28T18:24:10.004687+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HELP",
+      "title": "Cybin Inc (HELP) Stock Analysis: Bearish Signals Dominate Despite Pharmaceutical Potential",
+      "excerpt": "Cybin Inc (HELP) faces headwinds with bearish sentiment and significant risks, despite operating in the promising pharmaceutical sector. Here's a detailed analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/help-news-impact-2026-10-28-1824.html",
+      "published_date": "2026-10-28",
+      "generated_at": "2026-10-28T18:24:10.004687+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis: Is BACK a Buy in the Biotechnology Sector?",
+      "excerpt": "Delve into our detailed IMAC Holdings Inc stock analysis to understand whether BACK is a viable buy amid its current price and biotech industry landscape.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/back-news-impact-2026-10-28-1824.html",
+      "published_date": "2026-10-28",
+      "generated_at": "2026-10-28T18:24:10.004687+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corporation (NEXT) Stock Analysis: Is NEXT a Buy Amidst Energy Market Shifts?",
+      "excerpt": "Explore a detailed analysis of NextDecade Corporation (NEXT), examining its energy sector position, recent sentiment, and whether it's an attractive buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/next-news-impact-2026-10-28-1824.html",
+      "published_date": "2026-10-28",
+      "generated_at": "2026-10-28T18:24:10.004687+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's promising 2026 outlook. Our detailed stock analysis reveals growth drivers, risks, and why investor sentiment is currently bullish on ON.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 86,
+      "href": "/blog/on-news-impact-2026-10-28-1824.html",
+      "published_date": "2026-10-28",
+      "generated_at": "2026-10-28T18:24:10.004687+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295410-1776870973932-GE-OB-Photo-20260421-KK-PRESS-021.jpg?v=1776871106&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amidst Neutral Sentiment?",
+      "excerpt": "Explore our in-depth analysis of Amer Sports Inc (AS) amidst ongoing market shifts and neutral investor sentiment. Is now the moment to buy?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 63,
+      "href": "/blog/as-news-impact-2026-10-28-1824.html",
+      "published_date": "2026-10-28",
+      "generated_at": "2026-10-28T18:24:10.004687+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267458-1782819919048-108267458-1771521451237-gettyimages-2261924569-porzycki-magnific260219_npI3p.jpg?v=1782819933&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore why Alexandria Real Estate Equities (ARE) is drawing bullish investor attention in the real estate sector and what risks to consider before buying.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 34,
+      "href": "/blog/are-news-impact-2026-10-28-1824.html",
+      "published_date": "2026-10-28",
+      "generated_at": "2026-10-28T18:24:10.004687+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BY",
       "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Headwinds?",
@@ -41735,5 +41807,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-27T23:53:01.832149+00:00"
+  "market_data_as_of": "2026-10-28T18:24:10.004687+00:00"
 }

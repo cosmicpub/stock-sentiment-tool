@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-28T19:42:06.605877+00:00",
+  "generated_at": "2026-10-29T00:07:57.189807+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Momentum?",
+      "excerpt": "Discover why ON Semiconductor's strong industry position and bullish sentiment make it an intriguing buy candidate. We explore key growth drivers and risks.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 98,
+      "href": "/blog/on-news-impact-2026-10-29-0007.html",
+      "published_date": "2026-10-29",
+      "generated_at": "2026-10-29T00:07:57.189807+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108352482-1787272514906-IMG_8261.jpeg?v=1787272676&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles & Luxury Goods Sector?",
+      "excerpt": "Dive into our comprehensive Amer Sports stock analysis to uncover key growth drivers, risks, and whether AS stock is a buy amid evolving market dynamics in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 53,
+      "href": "/blog/as-news-impact-2026-10-29-0007.html",
+      "published_date": "2026-10-29",
+      "generated_at": "2026-10-29T00:07:57.189807+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108267458-1782819919048-108267458-1771521451237-gettyimages-2261924569-porzycki-magnific260219_npI3p.jpg?v=1782819933&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore Alexandria Real Estate Equities' (ARE) promising outlook with bullish momentum, strategic AI positioning, and what investors should watch next.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 38,
+      "href": "/blog/are-news-impact-2026-10-29-0007.html",
+      "published_date": "2026-10-29",
+      "generated_at": "2026-10-29T00:07:57.189807+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108196912-1757519281221-gettyimages-2223423631-20090101250708-99-391116.jpeg?v=1775492935&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is It a Buy Amid UK Economic Challenges?",
+      "excerpt": "Explore Ucommune International Ltd's stock forecast as UK economy faces slow growth. Find out if UK stock offers a compelling investment opportunity.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 27,
+      "href": "/blog/uk-news-impact-2026-10-29-0007.html",
+      "published_date": "2026-10-29",
+      "generated_at": "2026-10-29T00:07:57.189807+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis 2026: Is This Key AI Player A Buy Right Now?",
+      "excerpt": "Explore C3.ai's 2026 outlook with an in-depth AI stock analysis\u2014key growth drivers, risks, and whether AI stock is poised for a rebound or correction.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/ai-news-impact-2026-10-29-0007.html",
+      "published_date": "2026-10-29",
+      "generated_at": "2026-10-29T00:07:57.189807+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today's Financial Landscape?",
+      "excerpt": "Dive into our Saratoga Investment Corp (SAY) stock analysis to uncover key financial insights, market risks, and the verdict on whether SAY is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 19,
+      "href": "/blog/say-news-impact-2026-10-29-0007.html",
+      "published_date": "2026-10-29",
+      "generated_at": "2026-10-29T00:07:57.189807+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108469229-1793110603856-gettyimages-2213436433-doner5_26584retocada.jpeg?v=1793110644&w=1920&h=1080"
+    },
     {
       "ticker": "ON",
       "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
@@ -41879,5 +41951,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-28T19:42:06.605877+00:00"
+  "market_data_as_of": "2026-10-29T00:07:57.189807+00:00"
 }

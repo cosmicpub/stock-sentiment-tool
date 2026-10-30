@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-30T00:01:29.300432+00:00",
+  "generated_at": "2026-10-30T18:06:19.255281+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid a Bullish Semiconductor Market?",
+      "excerpt": "Explore ON Semiconductor's latest performance, growth drivers, and risks in this detailed stock analysis to decide if ON is a buy for your portfolio.",
+      "sentiment": "Bullish",
+      "score": 18,
+      "impact_score": 105,
+      "href": "/blog/on-news-impact-2026-10-30-1806.html",
+      "published_date": "2026-10-30",
+      "generated_at": "2026-10-30T18:06:19.255281+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476463-1793218320762-gettyimages-2301920935-POLYMARKET_MIDTERMS.jpeg?v=1793218389&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Textile Industry Shifts?",
+      "excerpt": "Explore Amer Sports Inc's latest stock outlook as industry pressures and market climate shape its textile and apparel prospects for investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 66,
+      "href": "/blog/as-news-impact-2026-10-30-1806.html",
+      "published_date": "2026-10-30",
+      "generated_at": "2026-10-30T18:06:19.255281+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108216038-1761233682571-gettyimages-2240168883-img_8556.jpeg?v=1761233698&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate Play a Strong Buy in 2026?",
+      "excerpt": "Explore the bullish outlook for Alexandria Real Estate Equities (ARE) as we dive into valuation, growth prospects, and market position in the evolving real estate sector.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 35,
+      "href": "/blog/are-news-impact-2026-10-30-1806.html",
+      "published_date": "2026-10-30",
+      "generated_at": "2026-10-30T18:06:19.255281+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner, Inc. (IT) Stock Analysis: Is It a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Gartner's latest stock analysis, industry position, and whether IT stock is a buy in today's cautious tech market environment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/it-news-impact-2026-10-30-1806.html",
+      "published_date": "2026-10-30",
+      "generated_at": "2026-10-30T18:06:19.255281+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107327714-1698931527683-gettyimages-949516886-AFP_13Z2MW.jpeg?v=1698938212&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai, Inc. (AI) Stock Analysis: Is This AI Tech Firm a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore our in-depth C3.ai stock forecast as the AI company faces bearish headwinds and investor caution. Can C3.ai bounce back or is caution warranted?",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/ai-news-impact-2026-10-30-1806.html",
+      "published_date": "2026-10-30",
+      "generated_at": "2026-10-30T18:06:19.255281+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/104492731-Greg_Case.jpg?v=1529475217&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy Amidst Real Estate Market Shifts?",
+      "excerpt": "Explore Ucommune International Ltd's current valuation, market risks, and future outlook in the real estate sector. Is UK stock a buy in 2026?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-10-30-1806.html",
+      "published_date": "2026-10-30",
+      "generated_at": "2026-10-30T18:06:19.255281+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation, Inc. (AN) Stock Analysis 2026: Is Now the Time to Buy Automotive Retail Giant?",
@@ -42095,5 +42167,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-10-30T00:01:29.300432+00:00"
+  "market_data_as_of": "2026-10-30T18:06:19.255281+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-02T21:49:46.284699+00:00",
+  "generated_at": "2026-11-02T22:49:39.950201+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook in the semiconductor sector with in-depth stock analysis, valuation insight, and risks investors should watch.",
+      "sentiment": "Bullish",
+      "score": 7,
+      "impact_score": 76,
+      "href": "/blog/on-news-impact-2026-11-02-2249.html",
+      "published_date": "2026-11-02",
+      "generated_at": "2026-11-02T22:49:39.950201+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108505677-1793648203497-gettyimages-2303173670-ah800934_n41gt6qw.jpeg?v=1793651228&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is It a Buy Amid Bearish Sentiment in Textiles & Apparel?",
+      "excerpt": "Facing bearish sentiment, Amer Sports Inc (AS) trades at $30.67. This analysis explores valuation, risks, and outlook in the textiles and apparel sector.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 63,
+      "href": "/blog/as-news-impact-2026-11-02-2249.html",
+      "published_date": "2026-11-02",
+      "generated_at": "2026-11-02T22:49:39.950201+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108491975-1793452126817-gettyimages-2248692610-nodes001.jpeg?v=1793452141&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in the Financial Services Sector?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) current stock outlook, financial snapshots, and key factors influencing its potential as a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/say-news-impact-2026-11-02-2249.html",
+      "published_date": "2026-11-02",
+      "generated_at": "2026-11-02T22:49:39.950201+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner, Inc. (IT) Stock Analysis: Is This Technology Leader a Buy in 2026?",
+      "excerpt": "Explore Gartner, Inc.'s latest stock analysis highlighting growth prospects, risks, valuation, and why investors remain neutral on IT shares today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 36,
+      "href": "/blog/it-news-impact-2026-11-02-2249.html",
+      "published_date": "2026-11-02",
+      "generated_at": "2026-11-02T22:49:39.950201+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476692-1793220772154-gettyimages-2301924853-WARSH_FOMC_NYSE.jpeg?v=1793220807&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation, Inc. (AN) Stock Analysis: Is This Retail Giant a Strong Buy in 2026?",
+      "excerpt": "Explore AutoNation's bullish momentum, competitive position, and growth prospects in our detailed stock analysis. Discover whether AN is a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 35,
+      "href": "/blog/an-news-impact-2026-11-02-2249.html",
+      "published_date": "2026-11-02",
+      "generated_at": "2026-11-02T22:49:39.950201+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro, Inc. (HAS) Stock Analysis: Is HAS a Buy Amid Changing Market Dynamics?",
+      "excerpt": "Explore Hasbro's latest outlook, balancing product innovation and market challenges to see if HAS stock remains a compelling buy for 2026 investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 24,
+      "href": "/blog/has-news-impact-2026-11-02-2249.html",
+      "published_date": "2026-11-02",
+      "generated_at": "2026-11-02T22:49:39.950201+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/103097578-GettyImages-493449710.jpg?v=1762199297&w=1920&h=1080"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation (AN) Stock Analysis 2026: Is This Retail Giant a Smart Buy Now?",
@@ -42527,5 +42599,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-02T21:49:46.284699+00:00"
+  "market_data_as_of": "2026-11-02T22:49:39.950201+00:00"
 }

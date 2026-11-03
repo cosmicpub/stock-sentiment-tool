@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-03T19:40:17.182785+00:00",
+  "generated_at": "2026-11-03T20:32:46.198679+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Smart Buy in the Semiconductor Sector?",
+      "excerpt": "Explore an in-depth ON Semiconductor stock analysis covering its current bullish momentum, industry positioning, and key risks to watch for investors.",
+      "sentiment": "Bullish",
+      "score": 8,
+      "impact_score": 88,
+      "href": "/blog/on-news-impact-2026-11-03-2032.html",
+      "published_date": "2026-11-03",
+      "generated_at": "2026-11-03T20:32:46.198679+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108505677-1793648203497-gettyimages-2303173670-ah800934_n41gt6qw.jpeg?v=1793651228&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles & Apparel Play Worth Your Investment?",
+      "excerpt": "Explore the bearish outlook on Amer Sports Inc (AS), its valuation challenges, industry dynamics, and whether this textiles and apparel firm could rebound.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 85,
+      "href": "/blog/as-news-impact-2026-11-03-2032.html",
+      "published_date": "2026-11-03",
+      "generated_at": "2026-11-03T20:32:46.198679+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108504877-1793637178383-Traders-Photo-20261102-KK-PRESS-008.jpg?v=1793637286&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Is Saratoga Investment Corp a Buy in Today\u2019s Financial Landscape?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) stock analysis, grasp the financial outlook, risks, and what investors should watch before deciding if SAY is a buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 40,
+      "href": "/blog/say-news-impact-2026-11-03-2032.html",
+      "published_date": "2026-11-03",
+      "generated_at": "2026-11-03T20:32:46.198679+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation, Inc. (AN) Stock Analysis: Is AN a Strong Buy in Today\u2019s Retail Market?",
+      "excerpt": "Explore our in-depth AutoNation, Inc. (AN) stock analysis to understand why upbeat retail trends and strategic positioning make AN a compelling investment right now.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 35,
+      "href": "/blog/an-news-impact-2026-11-03-2032.html",
+      "published_date": "2026-11-03",
+      "generated_at": "2026-11-03T20:32:46.198679+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner, Inc. (IT) Stock Analysis and Forecast: Is IT a Buy in November 2026?",
+      "excerpt": "Assessing Gartner, Inc. (IT) stock's neutral stance: exploring its technology sector positioning, recent price action at $204.90, and what investors should watch now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 31,
+      "href": "/blog/it-news-impact-2026-11-03-2032.html",
+      "published_date": "2026-11-03",
+      "generated_at": "2026-11-03T20:32:46.198679+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476033-1793212557840-gettyimages-2302415478-_24a0723_0jdfsmri.jpeg?v=1793212650&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is This Real Estate Play a Buy Now?",
+      "excerpt": "Explore Alexandria Real Estate Equities' latest stock outlook with an in-depth analysis, valuation insights, and what investors should watch in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 28,
+      "href": "/blog/are-news-impact-2026-11-03-2032.html",
+      "published_date": "2026-11-03",
+      "generated_at": "2026-11-03T20:32:46.198679+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108509166-1793695654713-gettyimages-2302721365-BELGIUM_SUPERMARKET_HACK.jpeg?v=1793695664&w=1920&h=1080"
+    },
     {
       "ticker": "HERE",
       "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in the Leisure Products Sector?",
@@ -42671,5 +42743,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-03T19:40:17.182785+00:00"
+  "market_data_as_of": "2026-11-03T20:32:46.198679+00:00"
 }

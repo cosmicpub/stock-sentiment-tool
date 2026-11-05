@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-04T20:52:01.584313+00:00",
+  "generated_at": "2026-11-05T20:08:53.363514+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "OR",
+      "title": "OR Royalties Inc (OR) Stock Analysis 2026: Is This Metals & Mining Play a Buy Today?",
+      "excerpt": "Explore the latest OR Royalties Inc stock analysis for 2026. We evaluate key drivers, risks, and opportunities to answer: Is OR a buy right now?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/or-news-impact-2026-11-05-2008.html",
+      "published_date": "2026-11-05",
+      "generated_at": "2026-11-05T20:08:53.363514+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108351083-1787075430328-108351083-1787075375921-gettyimages-2289917471-HOME_DEPOT_EARNS.jpg?v=1787075441&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Momentum?",
+      "excerpt": "Discover why Amer Sports Inc (AS) is gaining bullish momentum with unique growth drivers in textiles and apparel. Is AS stock a buy now?",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 87,
+      "href": "/blog/as-news-impact-2026-11-05-2008.html",
+      "published_date": "2026-11-05",
+      "generated_at": "2026-11-05T20:08:53.363514+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476471-1793218471375-gettyimages-2301920703-POLYMARKET_MIDTERMS.jpeg?v=1793218518&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Smart Buy Amid Semiconductor Market Shifts?",
+      "excerpt": "Dive into ON Semiconductor's current market position, growth drivers, and risks to decide if ON stock is a compelling buy for semiconductor investors now.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 84,
+      "href": "/blog/on-news-impact-2026-11-05-2008.html",
+      "published_date": "2026-11-05",
+      "generated_at": "2026-11-05T20:08:53.363514+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108521823-17938340272026-11-04t221246z_711322182_rc28hoakh04y_rtrmadp_0_usa-stocks.jpeg?v=1793834118&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in Today's Market?",
+      "excerpt": "Explore why Alexandria Real Estate Equities (ARE) is a compelling buy amid market volatility. Our detailed stock analysis covers valuation, industry outlook, risks, and investor insights.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 30,
+      "href": "/blog/are-news-impact-2026-11-05-2008.html",
+      "published_date": "2026-11-05",
+      "generated_at": "2026-11-05T20:08:53.363514+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108420538-1792169037349-gettyimages-2299938321-CITY_THERAPEUTICS_IPO.jpeg?v=1792169059&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation (AN) Stock Analysis: Is Now the Right Time to Buy?",
+      "excerpt": "Explore AutoNation's current market position and outlook in this comprehensive AN stock analysis. Assess the risks and opportunities before making your investment move.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 24,
+      "href": "/blog/an-news-impact-2026-11-05-2008.html",
+      "published_date": "2026-11-05",
+      "generated_at": "2026-11-05T20:08:53.363514+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108505949-1793653031813-gettyimages-2302562400-Las_Vegas_Raiders_v_New_York_Jets_-_NFL_2026.jpeg?v=1793653121&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai, Inc. (AI) Stock Analysis: Is This AI Powerhouse a Buy Amid Mixed Market Signals?",
+      "excerpt": "Explore C3.ai's current valuation, market position, and risks as investors debate if AI's future justifies buying AI stock at $11.37 today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/ai-news-impact-2026-11-05-2008.html",
+      "published_date": "2026-11-05",
+      "generated_at": "2026-11-05T20:08:53.363514+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108526068-1793889632169-gettyimages-2270855893-IMF_WORLD_BANK.jpeg?v=1793889686&w=1920&h=1080"
+    },
     {
       "ticker": "POST",
       "title": "POST Stock Analysis: Is Post Holdings, Inc. a Smart Buy in 2026?",
@@ -42815,5 +42887,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-04T20:52:01.584313+00:00"
+  "market_data_as_of": "2026-11-05T20:08:53.363514+00:00"
 }

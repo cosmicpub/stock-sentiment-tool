@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-05T21:08:31.369038+00:00",
+  "generated_at": "2026-11-06T19:35:02.487353+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy in an Evolving Insurance Landscape?",
+      "excerpt": "Discover why Health In Tech Inc (HIT) stock shows bullish potential despite industry challenges. Our detailed analysis covers market outlook, valuation, and risks for investors.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 21,
+      "href": "/blog/hit-news-impact-2026-11-06-1935.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T19:35:02.487353+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/101914169-Cute-dork.jpg?v=1532564437&w=1920&h=1080"
+    },
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corporation (NEXT) Stock Analysis: Is NEXT a Buy Amid Energy Sector Challenges?",
+      "excerpt": "Explore our detailed NextDecade stock forecast. We break down the energy firm\u2019s prospects, risks, and where NEXT stands in today\u2019s volatile market.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 21,
+      "href": "/blog/next-news-impact-2026-11-06-1935.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T19:35:02.487353+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc. (OUT) Stock Analysis: Is OUT a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Explore our comprehensive OUTFRONT Media stock analysis, uncovering real estate trends, valuation insights, and what investors should consider for 2026 and beyond.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/out-news-impact-2026-11-06-1935.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T19:35:02.487353+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250562-17679748452026-01-09t145623z_1194533702_rc2qxiat7k2o_rtrmadp_0_usa-trump.jpeg?v=1767974860&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Stability?",
+      "excerpt": "Discover an in-depth Byline Bancorp Inc stock analysis focusing on BY's current stability in banking, valuation insights, and key risks for investors in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/by-news-impact-2026-11-06-1935.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T19:35:02.487353+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis and Forecast: Is CAN a Buy in 2026?",
+      "excerpt": "Explore Canaan Inc's current valuation, industry challenges, and growth prospects in this comprehensive CAN stock analysis and forecast for 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/can-news-impact-2026-11-06-1935.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T19:35:02.487353+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "WAVE",
+      "title": "Eco Wave Power Global AB (WAVE) Stock Analysis: Is This Renewable Energy Play a Buy in 2026?",
+      "excerpt": "Explore Eco Wave Power Global AB's (WAVE) 2026 stock forecast as we dive into its growth potential amid global green energy trends and market dynamics.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/wave-news-impact-2026-11-06-1935.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T19:35:02.487353+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment in Textiles & Luxury Goods?",
@@ -42959,5 +43031,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-05T21:08:31.369038+00:00"
+  "market_data_as_of": "2026-11-06T19:35:02.487353+00:00"
 }

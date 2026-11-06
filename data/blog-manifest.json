@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-06T19:35:02.487353+00:00",
+  "generated_at": "2026-11-06T20:29:08.103993+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in the Leisure Products Sector?",
+      "excerpt": "Explore our detailed analysis of Here Group Ltd (HERE) stock, covering its current valuation, market sentiment, and growth prospects in the leisure products industry.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 15,
+      "href": "/blog/here-news-impact-2026-11-06-2029.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T20:29:08.103993+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/101914169-Cute-dork.jpg?v=1532564437&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sell-Off?",
+      "excerpt": "Explore ON Semiconductor Corp's current bullish stance despite chip sector sell-offs. Learn key drivers, risks, and whether ON shares fit your portfolio.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 79,
+      "href": "/blog/on-news-impact-2026-11-06-2029.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T20:29:08.103993+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108469374-1793113053396-gettyimages-2301777677-boivin-photoill261027_np1O1.jpeg?v=1793113123&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in Today\u2019s Textile & Apparel Market?",
+      "excerpt": "Explore Amer Sports Inc's bullish outlook, key financial metrics, and what investors should watch in the evolving textiles and luxury goods sector.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 76,
+      "href": "/blog/as-news-impact-2026-11-06-2029.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T20:29:08.103993+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Smart Buy in 2026?",
+      "excerpt": "Discover why Alexandria Real Estate Equities (ARE) is turning heads in the real estate sector with bullish momentum and what investors should consider now.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 52,
+      "href": "/blog/are-news-impact-2026-11-06-2029.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T20:29:08.103993+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation, Inc. (AN) Stock Analysis and Forecast: Is AN a Buy in Retail Sector?",
+      "excerpt": "Explore AutoNation's current valuation, retail sector positioning, and latest news to determine if AN stock is a smart buy as of November 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 33,
+      "href": "/blog/an-news-impact-2026-11-06-2029.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T20:29:08.103993+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Tech Leader a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore C3.ai's stock outlook as AI sector debates intensify. Our review covers valuation, market sentiment, risks, and key factors shaping AI's path forward.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 29,
+      "href": "/blog/ai-news-impact-2026-11-06-2029.html",
+      "published_date": "2026-11-06",
+      "generated_at": "2026-11-06T20:29:08.103993+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080"
+    },
     {
       "ticker": "HIT",
       "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy in an Evolving Insurance Landscape?",
@@ -43031,5 +43103,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-06T19:35:02.487353+00:00"
+  "market_data_as_of": "2026-11-06T20:29:08.103993+00:00"
 }

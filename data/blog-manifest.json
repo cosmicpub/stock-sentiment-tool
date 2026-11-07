@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-07T00:13:34.959677+00:00",
+  "generated_at": "2026-11-07T17:47:44.102800+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in the Utility Sector?",
+      "excerpt": "Explore a detailed Hawaiian Electric Industries stock analysis focusing on HE\u2019s valuation, industry position, and future outlook to determine if it's a buy.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 19,
+      "href": "/blog/he-news-impact-2026-11-07-1747.html",
+      "published_date": "2026-11-07",
+      "generated_at": "2026-11-07T17:47:44.102800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108527923-1793911472143-stills3.jpg?v=1793911532&w=1920&h=1080"
+    },
+    {
+      "ticker": "JOB",
+      "title": "GEE Group Inc (JOB) Stock Analysis 2026: Is JOB a Buy in Professional Services?",
+      "excerpt": "Explore GEE Group Inc's 2026 stock outlook amid a neutral market sentiment and evolving job market risks. Our deep dive covers valuation, risks, and potential.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 12,
+      "href": "/blog/job-news-impact-2026-11-07-1747.html",
+      "published_date": "2026-11-07",
+      "generated_at": "2026-11-07T17:47:44.102800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/101914169-Cute-dork.jpg?v=1532564437&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Smart Buy Now?",
+      "excerpt": "Discover why ON Semiconductor's bullish momentum, strong fundamentals, and semiconductor industry trends make it a compelling buy in 2026.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 88,
+      "href": "/blog/on-news-impact-2026-11-07-1747.html",
+      "published_date": "2026-11-07",
+      "generated_at": "2026-11-07T17:47:44.102800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200472-1677528554272-NUP_200782_00307.jpg?v=1785428018&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Apparel Sector?",
+      "excerpt": "Explore a detailed bullish forecast for Amer Sports Inc (AS) as it navigates rising opportunities in textiles and apparel. Discover risks, valuation, and outlook.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 88,
+      "href": "/blog/as-news-impact-2026-11-07-1747.html",
+      "published_date": "2026-11-07",
+      "generated_at": "2026-11-07T17:47:44.102800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108543294-1794056514224-AP26309477652355.jpg?v=1794056670&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore our detailed Alexandria Real Estate Equities stock analysis, uncovering growth drivers, risks, and whether ARE is a smart buy in today's real estate market.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 37,
+      "href": "/blog/are-news-impact-2026-11-07-1747.html",
+      "published_date": "2026-11-07",
+      "generated_at": "2026-11-07T17:47:44.102800+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation, Inc. (AN) Stock Analysis: Is This Retail Giant a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore AutoNation's latest performance, industry position, and risks in our comprehensive AN stock forecast to decide if it's a buy now.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 25,
+      "href": "/blog/an-news-impact-2026-11-07-1747.html",
+      "published_date": "2026-11-07",
+      "generated_at": "2026-11-07T17:47:44.102800+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108469374-1793113053396-gettyimages-2301777677-boivin-photoill261027_np1O1.jpeg?v=1793113123&w=1920&h=1080"
+    },
     {
       "ticker": "IT",
       "title": "Gartner, Inc. (IT) Stock Analysis: Neutral Sentiment Amid Evolving Tech Landscape",
@@ -43175,5 +43247,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-07T00:13:34.959677+00:00"
+  "market_data_as_of": "2026-11-07T17:47:44.102800+00:00"
 }

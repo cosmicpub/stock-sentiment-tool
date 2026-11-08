@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-07T17:47:44.102800+00:00",
+  "generated_at": "2026-11-08T17:59:15.684950+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bullish Sentiment in Apparel Sector?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis, examining the bullish case, valuation, risks, and market factors influencing AS shares today.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 100,
+      "href": "/blog/as-news-impact-2026-11-08-1759.html",
+      "published_date": "2026-11-08",
+      "generated_at": "2026-11-08T17:59:15.684950+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108330347-1783030838668-gettyimages-2283797997-JULY_4_TRAVEL.jpeg?v=1783031103&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Volatility?",
+      "excerpt": "Explore ON Semiconductor's latest performance, risks, and opportunities in this detailed stock analysis to decide if ON shares are a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 90,
+      "href": "/blog/on-news-impact-2026-11-08-1759.html",
+      "published_date": "2026-11-08",
+      "generated_at": "2026-11-08T17:59:15.684950+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108521820-17938340262026-11-04t221244z_1731985317_rc29hoal49t3_rtrmadp_0_usa-stocks.jpeg?v=1793834118&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is ARE a Buy in 2026?",
+      "excerpt": "Explore our comprehensive Alexandria Real Estate Equities stock analysis to see why ARE's bullish sentiment and strong real estate fundamentals make it a compelling buy.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 52,
+      "href": "/blog/are-news-impact-2026-11-08-1759.html",
+      "published_date": "2026-11-08",
+      "generated_at": "2026-11-08T17:59:15.684950+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corporation (NEXT) Stock Analysis: Is NEXT a Buy in Today's Energy Market?",
+      "excerpt": "Analyzing NextDecade Corporation's current $5.80 price in a neutral energy sector environment, exploring growth prospects, risks, and valuation insights for investors.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 36,
+      "href": "/blog/next-news-impact-2026-11-08-1759.html",
+      "published_date": "2026-11-08",
+      "generated_at": "2026-11-08T17:59:15.684950+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Pioneer a Buy in 2026?",
+      "excerpt": "Explore the latest C3.ai stock forecast and whether AI's current price offers a buying opportunity amid evolving AI sector dynamics in 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 24,
+      "href": "/blog/ai-news-impact-2026-11-08-1759.html",
+      "published_date": "2026-11-08",
+      "generated_at": "2026-11-08T17:59:15.684950+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108544587-1794070170749-gettyimages-1529862577-ALLEN__CO_2023.jpeg?v=1794070180&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner, Inc. (IT) Stock Analysis 2026: Is Now the Time to Buy?",
+      "excerpt": "Explore Gartner, Inc.'s 2026 stock forecast with our in-depth analysis covering valuation, growth potential, risks, and market sentiment to help you decide if IT is a buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/it-news-impact-2026-11-08-1759.html",
+      "published_date": "2026-11-08",
+      "generated_at": "2026-11-08T17:59:15.684950+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/101914169-Cute-dork.jpg?v=1532564437&w=1920&h=1080"
+    },
     {
       "ticker": "HE",
       "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in the Utility Sector?",
@@ -43247,5 +43319,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-07T17:47:44.102800+00:00"
+  "market_data_as_of": "2026-11-08T17:59:15.684950+00:00"
 }

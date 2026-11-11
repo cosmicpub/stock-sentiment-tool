@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-10T20:55:44.924002+00:00",
+  "generated_at": "2026-11-11T19:45:06.721849+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis and Forecast: Is BY a Buy in 2026?",
+      "excerpt": "Explore a detailed Byline Bancorp Inc (BY) stock analysis focusing on current valuations, growth prospects, and risks shaping its 2026 outlook for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/by-news-impact-2026-11-11-1945.html",
+      "published_date": "2026-11-11",
+      "generated_at": "2026-11-11T19:45:06.721849+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Buy in Real Estate Sector?",
+      "excerpt": "Explore Ucommune International Ltd's latest stock outlook in real estate. We dive into its financial snapshot, risks, and opportunities for 2026 investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-11-11-1945.html",
+      "published_date": "2026-11-11",
+      "generated_at": "2026-11-11T19:45:06.721849+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "COST",
+      "title": "Costco Wholesale Corp (COST) Stock Analysis 2026: Is COST a Buy Amid Retail Challenges?",
+      "excerpt": "Explore our detailed Costco stock analysis for 2026, weighing current retail trends, valuation, and risks to decide if COST is a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/cost-news-impact-2026-11-11-1945.html",
+      "published_date": "2026-11-11",
+      "generated_at": "2026-11-11T19:45:06.721849+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108169600-1752074893642-gettyimages-2209442815-l1052839_ux0og2eg.jpeg?v=1794337701&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis & Forecast: Is AS a Buy Amid Bearish Pressures?",
+      "excerpt": "Explore the latest Amer Sports Inc stock analysis, evaluating bearish trends and potential risks in the Textiles & Apparel sector. Is AS a buy right now?",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 103,
+      "href": "/blog/as-news-impact-2026-11-11-1945.html",
+      "published_date": "2026-11-11",
+      "generated_at": "2026-11-11T19:45:06.721849+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108048711-1729110725847-gettyimages-2178767822-dsc_1410_2z6whipv.jpeg?v=1729110830&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Buy Amid Neutral Sentiment?",
+      "excerpt": "ON Semiconductor's stock trades at $73.84 with a neutral market mood. Dive into our detailed ON stock forecast covering industry context, financial health, and growth prospects.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 57,
+      "href": "/blog/on-news-impact-2026-11-11-1945.html",
+      "published_date": "2026-11-11",
+      "generated_at": "2026-11-11T19:45:06.721849+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108534973-1794000964775-gettyimages-1417606805-office_1792.jpeg?v=1794001055&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Today\u2019s Financial Sector?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) latest stock outlook, key financials, and market positioning to determine if it merits a spot in your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 35,
+      "href": "/blog/say-news-impact-2026-11-11-1945.html",
+      "published_date": "2026-11-11",
+      "generated_at": "2026-11-11T19:45:06.721849+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Textiles Sector Headwinds?",
@@ -43607,5 +43679,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-10T20:55:44.924002+00:00"
+  "market_data_as_of": "2026-11-11T19:45:06.721849+00:00"
 }

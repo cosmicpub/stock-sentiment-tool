@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-12T20:12:10.562480+00:00",
+  "generated_at": "2026-11-12T21:30:48.421485+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AN",
+      "title": "AutoNation, Inc. (AN) Stock Analysis: Is Now the Time to Buy in the Retail Automotive Sector?",
+      "excerpt": "Explore AutoNation, Inc.'s recent performance, market drivers, and key risks as we assess if AN stock is a buy for investors in automotive retail.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 38,
+      "href": "/blog/an-news-impact-2026-11-12-2130.html",
+      "published_date": "2026-11-12",
+      "generated_at": "2026-11-12T21:30:48.421485+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108354100-1787685448125-gettyimages-2291484368-UNITED_NEWARK.jpeg?v=1794514770&w=1920&h=1080"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro, Inc. (HAS) Stock Analysis and Forecast: Is HAS a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Hasbro's stock potential in the leisure products sector with our detailed analysis, including risks, opportunities, and latest market moves for HAS.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/has-news-impact-2026-11-12-2130.html",
+      "published_date": "2026-11-12",
+      "generated_at": "2026-11-12T21:30:48.421485+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108354002-1787676068167-gettyimages-2266718345-NVIDIA_GTC.jpeg?v=1787676090&w=1920&h=1080"
+    },
+    {
+      "ticker": "BE",
+      "title": "Bloom Energy Corporation (BE) Stock Analysis: Is BE a Buy Amid Market Neutral Sentiment?",
+      "excerpt": "Explore our detailed Bloom Energy (BE) stock analysis covering its growth potential, risks, valuation and what savvy investors should watch in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/be-news-impact-2026-11-12-2130.html",
+      "published_date": "2026-11-12",
+      "generated_at": "2026-11-12T21:30:48.421485+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108546366-17942337332026-11-09t135831z_19412827_rc2h6oaxcoox_rtrmadp_0_nvidia-probe-ceo.jpeg?v=1794233751&w=1920&h=1080"
+    },
+    {
+      "ticker": "HERE",
+      "title": "Here Group Ltd (HERE) Stock Analysis: Is HERE a Buy in the Leisure Products Sector?",
+      "excerpt": "Explore our detailed HERE stock analysis and forecast as of November 2026. We assess growth drivers, valuation, risks, and whether HERE shares are worth buying now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/here-news-impact-2026-11-12-2130.html",
+      "published_date": "2026-11-12",
+      "generated_at": "2026-11-12T21:30:48.421485+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108354637-1787762835529-gettyimages-2291592494-2026_aug_26_nvidia_0227.jpeg?v=1787762914&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAFE",
+      "title": "Safehold Inc (SAFE) Stock Analysis and Forecast: Is SAFE a Buy in Today\u2019s Real Estate Market?",
+      "excerpt": "Discover the latest Safehold Inc (SAFE) stock analysis, valuation insights, and risks investors should watch before deciding if SAFE is a buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 19,
+      "href": "/blog/safe-news-impact-2026-11-12-2130.html",
+      "published_date": "2026-11-12",
+      "generated_at": "2026-11-12T21:30:48.421485+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108475900-1793210777260-gettyimages-2301902296-AFP_D4QB9TF.jpeg?v=1793210805&w=1920&h=1080"
+    },
+    {
+      "ticker": "YOU",
+      "title": "CLEAR Secure, Inc. (YOU) Stock Analysis: Is YOU a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore CLEAR Secure, Inc. (YOU) stock analysis, its current neutral market sentiment, and whether it offers a compelling investment opportunity now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/you-news-impact-2026-11-12-2130.html",
+      "published_date": "2026-11-12",
+      "generated_at": "2026-11-12T21:30:48.421485+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Sector Contender a Buy Amid Bearish Sentiment?",
@@ -43811,5 +43883,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-12T20:12:10.562480+00:00"
+  "market_data_as_of": "2026-11-12T21:30:48.421485+00:00"
 }

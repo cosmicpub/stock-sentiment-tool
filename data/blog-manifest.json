@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-13T19:54:24.400194+00:00",
+  "generated_at": "2026-11-13T20:56:12.133929+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AI",
+      "title": "C3.ai, Inc. (AI) Stock Analysis: Is This AI-Powered Tech Stock a Buy in 2026?",
+      "excerpt": "Explore our detailed C3.ai stock analysis and forecast, evaluating AI sector momentum and whether AI is poised for growth or facing headwinds.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 24,
+      "href": "/blog/ai-news-impact-2026-11-13-2056.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T20:56:12.133929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108264683-1770843445357-gettyimages-2256809517-DAVOS_WEF_2026.jpeg?v=1770843513&w=1920&h=1080"
+    },
+    {
+      "ticker": "HE",
+      "title": "Hawaiian Electric Industries (HE) Stock Analysis: Is HE a Buy in Today\u2019s Utility Landscape?",
+      "excerpt": "Explore our in-depth analysis of Hawaiian Electric Industries (HE) to determine if this utility stock aligns with your investment goals in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/he-news-impact-2026-11-13-2056.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T20:56:12.133929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108534078-1793991219956-gettyimages-2303340203-HASSETT_WH.jpeg?v=1793991243&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Growth?",
+      "excerpt": "A detailed ON Semiconductor stock analysis assessing current valuation, sector trends, risks, and growth outlook to answer: Is ON a buy today?",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 122,
+      "href": "/blog/on-news-impact-2026-11-13-2056.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T20:56:12.133929+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's bearish outlook, key risks, and valuation insights in this comprehensive AS stock analysis for potential investors.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 72,
+      "href": "/blog/as-news-impact-2026-11-13-2056.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T20:56:12.133929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108352141-1787234422466-gettyimages-2290645718-CFTC_INTERVIEWS.jpeg?v=1787234506&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation, Inc. (AN) Stock Analysis: Is Now the Time to Buy in Retail Auto Sector?",
+      "excerpt": "Explore AutoNation\u2019s current valuation, industry position, and key risks to decide if AN stock offers a compelling investment amid neutral market sentiment.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 42,
+      "href": "/blog/an-news-impact-2026-11-13-2056.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T20:56:12.133929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108550259-1794502898323-gettyimages-2304263505-US_STOCKS.jpeg?v=1794502956&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Is Saratoga Investment Corp a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Saratoga Investment Corp's (SAY) financial health, market position, and risks in this detailed stock analysis to decide if SAY should be in your portfolio.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 39,
+      "href": "/blog/say-news-impact-2026-11-13-2056.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T20:56:12.133929+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549916-1794487528395-gettyimages-2212776462-_d1_0371_ey3o2xbd.jpeg?v=1794510352&w=1920&h=1080"
+    },
     {
       "ticker": "SOME",
       "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is NOW the Time to Buy Banking Shares?",
@@ -43955,5 +44027,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-13T19:54:24.400194+00:00"
+  "market_data_as_of": "2026-11-13T20:56:12.133929+00:00"
 }

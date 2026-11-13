@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-12T21:30:48.421485+00:00",
+  "generated_at": "2026-11-13T19:54:24.400194+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is NOW the Time to Buy Banking Shares?",
+      "excerpt": "Explore Somerset Trust Holding Co's recent performance, industry outlook, and key risks in our detailed SOME stock analysis and forecast for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 21,
+      "href": "/blog/some-news-impact-2026-11-13-1954.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T19:54:24.400194+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108403630-1791903580205-261013_MENOPAUSE_DEMOTIONS.png?v=1791903790&w=1920&h=1080"
+    },
+    {
+      "ticker": "FOUR",
+      "title": "Shift4 Payments (FOUR) Stock Analysis: Is FOUR a Buy in Financial Services?",
+      "excerpt": "Explore Shift4 Payments' latest stock analysis, including valuation, market position, and growth prospects to decide if FOUR is a buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 18,
+      "href": "/blog/four-news-impact-2026-11-13-1954.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T19:54:24.400194+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108534973-1794000964775-gettyimages-1417606805-office_1792.jpeg?v=1794001055&w=1920&h=1080"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is This Tech Microcap a Buy at $0.15?",
+      "excerpt": "Explore Canaan Inc's latest stock outlook amid its $0.15 price, analyzing growth potential, risks, and whether it's a viable technology sector investment now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 17,
+      "href": "/blog/can-news-impact-2026-11-13-1954.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T19:54:24.400194+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis and Forecast: Is ON a Buy in 2026?",
+      "excerpt": "Explore ON Semiconductor's latest stock outlook, risks, and growth prospects in the semiconductors industry. Find out if ON stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 118,
+      "href": "/blog/on-news-impact-2026-11-13-1954.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T19:54:24.400194+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108464118-1793020988109-gettyimages-2270257429-MORGAN_STANLEY_EARNS.jpeg?v=1793021013&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Sell Amid Bearish Sentiment?",
+      "excerpt": "Amer Sports Inc faces headwinds in textiles and apparel with bearish sentiment weighing on AS stock. Explore the risks and outlook in this detailed analysis.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 76,
+      "href": "/blog/as-news-impact-2026-11-13-1954.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T19:54:24.400194+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108352141-1787234422466-gettyimages-2290645718-CFTC_INTERVIEWS.jpeg?v=1787234506&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation, Inc. (AN) Stock Analysis: Is Now the Time to Buy Retail Giant AutoNation?",
+      "excerpt": "AutoNation (AN) trades at $178 amid neutral sentiment. We dissect earnings risks, competitive landscape, and valuation to determine if AN is a compelling buy now.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 42,
+      "href": "/blog/an-news-impact-2026-11-13-1954.html",
+      "published_date": "2026-11-13",
+      "generated_at": "2026-11-13T19:54:24.400194+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108550259-1794502898323-gettyimages-2304263505-US_STOCKS.jpeg?v=1794502956&w=1920&h=1080"
+    },
     {
       "ticker": "AN",
       "title": "AutoNation, Inc. (AN) Stock Analysis: Is Now the Time to Buy in the Retail Automotive Sector?",
@@ -43883,5 +43955,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-12T21:30:48.421485+00:00"
+  "market_data_as_of": "2026-11-13T19:54:24.400194+00:00"
 }

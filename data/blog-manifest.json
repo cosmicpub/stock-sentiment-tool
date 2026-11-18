@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-17T22:30:39.540672+00:00",
+  "generated_at": "2026-11-18T20:45:36.200238+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "EU",
+      "title": "enCore Energy Corp (EU) Stock Analysis 2026: Is EU a Buy Amid Rising Uranium Demand?",
+      "excerpt": "Explore why enCore Energy Corp (EU) is gaining bullish momentum in 2026 with strong uranium market drivers, key risks, and investment insights.",
+      "sentiment": "Bullish",
+      "score": 4,
+      "impact_score": 19,
+      "href": "/blog/eu-news-impact-2026-11-18-2045.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T20:45:36.200238+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis 2026: Is This Tech Underdog a Buy Now?",
+      "excerpt": "Explore Canaan Inc's latest stock performance and tech sector role. This detailed analysis covers risks, opportunities, and whether CAN stock is a worthwhile buy.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 19,
+      "href": "/blog/can-news-impact-2026-11-18-2045.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T20:45:36.200238+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108447197-1792682617949-gettyimages-2301325199-3h4a6821_7uqxvgux.jpeg?v=1792682661&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Play a Buy in 2026?",
+      "excerpt": "Explore Ucommune International Ltd's 2026 outlook amid rising UK inflation and real estate shifts. Discover if UK stock is poised for growth or risk.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/uk-news-impact-2026-11-18-2045.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T20:45:36.200238+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Neutral Sentiment with Steady Semiconductor Growth Potential",
+      "excerpt": "ON Semiconductor Corp (ON) shows a steady outlook in the semiconductor sector amid mixed market signals. Explore our detailed stock analysis and forecast.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 100,
+      "href": "/blog/on-news-impact-2026-11-18-2045.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T20:45:36.200238+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476200-1793214642067-gettyimages-2301908904-AFP_D4QJ6NG.jpeg?v=1793214690&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy in Textiles and Apparel?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis for 2026, examining its market position, risks, valuation, and whether AS is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 59,
+      "href": "/blog/as-news-impact-2026-11-18-2045.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T20:45:36.200238+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108415077-1792082548621-gettyimages-2298322115-dsc0251_costco01_10022026.jpeg?v=1792082596&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI Tech Powerhouse a Buy Amid Industry Shifts?",
+      "excerpt": "Explore a detailed C3.ai stock forecast as AI sector buzz grows. We break down AI's growth potential, risks, and whether AI stock is a smart buy today.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 57,
+      "href": "/blog/ai-news-impact-2026-11-18-2045.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T20:45:36.200238+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "FIVE",
       "title": "Five Below (FIVE) Stock Analysis: Is This Retailer a Buy Amid Bearish Sentiment?",
@@ -44459,5 +44531,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-17T22:30:39.540672+00:00"
+  "market_data_as_of": "2026-11-18T20:45:36.200238+00:00"
 }

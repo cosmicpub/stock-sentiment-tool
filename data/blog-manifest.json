@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-18T20:45:36.200238+00:00",
+  "generated_at": "2026-11-18T22:11:19.779272+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy Amid Banking Sector Neutral Sentiment?",
+      "excerpt": "Explore a detailed BY stock analysis covering valuation, risks, and outlook to help investors decide if Byline Bancorp is a buy right now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/by-news-impact-2026-11-18-2211.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T22:11:19.779272+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108554182-1795013717847-Final_inspection.jpg?v=1795014061&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Solid Buy in Financial Services?",
+      "excerpt": "Explore Saratoga Investment Corp's stock forecast, key risks, valuation insights, and market outlook to decide if SAY is a prudent buy in today's financial sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/say-news-impact-2026-11-18-2211.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T22:11:19.779272+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108553837-1794981304825-gettyimages-2190430158-l1490945.jpeg?v=1794981344&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Sector Headwinds?",
+      "excerpt": "Discover an in-depth ON Semiconductor stock analysis exploring valuation, industry challenges, and growth prospects to determine if ON is a buy today.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 99,
+      "href": "/blog/on-news-impact-2026-11-18-2211.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T22:11:19.779272+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476200-1793214642067-gettyimages-2301908904-AFP_D4QJ6NG.jpeg?v=1793214690&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Amer Sports Inc (AS) stock forecast with a neutral market outlook, industry insights, valuation cues, and risk factors investors need to watch.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 59,
+      "href": "/blog/as-news-impact-2026-11-18-2211.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T22:11:19.779272+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108415077-1792082548621-gettyimages-2298322115-dsc0251_costco01_10022026.jpeg?v=1792082596&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis and Forecast: Is AI a Buy at $10?",
+      "excerpt": "Explore C3.ai's bullish outlook amid AI sector shifts, Fed policy impacts, and competitive pressures. Is AI stock a strategic buy right now?",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 53,
+      "href": "/blog/ai-news-impact-2026-11-18-2211.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T22:11:19.779272+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner, Inc. (IT) Stock Analysis 2026: Is This Technology Leader a Buy Now?",
+      "excerpt": "Explore Gartner's latest stock performance, market positioning, and key factors shaping its outlook in 2026. Discover if IT stock is worth your investment.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 32,
+      "href": "/blog/it-news-impact-2026-11-18-2211.html",
+      "published_date": "2026-11-18",
+      "generated_at": "2026-11-18T22:11:19.779272+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "EU",
       "title": "enCore Energy Corp (EU) Stock Analysis 2026: Is EU a Buy Amid Rising Uranium Demand?",
@@ -44531,5 +44603,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-18T20:45:36.200238+00:00"
+  "market_data_as_of": "2026-11-18T22:11:19.779272+00:00"
 }

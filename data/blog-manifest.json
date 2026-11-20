@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-19T22:20:13.556190+00:00",
+  "generated_at": "2026-11-20T20:35:31.862592+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corporation (TECH) Stock Analysis and Forecast: Is TECH a Buy in 2026?",
+      "excerpt": "Explore Bio-Techne (TECH) stock analysis: market influences, industry positioning, risks, and expert views shaping its 2026 outlook and investment potential.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/tech-news-impact-2026-11-20-2035.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T20:35:31.862592+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476687-1793279712869-108476687-1793220441401-gettyimages-2286485901-ALPHABET_EARNS.jpg?v=1793279719&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is THIS Banking Stock a Buy in 2026?",
+      "excerpt": "Explore Somerset Trust Holding Co's 2026 outlook, key financial metrics, and risks shaping investor decisions. Is SOME stock a buy or hold?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 15,
+      "href": "/blog/some-news-impact-2026-11-20-2035.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T20:35:31.862592+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107214198-16795930042023-03-23t060022z_1657066164_rc28su90is2e_rtrmadp_0_sanofi-fr-regeneron-pharms-dupixent.jpeg?v=1715634692&w=1920&h=1080"
+    },
+    {
+      "ticker": "WAY",
+      "title": "Waystar Holding Corp. (WAY) Stock Analysis: Is WAY a Buy in Health Care Sector?",
+      "excerpt": "Discover our latest analysis on Waystar Holding Corp. (WAY), assessing its valuation, competitive stance, and growth prospects to decide if it's a buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/way-news-impact-2026-11-20-2035.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T20:35:31.862592+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is It Time to Avoid This Textiles Sector Bear?",
+      "excerpt": "Read our latest bearish stock analysis on Amer Sports Inc (AS) with deep dives into valuation, risks, and market outlook in the textiles and apparel industry.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 103,
+      "href": "/blog/as-news-impact-2026-11-20-2035.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T20:35:31.862592+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108239973-1765389300025-gettyimages-2190839566-mage23345.jpeg?v=1795028489&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is This Semiconductor Buy Worth Considering in 2026?",
+      "excerpt": "Explore ON Semiconductor's current standing with an in-depth look at its growth potential, risks in the semiconductor industry, and what investors should watch in 2026.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 83,
+      "href": "/blog/on-news-impact-2026-11-20-2035.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T20:35:31.862592+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai, Inc. (AI) Stock Analysis: Is AI a Buy Amidst the Intensifying AI Market Shakeout?",
+      "excerpt": "Explore C3.ai's latest market position, growth prospects, and risks in this detailed AI stock forecast as the AI industry faces a volatile turn in late 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 44,
+      "href": "/blog/ai-news-impact-2026-11-20-2035.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T20:35:31.862592+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BE",
       "title": "Bloom Energy Corporation (BE) Stock Analysis 2026: Is Now the Time to Buy?",
@@ -44747,5 +44819,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-19T22:20:13.556190+00:00"
+  "market_data_as_of": "2026-11-20T20:35:31.862592+00:00"
 }

@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-20T20:35:31.862592+00:00",
+  "generated_at": "2026-11-20T21:54:03.672686+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in a Bearish Textile Market?",
+      "excerpt": "Explore Amer Sports Inc's recent bearish sentiment, price action at $28.27, and what investors should consider before buying in the textiles sector.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 103,
+      "href": "/blog/as-news-impact-2026-11-20-2154.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T21:54:03.672686+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108239973-1765389300025-gettyimages-2190839566-mage23345.jpeg?v=1795028489&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy in the Evolving Semiconductor Market?",
+      "excerpt": "Explore ON Semiconductor's latest stock analysis, industry positioning, risks, and opportunities amid neutral sentiment in a shifting semiconductor landscape.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 78,
+      "href": "/blog/on-news-impact-2026-11-20-2154.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T21:54:03.672686+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis November 2026: Is This Cloud AI Play Ready to Rally?",
+      "excerpt": "Explore our November 2026 C3.ai stock analysis uncovering bullish signals, AI sector dynamics, and potential risks for this tech innovator at $9.13.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 44,
+      "href": "/blog/ai-news-impact-2026-11-20-2154.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T21:54:03.672686+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476687-1793279712869-108476687-1793220441401-gettyimages-2286485901-ALPHABET_EARNS.jpg?v=1793279719&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner, Inc. (IT) Stock Analysis: Bearish Sentiment Persists Amid Tech Sector Headwinds",
+      "excerpt": "Gartner's (IT) stock faces bearish pressure on valuation concerns and market headwinds in technology. We analyze the risks, outlook, and whether IT remains a compelling buy.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 42,
+      "href": "/blog/it-news-impact-2026-11-20-2154.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T21:54:03.672686+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation, Inc. (AN) Stock Analysis: Is This Retail Giant a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore AutoNation's current market stance, growth prospects, and risks in our comprehensive AN stock forecast to determine if it's a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/an-news-impact-2026-11-20-2154.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T21:54:03.672686+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "TECH",
+      "title": "Bio-Techne Corporation (TECH) Stock Analysis 2026: Is TECH a Buy Amid Market Uncertainty?",
+      "excerpt": "Explore Bio-Techne Corporation's (TECH) 2026 outlook amidst AI tech sector shifts and geopolitical tensions. Is TECH positioned for growth or facing risks?",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 23,
+      "href": "/blog/tech-news-impact-2026-11-20-2154.html",
+      "published_date": "2026-11-20",
+      "generated_at": "2026-11-20T21:54:03.672686+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "TECH",
       "title": "Bio-Techne Corporation (TECH) Stock Analysis and Forecast: Is TECH a Buy in 2026?",
@@ -44819,5 +44891,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-20T20:35:31.862592+00:00"
+  "market_data_as_of": "2026-11-20T21:54:03.672686+00:00"
 }

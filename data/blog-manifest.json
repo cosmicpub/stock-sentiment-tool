@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-20T21:54:03.672686+00:00",
+  "generated_at": "2026-11-21T19:34:47.619736+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis 2026: Is This Real Estate Play a Buy?",
+      "excerpt": "Explore Ucommune International Ltd's latest stock analysis and forecast for 2026. We break down key drivers, risks, valuation, and investor insights for UK shares.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 36,
+      "href": "/blog/uk-news-impact-2026-11-21-1934.html",
+      "published_date": "2026-11-21",
+      "generated_at": "2026-11-21T19:34:47.619736+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis: Is CAN a Buy in Today\u2019s Tech Landscape?",
+      "excerpt": "Explore Canaan Inc's current position and outlook in the competitive technology sector. Our detailed CAN stock analysis helps investors weigh risks and opportunities.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 23,
+      "href": "/blog/can-news-impact-2026-11-21-1934.html",
+      "published_date": "2026-11-21",
+      "generated_at": "2026-11-21T19:34:47.619736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&w=1920&h=1080"
+    },
+    {
+      "ticker": "NEXT",
+      "title": "NextDecade Corporation (NEXT) Stock Analysis: Is NEXT a Buy Amid Energy Market Shifts?",
+      "excerpt": "Explore NextDecade Corporation's (NEXT) outlook with key insights on energy trends, valuations, and risks. Is NEXT stock a buy in today's market?",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 15,
+      "href": "/blog/next-news-impact-2026-11-21-1934.html",
+      "published_date": "2026-11-21",
+      "generated_at": "2026-11-21T19:34:47.619736+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Semiconductor Industry Growth?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, key growth drivers, valuation, and risks in this detailed stock analysis to decide if ON shares are worth your investment.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 81,
+      "href": "/blog/on-news-impact-2026-11-21-1934.html",
+      "published_date": "2026-11-21",
+      "generated_at": "2026-11-21T19:34:47.619736+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Sell or Hold?",
+      "excerpt": "Explore Amer Sports Inc's bearish sentiment amid industry challenges, valuation concerns, and market headwinds in this comprehensive AS stock forecast.",
+      "sentiment": "Bearish",
+      "score": -3,
+      "impact_score": 75,
+      "href": "/blog/as-news-impact-2026-11-21-1934.html",
+      "published_date": "2026-11-21",
+      "generated_at": "2026-11-21T19:34:47.619736+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108239973-1765389300025-gettyimages-2190839566-mage23345.jpeg?v=1795028489&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is UK a Smart Buy in Real Estate Sector?",
+      "excerpt": "Explore a bullish outlook on Ucommune International Ltd (UK) stock, assessing growth potential, valuation, and risks in the evolving real estate market.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 36,
+      "href": "/blog/uk-news-impact-2026-11-21-1934.html",
+      "published_date": "2026-11-21",
+      "generated_at": "2026-11-21T19:34:47.619736+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in a Bearish Textile Market?",
@@ -44891,5 +44963,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-20T21:54:03.672686+00:00"
+  "market_data_as_of": "2026-11-21T19:34:47.619736+00:00"
 }

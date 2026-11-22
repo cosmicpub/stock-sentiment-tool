@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-21T19:34:47.619736+00:00",
+  "generated_at": "2026-11-22T19:52:56.571796+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "BACK",
+      "title": "IMAC Holdings Inc (BACK) Stock Analysis 2026: Is BACK a Buy in the Biotechnology Sector?",
+      "excerpt": "Explore our detailed IMAC Holdings Inc stock analysis. Understand BACK's current valuation, industry position, and why it may attract cautious biotech investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/back-news-impact-2026-11-22-1952.html",
+      "published_date": "2026-11-22",
+      "generated_at": "2026-11-22T19:52:56.571796+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "SAY",
+      "title": "SAY Stock Analysis: Is Saratoga Investment Corp a Buy in Today\u2019s Financial Landscape?",
+      "excerpt": "Explore Saratoga Investment Corp (SAY) stock forecast with this in-depth analysis highlighting risks, valuation, and strategic outlook for potential investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/say-news-impact-2026-11-22-1952.html",
+      "published_date": "2026-11-22",
+      "generated_at": "2026-11-22T19:52:56.571796+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108528287-1793915091143-gettyimages-2295079211-China_Manufacturing_Industry.jpeg?v=1794005313&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textile Industry Name a Buy Amid Bearish Sentiment?",
+      "excerpt": "Amer Sports Inc (AS) faces bearish market conditions. We analyze key challenges and opportunities to help investors decide if this textile stock is a buy right now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 92,
+      "href": "/blog/as-news-impact-2026-11-22-1952.html",
+      "published_date": "2026-11-22",
+      "generated_at": "2026-11-22T19:52:56.571796+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's bullish outlook, key risks, valuation insights, and whether ON stock is a smart buy in the semiconductor sector today.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 78,
+      "href": "/blog/on-news-impact-2026-11-22-1952.html",
+      "published_date": "2026-11-22",
+      "generated_at": "2026-11-22T19:52:56.571796+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108553366-1794942971028-Screenshots00_01_01_00Still012.png?v=1794944217&w=1920&h=1080"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner, Inc. (IT) Stock Analysis: Is the Bearish Sentiment Justified in 2026?",
+      "excerpt": "Explore Gartner, Inc.'s current bearish market sentiment, recent performance, and whether its 2026 stock price at $174.49 offers a prudent investment opportunity.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 45,
+      "href": "/blog/it-news-impact-2026-11-22-1952.html",
+      "published_date": "2026-11-22",
+      "generated_at": "2026-11-22T19:52:56.571796+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai, Inc. (AI) Stock Analysis: Is AI a Buy Amid Sector Turbulence?",
+      "excerpt": "Explore our deep dive into C3.ai stock, examining its bullish momentum, AI sector challenges, and whether AI shares present a buying opportunity now.",
+      "sentiment": "Bullish",
+      "score": 6,
+      "impact_score": 39,
+      "href": "/blog/ai-news-impact-2026-11-22-1952.html",
+      "published_date": "2026-11-22",
+      "generated_at": "2026-11-22T19:52:56.571796+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476687-1793279712869-108476687-1793220441401-gettyimages-2286485901-ALPHABET_EARNS.jpg?v=1793279719&w=1920&h=1080"
+    },
     {
       "ticker": "UK",
       "title": "Ucommune International Ltd (UK) Stock Analysis 2026: Is This Real Estate Play a Buy?",
@@ -44963,5 +45035,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-21T19:34:47.619736+00:00"
+  "market_data_as_of": "2026-11-22T19:52:56.571796+00:00"
 }

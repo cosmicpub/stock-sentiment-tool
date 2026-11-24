@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-24T00:08:06.672054+00:00",
+  "generated_at": "2026-11-24T01:45:44.732801+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Strong Buy in Textiles & Apparel Sector?",
+      "excerpt": "Discover a detailed Amer Sports Inc stock analysis highlighting bullish sentiment, growth drivers, risks, and whether AS stock is a buy today.",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 86,
+      "href": "/blog/as-news-impact-2026-11-24-0145.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T01:45:44.732801+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549916-1794487528395-gettyimages-2212776462-_d1_0371_ey3o2xbd.jpeg?v=1795450267&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Semiconductor Trends?",
+      "excerpt": "Explore ON Semiconductor's latest stock forecast with a detailed analysis of growth drivers, valuation insights, and key risks shaping its bullish outlook in 2026.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 74,
+      "href": "/blog/on-news-impact-2026-11-24-0145.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T01:45:44.732801+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108557780-1795465600170-Screenshot_2026-11-23_at_32208_PM.png?v=1795465622&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Sector?",
+      "excerpt": "Explore our comprehensive BY stock analysis covering valuation, growth prospects, risks, and competitive stance to decide if Byline Bancorp is a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 46,
+      "href": "/blog/by-news-impact-2026-11-24-0145.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T01:45:44.732801+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai, Inc. (AI) Stock Analysis: Is This AI Innovator a Buy at $9.96?",
+      "excerpt": "Explore C3.ai's current valuation, competitive landscape, and growth prospects amid a mixed AI sector, to determine if AI stock is a smart buy now.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 43,
+      "href": "/blog/ai-news-impact-2026-11-24-0145.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T01:45:44.732801+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108220696-1762191413398-Q-OB-Photo-20251103-CC-PRESS-31.jpg?v=1762191680&w=1920&h=1080"
+    },
+    {
+      "ticker": "AN",
+      "title": "AutoNation, Inc. (AN) Stock Analysis: Is AN a Buy Amidst Market Uncertainty?",
+      "excerpt": "Explore AutoNation's current valuation, industry position, and risks in our comprehensive AN stock analysis to determine if it's a smart buy in 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 29,
+      "href": "/blog/an-news-impact-2026-11-24-0145.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T01:45:44.732801+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "IT",
+      "title": "Gartner, Inc. (IT) Stock Analysis 2026: Is This Tech Giant a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Gartner, Inc.'s latest stock analysis, valuation insights, growth prospects, and risks to determine if its current price presents a buying opportunity.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 27,
+      "href": "/blog/it-news-impact-2026-11-24-0145.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T01:45:44.732801+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108557320-1795437543594-gettyimages-2306451809-vcg111684299096.jpeg?v=1795437565&w=1920&h=1080"
+    },
     {
       "ticker": "ARE",
       "title": "Alexandria Real Estate Equities (ARE) Stock Analysis and Buy Forecast for 2026",
@@ -45107,5 +45179,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-24T00:08:06.672054+00:00"
+  "market_data_as_of": "2026-11-24T01:45:44.732801+00:00"
 }

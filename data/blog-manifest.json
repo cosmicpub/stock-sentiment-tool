@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-24T01:45:44.732801+00:00",
+  "generated_at": "2026-11-24T22:38:40.355977+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "PM",
+      "title": "Philip Morris International (PM) Stock Analysis 2026: Is PM a Buy Amid Industry Headwinds?",
+      "excerpt": "Explore our in-depth Philip Morris International stock analysis for 2026. Understand PM's growth drivers, risks, and whether it's a smart buy today.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/pm-news-impact-2026-11-24-2238.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T22:38:40.355977+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HAS",
+      "title": "Hasbro (HAS) Stock Analysis: Is Hasbro a Buy Amid Neutral Sentiment?",
+      "excerpt": "Examining Hasbro's 2026 performance and growth outlook in the leisure products sector. Is HAS stock positioned for gains or facing headwinds?",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 19,
+      "href": "/blog/has-news-impact-2026-11-24-2238.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T22:38:40.355977+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108558301-1795526058754-gettyimages-2271359561-tk4l2928_mf7mbbmj.jpeg?v=1795526096&w=1920&h=1080"
+    },
+    {
+      "ticker": "SOME",
+      "title": "Somerset Trust Holding Co (SOME) Stock Analysis: Is Somerset a Buy in Today\u2019s Banking Landscape?",
+      "excerpt": "Explore Somerset Trust Holding Co\u2019s current valuation, industry position, and key risks to decide if SOME stock is a worthwhile investment in banking.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 18,
+      "href": "/blog/some-news-impact-2026-11-24-2238.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T22:38:40.355977+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107176652-1673370154777-NUP_200112_10053.jpg?v=1675643206&w=1920&h=1080"
+    },
+    {
+      "ticker": "CAR",
+      "title": "Avis Budget Group Inc (CAR) Stock Analysis: Is CAR a Buy in 2026?",
+      "excerpt": "Explore our in-depth Avis Budget Group stock analysis for 2026 and decide if CAR is a smart buy amid bullish sentiment and sector trends.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 17,
+      "href": "/blog/car-news-impact-2026-11-24-2238.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T22:38:40.355977+00:00",
+      "image_url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "OUT",
+      "title": "OUTFRONT Media Inc. (OUT) Stock Analysis: Bearish Signals Suggest Caution Ahead",
+      "excerpt": "Our latest OUTFRONT Media Inc. (OUT) stock analysis highlights bearish sentiment and key risks investors should watch before considering a position.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 17,
+      "href": "/blog/out-news-impact-2026-11-24-2238.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T22:38:40.355977+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is Now the Time to Buy or Hold?",
+      "excerpt": "Explore our detailed Amer Sports Inc (AS) stock analysis. With bearish sentiment and current price at $30.14, learn the risks and opportunities investors face.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 94,
+      "href": "/blog/as-news-impact-2026-11-24-2238.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T22:38:40.355977+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Strong Buy in Textiles & Apparel Sector?",
@@ -45179,5 +45251,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-24T01:45:44.732801+00:00"
+  "market_data_as_of": "2026-11-24T22:38:40.355977+00:00"
 }

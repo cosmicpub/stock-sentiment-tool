@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-22T19:52:56.571796+00:00",
+  "generated_at": "2026-11-24T00:08:06.672054+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis and Buy Forecast for 2026",
+      "excerpt": "Explore our detailed Alexandria Real Estate Equities stock analysis. Is ARE a compelling buy now amidst a bullish real estate market? Get insights here.",
+      "sentiment": "Bullish",
+      "score": 3,
+      "impact_score": 23,
+      "href": "/blog/are-news-impact-2026-11-24-0008.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T00:08:06.672054+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108374299-1791396501802-Screenshot_2026-10-07_at_20800_PM.png?v=1795450515&w=1920&h=1080"
+    },
+    {
+      "ticker": "SHIP",
+      "title": "Seanergy Maritime Holdings (SHIP) Stock Analysis: Navigating Risks Amid Baltic Sea Tensions",
+      "excerpt": "Seanergy Maritime Holdings (SHIP) faces geopolitical headwinds from recent Baltic Sea attacks, impacting short-term prospects despite steady marine industry fundamentals.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 20,
+      "href": "/blog/ship-news-impact-2026-11-24-0008.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T00:08:06.672054+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "HIT",
+      "title": "Health In Tech Inc (HIT) Stock Analysis: Is HIT a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore Health In Tech Inc (HIT) stock forecast with a detailed analysis of its insurance sector position, current valuation, and outlook for investors.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/hit-news-impact-2026-11-24-0008.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T00:08:06.672054+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108355655-1787917072063-108355655-1787912744442-gettyimages-2289641696-IRAN-TEHRAN-FM-HEALTH_NEEDS.jpg?v=1795351744&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy in the Textiles & Apparel Sector?",
+      "excerpt": "Explore Amer Sports Inc's current bullish outlook with a deep dive into its market position, growth potential, and risks. Is AS stock a buy now?",
+      "sentiment": "Bullish",
+      "score": 5,
+      "impact_score": 86,
+      "href": "/blog/as-news-impact-2026-11-24-0008.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T00:08:06.672054+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549916-1794487528395-gettyimages-2212776462-_d1_0371_ey3o2xbd.jpeg?v=1795450267&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis 2026: Is ON a Smart Buy Amid Industry Momentum?",
+      "excerpt": "Explore ON Semiconductor's 2026 stock forecast with a bullish outlook shaped by semiconductor trends, valuation insights, and competitive positioning.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 69,
+      "href": "/blog/on-news-impact-2026-11-24-0008.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T00:08:06.672054+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108557780-1795465600170-Screenshot_2026-11-23_at_32208_PM.png?v=1795465622&w=1920&h=1080"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis: Is BY a Buy in Today\u2019s Banking Landscape?",
+      "excerpt": "Explore our in-depth analysis of Byline Bancorp Inc (BY), assessing its financial health, market position, and key risks to determine if BY stock warrants a buy today.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 46,
+      "href": "/blog/by-news-impact-2026-11-24-0008.html",
+      "published_date": "2026-11-24",
+      "generated_at": "2026-11-24T00:08:06.672054+00:00",
+      "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BACK",
       "title": "IMAC Holdings Inc (BACK) Stock Analysis 2026: Is BACK a Buy in the Biotechnology Sector?",
@@ -45035,5 +45107,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-22T19:52:56.571796+00:00"
+  "market_data_as_of": "2026-11-24T00:08:06.672054+00:00"
 }

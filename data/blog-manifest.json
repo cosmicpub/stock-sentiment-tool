@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-24T23:33:48.213745+00:00",
+  "generated_at": "2026-11-25T21:52:02.602784+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "META",
+      "title": "META Stock Analysis 2026: Is Meta Platforms Inc. a Buy Amid Bearish Sentiment?",
+      "excerpt": "Meta Platforms faces bearish pressure despite AI innovations with Muse. Explore the risks, growth prospects, and whether META stock is a buy now.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 16,
+      "href": "/blog/meta-news-impact-2026-11-25-2152.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T21:52:02.602784+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108372027-1790964949550-gettyimages-2296314757-META_CONNECT.jpeg?v=1790964985&w=1920&h=1080"
+    },
+    {
+      "ticker": "CAN",
+      "title": "Canaan Inc (CAN) Stock Analysis November 2026: Is CAN a Buy in the Crypto Tech Space?",
+      "excerpt": "Explore Canaan Inc's latest stock performance, technology industry position, and key factors shaping its short-term and long-term outlook in November 2026.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 14,
+      "href": "/blog/can-news-impact-2026-11-25-2152.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T21:52:02.602784+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107303341-16951583342023-09-15t100209z_1279820053_rc2sh2ama57v_rtrmadp_0_usa-biden-rural.jpeg?v=1695158401&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore our in-depth Amer Sports Inc (AS) stock analysis, weighing the risks and opportunities in the textiles and apparel sector for potential investors.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 86,
+      "href": "/blog/as-news-impact-2026-11-25-2152.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T21:52:02.602784+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549228-1794422029822-CNBC_INVSTNG_CLB_BB_110626_1515.JPG?v=1794423061&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is ON a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current bearish outlook, key risks, and growth prospects in this detailed stock analysis for investors considering ON stock.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 82,
+      "href": "/blog/on-news-impact-2026-11-25-2152.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T21:52:02.602784+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108231283-17640201792025-11-24t213315z_1538790581_rc253iad2162_rtrmadp_0_usa-christmas-season-new-york.jpeg?v=1764020242&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is This AI-Focused Tech Firm a Buy Amid Bearish Sentiment?",
+      "excerpt": "With recent tech sell-offs and AI sector weakness, we analyze C3.ai's stock, its challenges, and whether AI presents a buy opportunity now.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 44,
+      "href": "/blog/ai-news-impact-2026-11-25-2152.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T21:52:02.602784+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is It a Buy Amid Bearish Sentiment?",
+      "excerpt": "Explore Saratoga Investment Corp's latest stock analysis as we dissect bearish signals, financial health, and what investors should watch for future gains.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 35,
+      "href": "/blog/say-news-impact-2026-11-25-2152.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T21:52:02.602784+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107029888-1647265894397-gettyimages-1239189173-US_GAS_PRICES.jpeg?v=1795621185&w=1920&h=1080"
+    },
     {
       "ticker": "AS",
       "title": "Amer Sports Inc (AS) Stock Analysis: Is This Textiles Leader a Buy Amid Bearish Sentiment?",
@@ -45323,5 +45395,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-24T23:33:48.213745+00:00"
+  "market_data_as_of": "2026-11-25T21:52:02.602784+00:00"
 }

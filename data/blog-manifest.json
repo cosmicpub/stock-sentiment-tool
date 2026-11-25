@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-25T21:52:02.602784+00:00",
+  "generated_at": "2026-11-25T23:10:56.951877+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor (ON) Stock Analysis: Is This Semiconductor Stock a Buy Amid Bearish Trends?",
+      "excerpt": "ON Semiconductor faces mounting challenges in a bearish market. Explore our in-depth ON stock analysis and forecast to decide if ON is a buy.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 82,
+      "href": "/blog/on-news-impact-2026-11-25-2310.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T23:10:56.951877+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108231283-17640201792025-11-24t213315z_1538790581_rc253iad2162_rtrmadp_0_usa-christmas-season-new-york.jpeg?v=1764020242&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis 2026: Is AS a Buy Amid Neutral Sentiment?",
+      "excerpt": "Explore the latest Amer Sports Inc (AS) stock analysis with a neutral market stance. Discover valuation insights, competitor comparisons, and key risks shaping AS's outlook.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 81,
+      "href": "/blog/as-news-impact-2026-11-25-2310.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T23:10:56.951877+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549228-1794422029822-CNBC_INVSTNG_CLB_BB_110626_1515.JPG?v=1794423061&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Bearish Trends Cast Doubt on Near-Term Rally Potential",
+      "excerpt": "C3.ai shares struggle amid a tech sell-off driven by AI sector fears, inflation worries, and disappointing IPO peers. We dissect the bearish signals and outlook.",
+      "sentiment": "Bearish",
+      "score": -5,
+      "impact_score": 44,
+      "href": "/blog/ai-news-impact-2026-11-25-2310.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T23:10:56.951877+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is This Financial Services Name a Buy in 2026?",
+      "excerpt": "Explore our detailed Saratoga Investment Corp (SAY) stock analysis focusing on key risks, bearish sentiments, and whether SAY stock is a buy in the current market.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 40,
+      "href": "/blog/say-news-impact-2026-11-25-2310.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T23:10:56.951877+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107029888-1647265894397-gettyimages-1239189173-US_GAS_PRICES.jpeg?v=1795621185&w=1920&h=1080"
+    },
+    {
+      "ticker": "ARE",
+      "title": "Alexandria Real Estate Equities (ARE) Stock Analysis: Is Now a Good Time to Buy?",
+      "excerpt": "Explore Alexandria Real Estate Equities (ARE) stock with our detailed analysis, from price trends to growth prospects and risks investors must watch.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 25,
+      "href": "/blog/are-news-impact-2026-11-25-2310.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T23:10:56.951877+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108555440-1795105864195-gettyimages-2305334311-ANTHROPIC_IPO.jpeg?v=1795105887&w=1920&h=1080"
+    },
+    {
+      "ticker": "UK",
+      "title": "Ucommune International Ltd (UK) Stock Analysis: Is This Real Estate Player a Buy Amidst Bearish Sentiment?",
+      "excerpt": "Explore the current bearish outlook on Ucommune International Ltd (UK), its real estate positioning, risks, and what investors should watch before deciding to buy.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 22,
+      "href": "/blog/uk-news-impact-2026-11-25-2310.html",
+      "published_date": "2026-11-25",
+      "generated_at": "2026-11-25T23:10:56.951877+00:00",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "META",
       "title": "META Stock Analysis 2026: Is Meta Platforms Inc. a Buy Amid Bearish Sentiment?",
@@ -45395,5 +45467,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-25T21:52:02.602784+00:00"
+  "market_data_as_of": "2026-11-25T23:10:56.951877+00:00"
 }

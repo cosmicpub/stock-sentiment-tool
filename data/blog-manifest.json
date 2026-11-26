@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-26T21:46:29.718487+00:00",
+  "generated_at": "2026-11-26T23:08:59.044663+00:00",
   "source_data_updated_at": "2026-04-15T22:43:05.770919+00:00",
   "model": "gpt-4.1-mini",
   "posts": [
+    {
+      "ticker": "IT",
+      "title": "Gartner, Inc. (IT) Stock Analysis: Is Now the Time to Buy or Hold in a Bearish Market?",
+      "excerpt": "Explore Gartner, Inc.'s latest stock forecast amid bearish sentiment, key risks, and growth outlook in the competitive technology landscape. Get our in-depth IT stock analysis.",
+      "sentiment": "Bearish",
+      "score": -2,
+      "impact_score": 20,
+      "href": "/blog/it-news-impact-2026-11-26-2308.html",
+      "published_date": "2026-11-26",
+      "generated_at": "2026-11-26T23:08:59.044663+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108558897-1795558539233-gettyimages-2306217982-TRUMP_TURKEY_PARDON.jpeg?v=1795558966&w=1920&h=1080"
+    },
+    {
+      "ticker": "AS",
+      "title": "Amer Sports Inc (AS) Stock Analysis: Is AS a Buy Amid Neutral Market Sentiment?",
+      "excerpt": "Explore Amer Sports Inc's current stock outlook with detailed analysis on valuation, industry position, risks, and investment potential as of November 2026.",
+      "sentiment": "Neutral",
+      "score": -1,
+      "impact_score": 82,
+      "href": "/blog/as-news-impact-2026-11-26-2308.html",
+      "published_date": "2026-11-26",
+      "generated_at": "2026-11-26T23:08:59.044663+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108557747-1795462598976-Untitled-2.jpg?v=1795543076&w=1920&h=1080"
+    },
+    {
+      "ticker": "ON",
+      "title": "ON Semiconductor Corp (ON) Stock Analysis: Is ON a Buy Amid Bullish Sentiment?",
+      "excerpt": "Explore ON Semiconductor's current stock dynamics, bullish outlook, and risks to watch as we analyze whether ON is a buy for semiconductor investors.",
+      "sentiment": "Bullish",
+      "score": 2,
+      "impact_score": 62,
+      "href": "/blog/on-news-impact-2026-11-26-2308.html",
+      "published_date": "2026-11-26",
+      "generated_at": "2026-11-26T23:08:59.044663+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "ticker": "BY",
+      "title": "Byline Bancorp Inc (BY) Stock Analysis 2026: Is It Worth a Buy Amid Bearish Sentiment?",
+      "excerpt": "Despite a bearish market sentiment on Byline Bancorp Inc's stock, we dive into key factors shaping its outlook and whether it presents a buying opportunity now.",
+      "sentiment": "Bearish",
+      "score": -4,
+      "impact_score": 42,
+      "href": "/blog/by-news-impact-2026-11-26-2308.html",
+      "published_date": "2026-11-26",
+      "generated_at": "2026-11-26T23:08:59.044663+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108559274-1795616819098-gettyimages-2306584360-vcg111684383907.jpeg?v=1795616838&w=1920&h=1080"
+    },
+    {
+      "ticker": "AI",
+      "title": "C3.ai (AI) Stock Analysis: Is AI a Buy Amid Industry Headwinds and Neutral Sentiment?",
+      "excerpt": "Explore our detailed C3.ai stock analysis, evaluating AI's current $10 price, recent neutral market sentiment, and key risks and opportunities in AI technology.",
+      "sentiment": "Neutral",
+      "score": 1,
+      "impact_score": 37,
+      "href": "/blog/ai-news-impact-2026-11-26-2308.html",
+      "published_date": "2026-11-26",
+      "generated_at": "2026-11-26T23:08:59.044663+00:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080"
+    },
+    {
+      "ticker": "SAY",
+      "title": "Saratoga Investment Corp (SAY) Stock Analysis: Is SAY a Buy in Financial Services?",
+      "excerpt": "Explore a detailed Saratoga Investment Corp stock analysis to understand its valuation, risks, and outlook in the evolving financial services sector.",
+      "sentiment": "Neutral",
+      "score": 0,
+      "impact_score": 30,
+      "href": "/blog/say-news-impact-2026-11-26-2308.html",
+      "published_date": "2026-11-26",
+      "generated_at": "2026-11-26T23:08:59.044663+00:00",
+      "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+    },
     {
       "ticker": "BE",
       "title": "Bloom Energy Corporation (BE) Stock Analysis: Is BE a Buy Amid Bearish Sentiment?",
@@ -45539,5 +45611,5 @@
   ],
   "mode": "morning",
   "source": "finnhub_general_news",
-  "market_data_as_of": "2026-11-26T21:46:29.718487+00:00"
+  "market_data_as_of": "2026-11-26T23:08:59.044663+00:00"
 }
